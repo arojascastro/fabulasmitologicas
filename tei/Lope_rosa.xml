@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La rosa blanca</title>
+            <author>Félix Lope de Vega</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Lope de Vega, Félix. <title>Obras poéticas</title>. Ed. De José Manuel Blecua. Barcelona: Planeta, 1989. Impreso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado en <date>1624</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <epigraph>
+            <p>A la ilustrísima señora doña María de Guzmán, hija única del excelentísimo señor conde de Olivares</p>
+         </epigraph>
+         <lg>
+            <l>Hermosa Venus, alma Citerea,</l>
+            <l>a quien la fiera patricida mano</l>
+            <l>dio vida, que los cielos hermosea,</l>
+            <l>con el cándido humor del Oceano;</l>
+            <l n="5">así tu sacro altar, filomedea,</l>
+            <l>adore el más inculto bracamano,</l>
+            <l>que se digne de dar tu luz hermosa</l>
+            <l>vida a mi voz para cantar tu rosa.</l>
+         </lg>
+         <lg>
+            <l>Tu rosa blanca, que no fue cantada</l>
+            <l n="10">de lira humana, griega ni latina,</l>
+            <l>para ofrecer a una beldad guardada,</l>
+            <l>aunque en mi ruda voz, beldad divina;</l>
+            <l>la que nácar vistió, rosa encarnada,</l>
+            <l>o púrpura bañó (sacra Ericina),</l>
+            <l n="15">ya las cantaron varias y difusas</l>
+            <l>dóricas liras y romanas musas.</l>
+         </lg>
+         <lg>
+            <l>Esta que no lo fue, con dar tardía</l>
+            <l>tan alta pompa al espinoso ramo,</l>
+            <l>su dulce historia de mis versos fía,</l>
+            <l n="20">cuando las iras del amor desamo;</l>
+            <l>mas, ¡cuán injustamente a la voz mía</l>
+            <l>la Venus de la tierra invoco y llamo,</l>
+            <l>teniendo yo la celestial que adora</l>
+            <l>Febo a la tarde y a la blanca Aurora!</l>
+         </lg>
+         <lg>
+            <l n="25">Oh sacra Venus, tú, que, semejante</l>
+            <l>a la hija del cielo, darme puedes</l>
+            <l>más viva luz que el celestial diamante,</l>
+            <l>pues su esplendente nacimiento excedes;</l>
+            <l>que si del claro sol viene delante,</l>
+            <l n="30">tú de su luz espléndida procedes;</l>
+            <l>que ser su hija es mayor gloria tuya</l>
+            <l>que ser la estrella paraninfa suya.</l>
+         </lg>
+         <lg>
+            <l>Pues entre armiños más que blancas rosas</l>
+            <l>nació tu ilustre y cándida pureza,</l>
+            <l n="35">no Venus de las ondas espumosas,</l>
+            <l>sino del mar de la mayor grandeza,</l>
+            <l>de la madre de perlas más preciosas</l>
+            <l>que en su nácar formó naturaleza;</l>
+            <l>único parto de tan rica Aurora,</l>
+            <l n="40">que con sus rayos los armiños dora;</l>
+         </lg>
+         <lg>
+            <l>favorece la pluma que, atrevida,</l>
+            <l>la blanca rosa a tu alabanza ofrece,</l>
+            <l>no la que fue de púrpura teñida,</l>
+            <l>que menos casta presunción merece;</l>
+            <l n="45">si de nevada túnica vestida,</l>
+            <l>sobre dorado campo resplandece,</l>
+            <l>con los armiños de tu sangre ilustre</l>
+            <l>tendrá inmortal valor y eterno lustre.</l>
+         </lg>
+         <lg>
+            <l>Aunque temo, ilustrísima María,</l>
+            <l n="50">que ha de juzgarse a error mi atrevimiento,</l>
+            <l>porque es dar ley al tiempo, luz al día,</l>
+            <l>a las flores color, alas al viento,</l>
+            <l>perlas al mar y al alba que las cría,</l>
+            <l>rayos a Amor, presteza al pensamiento,</l>
+            <l n="55">oro al planeta de la cuarta esfera,</l>
+            <l>dar rosas a la misma primavera.</l>
+         </lg>
+         <lg>
+            <l>Nació encarnada del rubí sangriento</l>
+            <l>que de Venus vertió la planta herida;</l>
+            <l>no fue primero blanca, y del violento</l>
+            <l n="60">golpe en las zarzas con el pie teñida;</l>
+            <l>ofrece la verdad el argumento</l>
+            <l>que hoy se consagra a tu beldad florida,</l>
+            <l>en cuya mano cándida la veo</l>
+            <l>más bella que en las cumbres de Pangeo.</l>
+         </lg>
+         <lg>
+            <l n="65">En fe del esperado matrimonio</l>
+            <l>daba Cleopatra al ínclito romano</l>
+            <l>dos perlas que crió, por testimonio</l>
+            <l>de su poder, el cielo soberano;</l>
+            <l>deshizo la primera, y dijo Antonio:</l>
+            <l n="70">«No es justo que le prive vuestra mano,</l>
+            <l>reina de Egipto, a la naturaleza,</l>
+            <l>del testigo mayor de su riqueza.»</l>
+         </lg>
+         <lg>
+            <l>Quedó la perla sola, y fue llamada</l>
+            <l>única, por memoria de aquel día,</l>
+            <l n="75">en tus divinas partes retratada,</l>
+            <l>oh fénix, ilustrísima María;</l>
+            <l>si bien de unión igual acompañada,</l>
+            <l>te espera con aplauso y alegría</l>
+            <l>florido en rico tálamo Himineo,</l>
+            <l n="80">que iguale la esperanza y el deseo.</l>
+         </lg>
+         <lg>
+            <l>Crece, planta feliz, crece dichosa,</l>
+            <l>pues tu casa ilustrísima propagas</l>
+            <l>con larga sucesión tan venturosa,</l>
+            <l>que su temor, prolífica, deshagas;</l>
+            <l n="85">en tanto, pues, escucharás la rosa,</l>
+            <l>que tan alta esperanza satisfagas,</l>
+            <l>para que sepan esas manos bellas</l>
+            <l>que quien te ofrece rosas diera estrellas.</l>
+         </lg>
+         <lg>
+            <l>Venus, fuerza divina, que se cría</l>
+            <l n="90">de aquellos movimientos naturales</l>
+            <l>que, de los elementos simetría,</l>
+            <l>hacen juntos los cuerpos celestiales,</l>
+            <l>que amando a Adonis sol, sin quien se enfría,</l>
+            <l>engendra plantas, hombres y animales,</l>
+            <l n="95">pues cuando mira en ángulos obtusos</l>
+            <l>de la generación están exclusos;</l>
+         </lg>
+         <lg>
+            <l>tuvo principio, en opinión de algunos,</l>
+            <l>de la espuma del mar, de quien nacida,</l>
+            <l>no con vientos feroces importunos,</l>
+            <l n="100">sino del blando céfiro impelida,</l>
+            <l>por escollos del mar, que de ningunos</l>
+            <l>quiso acetar asiento en la extendida</l>
+            <l>concha de nácar y oro, navegando</l>
+            <l>la tierra, el mar y el viento enamorando.</l>
+         </lg>
+         <lg>
+            <l n="105">En la isla de Chipre le dio puerto,</l>
+            <l>entre Siria y Cilicia, el mar Carpacio,</l>
+            <l>donde en lo más ameno y descubierto</l>
+            <l>Venus fundó su espléndido palacio;</l>
+            <l>del cual las Horas, diosas del concierto,</l>
+            <l n="110">que miden a los tiempos el espacio,</l>
+            <l>hijas bellas de Temis, en un vuelo</l>
+            <l>la trasladaron al impíreo cielo.</l>
+         </lg>
+         <lg>
+            <l>Viendo los dioses su hermosura, intentan</l>
+            <l>casarse, enamorados y rendidos;</l>
+            <l n="115">a Júpiter sus partes representan,</l>
+            <l>de eterna luz y resplandor vestidos;</l>
+            <l>alegres los primeros se presentan</l>
+            <l>Marte y Apolo, entrambos encendidos</l>
+            <l>en rayos, en amor, en ira, en celos,</l>
+            <l n="120">confusión de la paz, ley de los cielos.</l>
+         </lg>
+         <lg>
+            <l>Marte pretende, fiero y arrogante,</l>
+            <l>y en un pensil de plumas la celada,</l>
+            <l>convertido en imagen de diamante,</l>
+            <l>resplandeció con la fogosa espada;</l>
+            <l n="125">y cual si viera ejércitos delante,</l>
+            <l>la esgrime, de sangriento humor bañada,</l>
+            <l>siguiendo al son de cajas su bandera</l>
+            <l>todas las iras de la quinta esfera.</l>
+         </lg>
+         <lg>
+            <l>Apolo Cintio, con real decoro,</l>
+            <l n="130">rizas como en España las guedejas,</l>
+            <l>vibrando el arco, y de las flechas de oro</l>
+            <l>rayos de luz entre amorosas quejas,</l>
+            <l>abrió de sus riquezas el tesoro,</l>
+            <l>y porque son las fáciles orejas</l>
+            <l n="135">puertas de amor también, como los ojos,</l>
+            <l>cantó en su dulce lira sus enojos.</l>
+         </lg>
+         <lg>
+            <l>Mercurio (hijo de Júpiter y Maya,</l>
+            <l>cuya boca dio al cielo aquella vía</l>
+            <l>que de cándida nieve el cielo raya</l>
+            <l n="140">cuando la argiva prónuba le cría),</l>
+            <l>a quien la competencia no desmaya,</l>
+            <l>celos, música, amor y valentía</l>
+            <l>de dos tan altos dioses importuna,</l>
+            <l>a su industria remite su fortuna.</l>
+         </lg>
+         <lg>
+            <l n="145">Plutón, que al repartir el mundo tuvo</l>
+            <l>a España y cuanto mira al occidente,</l>
+            <l>el nombre que de dios del oro obtuvo</l>
+            <l>mostró en los rayos de la torva frente;</l>
+            <l>porque entonces Plutón más libre estuvo</l>
+            <l n="150">de la deformidad que el impaciente</l>
+            <l>pecho movió cuando a robar se inclina</l>
+            <l>a Ceres, en Sicilia, a Proserpina.</l>
+         </lg>
+         <lg>
+            <l>Pan, dios de los pastores, testimonio</l>
+            <l>de la casta Penélope, y Mercurio,</l>
+            <l n="155">que fue gloria y honor del matrimonio,</l>
+            <l>así en el griego como el campo etrurio;</l>
+            <l>bárbaro arcadio y rudo licaonio,</l>
+            <l>de la naturaleza humana espurio,</l>
+            <l>apareció medio hombre, y su fiereza,</l>
+            <l n="160">oh Venus, pretendiendo tu belleza.</l>
+         </lg>
+         <lg>
+            <l>Pero sin igualdad la de Vulcano,</l>
+            <l>cuya deformidad de suerte enoja</l>
+            <l>en el cielo al planeta soberano,</l>
+            <l>que de la grada celestial le arroja;</l>
+            <l n="165">éste pretende ser dueño tirano</l>
+            <l>de Venus celestial, y se le antoja</l>
+            <l>que puede competir con su hermosura:</l>
+            <l>que el propio amor es la mayor locura.</l>
+         </lg>
+         <lg>
+            <l>¡Oh cuántos que Vulcanos se casaron</l>
+            <l n="170">de los hurtos de Venus se ofendieron!</l>
+            <l>Así del propio afecto se engañaron;</l>
+            <l>por discretos y hermosos se tuvieron.</l>
+            <l>Finalmente los dioses decretaron,</l>
+            <l>y en este acuerdo unánimes vinieron,</l>
+            <l n="175">que fuese Venus de Vulcano esposa:</l>
+            <l>propia desdicha de mujer hermosa.</l>
+         </lg>
+         <lg>
+            <l>No de otra suerte dos valientes toros</l>
+            <l>celosos riñen por la vaca amada,</l>
+            <l>y por el monte van, bramando a coros,</l>
+            <l n="180">a la dura palestra y estacada,</l>
+            <l>donde vertiendo los abiertos poros</l>
+            <l>sangre y furor, en tanto, conquistada</l>
+            <l>del más cobarde y flaco, está rendida,</l>
+            <l>él puesto en posesión y ellos sin vida.</l>
+         </lg>
+         <lg>
+            <l n="185">Apenas asistió triste Himeneo</l>
+            <l>al tálamo fatal, la lumbre muerta,</l>
+            <l>cuando a Venus provoca su deseo,</l>
+            <l>si fue verdad, porque parece incierta;</l>
+            <l>dicen que en odio de Vulcano feo,</l>
+            <l n="190">cuya cara de sátiro, cubierta</l>
+            <l>de espesa barba, a deshacer se atreve</l>
+            <l>el blanco rostro como erizo en nieve.</l>
+         </lg>
+         <lg>
+            <l>De la caída que, del alto cielo</l>
+            <l>a la isla de Lemnos arrojado,</l>
+            <l n="195">dio Vulcano feroz, quedó en el suelo</l>
+            <l>en retrógrado cancro trasformado.</l>
+            <l>Camello asirio de erizado pelo</l>
+            <l>no tiene en la cerviz más levantado</l>
+            <l>aquel monte deforme, que él tenía</l>
+            <l n="200">la parte que sucede y la que guía.</l>
+         </lg>
+         <lg>
+            <l>Mercurio, dios de industrias, advertido</l>
+            <l>de sus celos, buscó tales engaños,</l>
+            <l>que dellos dicen que nació Cupido:</l>
+            <l>claro estaba, pues muere en desengaños.</l>
+            <l n="205">Mas ¿cómo puede ser que haya nacido,</l>
+            <l>si se implican sus glorias y sus daños?</l>
+            <l>Si tan tarde nació, y antes se amaba,</l>
+            <l>¿quién era aquel amor y dónde estaba?</l>
+         </lg>
+         <lg>
+            <l>¿Con cuál amor se amaron sol y luna?</l>
+            <l n="210">¿Qué paz de amor unió los elementos?</l>
+            <l>¿Cómo imprimió generación alguna</l>
+            <l>sin lazo de amistad sus fundamentos?</l>
+            <l>No pudo sin amor fuerza ninguna</l>
+            <l>dar vida natural, que sus aumentos</l>
+            <l n="215">se deben a esta paz, a esta concordia,</l>
+            <l>aunque en los elementos hay discordia.</l>
+         </lg>
+         <lg>
+            <l>Platón fue de opinión que había nacido</l>
+            <l>del caos Amor, en confusión segundo,</l>
+            <l>cuando no es de dos almas admitido,</l>
+            <l n="220">y que era tan antiguo como el mundo.</l>
+            <l>A Poro, dios de la abundancia, ha sido</l>
+            <l>dado por hijo; a Poro, dios fecundo,</l>
+            <l>habido en Penia, igual en la belleza,</l>
+            <l>mas diosa del trabajo y la pobreza.</l>
+         </lg>
+         <lg>
+            <l n="225">¡Oh fábula moral que nos enseñas</l>
+            <l>que el firme amor ha de vivir desnudo!</l>
+            <l>Que puesto que interés rompe las peñas,</l>
+            <l>jamás al verdadero romper pudo;</l>
+            <l>amor que se conoce por las señas,</l>
+            <l n="230">sólo en mirar, como si fuese mudo;</l>
+            <l>que aunque engendrarle la abundancia es justo,</l>
+            <l>no es parto del poder, sino del gusto.</l>
+         </lg>
+         <lg>
+            <l>Siete veces el sol miró distinta</l>
+            <l>la línea equinocial, y a los iguales</l>
+            <l n="235">trópicos, declinando el áurea cinta,</l>
+            <l>los ilustró de rayos solsticiales,</l>
+            <l>en tanto que el Amor, que el mundo pinta</l>
+            <l>con imperio en los dioses celestiales,</l>
+            <l>iba creciendo en años y en engaños,</l>
+            <l n="240">mas detúvose el tiempo en estos años.</l>
+         </lg>
+         <lg>
+            <l>Viendo Venus que el niño no crecía,</l>
+            <l>y que otros siete y otros diez estaba</l>
+            <l>en los siete primeros que tenía,</l>
+            <l>triste de verle no crecer, lloraba;</l>
+            <l n="245">díjole que la causa procedía,</l>
+            <l>Temis, a quien la diosa consultaba,</l>
+            <l>de no tener hermano, porque ha dado</l>
+            <l>en no crecer Amor si no es amado.</l>
+         </lg>
+         <lg>
+            <l>Andaba entonces Marte riguroso,</l>
+            <l n="250">depuestas ya las aceradas mallas,</l>
+            <l>en la conquista de su rostro hermoso,</l>
+            <l>sin ordenar asaltos a murallas;</l>
+            <l>reducido el imperio fervoroso</l>
+            <l>a las de amor dulcísimas batallas,</l>
+            <l n="255">sin desdoblar al viento las banderas</l>
+            <l>ni asistir a los fosos y trincheras.</l>
+         </lg>
+         <lg>
+            <l>Ya no sabes qué es guerra, ya no formas.</l>
+            <l>Marte cruel, en plano o sobre montes;</l>
+            <l>así en la hermosa Venus te trasformas,</l>
+            <l n="260">petriles, parapetos y esperontes,</l>
+            <l>pomas, guardas, espaldas, plataformas,</l>
+            <l>trabes, cortinas, caballeros, frontes,</l>
+            <l>estradas, contrafuertes, fosos, plazas,</l>
+            <l>tijeras, terraplenos y tenazas.</l>
+         </lg>
+         <lg>
+            <l n="265">Ya son galas de paz, ya son diamantes</l>
+            <l>lo que era hebillas y dorados pernos;</l>
+            <l>suspiros son los rayos fulminantes,</l>
+            <l>que imitan los de Júpiter eternos;</l>
+            <l>Venus, que vio sus armas arrogantes,</l>
+            <l n="270">sus banderas, sus tropas y gobiernos</l>
+            <l>rendidas a sus pies, quiso piadosa</l>
+            <l>ser Palas, a su lado, belicosa.</l>
+         </lg>
+         <lg>
+            <l>Nació de entrambos el muchacho Anteros,</l>
+            <l>y en llegando a los años de Cupido,</l>
+            <l n="275">los dos crecieron juntos, verdaderos</l>
+            <l>efetos de un amor correspondido;</l>
+            <l>bien se puede engendrar de los luceros,</l>
+            <l>mas no sin otro amor haber crecido:</l>
+            <l>que hay de amar sin amor gran diferencia,</l>
+            <l n="280">hasta que llega a ser correspondencia.</l>
+         </lg>
+         <lg>
+            <l>Así es en la amistad: cuando el amigo</l>
+            <l>al que le estima corresponde ingrato,</l>
+            <l>que crece amado, y tiene por castigo</l>
+            <l>poco amor, gran traición y falso trato;</l>
+            <l n="285">más vale declarado el enemigo,</l>
+            <l>que no tener por sombra y por retrato</l>
+            <l>un desleal espejo, que os asista</l>
+            <l>tan diferente el alma de la vista.</l>
+         </lg>
+         <lg>
+            <l>El sol, suprema luz, entrar podía</l>
+            <l n="290">sin ser visto del bárbaro Vulcano;</l>
+            <l>Marte, aunque estrella, no alumbraba el día,</l>
+            <l>y para verla se esforzaba en vano;</l>
+            <l>y como en claros rayos le vencía,</l>
+            <l>y estaba de la tierra más cercano,</l>
+            <l n="295">un mes, viéndole entrar, tuvo, por celos,</l>
+            <l>la tierra sin calor, sin luz los cielos.</l>
+         </lg>
+         <lg>
+            <l>El Sol, en fin, para tan noble lumbre</l>
+            <l>ejecutó la más indigna hazaña</l>
+            <l>a que llega celosa pesadumbre</l>
+            <l n="300">cuando de ajeno amor se desengaña;</l>
+            <l>dijo al herrero dios que en la alta cumbre</l>
+            <l>del Etna el hierro ardiente en agua baña,</l>
+            <l>espirando por él orbes de fuego,</l>
+            <l>fimeras de un instante, heladas luego:</l>
+         </lg>
+         <lg>
+            <l n="305">«¿Cómo sufres, Vulcano, tanta afrenta?</l>
+            <l>¿Cómo permites que te ofenda Marte?</l>
+            <l>Bastardos hijos en tu casa intenta;</l>
+            <l>en Anteros y Amor no tienes parte.</l>
+            <l>Ya el dios guerrero un mozo representa</l>
+            <l n="310">de estos cobardes, cuyo estudio y arte</l>
+            <l>se cifra en sus cabellos; cosa indina,</l>
+            <l>que a los de más valor los afemina.</l>
+         </lg>
+         <lg>
+            <l>»Ya la celada bélica no cubre</l>
+            <l>su frente en los asaltos ni los sacos;</l>
+            <l n="315">mi corona de rayos la descubre,</l>
+            <l>todos son para mí planetas flacos;</l>
+            <l>ninguna escuridad mi fuerza encubre,</l>
+            <l>penetro con mi luz montes opacos.</l>
+            <l>Yo los he visto; la venganza intenta;</l>
+            <l n="320">si no te mueve amor, basta la afrenta.»</l>
+         </lg>
+         <lg>
+            <l>Atento estaba el mísero marido</l>
+            <l>a la funesta relación de Febo,</l>
+            <l>humilde el rostro pálido, teñido</l>
+            <l>en humo, en ira y en dolor tan nuevo.</l>
+            <l n="325">«Oh Sol —le dijo—, ¡qué imprudente has sido!</l>
+            <l>¡Qué poco lustre de mi honor te debo!</l>
+            <l>A muchos guías, mas de ti me espanto,</l>
+            <l>pues que, dándome luz, me ciegas tanto.</l>
+         </lg>
+         <lg>
+            <l>»Oh cuántas veces miras malicioso</l>
+            <l n="330">cosas en que te engañas. Ni tú puedes</l>
+            <l>entrar en todas partes, y, celoso,</l>
+            <l>atientas con tus rayos las paredes ;</l>
+            <l>soñaste, Sol, o amante o envidioso;</l>
+            <l>dormiste, Sol, de la verdad excedes;</l>
+            <l n="335">y ¿qué puede decir un Sol dormido</l>
+            <l>de un planeta de luz de honor vestido?</l>
+         </lg>
+         <lg>
+            <l>»Venus es mi mujer, Marte mi amigo,</l>
+            <l>y tú enemigo, Sol, que solo basta;</l>
+            <l>pues ¿quién ha de creer a un enemigo</l>
+            <l n="340">en deshonor de una mujer tan casta?</l>
+            <l>Contenta vive de vivir conmigo;</l>
+            <l>montañas de oro y de valor contrasta;</l>
+            <l>lo que has dicho en mi afrenta fue bajeza;</l>
+            <l>mas eres sol, y dasme en la cabeza.»</l>
+         </lg>
+         <lg>
+            <l n="345">Apenas Febo retiró su ardiente</l>
+            <l>rostro, no sin temor, viendo culparse,</l>
+            <l>cuando el agravio el ofendido siente,</l>
+            <l>más cuerdo en responder que fue en casarse;</l>
+            <l>a la fragua camina diligente,</l>
+            <l n="350">y en ella, de dolor, quisiera echarse;</l>
+            <l>lloraba el hierro que abrasar quería,</l>
+            <l>templando en agua el fuego que sentía.</l>
+         </lg>
+         <lg>
+            <l>No dijo nada a Estérope ni Bronte</l>
+            <l>(quien mucho quiere hacer no dice nada);</l>
+            <l n="355">pero en saliendo el Sol en su horizonte,</l>
+            <l>vía su afrenta de su luz formada;</l>
+            <l>de dolor en dolor, de monte en monte</l>
+            <l>andaba con el alma lastimada,</l>
+            <l>pensando en el castigo: que un prudente</l>
+            <l n="360">no resuelve lo grave fácilmente.</l>
+         </lg>
+         <lg>
+            <l>Y viendo que morir era imposible</l>
+            <l>Venus, siendo inmortal, que muerte y diosa</l>
+            <l>era imaginación incompatible,</l>
+            <l>por implicar contradición forzosa,</l>
+            <l n="365">hizo una red sutil, tan invisible,</l>
+            <l>que la alta rueda del pastor famosa</l>
+            <l>por sus cien ojos verla no pudiera,</l>
+            <l>si cada verde pluma un lince fuera.</l>
+         </lg>
+         <lg>
+            <l>Daba una siesta albergue al dios guerrero</l>
+            <l n="370">y a la diosa gentil un verde prado,</l>
+            <l>donde un arroyo manso y lisonjero</l>
+            <l>imitaba cristal al pie nevado;</l>
+            <l>con la celada y el alfanje fiero</l>
+            <l>jugaba Cupidillo, y del dorado</l>
+            <l n="375">escudo las figuras, que miraba</l>
+            <l>relevadas en oro, codiciaba.</l>
+         </lg>
+         <lg>
+            <l>Reñían él y Anteros por las plumas,</l>
+            <l>el penacho rompiéndole entretanto,</l>
+            <l>que ya imitaba cándidas espumas,</l>
+            <l n="380">ya la morada flor del amaranto;</l>
+            <l>son átomos y estrellas breves sumas</l>
+            <l>con los diamantes del celeste manto;</l>
+            <l>para igualar de Venus los amores</l>
+            <l>no tiene arena el mar ni el campo flores;</l>
+         </lg>
+         <lg>
+            <l n="385">cuando Vulcano con la red oprime</l>
+            <l>los dos amantes y los dos rapaces,</l>
+            <l>sin reparar que Venus se lastime,</l>
+            <l>desesperado ya de admitir paces.</l>
+            <l>No de otra suerte el corvo pico imprime</l>
+            <l n="390">aleto indiano en tímidas torcaces,</l>
+            <l>que el vil herrero a los amantes pone</l>
+            <l>la red, y al cielo su delito expone.</l>
+         </lg>
+         <lg>
+            <l>Los dioses al Olimpo circunstantes</l>
+            <l>miraron con envidia al dios guerrero,</l>
+            <l n="395">con celos a la diosa los amantes,</l>
+            <l>y con dolor al afrentado herrero.</l>
+            <l>Como suelen los peces ignorantes</l>
+            <l>estar entre la red, el fuerte acero</l>
+            <l>romper querían, mas no fue posible;</l>
+            <l n="400">que era muy fuerte, aunque era imperceptible.</l>
+         </lg>
+         <lg>
+            <l>Pero a ruego de Júpiter salieron</l>
+            <l>dando palabra Marte mal cumplida,</l>
+            <l>que la que, amando los peligros, dieron,</l>
+            <l>no fue jurada cuando fue rompida;</l>
+            <l n="405">tantas, en fin, las amenazas fueron,</l>
+            <l>que Venus bella, de temor vencida,</l>
+            <l>de Marte se olvidó; que fácilmente</l>
+            <l>muda su condición todo accidente.</l>
+         </lg>
+         <lg>
+            <l>Mas como Venus tanto aborrecía</l>
+            <l n="410">al herrero, teñido en humo infame,</l>
+            <l>que si apelar de la fealdad quería</l>
+            <l>(que con las gracias hay fealdad que se ame),</l>
+            <l>daba en la necedad y en la porfía,</l>
+            <l>que no hay indignidad que más desame</l>
+            <l n="415">quien tiene algún valor y entendimiento,</l>
+            <l>presto quiso ocupar el pensamiento.</l>
+         </lg>
+         <lg>
+            <l>En estas pretensiones ocupada,</l>
+            <l>casóse la gran Temis con Peleo,</l>
+            <l>la boda entre los dioses celebrada,</l>
+            <l n="420">a que asistieron Venus y Himeneo;</l>
+            <l>mas no siendo de nadie convidada</l>
+            <l>(que fue delito en su soberbia feo)</l>
+            <l>la Discordia, que en gustos nunca es buena,</l>
+            <l>injustamente la venganza ordena.</l>
+         </lg>
+         <lg>
+            <l n="425">Una manzana de oro, a quien pudieran</l>
+            <l>rendirse las hespérides manzanas,</l>
+            <l>en el convite echó sin que la vieran;</l>
+            <l>que tiene el cielo estrellas por ventanas.</l>
+            <l>Los dioses su hermosura consideran</l>
+            <l n="430">rubíes de Ceilán y tirias granas,</l>
+            <l>y ven que, donde más dorada viene,</l>
+            <l>«Dese a la más hermosa» escrito tiene.</l>
+         </lg>
+         <lg>
+            <l>Juno, presuntüosa, la pedía,</l>
+            <l>como reina, y de Júpiter esposa;</l>
+            <l n="435">Palas, por la mayor sabiduría,</l>
+            <l>o porque fue de las batallas diosa;</l>
+            <l>Venus, por su hermosura y gallardía;</l>
+            <l>aunque habiendo de ser la más hermosa,</l>
+            <l>yo sé quien la tuviera más segura</l>
+            <l n="440">por ciencia, gracia, sangre y hermosura.</l>
+         </lg>
+         <lg>
+            <l>Reina de Troya, Hécuba soñaba</l>
+            <l>que una hacha ardiente y trágica traía,</l>
+            <l>en que los patrios muros abrasaba,</l>
+            <l>y por quien muertos a sus hijos vía;</l>
+            <l n="445">con esto al tierno infante que lloraba,</l>
+            <l>como que ya la soledad sentía,</l>
+            <l>mandó que echasen Príamo a las fieras</l>
+            <l>o al mar desde sus playas y riberas.</l>
+         </lg>
+         <lg>
+            <l>Arquelao piadoso el niño cría,</l>
+            <l n="450">y en Ida monte fue pastor tan fuerte,</l>
+            <l>que’a cuantas fieras y ladrones vía,</l>
+            <l>hecho jüez los condenaba a muerte.</l>
+            <l>Júpiter, viendo que juzgar sabía,</l>
+            <l>de que es su voluntad a Juno advierte</l>
+            <l n="455">que París juzgue de las tres cuál diosa</l>
+            <l>la puede merecer por más hermosa.</l>
+         </lg>
+         <lg>
+            <l>Una mañana que el intonso Febo</l>
+            <l>en su amado desdén resplandecía,</l>
+            <l>y, por engaño, en el silvestre acebo,</l>
+            <l n="460">que no en la adelfa, porque rosas cría,</l>
+            <l>milagro en Ida apareció tan nuevo,</l>
+            <l>que el monte con la luz resplandecía;</l>
+            <l>las fieras se escondieron, y sonoras</l>
+            <l>las aves celebraron tres auroras;</l>
+         </lg>
+         <lg>
+            <l n="465">París, sabiendo el celestial decreto,</l>
+            <l>mandólas desnudar; Juno, turbada,</l>
+            <l>fue en pura nieve de su vista objeto,</l>
+            <l>deponiendo la túnica estrellada;</l>
+            <l>Palas, dejando el acerado peto,</l>
+            <l n="470">morena se mostró, pero labrada</l>
+            <l>en pardo mármol de Lisipo o Fidia,</l>
+            <l>modelo al arte y a la nieve envidia.</l>
+         </lg>
+         <lg>
+            <l>Venus, en proporción, como en belleza,</l>
+            <l>un campo de cristal con tan sutiles</l>
+            <l n="475">lineas de azul, que la naturaleza</l>
+            <l>quiso que hubiese mapas de marfiles,</l>
+            <l>enmudeció al pastor; mas la firmeza</l>
+            <l>de su equidad, que no es para hombres viles,</l>
+            <l>le tuvo al resolver la lengua muda,</l>
+            <l n="480">que cada cual por sí le pone en duda.</l>
+         </lg>
+         <lg>
+            <l>Paris, ¿qué leyes la belleza tiene?</l>
+            <l>¿Qué Bártulos, qué Baldos las escriben?</l>
+            <l>¿De qué romanos Césares proviene</l>
+            <l>su justo imperio? ¿En qué provincia viven?</l>
+            <l n="485">Si al tribunal de amor el gusto viene,</l>
+            <l>y sus pleitos a prueba se reciben,</l>
+            <l>¿quién hay tan loco (aunque le obligue el ruego)</l>
+            <l>que juzgue la hermosura estando ciego?</l>
+         </lg>
+         <lg>
+            <l>Llegóse a Paris Venus entretanto,</l>
+            <l n="490">y dijóle: «Mancebo ilustre, advierte</l>
+            <l>que si por tu favor alcanzo cuanto</l>
+            <l>merece el estimarte y el quererte,</l>
+            <l>y en hermosura a todas me adelanto,</l>
+            <l>en amor te daré tan alta suerte,</l>
+            <l n="495">que no veas mujer que no te quiera,</l>
+            <l>por ti suspire y por quererte muera».</l>
+         </lg>
+         <lg>
+            <l>Era Paris un mozo que tenía</l>
+            <l>veinte años, y hermosura que en mil años</l>
+            <l>no vio la verde selva en que vivía,</l>
+            <l n="500">edad dispuesta a amor, y amor a engaños;</l>
+            <l>oyó el soborno que otra sangre cría,</l>
+            <l>de que tenemos tantos desengaños,</l>
+            <l>y por Venus juzgó, poco discreto,</l>
+            <l>pues como fue la causa fue el efeto.</l>
+         </lg>
+         <lg>
+            <l n="505">Perdióse Troya por quererte, Helena,</l>
+            <l>engañado mancebo; corrió Xanto</l>
+            <l>sangre en vez de cristal, y en vez de arena,</l>
+            <l>difuntos cuerpos con horrible espanto;</l>
+            <l>apenas le quedó piedra ni almena;</l>
+            <l n="510">sus muros hierba, sus memorias llanto</l>
+            <l>volvió tu error, desesperada Juno,</l>
+            <l>incitando las olas de Neptuno.</l>
+         </lg>
+         <lg>
+            <l>Vanagloriosa Venus del suceso,</l>
+            <l>y por la más hermosa confirmada,</l>
+            <l n="515">aumentó vanidad, y fue el exceso</l>
+            <l>contra su honestidad, amando, amada;</l>
+            <l>criaron en un verde monte espeso,</l>
+            <l>donde una fuente a Júpiter sagrada</l>
+            <l>de espejo a pocos álamos servía,</l>
+            <l n="520">las hermosas náyades que tenía,</l>
+         </lg>
+         <lg>
+            <l>un joven, hijo de una planta hermosa,</l>
+            <l>que era su madre, y Mirra se llamaba,</l>
+            <l>que por esta maldad incestüosa</l>
+            <l>aromáticas lágrimas lloraba,</l>
+            <l n="525">viole una tarde Venus amorosa</l>
+            <l>pendiente al hombro la dorada aljaba,</l>
+            <l>donde por alas, que otro Amor le hacían,</l>
+            <l>las plumas de las flechas le servían.</l>
+         </lg>
+         <lg>
+            <l>El arco indiano en la siniestra mano,</l>
+            <l n="530">los rizados cabellos daba al viento,</l>
+            <l>corriendo tras las fieras por un llano,</l>
+            <l>a sólo el gusto de la caza atento;</l>
+            <l>detuvo el paso al cazador humano</l>
+            <l>deidad divina, y con un mismo acento</l>
+            <l n="535">las almas suspiraron duplicadas:</l>
+            <l>que suenan juntas cuando están templadas.</l>
+         </lg>
+         <lg>
+            <l>Amó de suerte Venus amorosa</l>
+            <l>este mancebo en Chipre, que olvidada</l>
+            <l>de su tercera esfera luminosa,</l>
+            <l n="540">hizo la selva habitación sagrada.</l>
+            <l>No os espante, señora, que esta diosa</l>
+            <l>tantas veces se rinda enamorada:</l>
+            <l>que esta corteza fabulosa cría</l>
+            <l>moral y natural filosofía.</l>
+         </lg>
+         <lg>
+            <l n="545">Marte, envidioso dei mancebo hermoso,</l>
+            <l>y celoso de Venus, llamó a Aleto,</l>
+            <l>furia infernal, que a un jabalí cerdoso</l>
+            <l>de alma sirvió para tan triste efeto;</l>
+            <l>cazaba Adonis por el bosque umbroso,</l>
+            <l n="550">más fuerte en armas que en amor discreto;</l>
+            <l>salió la fiera a él, murió a sus manos.</l>
+            <l>¡Oh celos del amor, siempre tiranos!</l>
+         </lg>
+         <lg>
+            <l>Lloraron las náyades de la fuente,</l>
+            <l>gimieron las oreas y amadrías,</l>
+            <l n="555">las napeas también, y tristemente</l>
+            <l>las aves por los olmos muchos días;</l>
+            <l>detuvieron los ríos su corriente;</l>
+            <l>el monte derritió lágrimas frías,</l>
+            <l>y Venus (no pudiendo resistirse)</l>
+            <l n="560">quisiera ser mortal para morirse.</l>
+         </lg>
+         <lg>
+            <l>Lloraba Cupidillo, que tenía</l>
+            <l>amor a Adonis más que al fiero Marte,</l>
+            <l>que se espantaba dél cuando no vía</l>
+            <l>que el acerado arnés dejaba aparte;</l>
+            <l n="565">Marte dolor y lágrimas fingía,</l>
+            <l>que siempre tiene estratagemas y arte;</l>
+            <l>sólo vengado, y no celoso, Apolo</l>
+            <l>con risa esclareció de polo a polo.</l>
+         </lg>
+         <lg>
+            <l>Pareciéndole a Marte que podía</l>
+            <l n="570">volver a la amistad de Venus bella,</l>
+            <l>por selvas y por montes la seguía,</l>
+            <l>tal vez en forma humana, y tal estrella;</l>
+            <l>por unas zarzas, fugitiva, un día,</l>
+            <l>no vio la más oculta, y puso en ella</l>
+            <l n="575">el pie de nieve, que con un suspiro</l>
+            <l>rubí fue rojo y cárdeno safiro.</l>
+         </lg>
+         <lg>
+            <l>De aquella sangre procedió la rosa,</l>
+            <l>en verde silla de un botón sentada,</l>
+            <l>con cinco guardas, que su pompa hermosa</l>
+            <l n="580">tienen, cuando se extiende coronada;</l>
+            <l>abrió por muchas hojas olorosa</l>
+            <l>la boca en tierna púrpura bañada,</l>
+            <l>mostrando dentro, para más decoro,</l>
+            <l>en vez de blancas perlas, granos de oro.</l>
+         </lg>
+         <lg>
+            <l n="585">Dicen que la culebra la primera</l>
+            <l>vio la rosa bellísima nacida,</l>
+            <l>y admirada de ver su roja esfera,</l>
+            <l>de tanta cantidad de hojas vestida,</l>
+            <l>la cortó sin temor, y lisonjera</l>
+            <l n="590">de la boca sacrílega ceñida,</l>
+            <l>a Júpiter la dio, cuyo presente</l>
+            <l>le pagó con hacerla tan prudente.</l>
+         </lg>
+         <lg>
+            <l>Admirados los dioses celestiales</l>
+            <l>de ver su rojo resplandor, temieron</l>
+            <l n="595">las desventuras otra vez fatales</l>
+            <l>que a los muros de Troya sucedieron;</l>
+            <l>y puestos en contiendas desiguales,</l>
+            <l>a Júpiter tonante la pidieron:</l>
+            <l>que Venus por los hados no sabia</l>
+            <l n="600">que de su misma sangre procedía.</l>
+         </lg>
+         <lg>
+            <l>Juno alegaba del pasado agravio</l>
+            <l>de la manzana de oro las razones;</l>
+            <l>Palas, en un discurso docto y sabio,</l>
+            <l>el premio puso a Juno en opiniones;</l>
+            <l n="605">Venus, moviendo el amoroso labio,</l>
+            <l>cuyo coral con tantas perfeciones</l>
+            <l>a la rosa imitó, que parecía</l>
+            <l>que buscaba lo mismo que tenía,</l>
+         </lg>
+         <lg>
+            <l>dijo: «Si yo de la manzana de oro,</l>
+            <l n="610">como la más hermosa, tuve el premio,</l>
+            <l>debida es esta rosa a mi decoro;</l>
+            <l>que no diréis, oh numes, que os apremio;</l>
+            <l>vuestro favor con mi justicia imploro».</l>
+            <l>Pero en este retórico proemio,</l>
+            <l n="615">Juno, furiosa, replicó: «Pues sabes</l>
+            <l>tus altas partes, tus costumbres graves,</l>
+         </lg>
+         <lg>
+            <l>»no quieras que de nuevo te las diga,</l>
+            <l>oh gran madre de Amor; que aquesta rosa</l>
+            <l>no en el rubi con letras de oro obliga</l>
+            <l n="620">que la deba gozar la más hermosa;</l>
+            <l>que el bello lazo que las hojas liga</l>
+            <l>no dice esa sentencia rigurosa;</l>
+            <l>que donde ves carácteres cifrados</l>
+            <l>sólo se enrizan átomos dorados.</l>
+         </lg>
+         <lg>
+            <l n="625">»Deja la pretensión, pues no me igualas</l>
+            <l>en virtud, en grandeza y gallardía,</l>
+            <l>pues calla la retórica de Palas,</l>
+            <l>donde está la razón de parte mía.»</l>
+            <l>Venus, que de la suya flechas y alas</l>
+            <l n="630">del poderoso dios de Amor tenía,</l>
+            <l>así responde a la arrogante diosa,</l>
+            <l>más encendida que la misma rosa:</l>
+         </lg>
+         <lg>
+            <l>«Siempre la castidad fue en las mujeres</l>
+            <l>el adorno mayor, la mayor gloria;</l>
+            <l n="635">mas muchas como tú, que la refieres,</l>
+            <l>lo son tal vez por fuerza o vanagloria,</l>
+            <l>¡Oh, gran virtud! Conozco que lo eres,</l>
+            <l>si en la virtud hay fuerza meritoria;</l>
+            <l>que si te amaran muchos, por ventura</l>
+            <l n="640">rindieras el valor a la hermosura.»</l>
+         </lg>
+         <lg>
+            <l>«Calla, Venus—le dijo entonces Palas—,</l>
+            <l>si te dejan lugar tus desatinos;</l>
+            <l>que bien conocen las etéreas salas</l>
+            <l>si tiene Juno méritos divinos;</l>
+            <l n="645">como eres infición, veneno exhalas,</l>
+            <l>atrevimientos de una diosa indinos;</l>
+            <l>mas si de mí tan mal hablado hubieras,</l>
+            <l>bien sabes tú el castigo que tuvieras.»</l>
+         </lg>
+         <lg>
+            <l>De una en otra palabra, concertado</l>
+            <l n="650">con desiguales fuerzas y igual brío,</l>
+            <l>quedó ya fijo término aplazado</l>
+            <l>entre Venus y Palas desafío.</l>
+            <l>Pidióle a Marte un fuerte arnés prestado</l>
+            <l>la madre del Amor. ¡Qué desvarío,</l>
+            <l n="655">tiniendo tales armas! Que hay sospechas</l>
+            <l>que la Muerte y Amor trocaron flechas.</l>
+         </lg>
+         <lg>
+            <l>Marte le dio unas armas de diamante,</l>
+            <l>toda la guarnición y hebillas de oro,</l>
+            <l>con que Venus salió más arrogante,</l>
+            <l n="660">y su hermosura con mayor decoro;</l>
+            <l>estaba la celada fulgurante</l>
+            <l>vertiendo por un monte de tesoro</l>
+            <l>otro de blancas plumas, que partía</l>
+            <l>trémula, entre hilos de oro, argentería.</l>
+         </lg>
+         <lg>
+            <l n="665">Como por la belífera celada</l>
+            <l>la diosa descubrió los ojos solos,</l>
+            <l>parecía de piedras estrellada</l>
+            <l>la esfera celestial y los dos polos;</l>
+            <l>pero de tales soles adornada,</l>
+            <l n="670">que no sufriera el mundo dos Apolos,</l>
+            <l>templó su misma nieve sus porfías,</l>
+            <l>por no abrasar las almas y los días.</l>
+         </lg>
+         <lg>
+            <l>Una banda de guerra, que remata</l>
+            <l>un flueco de oro y perlas, dividía</l>
+            <l n="675">el peto sobre el hombro, que dilata</l>
+            <l>a la famosa espada que ceñía;</l>
+            <l>un tonelete de morado y plata</l>
+            <l>con variedad de luz resplandecía,</l>
+            <l>causada de los índicos diamantes,</l>
+            <l n="680">entre follajes de oro rutilantes.</l>
+         </lg>
+         <lg>
+            <l>Los coturnos, ciñendo poca nieve,</l>
+            <l>la bien hecha coluna le adornaban,</l>
+            <l>dando al honor la parte que se debe,</l>
+            <l>y que rosas de nácar ocultaban;</l>
+            <l n="685">tiernas a su furor, la estampa breve</l>
+            <l>las menudas arenas imitaban,</l>
+            <l>cuando Palas llegó, menos airosa,</l>
+            <l>y más ejercitada y belicosa.</l>
+         </lg>
+         <lg>
+            <l>Venus, sacando la fogosa espada,</l>
+            <l n="690">le dijo, estando la vitoria en duda:</l>
+            <l>«Palas, mejor te ha de vencer armada</l>
+            <l>la que en las selvas te venció desnuda.»</l>
+            <l>La diosa, en ira y en rigor bañada,</l>
+            <l>la cuchilla sacó, respondió muda,</l>
+            <l n="695">y caladas las vistas, el son fiero</l>
+            <l>sonó en las armas del templado acero.</l>
+         </lg>
+         <lg>
+            <l>No suele rayo en el horrible trueno</l>
+            <l>el aire dividir con más ardiente</l>
+            <l>furia, que el cielo fúlgido y sereno</l>
+            <l n="700">el planeta ceptrífero elocuente</l>
+            <l>desparte la batalla, y de ira lleno,</l>
+            <l>hace que cada cual partirse intente</l>
+            <l>por diverso camino, a cuyo efeto</l>
+            <l>les muestra de los dioses el decreto.</l>
+         </lg>
+         <lg>
+            <l n="705">Júpiter, viendo que con este ejemplo</l>
+            <l>la Discordia los cielos turbaría,</l>
+            <l>puso la rosa en un famoso templo,</l>
+            <l>que en una selva sacra a Flora había.</l>
+            <l>¡Aquí con nuevas cuerdas y arco templo</l>
+            <l n="710">la mal sonora lira y la voz mía:</l>
+            <l>que llega la ocasión, Venus hermosa,</l>
+            <l>en que se ha de cantar tu blanca rosa!</l>
+         </lg>
+         <lg>
+            <l>En fin, la carmesí depositada,</l>
+            <l>y en digno adorno de los dioses puesta,</l>
+            <l n="715">por deidad de las ninfas visitada</l>
+            <l>a la Vergüenza instituyeron fiesta.</l>
+            <l>La rosa, agradecida y venerada,</l>
+            <l>quiso pagar la devoción honesta,</l>
+            <l>dando el rojo color que le pedían</l>
+            <l n="720">a cuantas a su templo concurrían.</l>
+         </lg>
+         <lg>
+            <l>En estos bosques a Dïana trina,</l>
+            <l>sagrada, hermosa y cándida doncella,</l>
+            <l>habitaba Amarílida divina,</l>
+            <l>quebrada de color, aunque muy bella;</l>
+            <l n="725">tanto la rosa a su oración se inclina,</l>
+            <l>que el carmesí color que puso en ella,</l>
+            <l>no sólo la imitaba, mas vencía:</l>
+            <l>que en fin con alma la color tenía.</l>
+         </lg>
+         <lg>
+            <l>No sale libre ya clavel hermoso</l>
+            <l n="730">de la verde prisión al aire puro,</l>
+            <l>como estaba la ninfa, que el precioso</l>
+            <l>color realzaba claro en rojo escuro;</l>
+            <l>ni sale del botón más espacioso</l>
+            <l>antes del sol, de marchitar seguro,</l>
+            <l n="735">círculo de hojas en la malva indiana,</l>
+            <l>o en la peonía de color de grana.</l>
+         </lg>
+         <lg>
+            <l>Negro el cabello, aunque en las puntas claro,</l>
+            <l>sutiles hebras por la frente pierde,</l>
+            <l>en quien el cielo sobre mármol paro</l>
+            <l n="740">puso dos soles de esmeralda verde;</l>
+            <l>dormida luz con artificio raro</l>
+            <l>para matar mejor, cuando recuerde,</l>
+            <l>los acompaña con tan dulce risa,</l>
+            <l>que antes de herir de la traición avisa.</l>
+         </lg>
+         <lg>
+            <l n="745">Púrpura escura, en los realces clara,</l>
+            <l>la boca, que rubí, que perlas era;</l>
+            <l>perdiérase el Amor si la mirara,</l>
+            <l>y se hallara también si se perdiera;</l>
+            <l>cuya voz quien dichoso la escuchara,</l>
+            <l n="750">y el movimiento de los labios viera,</l>
+            <l>pensara que algún aire manso hacía</l>
+            <l>con dos medios claveles armonía.</l>
+         </lg>
+         <lg>
+            <l>Cuando al pecho llegó Naturaleza,</l>
+            <l>después de hacer milagros tan inmensos,</l>
+            <l n="755">suspendióse de ver tanta belleza,</l>
+            <l>y de suspensa los dejó suspensos;</l>
+            <l>Amor también (depuesta la aspereza,</l>
+            <l>y admirado de ver fuegos intensos</l>
+            <l>en dos balas de nieve) no se atreve</l>
+            <l n="760">con tantos rayos a tan poca nieve.</l>
+         </lg>
+         <lg>
+            <l>Tan bien hechos marfiles enlazaba</l>
+            <l>la sandalia que el pie le descubría,</l>
+            <l>que en jazmines portátiles andaba,</l>
+            <l>y las mosquetas cándidas vencía.</l>
+            <l n="765">Si en algún arroyuelo se bañaba,</l>
+            <l>y otro (no lejos dél) bañar la vía,</l>
+            <l>se encontraban los dos con tales celos,</l>
+            <l>que en batalla de amor quebraban hielos.</l>
+         </lg>
+         <lg>
+            <l>Cuando es de su divino entendimiento</l>
+            <l n="770">intérprete la lengua, ¿qué sibila</l>
+            <l>fue de la antigua edad mayor portento?</l>
+            <l>Panales de oro de la voz distila;</l>
+            <l>a lo amoroso de su dulce acento</l>
+            <l>rindan sus versos Safo y Teolesila,</l>
+            <l n="775">su arpa Euterpe, y a sus manos bellas</l>
+            <l>las cuerdas que volvió la lira estrellas.</l>
+         </lg>
+         <lg>
+            <l>Celosas las napeas y náyades,</l>
+            <l>porque en habiendo envidia el amor cesa,</l>
+            <l>escondieron, corridas, sus beldades,</l>
+            <l n="780">ya en ondas de cristal, ya en selva espesa.</l>
+            <l>Quisieran las olímpicas deidades</l>
+            <l>probar las armas en tan alta empresa;</l>
+            <l>mas Júpiter supremo templó luego</l>
+            <l>(mostrando inclinación) su dulce fuego.</l>
+         </lg>
+         <lg>
+            <l n="785">Y contemplando la belleza rara</l>
+            <l>de Amarílida, un día que en la amena</l>
+            <l>selva, al espejo de una fuente clara,</l>
+            <l>peinaba la madeja, de ondas llena,</l>
+            <l>así se enamoró: que no repara</l>
+            <l n="790">en lo que el vulgo bárbaro condena</l>
+            <l>un poderoso puesto en alto asiento,</l>
+            <l>si tiene un amoroso pensamiento.</l>
+         </lg>
+         <lg>
+            <l>Y como hallaba en su real decoro</l>
+            <l>tan justa resistencia, transformado</l>
+            <l n="795">tal vez en blanco cisne, en rojo toro,</l>
+            <l>o bebe del cristal o nace el prado.</l>
+            <l>Aquí no le valió la lluvia de oro,</l>
+            <l>que tiniendo Amarílida tratado</l>
+            <l>casar con un pastor, él la guardaba,</l>
+            <l n="800">y ella a sí misma cuando ausente estaba.</l>
+         </lg>
+         <lg>
+            <l>Juno, viendo que Júpiter perdía</l>
+            <l>la autoridad de un dios que gobernaba</l>
+            <l>el cielo, el mar, la tierra, el aire, el día,</l>
+            <l>si no fue que los celos disculpaba,</l>
+            <l n="805">tomó la rosa que en el templo ardía,</l>
+            <l>con la color que en púrpura bañaba,</l>
+            <l>y transformóla en nieve blanca y pura,</l>
+            <l>por quitar el color a la hermosura.</l>
+         </lg>
+         <lg>
+            <l>Ésta fue la primera blanca rosa</l>
+            <l n="810">que vio en selva o jardín pastor ninguno,</l>
+            <l>que, siendo sangre de la idalia diosa,</l>
+            <l>en nieve la volvió la airada Juno.</l>
+            <l>¡Salve, fúlgida estrella, que lustrosa</l>
+            <l>teñiste en blanca paz (sin rayo alguno)</l>
+            <l n="815">las hojas de tu cándida corona!</l>
+            <l>Tarde te vi; la dilación perdona.</l>
+         </lg>
+         <lg>
+            <l>Salve otra vez, imagen soberana</l>
+            <l>de la lealtad, la gracia y la inocencia,</l>
+            <l>prudente virgen, que naciendo cana,</l>
+            <l n="820">bien muestras en tus hojas la prudencia;</l>
+            <l>libro de la amistad sincera y llana,</l>
+            <l>en cuyas hojas para toda ausencia</l>
+            <l>escribe la verdad sus aforismos,</l>
+            <l>que son del cielo los preceptos mismos.</l>
+         </lg>
+         <lg>
+            <l n="825">Admiradas las ninfas y las drías,</l>
+            <l>con mil suspiros, ansias y congojas,</l>
+            <l>se quejaron de Juno muchos días,</l>
+            <l>cándidas viendo las purpúreas hojas,</l>
+            <l>y murmuraron por las fuentes frías</l>
+            <l n="830">que ya eran blancas las que fueron rojas,</l>
+            <l>siendo tan casta, ¡oh rosa!, tu hermosura,</l>
+            <l>que naciste con guarda en nieve pura.</l>
+         </lg>
+         <lg>
+            <l>Júpiter, no quiriendo dar disgusto</l>
+            <l>a Juno en deshacer la blanca rosa,</l>
+            <l n="835">y porque, fuera de que no era justo,</l>
+            <l>le pareció más pura y más hermosa,</l>
+            <l>como jüez igual, discreto y justo,</l>
+            <l>de dos colores la formó vistosa,</l>
+            <l>pero con las de nácar fue tan franco,</l>
+            <l n="840">que no dejó seis hojas a lo blanco.</l>
+         </lg>
+         <lg>
+            <l>Amarílida bella, componiendo</l>
+            <l>de rojo y blanco el rostro delicado,</l>
+            <l>las hojas de la rosa repartiendo,</l>
+            <l>dejóle en nieve y púrpura bañado;</l>
+            <l n="845">jazmín a los claveles añadiendo,</l>
+            <l>quedó perfetamente matizado,</l>
+            <l>rogándole las ninfas de las flores</l>
+            <l>que las dejase trasladar colores.</l>
+         </lg>
+         <lg>
+            <l>No quedó fauno, sátiro o sileno,</l>
+            <l n="850">pastor en selva ni vaquero en prado,</l>
+            <l>que no la amase, y de sí mismo ajeno,</l>
+            <l>no viese en su descuido su cuidado;</l>
+            <l>el aire estaba de suspiros lleno,</l>
+            <l>revuelto el monte, atónito el ganado,</l>
+            <l n="855">porque todo era celos, todo amores,</l>
+            <l>después que se vistió de dos colores.</l>
+         </lg>
+         <lg>
+            <l>Airada Juno, su coturno enlaza,</l>
+            <l>y a la tierra deciende en presto vuelo;</l>
+            <l>la rosa en varias partes despedaza,</l>
+            <l n="860">lo rojo y blanco van cubriendo el suelo;</l>
+            <l>la tierra, como puede, las abraza,</l>
+            <l>y las produce, con favor del cielo,</l>
+            <l>en diferentes ramas, muchas rojas,</l>
+            <l>y pocas blancas, como menos hojas.</l>
+         </lg>
+         <lg>
+            <l n="865">Desta suerte nació la blanca rosa</l>
+            <l>(¡oh clara y ilustrísima María!),</l>
+            <l>cándida, pura, casta, honesta, hermosa,</l>
+            <l>y en menos cantidad desde aquel día;</l>
+            <l>pero si llega la sazón dichosa</l>
+            <l n="870">que pueda dilatar la pluma mía</l>
+            <l>en vuestras dulces bodas y himeneo,</l>
+            <l>veréis epitalamio mi deseo.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

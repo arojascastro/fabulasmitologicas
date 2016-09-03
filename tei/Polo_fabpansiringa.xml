@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de Pan y Siringa</title>
+            <author>Jacinto Polo de Medina</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                  Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Polo de Medina, Jacinto. <title>
+                  <ref target="http://www.cervantesvirtual.com/obra-visor-din/fabula-de-pan-y-siringa--0/html/fede8b90-82b1-11df-acc7-002185ce6064_1.html#I_1_">Fábula de Pan y Siringa</ref>
+               </title>. Alicante: Biblioteca Virtual Miguel de
+               Cervantes, 2002. Web.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado en <date>1664</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <l>Dice Ovidio en sus consejas,</l>
+         <l>que allá en el tiempo de marras,</l>
+         <l>cuando había doncellas puras</l>
+         <l>por no haber tantas enaguas;</l>
+         <l n="5">cuando no se hallaba un don</l>
+         <l>por un ojo de la cara,</l>
+         <l>y andaban de madre Eva</l>
+         <l>las pícaras y las damas;</l>
+         <l>cuando era en dos Crispín</l>
+         <l n="10">cerote lo que hoy es ámbar,</l>
+         <l>antes que perdido hubiese</l>
+         <l>aquella fregenal gracia;</l>
+         <l>cuando los que se me venden</l>
+         <l>por muy grande cosa estaban</l>
+         <l n="15">en las malvas que nacieron</l>
+         <l>y aun peores que en las malvas;</l>
+         <l>cuando era nada el que dice</l>
+         <l>que ha levantado su casa,</l>
+         <l>y era el pícaro albañil,</l>
+         <l n="20">y con equívocos habla;</l>
+         <l>entonces, que estaba, dice,</l>
+         <l>en el prado una mañana</l>
+         <l>(que las mañanas también</l>
+         <l>en aquel tiempo se usaban).</l>
+         <l n="25">Siringa, una ninfa bella,</l>
+         <l>del Amor arma vedada,</l>
+         <l>un jifero de jazmín,</l>
+         <l>belleza de cachas blancas,</l>
+         <l>con quien se la pega de ojos</l>
+         <l n="30">a quien es más zaino de alma,</l>
+         <l>y a quien el «Dios te perdone»</l>
+         <l>va siguiendo las miradas;</l>
+         <l>la cándida mors de todos,</l>
+         <l>la doblen ya las campanas,</l>
+         <l n="35">la mátote de azucena</l>
+         <l>y la muérete de nácar;</l>
+         <l>la Atila de corazones,</l>
+         <l>del alma la Diocleciana,</l>
+         <l>la Escanderbeya de vidas</l>
+         <l n="40">y la Nerona de entrañas.</l>
+         <l>A la margen de un arroyo</l>
+         <l>(ya se entiende lo de plata</l>
+         <l>y lo risueño también),</l>
+         <l>en su margen, pues, sentada,</l>
+         <l n="45">diz que cantaba Siringa,</l>
+         <l>sirviéndole de guitarra</l>
+         <l>el arroyo: lo sonoro</l>
+         <l>esta vez no se me escapa.</l>
+         <l>No había más que pedir</l>
+         <l n="50">como oír lo que cantaba,</l>
+         <l>con tan dulces pasos, que</l>
+         <l>no eran pasos, sino pasas.</l>
+         <l>El rubí del manducar</l>
+         <l>y el clavel de las viandas,</l>
+         <l n="55">muy de par en par abierto,</l>
+         <l>armonías exhalaban.</l>
+         <l>Revolcábanse la voz</l>
+         <l>lindamente en la garganta,</l>
+         <l>y enjugábase de solfa</l>
+         <l n="60">con diversas consonancias;</l>
+         <l>con novedad de armonías,</l>
+         <l>ya se ensordece y se baja,</l>
+         <l>y, volviendo a rempujar,</l>
+         <l>por los vientos se encarama;</l>
+         <l n="65">transtornándose en la letra,</l>
+         <l>hace diversas marañas,</l>
+         <l>y en garrapatos sonoros</l>
+         <l>los sentidos enredaba.</l>
+         <l>Sin chistar ni sin mustar,</l>
+         <l n="70">con las orejas tan largas</l>
+         <l>y con el dedo en la boca,</l>
+         <l>muchos dioses la escuchaban.</l>
+         <l>Era entre tanto concurso</l>
+         <l>mosquetero de mohatra,</l>
+         <l n="75">aplauso de dos de queso</l>
+         <l>y víctor de ciento en carga,</l>
+         <l>Pan, un cierto satirillo</l>
+         <l>y deidad tan desmedrada,</l>
+         <l>que, en lo menudo del cuerpo,</l>
+         <l n="80">no era Pan, sino migaja;</l>
+         <l>tan mozuelo de estatura</l>
+         <l>(aunque era su edad muy larga),</l>
+         <l>que, como a otros el bozo,</l>
+         <l>a él el cuerpo le apuntaba.</l>
+         <l n="85">Con testa de cimenterio,</l>
+         <l>lampiño de calabaza</l>
+         <l>(que sin duda arrojó al mar</l>
+         <l>los pelillos de su calva),</l>
+         <l>sólo, si mal no me acuerdo,</l>
+         <l n="90">en las sienes le quedaban</l>
+         <l>de pelillos de maridos</l>
+         <l>unos rizos de Jarama.</l>
+         <l>Zampuzados en dos cuevas</l>
+         <l>del talle de cerbatanas,</l>
+         <l n="95">tan angostas que la vida</l>
+         <l>mira en ellas puesta a gatas,</l>
+         <l>viven dos ojos tan flacos</l>
+         <l>que su vista es una estatua,</l>
+         <l>y, abstinentes de mirar,</l>
+         <l n="100">hacen la vista muy larga;</l>
+         <l>tan hacia el cogote viven,</l>
+         <l>y a el colodrillo tan hacia,</l>
+         <l>que preguntan: «¿Quién ve allá?»,</l>
+         <l>los que por sus puertas pasan;</l>
+         <l n="105">con párpados derrengados,</l>
+         <l>hacia fuera las carnazas,</l>
+         <l>era befo de los ojos</l>
+         <l>y desierto de pestañas.</l>
+         <l>Para ir de un ojo a otro</l>
+         <l n="110">(según la nariz se alarga)</l>
+         <l>se rodea por delante,</l>
+         <l>no es tan lejos por la espalda.</l>
+         <l>Por lo grandes y bermejas,</l>
+         <l>parecía con las barbas</l>
+         <l n="115">un letrado del infierno,</l>
+         <l>todo barbado de llamas.</l>
+         <l>La bacía de un barbero</l>
+         <l>en vez de espalda llevaba:</l>
+         <l>espalda de castañeta,</l>
+         <l n="120">con un pespunte de tabas.</l>
+         <l>Si no de buey, por lo chicas,</l>
+         <l>eran de un cabrón sus zancas,</l>
+         <l>más que un pretendiente y más</l>
+         <l>que un filósofo barbadas;</l>
+         <l n="125">con chinelas de pesuñas,</l>
+         <l>era letrado de cabra,</l>
+         <l>y pisaba de marido,</l>
+         <l>pues como algunos pisaba.</l>
+         <l>Era el satirillo, en fin,</l>
+         <l n="130">un diablo de filigrana,</l>
+         <l>un minique del infierno</l>
+         <l>y algún dij de alguna diabla.</l>
+         <l>Preciábase de ser dios,</l>
+         <l>y que era publicada</l>
+         <l n="135">(si hay cuchara entre los dioses),</l>
+         <l>del cabo de su cuchara.</l>
+         <l>Vendíase por deidad</l>
+         <l>si al forastero encontraba,</l>
+         <l>y de natura deorum</l>
+         <l n="140">decía sus pataratas.</l>
+         <l>Presumiendo, pues, de noble,</l>
+         <l>y también de buena cara,</l>
+         <l>dio en festejar a Siringa,</l>
+         <l>que su beldad le picaba.</l>
+         <l n="145">Yo, decía, he de quererla;</l>
+         <l>podrá ser que sea blanda,</l>
+         <l>que no está de Dios que sean</l>
+         <l>las hermosuras ingratas.</l>
+         <l>La bellaca de Siringa</l>
+         <l n="150">(si fue Siringa bellaca),</l>
+         <l>que tuvo por condición</l>
+         <l>ásperos montes de Arcadia,</l>
+         <l>cruel como un mayordomo,</l>
+         <l>noramala lo enviaba,</l>
+         <l n="155">y él en la gorra, a lo amante,</l>
+         <l>se puso la noramala;</l>
+         <l>y haciendo mil reverencias,</l>
+         <l>del desdén haciendo gala,</l>
+         <l>cortés como un pretendiente</l>
+         <l n="160">con los criados de casa,</l>
+         <l>le responde: Poco importa</l>
+         <l>que me desprecies, tirana,</l>
+         <l>que amor tengo yo bastante</l>
+         <l>aunque vengan otras tantas.</l>
+         <l n="165">Yo te quiero por quererte,</l>
+         <l>porque los sátiros aman</l>
+         <l>también a lo de Palacio,</l>
+         <l>y a lo de sin esperanza.</l>
+         <l>No fío de esos quereres,</l>
+         <l n="170">Siringa le replicaba</l>
+         <l>no hay tus tus a ninfa vieja,</l>
+         <l>a las bobas esa chanza.</l>
+         <l>No me ha de querer, ni quiero,</l>
+         <l>sátiro que Pan se llama:</l>
+         <l n="175">gente honrada no es paniega,</l>
+         <l>y yo siempre he sido honrada.</l>
+         <l>Ese mendrugo de talle</l>
+         <l>delo a un pobre que demanda,</l>
+         <l>y ese mollete de huesos</l>
+         <l n="180">delo a sopas avahadas.</l>
+         <l>Pan es cosa de muchachos,</l>
+         <l>no quiero yo sus hornadas,</l>
+         <l>que mujer que adora pan,</l>
+         <l>mucho más que adora, amasa.</l>
+         <l n="185">No soy año estéril yo</l>
+         <l>para que el pan me haga falta;</l>
+         <l>a la alhóndiga del pueblo</l>
+         <l>puede ofrecer esa manda.</l>
+         <l>No quiero Pan que es más duro</l>
+         <l n="190">que un miserable de casta,</l>
+         <l>negro más que suele ser</l>
+         <l>la maldición de las Pascuas;</l>
+         <l>más pequeño que un consuelo</l>
+         <l>de mala nueva esperada,</l>
+         <l n="195">donde entra el «Placiendo a Dios,</l>
+         <l>pienso que no será nada».</l>
+         <l>Tate, tate la Siringa,</l>
+         <l>Pan replica a voces altas,</l>
+         <l>calledes, Ninfa, calledes,</l>
+         <l n="200">no digáis la tal palabra;</l>
+         <l>si vos no estáis para ello,</l>
+         <l>esa excusa es excusada:</l>
+         <l>quien enamorarse quiere,</l>
+         <l>con muy poco pan le basta,</l>
+         <l n="205">esos son descomimientos,</l>
+         <l>pues, si vos tuvierais gana,</l>
+         <l>a la hambre no hay pan duro,</l>
+         <l>no hay pan feo si hambre hay harta.</l>
+         <l>Yo me voy rabo entre piernas</l>
+         <l n="210">a llorar mi suerte amarga,</l>
+         <l>de noche por los caminos,</l>
+         <l>de día por las montañas;</l>
+         <l>y como dice el romance,</l>
+         <l>yo diré con muchas ansias:</l>
+         <l n="215">¡Ay verdades que en Siringa</l>
+         <l>siempre fuistis desdichadas!</l>
+         <l>Con esto los dos se fueron,</l>
+         <l>y él en su pecho trazaba</l>
+         <l>(aunque Tarquinos no había)</l>
+         <l n="220">de hacer una tarquinada;</l>
+         <l>y allá a sus solas decía,</l>
+         <l>lleno de cólera y rabia:</l>
+         <l>A malas lanzadas muera,</l>
+         <l>si acaso hay buenas lanzadas;</l>
+         <l n="225">a manos de un zapatero</l>
+         <l>pierda la vida y el alma;</l>
+         <l>un sastre me dé la muerte</l>
+         <l>porque sea desastrada,</l>
+         <l>si no cogiere a Siringa,</l>
+         <l n="230">aunque esté más encerrada</l>
+         <l>que rosario en gente moza,</l>
+         <l>que dinero entre beatas.</l>
+         <l>Yo le certifico que</l>
+         <l>llevará, si no se escapa,</l>
+         <l n="235">del pan y del palo, y</l>
+         <l>aun del pan y de la tranca;</l>
+         <l>si a falta de pan sospecha</l>
+         <l>que ha de haber tortas, se engaña:</l>
+         <l>miente el refrancillo, miente</l>
+         <l n="240">por en medio de la barba;</l>
+         <l>yo le juro que si a otros</l>
+         <l>les cuesta grandes desgracias</l>
+         <l>la torta un pan, que a Siringa</l>
+         <l>le ha de costar una hogaza.</l>
+         <l n="245">Con estos discursos, pues,</l>
+         <l>Pan a solas lo pasaba,</l>
+         <l>armado de perro muerto</l>
+         <l>y de la ley de la trampa;</l>
+         <l>hasta que Siringa un día,</l>
+         <l n="250">sin dueñas y sin criadas,</l>
+         <l>y sin vergüenza también,</l>
+         <l>salió al prado a comer habas</l>
+         <l>cuando el Sol quería nacer,</l>
+         <l>y la comadre del Alba,</l>
+         <l n="255">con el lucero Miguero,</l>
+         <l>le prevenía las papas.</l>
+         <l>Mas Pan, que no era muy necio</l>
+         <l>ni se dormía en las pajas,</l>
+         <l>y puesto con tanto ojo</l>
+         <l n="260">como un vecino atisbaba,</l>
+         <l>así como la miró,</l>
+         <l>deseando que se alargara,</l>
+         <l>chite callando de paso</l>
+         <l>le seguía las pisadas;</l>
+         <l n="265">y al tiempo de hacer su hecho,</l>
+         <l>cuando a echarle iba la garra,</l>
+         <l>y cuando de embestidura</l>
+         <l>iba a darle un cierra España,</l>
+         <l>volviendo el rabo del ojo</l>
+         <l n="270">cayó Siringa en la maula,</l>
+         <l>y cogiendo haldas en cinta,</l>
+         <l>la bola escurrió y volaba.</l>
+         <l>Siguióla Pan, y en la orilla</l>
+         <l>del Ladrón, río que anda</l>
+         <l n="275">tan callando que parece</l>
+         <l>que lleva hurtadas las aguas,</l>
+         <l>echóle mano a la moza,</l>
+         <l>y ella, que se vio pringada</l>
+         <l>entre los brazos de Pan</l>
+         <l n="280">cual torrezno en rebanadas,</l>
+         <l>dio voces, y anduvo el ¡ay!,</l>
+         <l>el ¡déjame!, el ¡ay cuitada,</l>
+         <l>que puede venir mi madre!,</l>
+         <l>y pidiendo en mil plegarias</l>
+         <l n="285">favor a los dioses, dijo:</l>
+         <l>Así tengáis dicha tanta</l>
+         <l>que el sastre el remojo olvide</l>
+         <l>si hiciereis alguna gala;</l>
+         <l>así no hayáis menester</l>
+         <l n="290">a ningún rüin, que basta</l>
+         <l>a mataros, con ser dioses,</l>
+         <l>el verle cómo se ensancha;</l>
+         <l>así, cuando seáis poetas,</l>
+         <l>los dioses de vuestra patria</l>
+         <l n="295">hablen de vosotros como</l>
+         <l>hablan las tierras extrañas;</l>
+         <l>así tengáis tan buen gusto</l>
+         <l>que, cuando necios se cansan</l>
+         <l>en murmurar, os estéis</l>
+         <l n="300">desperezando la gamba,</l>
+         <l>tendidos en vuestro lecho,</l>
+         <l>y con cada acción, con cada</l>
+         <l>meneo de vuestra pluma,</l>
+         <l>un mentís deis a la fama.</l>
+         <l n="305">Dijo, y apenas los dioses</l>
+         <l>oyen la clamoreada,</l>
+         <l>cuando en un decir ¡ay triste!</l>
+         <l>la convirtieron en caña;</l>
+         <l>y quedóse el dios amante</l>
+         <l n="310">(como dicen) del agalla,</l>
+         <l>a escuras con tanto naso,</l>
+         <l>y a buenas noches de dama.</l>
+         <l>Él, que vio de chifladura</l>
+         <l>la belleza que adoraba</l>
+         <l n="315">vuelto el marfil en cañutos</l>
+         <l>y en madera las carnazas,</l>
+         <l>para no perderlo todo,</l>
+         <l>desabrigó de la vaina</l>
+         <l>cierto mohoso metal</l>
+         <l n="320">de tizona y de colada;</l>
+         <l>no quise decir alfanje,</l>
+         <l>porque si alfanje nombrara</l>
+         <l>sin decirlo damasquino,</l>
+         <l>los alfanjes se enojaran;</l>
+         <l n="325">con la de Ioanes me fecit,</l>
+         <l>de las cañas maestresala,</l>
+         <l>sin lo del ángulo corvo,</l>
+         <l>lindamente las trinchaba;</l>
+         <l>y juntando algunos trozos,</l>
+         <l n="330">con cera y hilo los ata</l>
+         <l>para meter alfileres;</l>
+         <l>mas los supiros que daba</l>
+         <l>él, haciendo estos cañutos,</l>
+         <l>tan métricamente hablan,</l>
+         <l n="335">que sirvieron los suspiros</l>
+         <l>de spiraculum de flauta.</l>
+         <l>Pan, admirado el suceso,</l>
+         <l>dijo: Por Dios que me agrada</l>
+         <l>la música, que los males</l>
+         <l n="340">dizque cantando se espantan.</l>
+         <l>La medicina me dé</l>
+         <l>quien me dio también la llaga,</l>
+         <l>y si Siringa me pica,</l>
+         <l>también Siringa me rasca.</l>
+         <l n="345">¿Qué más quiero yo que andarme,</l>
+         <l>muy a lo gascón mi capa,</l>
+         <l>tocando de caponar,</l>
+         <l>que a todos tiemblen las barbas?</l>
+         <l>Que si esto vale dinero,</l>
+         <l n="350">más que amor, quiero ganancia:</l>
+         <l>Vaya al mar lo suspirado,</l>
+         <l>y lo siringado vaya.</l>
+      </body>
+   </text>
+</TEI>

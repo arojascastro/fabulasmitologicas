@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de Genil</title>
+            <author>Pedro Espinosa</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Espinosa, Pedro. <title>Poesías completas</title>. Ed. De Francisco López Estrada. Madrid: Espasa-Calpe, 1975. Impreso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado en <date>1605</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l>También entre las ondas fuego enciendes,</l>
+            <l>Amor, como en la esfera de tu fuego,</l>
+            <l>y a los dioses de escarcha también prendes</l>
+            <l>como a Vulcano, con lascivo juego;</l>
+            <l n="5">del sacro Olimpo a Júpiter deciendes</l>
+            <l>y a Febo dejas sin su lumbre, ciego,</l>
+            <l>y a Marte pones, con infame prueba,</l>
+            <l>que de tu madre las palabras beba.</l>
+         </lg>
+         <lg>
+            <l>El claro dios Genil sintió tus lazos,</l>
+            <l n="10">que a la náyade Cínaris adora:</l>
+            <l>ella le hace el corazón pedazos,</l>
+            <l>y él crece con las lágrimas que llora.</l>
+            <l>Corta las aguas con los blancos brazos</l>
+            <l>la ninfa, que con otras ninfas mora</l>
+            <l n="15">debajo de las aguas cristalinas</l>
+            <l>en aposentos de esmeraldas finas.</l>
+         </lg>
+         <lg>
+            <l>El despreciado dios su dulce amante</l>
+            <l>con las náyades vido estar bordando,</l>
+            <l>y, por enternecer aquel diamante,</l>
+            <l n="20">sobre un pescado azul llegó cantando.</l>
+            <l>De una concha una cítara sonante</l>
+            <l>con destrísimos dedos va tocando;</l>
+            <l>paró el agua a su queja, y, por oílla,</l>
+            <l>los sauces se inclinaron a la orilla:</l>
+         </lg>
+         <lg>
+            <l n="25">«Vosotras, que miráis mi fuego ardiente,</l>
+            <l>seréis —dice— testigos de mi pena</l>
+            <l>y del rigor y término inclemente</l>
+            <l>de la que está de gracia y desdén llena.</l>
+            <l>Neptuno fue mi abuelo, y de una fuente</l>
+            <l n="30">que es, de una sierra de cristales, vena,</l>
+            <l>soy dios, y con mis ondas fuera a Tetis</l>
+            <l>si no atajara mi camino el Betis.</l>
+         </lg>
+         <lg>
+            <l>Vestida está mi margen de espadaña</l>
+            <l>y de viciosos apios y mastranto,</l>
+            <l n="35">y el agua, clara como el ámbar, baña</l>
+            <l>troncos de mirtos y de lauro santo.</l>
+            <l>No hay en mi margen silbadora caña</l>
+            <l>ni adelfa, mas violetas y amaranto,</l>
+            <l>de donde llevan flores en las faldas</l>
+            <l n="40">para hacer las hénides guirnaldas.</l>
+         </lg>
+         <lg>
+            <l>Hay blancos lirios, verdes mirabeles</l>
+            <l>y azules, guarnecidos alhelíes,</l>
+            <l>y allí las clavellinas y claveles</l>
+            <l>parecen sementera de rubíes.</l>
+            <l n="45">Hay ricas alcatifas y alquiceles,</l>
+            <l>rojos, blancos, gualdados y turquíes,</l>
+            <l>y derraman las auras con su aliento</l>
+            <l>ámbares y azahares por el viento.</l>
+         </lg>
+         <lg>
+            <l>Yo, cuando salgo de mis grutas hondas,</l>
+            <l n="50">estoy de frescos palios cobijado,</l>
+            <l>y entre nácares crespos de redondas</l>
+            <l>perlas mi margen veo estar honrado.</l>
+            <l>El sol no tibia mis cerúleas ondas,</l>
+            <l>ni las enturbia el balador ganado;</l>
+            <l n="55">ni a las napeas que en mi orilla cantan</l>
+            <l>los pintados lagartos las espantan.</l>
+         </lg>
+         <lg>
+            <l>Así del olmo abrazan ramo y cepa</l>
+            <l>con pámpanos harpados los sarmientos;</l>
+            <l>falta lugar por donde el rayo quepa</l>
+            <l n="60">del sol, y soplan los delgados vientos.</l>
+            <l>Por ilegibles tarahes sube y trepa</l>
+            <l>la inexplicable yedra, y los contentos</l>
+            <l>ruiseñores trinando, allí no hay selva</l>
+            <l>que en mi alabanza a responder no vuelva.</l>
+         </lg>
+         <lg>
+            <l n="65">Mas ¿qué aprovecha, oh lumbre de mis ojos,</l>
+            <l>que conozcas mis padres y riqueza,</l>
+            <l>si, despreciando todos mis despojos,</l>
+            <l>te contentas con sola tu belleza?»</l>
+            <l>Dijo, y la ninfa de matices rojos</l>
+            <l n="70">cubrió el marfil, y, vuelta la cabeza</l>
+            <l>con desdén, da a entender que el dios la enoja,</l>
+            <l>y arroja el bastidor, y el oro arroja.</l>
+         </lg>
+         <lg>
+            <l>Quedó elevado, así como se encanta</l>
+            <l>el que escuchó la voz de la sirena;</l>
+            <l n="75">helósele su voz en la garganta,</l>
+            <l>como cercado de engañosa hiena:</l>
+            <l>no tanto a virgen temerosa espanta</l>
+            <l>serpiente negra que pisó en la arena,</l>
+            <l>ni al yerto labrador en noche triste</l>
+            <l n="80">rayo veloz que de temor le embiste.</l>
+         </lg>
+         <lg>
+            <l>En sí volvió del ya pasado espanto</l>
+            <l>cuando quiso el contrario del contento,</l>
+            <l>y halló que las aguas de su llanto</l>
+            <l>le llevaban nadando el instrumento.</l>
+            <l n="85">La libertada cólera, entre tanto,</l>
+            <l>le obligó a que dijese, y el tormento:</l>
+            <l>—¡Oh tú, hija de montes y de fieras,</l>
+            <l>por fuerza has de quererme, aunque no quieras!</l>
+         </lg>
+         <lg>
+            <l>Dijo así y, cudicioso del trofeo,</l>
+            <l n="90">al alcázar del viejo Betis parte,</l>
+            <l>cuyo artificio atrás deja el deseo;</l>
+            <l>que a la materia sobrepuja el arte.</l>
+            <l>No da tributo Betis a Nereo,</l>
+            <l>mas, como amigo, sus riquezas parte</l>
+            <l n="95">con él, que es rey de ríos, y los reyes</l>
+            <l>no dan tributo, sino ponen leyes.</l>
+         </lg>
+         <lg>
+            <l>Ve que son plata lisa los umbrales;</l>
+            <l>claros diamantes las lucientes puertas,</l>
+            <l>ricas de clavazones de corales</l>
+            <l n="100">y de pequeños nácares cubiertas;</l>
+            <l>ve que rayos de luces inmortales</l>
+            <l>dan, y que están de par en par abiertas,</l>
+            <l>y los quiciales, de oro muy rollizo,</l>
+            <l>que muestran el poder de quien los hizo.</l>
+         </lg>
+         <lg>
+            <l n="105">Colunas más hermosas que valientes</l>
+            <l>sustentan el gran techo cristalino;</l>
+            <l>las paredes son piedras transparentes,</l>
+            <l>cuyo valor del Ocidente vino;</l>
+            <l>brotan por los cimientos claras fuentes,</l>
+            <l n="110">y con pie blando, en líquido camino,</l>
+            <l>corren cubriendo con sus claras linfas</l>
+            <l>las carnes blancas de las bellas ninfas.</l>
+         </lg>
+         <lg>
+            <l>De suelos pardos, de mohosos techos,</l>
+            <l>hay docientas hondísimas alcobas,</l>
+            <l n="115">y de menudos juncos verdes lechos,</l>
+            <l>y encima, colchas de pintadas tobas.</l>
+            <l>Maldicientes arroyos por estrechos</l>
+            <l>pasos murmuran, entre juncia y ovas,</l>
+            <l>donde a los dioses el profundo sueño</l>
+            <l n="120">cubre de adormideras y beleño.</l>
+         </lg>
+         <lg>
+            <l>Vido entrando Genil un virgen coro</l>
+            <l>de bellas ninfas de desnudos pechos,</l>
+            <l>sobre cristal cerniendo granos de oro</l>
+            <l>con verdes cribos de esmeraldas hechos.</l>
+            <l n="125">Vido, ricos de lustre y de tesoro,</l>
+            <l>follajes de carámbano en los techos,</l>
+            <l>que estaban por las puntas adornados</l>
+            <l>de racimos de aljófares helados.</l>
+         </lg>
+         <lg>
+            <l>Un rico asiento de diamante frío</l>
+            <l n="130">sobre gradas de nácar se sustenta,</l>
+            <l>donde preñadas perlas de rocío</l>
+            <l>al alcázar dan luz, al sol afrenta.</l>
+            <l>El venerable viejo dios del río</l>
+            <l>aquí con santa majestad se asienta,</l>
+            <l n="135">reclinado en dos urnas relucientes,</l>
+            <l>que son los caños de abundantes fuentes.</l>
+         </lg>
+         <lg>
+            <l>Ya que huyó la admiración del fuego</l>
+            <l>que abrasaba al amante despreciado,</l>
+            <l>su queja al padre Betis cuenta luego,</l>
+            <l n="140">no sé si más lloroso que turbado;</l>
+            <l>dio luz a su justicia, estando ciego</l>
+            <l>de lágrimas que amor había brotado,</l>
+            <l>y no hubo menester el dios amigo</l>
+            <l>ni más información ni más testigo.</l>
+         </lg>
+         <lg>
+            <l n="145">—No será tu afición con desdén rota</l>
+            <l>—le dice Betis—, que también tu orilla</l>
+            <l>mereció a Febo, como el sacro Eurota,</l>
+            <l>por quien desprecia Júpiter su silla.</l>
+            <l>Granada, de tus templos es devota,</l>
+            <l n="150">si hecatombe a mis templos da Sevilla,</l>
+            <l>y por ti gozo ilustres vasallajes</l>
+            <l>desde el Hidaspes dulce al negro Arajes.</l>
+         </lg>
+         <lg>
+            <l>En Colcos, junto a un ancho promontorio,</l>
+            <l>hay unas grutas de alabastro fino,</l>
+            <l n="155">donde nació, entre arenas de abalorio,</l>
+            <l>un tritón que a servir a Betis vino;</l>
+            <l>a éste manda llamar a consistorio</l>
+            <l>a todos los del reino cristalino,</l>
+            <l>los cuales, al sagrado mandamiento,</l>
+            <l n="160">vienen, venciendo por el agua el viento.</l>
+         </lg>
+         <lg>
+            <l>Ricas garnachas de riqueza suma</l>
+            <l>unos visten de tiernas esmeraldas;</l>
+            <l>otros, como a la garza fácil pluma,</l>
+            <l>cubren de escama de oro las espaldas;</l>
+            <l n="165">con ropas blancas de cuajada espuma</l>
+            <l>otros vienen, ceñidos con guirnaldas,</l>
+            <l>brotando olor los cristalinos cuernos,</l>
+            <l>de tiernas flores y de tallos tiernos.</l>
+         </lg>
+         <lg>
+            <l>Cuantas viven en fuentes, ninfas bellas</l>
+            <l n="170">(que burlan los satíricos silvanos,</l>
+            <l>que, arrojándose al agua por cogellas,</l>
+            <l>el agua aprietan con lascivas manos),</l>
+            <l>vinieron; y, a una parte las doncellas,</l>
+            <l>a otra los mozos y a otra, los ancianos,</l>
+            <l n="175">se sientan, cual conviene a tales huéspedes,</l>
+            <l>en blandas sillas de mojados céspedes.</l>
+         </lg>
+         <lg>
+            <l>Ya que corrió el silencio las cortinas,</l>
+            <l>dando angosto camino al blando aliento,</l>
+            <l>y las vistas, suspensas y divinas,</l>
+            <l n="180">a Betis fueron penetrando el viento,</l>
+            <l>y entre los labios de esmeraldas finas</l>
+            <l>pararon, él, con grave movimiento,</l>
+            <l>sacudió la cabeza sobre el pecho,</l>
+            <l>y perlas sudó el suelo y llovió el techo:</l>
+         </lg>
+         <lg>
+            <l n="185">—No con el mar de España tengo guerra</l>
+            <l>—dice—, o saliendo de mi margen corva</l>
+            <l>quiero cubrir las faldas de la tierra</l>
+            <l>mientras teme dudosa que la sorba;</l>
+            <l>ni pardo monte ni cerúlea sierra</l>
+            <l n="190">de mi profundidad el paso estorba;</l>
+            <l>mas hoy se casa un claro dios divino</l>
+            <l>que ha merecido a Betis por padrino.</l>
+         </lg>
+         <lg>
+            <l>Tú, Genil, a quien ciñen mirto y lauro,</l>
+            <l>no cañaveras frágiles, tus sienes,</l>
+            <l n="195">y, como el Cindo del nevado Tauro,</l>
+            <l>montes de plata por principio tienes,</l>
+            <l>tú, aquel potente dios a quien el Dauro</l>
+            <l>señor te hace de mayores bienes,</l>
+            <l>pues que sus ninfas, en liviano coro,</l>
+            <l n="200">para darte tributo ciernen oro.</l>
+         </lg>
+         <lg>
+            <l>Hoy gozarás de Cínaris los brazos;</l>
+            <l>y tú, ninfa, el valor de ser su esposa;</l>
+            <l>y, en legítimo fuego y dulces lazos,</l>
+            <l>dejaréis a Cidálida envidiosa.</l>
+            <l n="205">Dijo; y ella, huyendo los abrazos,</l>
+            <l>volvió turbada la cerviz de rosa,</l>
+            <l>naciendo, al tierno llanto que comienza,</l>
+            <l>rojo color de virginal vergüenza.</l>
+         </lg>
+         <lg>
+            <l>No hay dios a quien el llanto no recuerde</l>
+            <l n="210">si con la compasión hace su tiro,</l>
+            <l>y así, el aljófar que la ninfa pierde</l>
+            <l>costó más de un sollozo y de un suspiro;</l>
+            <l>y hubo alguno que el crin de sauce verde</l>
+            <l>tendió sobre la frente de zafiro;</l>
+            <l n="215">mas los arroyos que a la puerta estaban</l>
+            <l>del desdén de la ninfa murmuraban.</l>
+         </lg>
+         <lg>
+            <l>Como cuando en solícitos tropeles,</l>
+            <l>por mayor majestad de sus castillos</l>
+            <l>ricos de olor, vestidos de doseles,</l>
+            <l n="220">entre selvajes cercas de tomillos,</l>
+            <l>guardando rubias perezosas mieles</l>
+            <l>en urnas de panales amarillos,</l>
+            <l>se oyeron las abejas en escuadra,</l>
+            <l>así el rumor por la soberbia cuadra.</l>
+         </lg>
+         <lg>
+            <l n="225">Lágrimas tibias de tus luces bellas</l>
+            <l>llueves en tanto que Genil te imita,</l>
+            <l>oh Cínaris, mas todas tus querellas</l>
+            <l>Betis mirando, el caso facilita;</l>
+            <l>que el melindre que es dado a las doncellas</l>
+            <l n="230">piensa que el libre espíritu te quita,</l>
+            <l>y así, queriendo un monte hacer llano,</l>
+            <l>la mano de Genil puso en tu mano.</l>
+         </lg>
+         <lg>
+            <l>Llenos de envidia noble se levantan</l>
+            <l>los dioses del sagrado coliseo,</l>
+            <l n="235">y con las lenguas de agua dulce cantan</l>
+            <l>alegres: ¡Himeneo!, ¡Himeneo!</l>
+            <l>Mas de improviso, sin pensar, se espantan,</l>
+            <l>porque la ninfa, viendo el caso feo,</l>
+            <l>y su virginidad así oprimida,</l>
+            <l n="240">quedó, llorando, en agua convertida.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

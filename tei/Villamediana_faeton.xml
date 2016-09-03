@@ -1,0 +1,2366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de Faetón</title>
+            <author>Conde de Villamediana</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Villamediana, Conde. <title>Poesía</title>. Ed. De María Teresa Ruestes. Barcelona: Planeta, 1992. Impreso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto fechado en <date>1617</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l>Hijo fue digno del autor del día</l>
+            <l>el peligroso y alto pensamiento</l>
+            <l>que pudo acreditar con su osadía,</l>
+            <l>si no feliz, famoso atrevimiento;</l>
+            <l n="5">costosa emulación, nueva porfía</l>
+            <l>ceder mortal a no mortal intento,</l>
+            <l>culpa gloriosamente peregrina</l>
+            <l>que su fama adquirió con su rüina.</l>
+         </lg>
+         <lg>
+            <l>Terror puso en las sombras del Erebo</l>
+            <l n="10">a negro rey, magnánimo ascendiente</l>
+            <l>que tuvo a Marte en conjunción y a Febo,</l>
+            <l>a luz menos benévola que ardiente;</l>
+            <l>horóscopo fatal, asunto nuevo,</l>
+            <l>genio nunca al temor retrocediente,</l>
+            <l n="15">sobre los horizontes que alcanzaba</l>
+            <l>claros indicios de su origen daba.</l>
+         </lg>
+         <lg>
+            <l>En el archivo eterno del decoro</l>
+            <l>quedará la memoria celebrada</l>
+            <l>del que estrellas pisando en carro de oro</l>
+            <l n="20">desenfrenó la luz con mano osada;</l>
+            <l>en cuya muerte del mejor tesoro</l>
+            <l>(aromática pompa) coronada</l>
+            <l>sacro Erídano viste su ribera</l>
+            <l>de los que Alcides álamos venera.</l>
+         </lg>
+         <lg>
+            <l n="25">Esta empresa inmortal, causa del llanto</l>
+            <l>fértil en muerte del osado hermano,</l>
+            <l>es el claro sujeto de mi canto,</l>
+            <l>si mejor luz me diere mejor mano,</l>
+            <l>que sin este favor no puede tanto</l>
+            <l n="30">el vuelo levantar ingenio humano,</l>
+            <l>sin que alterado mar de su locura</l>
+            <l>por el nombre le dé la sepultura.</l>
+         </lg>
+         <lg>
+            <l>En los montes de Arcadia y su ribera</l>
+            <l>entre náyades ninfas, nonacrinas,</l>
+            <l n="35">Siringa ninfa en sus cristales era</l>
+            <l>más pura que las aguas cristalinas.</l>
+            <l>Ésta siempre siguió la ley severa</l>
+            <l>de la triforme luz, y las divinas</l>
+            <l>pisadas imitó del coro sacro</l>
+            <l n="40">con aplauso debido al simulacro.</l>
+         </lg>
+         <lg>
+            <l>Más que las fieras que persigue, brava,</l>
+            <l>con su contrario al mismo hielo ofende;</l>
+            <l>del hombro suyo reluciente aljaba</l>
+            <l>de vivas flechas guarnecida pende;</l>
+            <l n="45">blandiendo el asta en quien Amor templaba</l>
+            <l>más nobles armas su hemisferio enciende:</l>
+            <l>tal se mostró en defensa del troyano</l>
+            <l>Belona humana en el sangriento llano.</l>
+         </lg>
+         <lg>
+            <l>En reluciente forma isleño alado</l>
+            <l n="50">timbre es sublime de su rostro bello,</l>
+            <l>mas cede de dos soles alumbrado</l>
+            <l>al nítido diáfano del cuello;</l>
+            <l>del licencioso viento, al viento dado,</l>
+            <l>vuela el oro sin orden del cabello,</l>
+            <l n="55">despreciando preceptos en su frente</l>
+            <l>de aguja de cristal, de acero ardiente.</l>
+         </lg>
+         <lg>
+            <l>De los volantes coros la armonía</l>
+            <l>describe suspensión, milagros canta;</l>
+            <l>cuantas Flora fragrantés hijas cría</l>
+            <l n="60">son tributo aromático a su planta,</l>
+            <l>fértil contacto a cuya fantasía</l>
+            <l>Ceres de la gran madre se levanta,</l>
+            <l>ávida de la lumbre más perfeta</l>
+            <l>que en la esfera de Amor formó cometa.</l>
+         </lg>
+         <lg>
+            <l n="65">Al de las selvas dios se ofrece, cuando</l>
+            <l>cerdosa fiera busca en verde llano,</l>
+            <l>vengar al muerto joven deseando</l>
+            <l>a quien de amor la madre llora en vano.</l>
+            <l>Mas cede el duro acero, al rayo blando,</l>
+            <l n="70">que hiere el corazón, rinde la mano.</l>
+            <l>¡Oh milagro de amor que llegó junto</l>
+            <l>de sólo el primer paso al postrer punto!</l>
+         </lg>
+         <lg>
+            <l>«Honor del bosque y dignidad del prado</l>
+            <l>—dice a la ninfa el fauno, temeroso—:</l>
+            <l n="75">¿eres la madre del misterio alado</l>
+            <l>que tomó bella forma en reino undoso,</l>
+            <l>o la que ciego sigue el coronado</l>
+            <l>de diadema de luz en carro hermoso?</l>
+            <l>¿Dejaste de ser árbol de victoria</l>
+            <l n="80">por mayor triunfo y más debida gloria?</l>
+         </lg>
+         <lg>
+            <l>Eres Cintia en mis selvas, eres bella</l>
+            <l>alma de Amor que, tutelar al Mayo,</l>
+            <l>si resplandeces sol, flagras estrella,</l>
+            <l>si lumbre enciendes, vivificas rayo;</l>
+            <l n="85">nuevo norte feliz de mi querella,</l>
+            <l>remedio y causa del mejor desmayo,</l>
+            <l>que en el deliquio de su fuego mismo</l>
+            <l>contiene el amoroso parasismo.</l>
+         </lg>
+         <lg>
+            <l>Si mi consorcio acetas, yugo blando</l>
+            <l n="90">te ofrece Arcadia en tálamo florido,</l>
+            <l>y en dignidad suprema el bosque honrando</l>
+            <l>al gran dios destas selvas por marido.»</l>
+            <l>Huye la ninfa cándida dejando</l>
+            <l>el lugar de su estampa enriquecido;</l>
+            <l n="95">caprino pie en la seca arena informa</l>
+            <l>torpe carácter sobre bella forma.</l>
+         </lg>
+         <lg>
+            <l>Anhelante deidad favor invoca</l>
+            <l>en el inicuo trance a su luz pía,</l>
+            <l>diciendo: «A ti, Diana, sólo toca</l>
+            <l n="100">defender con tu honor la causa mía.»</l>
+            <l>Mas el postrer acento ya la boca</l>
+            <l>a materia insensible reducía,</l>
+            <l>hecha ya verde cálamo la planta,</l>
+            <l>emulación de Dafne y de Atalanta.</l>
+         </lg>
+         <lg>
+            <l n="105">Desta alterada forma sale arguta</l>
+            <l>ansia animada en no formado canto,</l>
+            <l>cual revoca de si cóncava gruta</l>
+            <l>que se arrojó supersticioso encanto.</l>
+            <l>Suspensión a la fístula tributa</l>
+            <l n="110">—que admiró ninfa—, el que la inunda en llanto;</l>
+            <l>ella responde al susurrar del viento,</l>
+            <l>sin llanto, flébil, y sin voz, concento.</l>
+         </lg>
+         <lg>
+            <l>Endechas son en bosque armonioso</l>
+            <l>singultos, bien sentidos, mal formados</l>
+            <l n="115">acentuando en cuerpo ya frondoso,</l>
+            <l>suspiros de dolor alimentados;</l>
+            <l>lo que al fauno sujeto fue amoroso</l>
+            <l>débil es caña, y son sus pies alados</l>
+            <l>inmóvil tronco; acentos sus gemidos</l>
+            <l n="120">de afectos y de números vestidos.</l>
+         </lg>
+         <lg>
+            <l>De aquí formó Mercurio el instrumento</l>
+            <l>siete juntando cálamos en uno,</l>
+            <l>contra el que guarda el misterioso armento</l>
+            <l>con cien estrellas por quietud de Juno;</l>
+            <l n="125">dulce fue, si letal, el blando acento</l>
+            <l>del albogue, que entonces oportuno</l>
+            <l>le fue con su letárgica armonía</l>
+            <l>emulación süave de Talía.</l>
+         </lg>
+         <lg>
+            <l>Cual suele vaporear dulce Iieo</l>
+            <l n="130">cuando la acción vital turba y derriba,</l>
+            <l>néctar fue soporífero el leteo</l>
+            <l>del canto a quien vigilia cede viva;</l>
+            <l>escuro simulacro de Morfeo</l>
+            <l>cubrió de negro eclipse luz argiva,</l>
+            <l n="135">ya sus cien ojos lumbres quedan muertas</l>
+            <l>al ver cerradas y a la muerte abiertas.</l>
+         </lg>
+         <lg>
+            <l>Asió al cediente monstruo del cabello</l>
+            <l>mano al castigo eterno destinada,</l>
+            <l>y del gran tronco dividiendo el cuello</l>
+            <l n="140">tiñe en reflejo ardiente de la espada.</l>
+            <l>La intacta flor del fértil prado bello</l>
+            <l>del esparcido humor quedó manchada;</l>
+            <l>una mano fatal en sombra escura</l>
+            <l>dar pudo a cien estrellas sepultura.</l>
+         </lg>
+         <lg>
+            <l n="145">A sueño yace eterno conducido</l>
+            <l>el que con ojos ciento no dormia;</l>
+            <l>meridial es el golpe que ha podido</l>
+            <l>su costodia quitar, su luz al día;</l>
+            <l>mas de celoso afecto conmovido</l>
+            <l n="150">furor celeste el viento dividía;</l>
+            <l>orbe sin luz le halla, sus estrellas</l>
+            <l>extintas, ya postrado el polo dellas.</l>
+         </lg>
+         <lg>
+            <l>Cede a mayor efecto la constancia,</l>
+            <l>opaco yace el monte luminoso,</l>
+            <l n="155">ya la nunca omitida vigilancia</l>
+            <l>cayó en el seno del común reposo;</l>
+            <l>del que dio luz a la mayor distancia</l>
+            <l>llega la sombra al reino tenebroso,</l>
+            <l>de cuya negra barca conducido</l>
+            <l n="160">sulca los golfos del eterno olvido.</l>
+         </lg>
+         <lg>
+            <l>No la deidad quejosa se reprime,</l>
+            <l>antes, si llanto exhala, interna enojos,</l>
+            <l>viendo que a la gran madre el tronco oprime</l>
+            <l>que tantos animó lucientes ojos;</l>
+            <l n="165">y en el bello pavón la diosa imprime,</l>
+            <l>sellados como en urna, los despojos.</l>
+            <l>Del vago adorno el pájaro bizarro</l>
+            <l>con nueva presunción conduce el carro.</l>
+         </lg>
+         <lg>
+            <l>Juno, más ofendida que vengada,</l>
+            <l n="170">el agravio no olvida, antes, celosa,</l>
+            <l>de ponzoñoso estímulo tocada</l>
+            <l>dejó la vaca infelizmente hermosa.</l>
+            <l>La pacífica bestia, atormentada</l>
+            <l>de la mortal materia venenosa,</l>
+            <l n="175">a fugitivo paso llega a donde</l>
+            <l>su origen claro el Nilo nos esconde.</l>
+         </lg>
+         <lg>
+            <l>Cediendo al fin en solitaria arena,</l>
+            <l>ni con formada voz ni con bramido,</l>
+            <l>imperceptible por los aires suena</l>
+            <l n="180">flébil queja, dolor no interrumpido;</l>
+            <l>mueve justa piedad injusta pena</l>
+            <l>al que, si ya no amante, condolido,</l>
+            <l>de la diosa templó el celoso intento</l>
+            <l>con el nunca violado juramento.</l>
+         </lg>
+         <lg>
+            <l n="185">Por las estigias aguas le ha jurado</l>
+            <l>el que vibra los rayos con su mano</l>
+            <l>—del violento furor, del fuego alado,</l>
+            <l>generosa fatiga de Vulcano—</l>
+            <l>de no violar del himeneo sagrado</l>
+            <l n="190">el recíproco lazo soberano.</l>
+            <l>Acetada la voz, expreso el pacto,</l>
+            <l>pía seguridad nace del acto.</l>
+         </lg>
+         <lg>
+            <l>La primitiva le concede forma</l>
+            <l>alta pasión que le quitó la suya,</l>
+            <l n="195">cuando piedad alterna se conforma</l>
+            <l>en que a su mismo ser se restituya.</l>
+            <l>Ninfa ya miembros cándidos informa,</l>
+            <l>viste deidad, porque de Amor se arguya</l>
+            <l>a cuanto se extendió el poder celoso</l>
+            <l n="200">en un eterno pecho desdeñoso.</l>
+         </lg>
+         <lg>
+            <l>0 ya recato, o ya costumbre fuese,</l>
+            <l>tanto del nuevo ser se deleitaba</l>
+            <l>que siguió clara fuente donde viese</l>
+            <l>la perfecta materia que animaba;</l>
+            <l n="205">claros ecos buscó donde se oyese,</l>
+            <l>aunque de miedo de bramar callaba.</l>
+            <l>Humana voz confirma humano acento,</l>
+            <l>cabello y no melena esparce al viento.</l>
+         </lg>
+         <lg>
+            <l>Ésta fue diosa, y de ella tuvo el mundo</l>
+            <l n="210">al gran hijo, más claro que su abuelo,</l>
+            <l>gloriosa producción, semen fecundo,</l>
+            <l>rayo feliz de lo mejor del cielo.</l>
+            <l>Si primer no lugar, lugar segundo</l>
+            <l>joven menospreció, que en todo el suelo</l>
+            <l n="215">Epafo sólo el preceder le impide</l>
+            <l>al hijo ilustre del que el tiempo mide.</l>
+         </lg>
+         <lg>
+            <l>Y la alta emulación, que no consiente</l>
+            <l>en balanzas iguales niveladas</l>
+            <l>(las que influyeron astros altamente)</l>
+            <l n="220">acciones de ambicioso honor guiadas,</l>
+            <l>de la ardiente deidad al hijo ardiente</l>
+            <l>odio y quejas causó que, desatadas,</l>
+            <l>da a beber las espumas del quelidro</l>
+            <l>la venenosa invidia en poco vidro.</l>
+         </lg>
+         <lg>
+            <l n="225">Hízose obstinación la diferencia</l>
+            <l>de los que en luz paterna compitieron;</l>
+            <l>infeliz, por muy clara, la ascendencia</l>
+            <l>no benévolos astros influyeron;</l>
+            <l>efectos de ira, rayos de violencia</l>
+            <l n="230">de costoso discrimen procedieron</l>
+            <l>en que el hijo de flechas luminosas</l>
+            <l>tales articuló voces quejosas.</l>
+         </lg>
+         <lg>
+            <l>Con el que informó el padre, cuya mano</l>
+            <l>modera rayos, rayos de oro extiende,</l>
+            <l n="235">mortal asunto, pensamiento humano</l>
+            <l>en ambiciosa paridad contiende:</l>
+            <l>«¿Esplendor puede haber que no sea vano</l>
+            <l>con el que vivifica cuando esplende?</l>
+            <l>¿testificar no ves de polo a polo</l>
+            <l n="240">quién de vida y de luz es autor solo?»</l>
+         </lg>
+         <lg>
+            <l>Sus voces interrumpe voz esquiva,</l>
+            <l>y el ofendido ináquides responde:</l>
+            <l>«Más ignorante presunción que altiva,</l>
+            <l>Faetón, a tus palabras corresponde.</l>
+            <l n="245">¿Sabes que me dio forma la luz viva</l>
+            <l>del que sobre la luz habita, donde</l>
+            <l>brazo vibra inmortal el rayo ardiente</l>
+            <l>del cielo vengador gloriosamente?</l>
+         </lg>
+         <lg>
+            <l>Que este, pues, dios mi eterno padre sea,</l>
+            <l n="250">padre de Apolo, mira los altares,</l>
+            <l>que no hay mármol ni bronce que no vea</l>
+            <l>esta verdad en más remotos lares.</l>
+            <l>El ser tú hijo de la luz febea</l>
+            <l>con mejor testimonio es bien que aclares:</l>
+            <l n="255">¿juzgas que basta para darte padre</l>
+            <l>la incierta fe de tu ambiciosa madre?»</l>
+         </lg>
+         <lg>
+            <l>Huye corrido el hijo de Climene</l>
+            <l>(ansia inmortal de pena poderosa)</l>
+            <l>y del veneno que en el alma tiene</l>
+            <l n="260">ambición alimenta generosa.</l>
+            <l>Oráculo materno a buscar viene</l>
+            <l>con afrenta segura y fe dudosa</l>
+            <l>cuando a esparcirse el rosicler comienza</l>
+            <l>elocuencia fue muda la vergüenza:</l>
+         </lg>
+         <lg>
+            <l n="265">«Madre, o me desengaña, o me quieta</l>
+            <l>—dice a Climene el joven más osado—,</l>
+            <l>¿dime, soy hijo del mayor planeta</l>
+            <l>que conduce áureo carro al mar salado</l>
+            <l>y del que con distante y recta meta</l>
+            <l n="270">trópicos y equinoccios ha formado?</l>
+            <l>Mi afrenta advierte y tu piedad elija</l>
+            <l>más que aplauso falaz verdad prolija.»</l>
+         </lg>
+         <lg>
+            <l>Ella al dolor cediente en pena tanta,</l>
+            <l>vuelta al padre común levanta el cuello;</l>
+            <l n="275">pegósele la voz a la garganta</l>
+            <l>erizadas las hebras del cabello;</l>
+            <l>mas, entrándose en sí, cobrando cuanta</l>
+            <l>suspensión dio a la afrenta, el rayo bello</l>
+            <l>del sol eclipsa —esto diciendo—, y bebe</l>
+            <l n="280">las mismas perlas que su cielo llueve:</l>
+         </lg>
+         <lg>
+            <l>«Corpóreo ser ha dado a tu semblante,</l>
+            <l>formando tu materia en sus despojos,</l>
+            <l>el que, depuesto el carro rutilante,</l>
+            <l>duerme en la mar entre corales rojos;</l>
+            <l n="285">el deifico señor, el dios amante,</l>
+            <l>no percibida luz de humanos ojos,</l>
+            <l>el que sólo conduce a nuestra esfera</l>
+            <l>estío, otoño, invierno y primavera.</l>
+         </lg>
+         <lg>
+            <l>Si lo que callo desto y lo que digo,</l>
+            <l n="290">incrédulo Faetón, dudas agora,</l>
+            <l>daréte al común padre por testigo</l>
+            <l>que la región habita del aurora.</l>
+            <l>Deja el materno nido, ya enemigo,</l>
+            <l>que el Euro blando que en sus campos mora</l>
+            <l n="295">dará satisfacción a tus deseos</l>
+            <l>donde el sol nace en reinos nabateos.»</l>
+         </lg>
+         <lg>
+            <l>Dijo, y el joven temerario aceta</l>
+            <l>verificar la duda que le ofende,</l>
+            <l>cuyo norte es mental aquella meta</l>
+            <l n="300">que el camino al honor abrir pretende;</l>
+            <l>y como vuela rápido cometa</l>
+            <l>que al supurarse su materia extiende,</l>
+            <l>y, exhalación corusca de centellas,</l>
+            <l>instantáneo carácter forma dellas,</l>
+         </lg>
+         <lg>
+            <l n="305">tal en dudosa fe partió Faetonte</l>
+            <l>al trópico que abrevia nuestro día.</l>
+            <l>Huye las ursas y el nevado monte</l>
+            <l>que tiene su provincia siempre fría;</l>
+            <l>fijos los polos vio en el horizonte,</l>
+            <l n="310">pisó la equinoccial derecha vía</l>
+            <l>llegando por la zona sólo ardiente</l>
+            <l>al atrio sacro del señor de Oriente.</l>
+         </lg>
+         <lg>
+            <l>El gran palacio del señor de Délo,</l>
+            <l>en asiento fulgente colocado,</l>
+            <l n="315">en rectángulo cuadro está en el cielo</l>
+            <l>de líneas espirales coronado;</l>
+            <l>feliz labor en ático desvelo</l>
+            <l>émulo fue del jónico cuidado;</l>
+            <l>del superior metal arde la puerta</l>
+            <l n="320">a la meta de Alcides descubierta.</l>
+         </lg>
+         <lg>
+            <l>Los ámbitos que informan el tablero,</l>
+            <l>distinta proporción en peso grave,</l>
+            <l>del sitio circulando el grueso entero</l>
+            <l>hacen que el eje en sus convexos trabe.</l>
+            <l n="325">Paralelos describen el crucero</l>
+            <l>en simétrica planta, cuya nave</l>
+            <l>en serie igual contiene desiguales</l>
+            <l>brillantes frontispicios arcuales.</l>
+         </lg>
+         <lg>
+            <l>Nítido el muro desvenó el argento,</l>
+            <l n="330">y las estatuas del metal más fino</l>
+            <l>muestran en el clarísimo ornamento</l>
+            <l>digna labor de artífice divino;</l>
+            <l>en plana forma luce el pavimento</l>
+            <l>que a su materia sólida convino:</l>
+            <l n="335">no hay remoto lugar, ni oculta parte</l>
+            <l>donde no ostente su grandeza el arte.</l>
+         </lg>
+         <lg>
+            <l>Tributo es de Pactólo el rubio techo,</l>
+            <l>licencioso reflejo de luz pura,</l>
+            <l>en lata división, y forma a trecho</l>
+            <l n="340">el orden que venera la escultura;</l>
+            <l>diseño grande en nuevas líneas hecho</l>
+            <l>manifiesta en primor de arquitectura</l>
+            <l>divididos del año sus efectos,</l>
+            <l>superados del arte sus conceptos.</l>
+         </lg>
+         <lg>
+            <l n="345">Entre una y otra dórica coluna,</l>
+            <l>por eterno arquitecto repartida,</l>
+            <l>la blanca Cintia se percibe en una</l>
+            <l>forma del rubio hermano dividida;</l>
+            <l>sigue la formación y no hay ninguna</l>
+            <l n="350">parte inferior sin traza compartida;</l>
+            <l>de pesante metal máquinas graves</l>
+            <l>sustentan las cornisas y arquitrabes.</l>
+         </lg>
+         <lg>
+            <l>Forman nuevo esplendor, si no elemento,</l>
+            <l>de rayos que en sus círculos se giran,</l>
+            <l n="355">carbunclos en cristal por ornamento</l>
+            <l>que a ser el fuego elemental aspiran;</l>
+            <l>y, sustentando el áureo firmamento,</l>
+            <l>animan las estatuas y respiran</l>
+            <l>erigiendo con círculos rotantes</l>
+            <l n="360">relojes, astrolabios y cuadrantes.</l>
+         </lg>
+         <lg>
+            <l>Los follajes supremos son menores,</l>
+            <l>mas los reflejos que a la vista ofrecen</l>
+            <l>forman en perspectiva resplandores</l>
+            <l>que no se dejan ver y se parecen;</l>
+            <l n="365">friso de oro los une, y, superiores,</l>
+            <l>tanto en honor del arte resplandecen</l>
+            <l>que Cupidos desnudos y lascivos</l>
+            <l>en ardiente festón parecen vivos.</l>
+         </lg>
+         <lg>
+            <l>Corona las lucientes proporciones</l>
+            <l n="370">de apolíneo metal flamante cielo,</l>
+            <l>donde los esculpidos medallones</l>
+            <l>son milagro fabril del escarpelo;</l>
+            <l>uniforme comparte formaciones</l>
+            <l>por la circunferencia el paralelo,</l>
+            <l n="375">y los últimos puntos giran dentro</l>
+            <l>a terminar sus líneas en su centro.</l>
+         </lg>
+         <lg>
+            <l>Esta que informa cúpula su cima</l>
+            <l>luz distribuía al medio globo entero,</l>
+            <l>y la figura que sobre ella anima</l>
+            <l n="380">de incógnito metal orna el crucero.</l>
+            <l>Pomposa majestad aquí sublima</l>
+            <l>este lugar que es último y primero,</l>
+            <l>donde en ardiente pompa perfecciona</l>
+            <l>cándido cetro y nítida corona.</l>
+         </lg>
+         <lg>
+            <l n="385">No es lo menos ilustre del palacio</l>
+            <l>que en nichos que informó metal sonoro</l>
+            <l>el rubí ardiente, el pálido topacio,</l>
+            <l>lucida afrenta están haciendo al oro,</l>
+            <l>de oblicua proporción distinto espacio,</l>
+            <l n="390">cuanto de signos terno en alto coro</l>
+            <l>a la luz forma curso y la divide</l>
+            <l>y traspasar sus límites le impide.</l>
+         </lg>
+         <lg>
+            <l>El animal de Coicos que ligero</l>
+            <l>abrió el seno de Tetis inconstante,</l>
+            <l n="395">norte después al que surcó primero</l>
+            <l>las ondas atrevido navegante,</l>
+            <l>raptor lascivo es, en forma fiero,</l>
+            <l>mentido nadador y dios amante.</l>
+            <l>Hijas luego de Leda dos estrellas</l>
+            <l n="400">en amar se conforman y en ser bellas.</l>
+         </lg>
+         <lg>
+            <l>De Cancro retrocede el gran planeta,</l>
+            <l>y antes que torne, al austro encaminado,</l>
+            <l>última estampa línea, erige meta,</l>
+            <l>de luz rayante en trópico formado,</l>
+            <l n="405">al que la clava de Hércules sujeta,</l>
+            <l>líbico rey de rayos coronado,</l>
+            <l>Erígone, logrando sus fatigas,</l>
+            <l>estrellas dora tantas como espigas.</l>
+         </lg>
+         <lg>
+            <l>Igual nivela siempre su hermosura</l>
+            <l n="410">el ponderado símbolo de Astrea;</l>
+            <l>de leroz signo luego mal segura</l>
+            <l>cede a monstruo mayor la luz febea;</l>
+            <l>de su arco la cuerda flecha dura</l>
+            <l>Quirón biforme, y pródiga Amaltea</l>
+            <l n="415">opuesto forma trópico, y en éste</l>
+            <l>rayos ostenta el Egipán celeste.</l>
+         </lg>
+         <lg>
+            <l>Derramando el tributo de Nereo,</l>
+            <l>su casa guarda el celestial Neptuno,</l>
+            <l>y, vertiendo su líquido trofeo,</l>
+            <l n="420">vecino es a los peces oportuno;</l>
+            <l>viaje claro al término febeo</l>
+            <l>paralelos describe, y cada uno</l>
+            <l>tiende sobre el zafir luciente velo</l>
+            <l>de la color con que nos miente el cielo.</l>
+         </lg>
+         <lg>
+            <l n="425">Ninguna arquitectura es diferente,</l>
+            <l>ni dista su labor de la primera;</l>
+            <l>lo dibujado sí, que variamente</l>
+            <l>artífice sutil muda y altera,</l>
+            <l>como freno del mar la arena algente</l>
+            <l n="430">de muralla le sirve en su ribera,</l>
+            <l>en el término mismo que la puso</l>
+            <l>el que lugar y centro lo dispuso.</l>
+         </lg>
+         <lg>
+            <l>El gran rector del húmido elemento</l>
+            <l>de marítimas ovas coronado,</l>
+            <l n="435">cortando a Tetis el instable argento,</l>
+            <l>discurre undoso, volador no alado;</l>
+            <l>nadantes aves de cerúleo asiento</l>
+            <l>itineran el piélago salado,</l>
+            <l>y coros de nereidas asistentes</l>
+            <l n="440">bello le hacen círculo obedientes.</l>
+         </lg>
+         <lg>
+            <l>Neptuno en concha argéntea predomina</l>
+            <l>los verdes golfos cuyos senos ara,</l>
+            <l>sigue el rubro timón turba nerina</l>
+            <l>cuando de espumas viste el agua clara;</l>
+            <l n="445">de los ganchosos ramos de su mina</l>
+            <l>nunca Tetis se vio menos avara,</l>
+            <l>émulo nacar del mejor diamante,</l>
+            <l>su proa la región surca inconstante.</l>
+         </lg>
+         <lg>
+            <l>Fraterna unión del coro panopeo</l>
+            <l n="450">selva de ninfas aparente enseña,</l>
+            <l>donde impugnado vio mayor deseo</l>
+            <l>gran cíclope de ninfa zahareña;</l>
+            <l>bellas náuticas hijas de Nereo</l>
+            <l>dosel gozan opaco de una peña,</l>
+            <l n="455">Eco en si quiebra última ajeno acento</l>
+            <l>en voz quejosa articulando el viento.</l>
+         </lg>
+         <lg>
+            <l>Por culpa ajena en lazos de diamante</l>
+            <l>yace, a más duro escollo vinculado,</l>
+            <l>el imán que desnudo vio el amante</l>
+            <l n="460">al marino suplicio destinado,</l>
+            <l>cuando el denuedo argólico volante,</l>
+            <l>caló de amor y de sí mismo armado,</l>
+            <l>y en digno vencimiento indigna gloria</l>
+            <l>tanta premió beldad, tanta victoria.</l>
+         </lg>
+         <lg>
+            <l n="465">Sobre brillante argento dibujada,</l>
+            <l>de la materia el arte no vencida,</l>
+            <l>mentida forma, si deidad alada,</l>
+            <l>volante fue raptor del garzón de Ida.</l>
+            <l>Ninfa, después laurel, aun no alcanzada,</l>
+            <l n="470">muestra el que rayos llora en su huida,</l>
+            <l>escultura que ser ejemplo quiso,</l>
+            <l>y en fugitiva culpa estable aviso.</l>
+         </lg>
+         <lg>
+            <l>Del arco ya Eurídice concedida</l>
+            <l>al incrédulo esposo estaba, cuando,</l>
+            <l n="475">por volverla a mirar, la ve perdida,</l>
+            <l>acentos numerosos acordando;</l>
+            <l>pero después, en selva ensordecida,</l>
+            <l>a femenil dureza el pecho blando</l>
+            <l>cede y el son canoro a quien tributo</l>
+            <l n="480">le pagó el reino del eterno luto.</l>
+         </lg>
+         <lg>
+            <l>Por campo undoso el robador de Europa</l>
+            <l>el apacible peso conducía,</l>
+            <l>viscosa el mar, el viento alada tropa</l>
+            <l>de invidiosos secuaces le ofrecía;</l>
+            <l n="485">sin norte no, bien que a bajel sin popa</l>
+            <l>con ardiente fanal Amor es guía,</l>
+            <l>cuyo triunfo feliz en la ribera</l>
+            <l>sobre florido tálamo le espera.</l>
+         </lg>
+         <lg>
+            <l>En su polo luciente Casiopea,</l>
+            <l n="490">del rigor de las ninfas preservada,</l>
+            <l>por despojos de Alcides piel nemea</l>
+            <l>con ella en áureo nicho está informada;</l>
+            <l>inalterable en su candor Astrea</l>
+            <l>vive a región más pura trasladada,</l>
+            <l n="495">cuando la corrompida edad del hierro</l>
+            <l>enorme dio materia a su destierro.</l>
+         </lg>
+         <lg>
+            <l>E! hijo de Liríope la fuente</l>
+            <l>del líquido cristal menos inflama</l>
+            <l>que a la amorosa ninfa que le siente</l>
+            <l n="500">no menos sordo, cuanto más le llama;</l>
+            <l>si no espejo, venganza transparente</l>
+            <l>amor propio la dio, que propia llama</l>
+            <l>Fénix es que renueva y tiene viva</l>
+            <l>con aviso ejemplar su culpa esquiva.</l>
+         </lg>
+         <lg>
+            <l n="505">El gran pastor que vio desnuda en Ida</l>
+            <l>de tres deidades competida gloria</l>
+            <l>a Venus áurea prenda dio, vencida</l>
+            <l>de su cabello, en premio de victoria;</l>
+            <l>quejosa Juno, Palas ofendida,</l>
+            <l n="510">quisieron demolir de la memoria,</l>
+            <l>como del muro, el claro perjuicio</l>
+            <l>que a sus beldades intimó el juicio.</l>
+         </lg>
+         <lg>
+            <l>Obras eternas informando, en una</l>
+            <l>parte dibuja descripción brillante,</l>
+            <l n="515">del que nació gigante y en la cuna</l>
+            <l>a tres dragones se mostró gigante,</l>
+            <l>cuyo natal, alivio a la fortuna,</l>
+            <l>presago fue del fatigado Atlante</l>
+            <l>cuando, a peso mayor capaz, ostenta</l>
+            <l n="520">la cerviz del león que orbes sustenta.</l>
+         </lg>
+         <lg>
+            <l>Fluido el oro en mansa parte Leda,</l>
+            <l>no percibe el sentido si le mueve</l>
+            <l>este al engaño cándido de Leda,</l>
+            <l>el rubio dio metal que a Dánae llueve;</l>
+            <l n="525">blanco globo de Juno en láctea rueda</l>
+            <l>la plata exúbero, cendró la nieve,</l>
+            <l>ardiente es la materia que no brilla</l>
+            <l>en no menor que eterna maravilla.</l>
+         </lg>
+         <lg>
+            <l>En verde selva, en bosque luminoso,</l>
+            <l n="530">de cándida pared resalta el verde</l>
+            <l>venéreo mirto, cuyo honor frondoso</l>
+            <l>entre solares rayos no se pierde.</l>
+            <l>El árbol que respeta el venenoso</l>
+            <l>diente, porque a su tronco nunca muerde,</l>
+            <l n="535">besa las plantas de la planta sólo</l>
+            <l>regada con las lágrimas de Apolo.</l>
+         </lg>
+         <lg>
+            <l>El triunfo dedicado a su decoro,</l>
+            <l>premio del vencedor, vuela Atalanta,</l>
+            <l>bien que los globos encantados de oro</l>
+            <l n="540">remoras son tenaces a su planta;</l>
+            <l>nunca pudo el jardín del sabio moro</l>
+            <l>cultivar frutos de codicia tanta</l>
+            <l>mejor que el joven que intimó, felices,</l>
+            <l>freno a! desdén, a la ambición raíces.</l>
+         </lg>
+         <lg>
+            <l n="545">Robó de su candor los alhelíes</l>
+            <l>de ambición venatoria el accidente,</l>
+            <l>cuando el humor los trasladó rubíes</l>
+            <l>de la mina que abrió celoso diente;</l>
+            <l>entre cuyas centellas carmesíes,</l>
+            <l n="550">no perdonada del arpón ardiente,</l>
+            <l>del hijo bella madre en perlas lava</l>
+            <l>mal herida beldad de deidad brava.</l>
+         </lg>
+         <lg>
+            <l>Negra tormenta en el luciente muro</l>
+            <l>las hondas exprimían de Aqueronte,</l>
+            <l n="555">percebido a su lumbre el reino obscuro</l>
+            <l>el brazo ardiente ministro de Bronte;</l>
+            <l>la calígine densa, el aire impuro,</l>
+            <l>sulfúrea exhalación de Flegetonte</l>
+            <l>fabril le deberá esplendor eterno</l>
+            <l n="560">el de la blanca espuma obscuro [yjerno.</l>
+         </lg>
+         <lg>
+            <l>Iris inalterable el arco tiende</l>
+            <l>coronando diáfanos cristales</l>
+            <l>uniforme en color, no cual se extiende</l>
+            <l>lampos pacificando celestiales;</l>
+            <l n="565">a cuya luz el arte se aprehende,</l>
+            <l>que animó piedras y formó metales,</l>
+            <l>donde líneas pudieron los buriles</l>
+            <l>admirar duros y morder sutiles.</l>
+         </lg>
+         <lg>
+            <l>La fulminada gente en otra parte</l>
+            <l n="570">suplicios dignos de la culpa halla,</l>
+            <l>que blandió lanza y tremoló estandarte</l>
+            <l>contra el Olimpo en desigual batalla.</l>
+            <l>En ardiente deidad esplende Marte</l>
+            <l>luz de su diestra, rayos de su malla,</l>
+            <l n="575">y el sudor de Vulcano en flechas vibra</l>
+            <l>el que sus cursos a los orbes libra.</l>
+         </lg>
+         <lg>
+            <l>Bella, aunque varia, está la varia diosa</l>
+            <l>que con mano incapaz su rueda rige,</l>
+            <l>nunca neutral y siempre peligrosa,</l>
+            <l n="580">a veces condenando lo que elige;</l>
+            <l>sublima derribados, poderosa,</l>
+            <l>estatuas postra que ella misma erige,</l>
+            <l>muda con los efectos el semblante</l>
+            <l>y sólo en sus mudanzas es constante.</l>
+         </lg>
+         <lg>
+            <l n="585">Al que menos merece más estima,</l>
+            <l>y desestima más al que merece,</l>
+            <l>indignos pechos su inconstancia anima,</l>
+            <l>culpas aplaude, aplausos desvanece;</l>
+            <l>ingrata ofende, desigual lastima,</l>
+            <l n="590">cumple sin prometer, falta si ofrece;</l>
+            <l>licenciosa pasión, cuya porfía</l>
+            <l>aborta monstruos y prodigios cría.</l>
+         </lg>
+         <lg>
+            <l>Razón es voluntad, fuerza su intento,</l>
+            <l>los preceptos observa que no arguye,</l>
+            <l n="595">hurta al valor el premio y al talento</l>
+            <l>y lo que no fue deuda restituye;</l>
+            <l>sabe hiiir del que la sigue atento,</l>
+            <l>y sabiendo alcanzar al que la huye</l>
+            <l>sólo cierta en su misma incertidumbre</l>
+            <l n="600">hace naturaleza esta costumbre.</l>
+         </lg>
+         <lg>
+            <l>Del error juvenil parcial amiga</l>
+            <l>desprecia la deidad del tiempo cano;</l>
+            <l>y la rueda fatal con que castiga</l>
+            <l>asida tiene a la derecha mano;</l>
+            <l n="605">del mérito ejemplar se desobliga,</l>
+            <l>con ella la razón se alega en vano,</l>
+            <l>la ley impugna, la verdad desmiente,</l>
+            <l>y sabe no aprobar lo que consiente.</l>
+         </lg>
+         <lg>
+            <l>Reina de casos, diosa de accidentes,</l>
+            <l n="610">tabla del tiempo en que su agravio escribe,</l>
+            <l>que en hacer de culpados inocentes</l>
+            <l>aplausos halla y vanidad concibe.</l>
+            <l>Juzga como pasados los presentes,</l>
+            <l>y al tribunal de la razón inhibe,</l>
+            <l n="615">que en la libre región de su albedrío</l>
+            <l>la razón obedece el desvarío.</l>
+         </lg>
+         <lg>
+            <l>Culpa y disculpa en la mayor porfía</l>
+            <l>voluntarioso error, pasión exenta,</l>
+            <l>en cuya injusta afrenta y demasía</l>
+            <l n="620">sólo es satisfacción la misma afrenta;</l>
+            <l>enigma de ambición y tiranía,</l>
+            <l>cuenta varia sin orden, cuya cuenta</l>
+            <l>los méritos premiando con enojos,</l>
+            <l>absuelve culpas y disculpa antojos.</l>
+         </lg>
+         <lg>
+            <l n="625">Entre los cuatro vientos la formaron</l>
+            <l>sobre el vagante reino de Neptuno,</l>
+            <l>y con tal inconstancia la animaron</l>
+            <l>que la mueve y la altera cada uno;</l>
+            <l>de virtud atributos dibujaron</l>
+            <l n="630">postrados a sus pies, y no hay ninguno</l>
+            <l>que ofendido no llore el escarmiento</l>
+            <l>del tribunal de aquesta diosa exento.</l>
+         </lg>
+         <lg>
+            <l>Luego, en soberbio carro, un tierno infante,</l>
+            <l>cuyo el cielo poder teme y admira,</l>
+            <l n="635">de alas vestido en arco de diamante</l>
+            <l>ciego no yerra, aunque vendado tira;</l>
+            <l>con licenciosa flecha penetrante</l>
+            <l>acredita las fuerzas de su ira;</l>
+            <l>cayados, cetros, armas y tiaras</l>
+            <l n="640">ofrecen holocaustos a sus aras.</l>
+         </lg>
+         <lg>
+            <l>En el volante reino predomina</l>
+            <l>que por leve región le huye en vano;</l>
+            <l>la escama entre las olas y la espina</l>
+            <l>rinde tributo al inmortal tirano.</l>
+            <l n="645">Humana potestad, ni ley divina</l>
+            <l>de las flechas se exenta de su mano:</l>
+            <l>deshace imperios y escuadrones rompe</l>
+            <l>y el orden de los hados interrompe.</l>
+         </lg>
+         <lg>
+            <l>Milagros de la madre Citerea</l>
+            <l n="650">oficiosa de amor arte consuma,</l>
+            <l>y nerina beldad concha eritrea</l>
+            <l>rige con velas de su ociosa pluma.</l>
+            <l>Entre Tetis pintada y Calatea</l>
+            <l>la blanca hija de la blanca espuma</l>
+            <l n="655">supedita su reino y deja el verla</l>
+            <l>con palor al coral, roja la perla.</l>
+         </lg>
+         <lg>
+            <l>Sobre el timón en brazos de Cupido</l>
+            <l>hija de Tetis a su margen llega,</l>
+            <l>el duro escollo deja condolido</l>
+            <l n="660">que Polifemo con su llanto riega.</l>
+            <l>El promontorio asiente, conmovido,</l>
+            <l>y al trámite de Cipria, que navega,</l>
+            <l>no hay marina deidad sin don palustre</l>
+            <l>para honorar la pasajera ilustre.</l>
+         </lg>
+         <lg>
+            <l n="665">En voluble región lúbrico seno,</l>
+            <l>tranquila la que nace en su ribera,</l>
+            <l>pinta a Neptuno el negro dios sereno</l>
+            <l>y al Amor por fanal de su venera;</l>
+            <l>sigue a ninfa del mar Tritón obsceno,</l>
+            <l n="670">undosa potestad huye ligera;</l>
+            <l>Venus los remos de cristal suspende</l>
+            <l>y el fin lascivo de la fuga atiende.</l>
+         </lg>
+         <lg>
+            <l>El soberbio lugar Faetón advierte</l>
+            <l>que sobre el ecuator mira al ocaso;</l>
+            <l n="675">el brillante esplendor no le divierte</l>
+            <l>puesta la mente en más difícil caso.</l>
+            <l>Penetra heroico pecho, alcázar fuerte,</l>
+            <l>constante fe introduce osado paso,</l>
+            <l>cuando el mayor lucero ya queria</l>
+            <l n="680">los rayos desatar, soltar el día.</l>
+         </lg>
+         <lg>
+            <l>El atrio pisó apenas, cuando siente</l>
+            <l>que imperceptible luz su vista hiere,</l>
+            <l>entorpece el mirar, baja la frente,</l>
+            <l>termina la aprehensión o la difiere.</l>
+            <l n="685">Paso, si confiado, reverente</l>
+            <l>al paterno sagrario le prefiere,</l>
+            <l>al rayo interponiendo atenta mano</l>
+            <l>de las especies que resiste en vano.</l>
+         </lg>
+         <lg>
+            <l>Sus ancillas, las Horas, el vestido</l>
+            <l n="690">claro ministran con oficio atento,</l>
+            <l>a cuyo objeto aplican el sentido</l>
+            <l>haciendo emulación y envidia al viento;</l>
+            <l>de átomos volantes del olvido</l>
+            <l>constan madres aladas; del momento</l>
+            <l n="695">dan alma al tiempo y tiempo al desengaño,</l>
+            <l>meta al día, plazo al mes, materia al año.</l>
+         </lg>
+         <lg>
+            <l>Tiene a la diestra mano una doncella</l>
+            <l>el padre de la luz poco distante,</l>
+            <l>a cuyo foco en siempre verde huella</l>
+            <l n="700">respira el aura suavidad fragranté;</l>
+            <l>pródiga de esperanzas nació bella</l>
+            <l>más que de ricos frutos abundante,</l>
+            <l>los prados la tributan esmeraldas,</l>
+            <l>Pomona flores, Flora sus guirnaldas.</l>
+         </lg>
+         <lg>
+            <l n="705">Coros pintados de lascivas aves</l>
+            <l>del blanco cuello de la ninfa penden,</l>
+            <l>y leves por sujeto, quejas graves,</l>
+            <l>en concento acordado no suspenden.</l>
+            <l>Rígido tribunal, voces süaves</l>
+            <l n="710">de ciego alado dios mover pretenden;</l>
+            <l>compasivo recógelas Favonio,</l>
+            <l>de obscuro imperio claro testimonio.</l>
+         </lg>
+         <lg>
+            <l>Corona rubia Ceres el Estío,</l>
+            <l>que es del rayo solar vecino adusto;</l>
+            <l n="715">poco tributo al mar conduce el río</l>
+            <l>en la sazón que guarda el nombre Augusto;</l>
+            <l>Tetis depone el ceño y pierde el brío,</l>
+            <l>y mercadante undívago, a su gusto,</l>
+            <l>las velas suelta, y sin cuidado alguno</l>
+            <l n="720">ara el cerúleo campo de Neptuno.</l>
+         </lg>
+         <lg>
+            <l>De la madre común recoge el fruto,</l>
+            <l>premio final de pródigas fatigas,</l>
+            <l>en árida sazón cobrando astuto</l>
+            <l>el rubio honor de fértiles espigas;</l>
+            <l n="725">de Ceres atesora el gran tributo</l>
+            <l>en rica parva, donde las hormigas</l>
+            <l>robo cometen providente al grano</l>
+            <l>que avaro agricultor impugna en vano.</l>
+         </lg>
+         <lg>
+            <l>Poco distante un viejo está sediento,</l>
+            <l n="730">de tez sanguínea y barba no peinada,</l>
+            <l>a ministerios sórdidos atento,</l>
+            <l>de pámpanos la frente coronada.</l>
+            <l>Copia abundante, al cuerpo soñoliento,</l>
+            <l>la vid le ofrece culta que, lograda,</l>
+            <l n="735">por holocaustos le presenta opimos</l>
+            <l>dulces uvas en fértiles racimos.</l>
+         </lg>
+         <lg>
+            <l>Plácido sí, mas apacible ofende,</l>
+            <l>como al vecino ardiente sigue luego;</l>
+            <l>a los rayos del sol su rostro enciende</l>
+            <l n="740">capaz de alteración en su sosiego.</l>
+            <l>Promedia las sazones y pretende</l>
+            <l>el arbitrio común de yelo y fuego,</l>
+            <l>bien que con sed rígidamente austera</l>
+            <l>adusta el campo, enjuga la ribera.</l>
+         </lg>
+         <lg>
+            <l n="745">Viejo en seco palor, de canas lleno,</l>
+            <l>el ánimo oprimiendo más valiente,</l>
+            <l>de natural color eclipsa ajeno</l>
+            <l>al gran planeta la serena frente;</l>
+            <l>a cuyos rayos de oro, opaco seno</l>
+            <l n="750">hace su oposición por accidente,</l>
+            <l>émulo de la luz la tierra oprime</l>
+            <l>que en grillos de cristal atada gime.</l>
+         </lg>
+         <lg>
+            <l>Pone a los montes cándida corona,</l>
+            <l>severamente airado con la tierra;</l>
+            <l n="755">duerme en sus lechos rígidos Belona</l>
+            <l>y en sus grutas a Tetis hace guerra,</l>
+            <l>cuyo flato mortal Eolo inficiona</l>
+            <l>cuando sus espeluncas desencierra;</l>
+            <l>ceden las verdes hojas a sus furias</l>
+            <l n="760">no perdonando al tronco sus injurias.</l>
+         </lg>
+         <lg>
+            <l>Déstos es padre el venerable ingrato,</l>
+            <l>desconocido siempre y siempre amado,</l>
+            <l>susto del viento, sombra del recato,</l>
+            <l>o futuro mirándole o pasado;</l>
+            <l n="765">desalienta el engaño, arriba al trato,</l>
+            <l>de sus alas él mismo no alcanzado;</l>
+            <l>con la fuerza menor de sus misterios</l>
+            <l>muda provincias y deshace imperios.</l>
+         </lg>
+         <lg>
+            <l>Estatuas muerde y mármoles digiere,</l>
+            <l n="770">émulo de soberbios edificios;</l>
+            <l>alado vencedor colosos hiere,</l>
+            <l>cuyas rüinas son sus sacrificios;</l>
+            <l>sabe acortar lo mismo que difiere,</l>
+            <l>formando engaños verifica indicios;</l>
+            <l n="775">de la tersa verdad padre celante</l>
+            <l>en incesable ser, leve y constante.</l>
+         </lg>
+         <lg>
+            <l>Interpreta la ley, la ley altera,</l>
+            <l>fuerza tiene invencible su flaqueza;</l>
+            <l>sobre los cetros su deidad impera,</l>
+            <l n="780">termina y da principio a la nobleza;</l>
+            <l>verídicos anales en su esfera</l>
+            <l>archivan el valor y la bajeza;</l>
+            <l>desigualmente pone igual su brazo</l>
+            <l>límite al fin y términos al plazo.</l>
+         </lg>
+         <lg>
+            <l n="785">Con fuerza inútilmente resistida</l>
+            <l>tiene dominio en varios accidentes;</l>
+            <l>pondera estimación que él mismo olvida,</l>
+            <l>atropella y levanta inconvenientes.</l>
+            <l>Las filatrices de la humana vida,</l>
+            <l n="790">al rigor de su término obedientes</l>
+            <l>hilo Láquesis apta vitalicio</l>
+            <l>que Atropos corta en más crüento oficio.</l>
+         </lg>
+         <lg>
+            <l>Un libro en hojas de diamante puro</l>
+            <l>el obstinado viejo siempre muerde,</l>
+            <l n="795">donde imprimió el honor con sincel duro</l>
+            <l>la gloria que por muerte no se pierde.</l>
+            <l>Minerva en él, con esplendor seguro,</l>
+            <l>el vencedor laurel conserva verde</l>
+            <l>que mereció magnánimo y constante</l>
+            <l n="800">el digno aplauso del valor triunfante.</l>
+         </lg>
+         <lg>
+            <l>De mal talante las hazañas mira</l>
+            <l>que con voz inmortal el mundo aclama;</l>
+            <l>el denodado esfuerzo no le admira,</l>
+            <l>que todo lo produce y lo derrama;</l>
+            <l n="805">los efectos de obsequio le dan ira,</l>
+            <l>no le ofende el valor sino la fama,</l>
+            <l>que sólo a su deidad pone ceniza</l>
+            <l>lo que sobre su imperio se eterniza.</l>
+         </lg>
+         <lg>
+            <l>Con plumas de sus alas la memoria</l>
+            <l n="810">su esencia anima y deja encomendada</l>
+            <l>al clarísimo archivo de la historia</l>
+            <l>donde vive de olvido reservada;</l>
+            <l>émula allí del sol arde la gloria,</l>
+            <l>no de luz material, sino formada</l>
+            <l n="815">del sudor generoso, a quien en vano</l>
+            <l>osa el diente roer del tiempo cano.</l>
+         </lg>
+         <lg>
+            <l>La eternidad que, estábil y constante,</l>
+            <l>del viejo alado el vago curso enfrena,</l>
+            <l>en grillos de densísimo diamante</l>
+            <l n="820">los años y los siglos encadena;</l>
+            <l>ésta, de la inmortal virtud amante,</l>
+            <l>funda su templo en la región serena,</l>
+            <l>donde penden por triunfos de su suerte</l>
+            <l>alas del tiempo y armas de la muerte.</l>
+         </lg>
+         <lg>
+            <l n="825">Apolo en venerando patrocinio</l>
+            <l>forma en tristerno coro alta corona,</l>
+            <l>estableciendo el ínclito dominio</l>
+            <l>de las felices aguas de Helicona;</l>
+            <l>y el soberano honor del vaticinio</l>
+            <l n="830">con inmortal aliento perficiona;</l>
+            <l>y por lo que con sus números conserva</l>
+            <l>es tributario Marte de Minerva.</l>
+         </lg>
+         <lg>
+            <l>Los renombres latinos, cuyo ejemplo</l>
+            <l>norte será glorioso a los futuros</l>
+            <l n="835">alumnos de la fama, los contemplo</l>
+            <l>del segundo morir siempre seguros;</l>
+            <l>cuyo claro esplendor consagra templo,</l>
+            <l>y libra de sus émulos oscuros</l>
+            <l>al valor en quien vive la venganza</l>
+            <l n="840">que el asunto inmortal del tiempo alcanza.</l>
+         </lg>
+         <lg>
+            <l>Batallas, triunfos, mares descubiertos,</l>
+            <l>pechos soberbios, ánimos altivos,</l>
+            <l>que en sepulcros llorados como muertos</l>
+            <l>para nunca morir quedaron vivos;</l>
+            <l n="845">ánimos generosos y despiertos,</l>
+            <l>cuyos claros trabajos excesivos</l>
+            <l>los inmortales nombres colocaron</l>
+            <l>donde tiempo y olvido no alcanzaron.</l>
+         </lg>
+         <lg>
+            <l>Este aplauso, y la luz que predomina</l>
+            <l n="850">siempre invencible en generoso pecho,</l>
+            <l>o el hado inevitable que encamina</l>
+            <l>a lo que ha establecido por derecho</l>
+            <l>conducen al gran joven que camina</l>
+            <l>tras la esperanza del dudoso hecho.</l>
+            <l n="855">Y ante el padre postrado la primera</l>
+            <l>voz del pecho expresó de esta manera:</l>
+         </lg>
+         <lg>
+            <l>«Si tu mente percibe y si previene</l>
+            <l>futuro evento, evento sucedido</l>
+            <l>por ti, señor, si en tu memoria tiene</l>
+            <l n="860">clara preservación de oscuro olvido,</l>
+            <l>el único soy hijo de Climene</l>
+            <l>de tu esencia inefable producido,</l>
+            <l>si la verdad materna no me falta,</l>
+            <l>del trono ardiente en la deidad más alta.»</l>
+         </lg>
+         <lg>
+            <l n="865">El autor de la luz al esforzado</l>
+            <l>Faetón, nueva prestándole templanza,</l>
+            <l>supuesto le responde, derivado</l>
+            <l>de eterna lumbre en reino sin mudanza:</l>
+            <l>«Osa que, felizmente confiado,</l>
+            <l n="870">no frustrará mi amor tu confianza.</l>
+            <l>¿Qué causa no menor pudo que tanta</l>
+            <l>contra el curso solar mover tu planta?»</l>
+         </lg>
+         <lg>
+            <l>Arrebató la voz, y el impaciente</l>
+            <l>hijo le dice al padre que modera</l>
+            <l n="875">con el eterno rayo y con la mente</l>
+            <l>los variados cursos de la esfera:</l>
+            <l>«Si tu luz es común, ¿por qué consiente</l>
+            <l>que obscuro viva y más obscuro muera</l>
+            <l>no me dando seña! donde se vea</l>
+            <l n="880">que soy un rayo de la luz febea?</l>
+         </lg>
+         <lg>
+            <l>No quieras ya dejar, gran padre, inulta</l>
+            <l>la culpa que a mi ser y al tuyo ofende</l>
+            <l>del que malignamente dificulta</l>
+            <l>lo que de mi ascendencia comprehende;</l>
+            <l n="885">de cuya duda el deshonor resulta</l>
+            <l>que el más terso esplendor manchar pretende.</l>
+            <l>Muévate a piedad, muévate cuanto</l>
+            <l>mi afrenta exageró materno llanto.</l>
+         </lg>
+         <lg>
+            <l>Meta de honor, y fatigable aliento,</l>
+            <l n="890">norte fueron mental de mi porfía;</l>
+            <l>alas vistió de rabia el pensamiento</l>
+            <l>que ofendida razón tuvo por guía.</l>
+            <l>Pisé los atrios de tu firmamento</l>
+            <l>y el áurea cuna del nasciente día,</l>
+            <l n="895">pasión que penetrara por los muros</l>
+            <l>de los imperios de Plutón obscuros.</l>
+         </lg>
+         <lg>
+            <l>Prenda conceda al fatigado pecho</l>
+            <l>de mi verdad tu cándida pureza,</l>
+            <l>así de Tetis el instable lecho</l>
+            <l n="900">deponga al acogerte su fiereza,</l>
+            <l>y así, en su primer forma satisfecho,</l>
+            <l>deje tu amor la que vistió corteza,</l>
+            <l>cediente al tuyo el temerario fuego</l>
+            <l>del que al herir es lince y al ver ciego.»</l>
+         </lg>
+         <lg>
+            <l n="905">Dijo, y Apolo le replica tierno:</l>
+            <l>«Climene, madre tuya, no te miente,</l>
+            <l>prole desciendes de mi seno eterno,</l>
+            <l>origen inmortal muestra tu frente».</l>
+            <l>Y aditándole el nítido gobierno,</l>
+            <l n="910">que distingue las horas a la gente,</l>
+            <l>con protesto inmortal de fe pura,</l>
+            <l>esto a Faetón su padre le asegura:</l>
+         </lg>
+         <lg>
+            <l>«Porque deseches el injusto miedo</l>
+            <l>que con prolijas dudas te importuna,</l>
+            <l n="915">cuanto quieras pedirme te concedo:</l>
+            <l>dispon tú mismo el hado a tu fortuna.</l>
+            <l>Con inviolable fe ligado quedo</l>
+            <l>por el averno imperio y la laguna</l>
+            <l>que ya es prenda verídica en el cielo</l>
+            <l n="920">por lo que, ninfa, mereció su celo».</l>
+         </lg>
+         <lg>
+            <l>De la alta voz del juramento ufano</l>
+            <l>a su padre Faetón, autor del día</l>
+            <l>ser le pide una vez, y el soberano</l>
+            <l>carro de luz que eterna luz le guía.</l>
+            <l n="925">Responde Apolo en el ceder humano:</l>
+            <l>«Parece a temeraria fantasía,</l>
+            <l>y declarar no quieras, fulminado,</l>
+            <l>ser de luciente esencia derribado.</l>
+         </lg>
+         <lg>
+            <l>Oponte a la invasión de tu destino</l>
+            <l n="930">que tanto de tus límites se parte;</l>
+            <l>mortal cediendo al superior camino</l>
+            <l>de eterna luz necesitado y arte;</l>
+            <l>confía humano y no como divino</l>
+            <l>en soberanas obras quieras parle.</l>
+            <l n="935">¿Mano a riendas poner quieres ajenas</l>
+            <l>cuando tú mismo a ti te desenfrenas?</l>
+         </lg>
+         <lg>
+            <l>Raudo el furor de los caballos mira,</l>
+            <l>de imperceptible movimiento horrendo;</l>
+            <l>línea de luz que paralelos gira,</l>
+            <l n="940">nuevo curso diario disponiendo;</l>
+            <l>advierte al tramontar cuando su ira</l>
+            <l>el mayor continente estremeciendo</l>
+            <l>globos, tronos de luz, rotantes baña</l>
+            <l>de reino undoso en líquida campaña.</l>
+         </lg>
+         <lg>
+            <l n="945">Los hálitos del austro la subida</l>
+            <l>de orbe emprenden convexo, donde luego</l>
+            <l>fuerza inmortal les hace reprimida,</l>
+            <l>con ser hijos del viento, espirar fuego.</l>
+            <l>Pondera el Gaditano la caída</l>
+            <l n="950">que altera de las ondas el sosiego,</l>
+            <l>a cuyo ingreso el que en el golfo bulle</l>
+            <l>entre lechos algosos se zabulle.</l>
+         </lg>
+         <lg>
+            <l>Temor no, providente advertimiento,</l>
+            <l>te debe el pecho reducir severo,</l>
+            <l n="955">que presago dolor en triste acento</l>
+            <l>me vocifera ya tu mal postrero.</l>
+            <l>Siente la oposición del firmamento,</l>
+            <l>y entre horrores lucientes Ouirón fiero</l>
+            <l>que, de sus flechas trémulas no parco,</l>
+            <l n="960">temeridad alada infunde al arco.</l>
+         </lg>
+         <lg>
+            <l>¿La luz sobrada, el resplandor ardiente</l>
+            <l>del carro, de quien soy eterno auriga,</l>
+            <l>pides Faetón, y temerariamente,</l>
+            <l>usurparte el honor de mi fatiga?</l>
+            <l n="965">El diáfano mira continente,</l>
+            <l>sólo estrecho confín a la cuadriga,</l>
+            <l>cuyo vuelo inmortal pudo sin plumas</l>
+            <l>espumar rayos, radiar espumas.</l>
+         </lg>
+         <lg>
+            <l>Percibe pues del movimiento rato</l>
+            <l n="970">la dura oposición y el verdadero</l>
+            <l>peligro en que desprecias el recato,</l>
+            <l>que último en ti será y en mí primero.</l>
+            <l>No seas hijo al común padre ingrato,</l>
+            <l>que si trabuca el carro en punto fiero</l>
+            <l n="975">harás efecto con que al cielo estorbes</l>
+            <l>el ponderado oficio de sus orbes.</l>
+         </lg>
+         <lg>
+            <l>Alas deshechas mira, cuyo vuelo</l>
+            <l>ardiente impone nombre a seno frío,</l>
+            <l>escalar presumiendo el alto cielo</l>
+            <l n="980">poca cera con mucho desvarío;</l>
+            <l>incrédulo al temor, asiente al celo</l>
+            <l>y a la razón del tierno afecto mío:</l>
+            <l>¿has de tomar, Faetón, de un padre viejo</l>
+            <l>el peligroso carro y no el consejo?</l>
+         </lg>
+         <lg>
+            <l n="985">¿Tú contra el firmamento has de oponerte</l>
+            <l>y, conductor de luz desalumbrado,</l>
+            <l>escurecer con atrevida muerte</l>
+            <l>cuanto tu genitor tiene ilustrado?</l>
+            <l>Limita los peligros de la suerte,</l>
+            <l n="990">no anticipes los términos del hado,</l>
+            <l>no quieras en costosos desengaños</l>
+            <l>esperanzas frustrar y colmar daños.</l>
+         </lg>
+         <lg>
+            <l>Faetón, no solamente como osado,</l>
+            <l>mas como temerario el carro pides,</l>
+            <l n="995">precipicio que habrás solicitado</l>
+            <l>si con tus fuerzas el osar no mides,</l>
+            <l>obra inmortal, peligro no arribado</l>
+            <l>de cuanto fatigó soberbio Alcides.</l>
+            <l>¿Y quieres tú escalando etéreos muros</l>
+            <l n="1000">trópicos abrasar, pisar coluros?</l>
+         </lg>
+         <lg>
+            <l>Cuanto produce el mar, la tierra cría</l>
+            <l>a tu intento rendido no contiende;</l>
+            <l>cuanto el Arabia culto al cielo envía</l>
+            <l>hoy de tu arbitrio y voluntad depende.</l>
+            <l n="1005">Deponga el ciego error tu fantasía,</l>
+            <l>pues el sobrado osar al cielo ofende,</l>
+            <l>y cese la ambición que sólo intenta</l>
+            <l>de efimeral aplauso eterna afrenta»</l>
+         </lg>
+         <lg>
+            <l>Dijo, y el corazón más generoso</l>
+            <l n="1010">con sed de gloria los efectos sigue;</l>
+            <l>designio ya infeliz más que animoso</l>
+            <l>con ambición de eterno honor prosigue;</l>
+            <l>no hay término de espanto peligroso</l>
+            <l>que el afecto resuelto le mitigue:</l>
+            <l n="1015">conductor del gran carro a nuestra esfera</l>
+            <l>quiere ser una vez, aunque postrera.</l>
+         </lg>
+         <lg>
+            <l>Sintiendo el peligroso desatino</l>
+            <l>del temerario más que osado intento,</l>
+            <l>en esta parte humano, autor divino</l>
+            <l n="1020">de luz, le pesa ya del juramento:</l>
+            <l>«Pues el hado —diciendo— y el camino</l>
+            <l>no quieres evitar del fin violento,</l>
+            <l>por útiles advierte mis precetos</l>
+            <l>de amor paterno y de razón efetos.</l>
+         </lg>
+         <lg>
+            <l n="1025">Si no impugna tu mente, ya obstinada,</l>
+            <l>aviso eterno en la difícil senda,</l>
+            <l>templa la fuga a la cuadriga alada,</l>
+            <l>menos usa el azote y más la rienda;</l>
+            <l>la parte superior huye elevada,</l>
+            <l n="1030">cuya altura es peligro sin enmienda,</l>
+            <l>sólo a promediar tu curso atento</l>
+            <l>evitarás de Tetis el aliento.</l>
+         </lg>
+         <lg>
+            <l>Del carácter diáfano no excedas,</l>
+            <l>templa y no des al auro trono prisa,</l>
+            <l n="1035">que el trámite estampado de las ruedas</l>
+            <l>luciente es norte que a tu curso avisa;</l>
+            <l>asunto licencioso no concedas</l>
+            <l>al desviar, y mente no indecisa</l>
+            <l>sino resuelta lleve en su constancia</l>
+            <l n="1040">dones de fe, timón de tolerancia.</l>
+         </lg>
+         <lg>
+            <l>La fortuna después del resto cure</l>
+            <l>tu carro a salvamento conduciendo,</l>
+            <l>y de mis vaticinios te asegure</l>
+            <l>infaustos nuncios de tu fin horrendo.»</l>
+            <l n="1045">Mas ya el tiempo llegó en que se aventure</l>
+            <l>alto principio al caso disponiendo.</l>
+            <l>¡Tú sentiste también, tardo Boote,</l>
+            <l>mover auriga nuevo osado azote!</l>
+         </lg>
+         <lg>
+            <l>Entre flechas de luz, afecto blando,</l>
+            <l n="1050">el asustado amor paterno asiente;</l>
+            <l>corusco le entregó diadema cuando</l>
+            <l>las riendas le fió del trono ardiente.</l>
+            <l>Mas ya el fraterno albor solicitando</l>
+            <l>la esposa de Titón sacó la frente;</l>
+            <l n="1055">perlas esparce y con invidia dellas</l>
+            <l>huyeron afrentadas las estrellas.</l>
+         </lg>
+         <lg>
+            <l>Las negras hijas de la sombra fría</l>
+            <l>a incierta luz apresurando el paso</l>
+            <l>reconociendo la dudosa vía</l>
+            <l n="1060">juntas se encaminaron al ocaso.</l>
+            <l>Y Etón, fuego espirante, en quien veía</l>
+            <l>padre presago el inmortal fracaso,</l>
+            <l>supeditando el nítido terreno</l>
+            <l>tasca feroz el espumoso freno.</l>
+         </lg>
+         <lg>
+            <l n="1065">El temerario nielo de Latona</l>
+            <l>formaba su luciente paralelo</l>
+            <l>los orbes ilustrando de la zona</l>
+            <l>del Austral polo en el zafir del cielo;</l>
+            <l>de rubias hebras inmortal corona</l>
+            <l n="1070">al tenebroso horror cortaba el velo,</l>
+            <l>la campaña alegrando el valle y monte</l>
+            <l>de su mal no advertido el horizonte.</l>
+         </lg>
+         <lg>
+            <l>Incauto volador deja su nido</l>
+            <l>llamando entre crepúsculos al día,</l>
+            <l n="1075">y sobre verde ramo florecido</l>
+            <l>despide la dulcísima armonía.</l>
+            <l>Ya el pacífico armento conducido</l>
+            <l>del atento pastor el silbo oía,</l>
+            <l>y a nueva luz que su hemisferio aclara</l>
+            <l n="1080">oficioso cultor los campos ara.</l>
+         </lg>
+         <lg>
+            <l>Mueve nadante pez algoso asiento,</l>
+            <l>sale Tritón del caracol marino;</l>
+            <l>próvido marinero esparce al viento</l>
+            <l>en cuadra forma el bien contexto lino;</l>
+            <l n="1085">azota el remo al líquido elemento,</l>
+            <l>gobierna ya el timón y gime el pino;</l>
+            <l>y el confuso rumor de la cadena</l>
+            <l>es un teatro de la eterna pena.</l>
+         </lg>
+         <lg>
+            <l>En el oficio de mayor cautela,</l>
+            <l n="1090">que de sangre alimenta su porfía,</l>
+            <l>se recoge al cuartel la centinela,</l>
+            <l>haciendo noche de la luz del día;</l>
+            <l>orden observa de aparente vela</l>
+            <l>la familia de Marte, que dormía,</l>
+            <l n="1095">divididas siguiendo las hileras</l>
+            <l>a paso denodado sus banderas.</l>
+         </lg>
+         <lg>
+            <l>Las campañas de Ceres adornaban</l>
+            <l>los honores de Palas verdaderos,</l>
+            <l>y en sus distintas órdenes guardaban</l>
+            <l n="1100">la división astados y flecheros;</l>
+            <l>armentos belicosos incitaban</l>
+            <l>en roncos ecos, en talantes fieros,</l>
+            <l>al son ardiente y al pavor canoro</l>
+            <l>que a Marte incita en el metal sonoro.</l>
+         </lg>
+         <lg>
+            <l n="1105">A venal rienda listo caminante</l>
+            <l>de volador no alado da la mano.</l>
+            <l>De los nocturnos hurtos el amante,</l>
+            <l>(puede ser que engañado), vuelva ufano.</l>
+            <l>Tú también lo estarás, mundo ignorante,</l>
+            <l n="1110">atendiendo la faz del sol en vano,</l>
+            <l>cuyo carro, hoy fatal, de fuego envía</l>
+            <l>sierpes en los crepúsculos del día.</l>
+         </lg>
+         <lg>
+            <l>Inadvertido error pisa, contento,</l>
+            <l>orbe convexo en globo cristalino;</l>
+            <l n="1115">desprecia la región pura del viento,</l>
+            <l>pisa en su esfera el superior camino;</l>
+            <l>cual suele por su líquido elemento</l>
+            <l>la gran hija del reino neptunino,</l>
+            <l>bella madre de Amor, surcar ingrata</l>
+            <l n="1120">en tronos de cristal campos de plata,</l>
+         </lg>
+         <lg>
+            <l>el atrevido joven coronando</l>
+            <l>iba de luz la superior esfera,</l>
+            <l>rayos vertiendo, ufanamente, cuando</l>
+            <l>toma ligada unión fuga ligera,</l>
+            <l n="1125">ya los vientos cornípedes vibrando,</l>
+            <l>castigo resonante en la carrera,</l>
+            <l>por líneas de turbada fantasía</l>
+            <l>ciego conduce ya la luz del día.</l>
+         </lg>
+         <lg>
+            <l>Y en vez de gobernar con lento freno</l>
+            <l n="1130">lo que apenas el Euro alado alcanza,</l>
+            <l>brazo atrevido de noticia ajeno</l>
+            <l>las dos aves azota de la lanza.</l>
+            <l>Cual suele despedir su rayo el trueno</l>
+            <l>cuando el humor exhala su venganza,</l>
+            <l n="1135">tal la cuadriga en precipicio ardiente</l>
+            <l>le bebe al Noto el hálito en su frente.</l>
+         </lg>
+         <lg>
+            <l>A la esperanza ya la puerta cierra,</l>
+            <l>metas inarribables ha pisado;</l>
+            <l>ciego, en golfos de luz, surcando yerra</l>
+            <l n="1140">piélago ajeno, error desalumbrado.</l>
+            <l>Su rüina fatal siente la tierra,</l>
+            <l>el celestial asunto variado.</l>
+            <l>¡Oh de mortales miserable suerte,</l>
+            <l>incierta vida y no dudosa muerte!</l>
+         </lg>
+         <lg>
+            <l n="1145">Cual nave que sin peso gobernada,</l>
+            <l>combatida en el mar, del viento infido,</l>
+            <l>ve contra el cielo a Tetis conspirada</l>
+            <l>en golfo incierto el norte ya perdido,</l>
+            <l>tal va la lumbre eterna mal guiada</l>
+            <l n="1150">del joven en su daño presumido.</l>
+            <l>Los ya volantes, animados truenos</l>
+            <l>ni sienten mano, ni obedecen frenos.</l>
+         </lg>
+         <lg>
+            <l>Arduas regiones los caballos hienden,</l>
+            <l>del curso propio divididos, cuando</l>
+            <l n="1155">al viento siguen que alcanzar pretenden</l>
+            <l>el ardiente elemento respirando;</l>
+            <l>y en su mismo furor tanto se encienden</l>
+            <l>que, el orden de los trópicos quebrando,</l>
+            <l>zona pisaron, donde efecto nuevo</l>
+            <l n="1160">fue perpendicular tu carro, Febo.</l>
+         </lg>
+         <lg>
+            <l>Baten las alas, curso más terrible</l>
+            <l>sobre las ursas impelidos mueven,</l>
+            <l>y donde el polo hallan inmovible</l>
+            <l>el mismo fuego que respiran beben.</l>
+            <l n="1165">Deponen el furor inaccesible,</l>
+            <l>a pasar adelante no se atreven;</l>
+            <l>lumbres polares en su fijo asiento</l>
+            <l>el tardo apresuraron movimiento.</l>
+         </lg>
+         <lg>
+            <l>El perezoso monstruo que a ninguno</l>
+            <l n="1170">fue formidable en su lugar sombrío</l>
+            <l>del sobrado calor silba importuno,</l>
+            <l>sintiéndose abrasar el pecho frío.</l>
+            <l>Opuesto a la invasión de luz Neptuno,</l>
+            <l>retrocediente el carro a su albedrío,</l>
+            <l n="1175">bebida no dejó sino tocada</l>
+            <l>el gran prodigio, la región salada.</l>
+         </lg>
+         <lg>
+            <l>El presumido astrólogo que mira</l>
+            <l>que la délfica luz su carro altera,</l>
+            <l>cuando por líneas tan diversas gira</l>
+            <l n="1180">paralelos distantes de su esfera,</l>
+            <l>cielo presiente airado, fatal ira,</l>
+            <l>viendo, a su horror y confusión primera</l>
+            <l>vuelto el fuego, la tierra, el agua, el viento,</l>
+            <l>nuevo formando caos, nuevo portento.</l>
+         </lg>
+         <lg>
+            <l n="1185">Mientras ardiendo y no alumbrando el cielo,</l>
+            <l>perdido corazón y no cobarde</l>
+            <l>las alas tiende, desplegando el vuelo</l>
+            <l>al daño, de que ya se advierte tarde;</l>
+            <l>divididos delinean contra el suelo</l>
+            <l n="1190">el yugo abriendo que en sus cuellos arde,</l>
+            <l>los que, oprimidos, tanto contrastaron</l>
+            <l>que los contextos áureos desataron.</l>
+         </lg>
+         <lg>
+            <l>Desuniendo el timón, bien que no roto,</l>
+            <l>siente auriga mortal, mortal efeto,</l>
+            <l n="1195">y en el mayor peligro ofrece voto</l>
+            <l>al claro padre en íntimo secreto;</l>
+            <l>mas como a sordo mar suele el piloto</l>
+            <l>tarde invocar contra el fatal decreto,</l>
+            <l>tal Faetón pide al ínclito lucero</l>
+            <l n="1200">favor en vano en el temor postrero.</l>
+         </lg>
+         <lg>
+            <l>La desorden de luz en lato vuelo,</l>
+            <l>de la carrera etérea variada,</l>
+            <l>no sólo al viento, al mar, y a todo el suelo</l>
+            <l>hace ofensa inmortal con mano osada;</l>
+            <l n="1205">mas ardiendo la máquina del cielo</l>
+            <l>el efecto sintió Belona airada,</l>
+            <l>y en horrenda deidad diosa funesta</l>
+            <l>yelmo, arnés, carros y coraje apresta.</l>
+         </lg>
+         <lg>
+            <l>El mensajero eterno, inconfidente,</l>
+            <l n="1210">al fuego pies alados no le fía.</l>
+            <l>llora ofendido, quéjase impaciente</l>
+            <l>al claro abuelo del que forma el día.</l>
+            <l>Rayos viste de horror deidad valiente,</l>
+            <l>a quien celosa red cauta envolvía</l>
+            <l n="1215">en amorosos lazos con aquélla</l>
+            <l>que en Chipre es reina y en el cielo estrella</l>
+         </lg>
+         <lg>
+            <l>Del tonante también airada esposa,</l>
+            <l>y en celícola unión el soberano</l>
+            <l>concilio, de la llama rigurosa</l>
+            <l n="1220">quejas esparce por el cielo en vano.</l>
+            <l>Opacamente Cintia lagrimosa,</l>
+            <l>viéndose sobre el carro del hermano,</l>
+            <l>destrenzando las nítidas madejas</l>
+            <l>llora perlas, fragancia exhala en quejas.</l>
+         </lg>
+         <lg>
+            <l n="1225">El primer elemento, que mantiene</l>
+            <l>sitio supremo sobre el aire blando,</l>
+            <l>límites vierte y centro no contiene</l>
+            <l>en su materia misma exuberando.</l>
+            <l>Vital aliento el aura ya no tiene</l>
+            <l n="1230">los cóncavos inanes ocupando,</l>
+            <l>cedientes al ignífero portento</l>
+            <l>los archivos diáfanos del viento.</l>
+         </lg>
+         <lg>
+            <l>El encendido carro bajó tanto</l>
+            <l>contra el árido globo de la tierra</l>
+            <l n="1235">que enjugó el mismo fuego el mismo llanto</l>
+            <l>que ya en su centro la gran madre encierra;</l>
+            <l>llama confusa, peligroso espanto</l>
+            <l>por los humanos indistinto yerra;</l>
+            <l>líquido humor exhala el verde prado</l>
+            <l n="1240">al fiero efecto del planeta airado.</l>
+         </lg>
+         <lg>
+            <l>Cauto el villano huye la vecina</l>
+            <l>llama inmortal de su cabaña adusta;</l>
+            <l>el coposo sagrado de la encina,</l>
+            <l>que planta ardió, ceniza es ya combusta;</l>
+            <l n="1245">queja postrera de fatal rüina</l>
+            <l>al cielo apela de sentencia injusta;</l>
+            <l>otra hoz esperó el fecundo trigo</l>
+            <l>cual voladora llama en su castigo.</l>
+         </lg>
+         <lg>
+            <l>Bellas tésalas ninfas navegando</l>
+            <l n="1250">las que contraria sed aguas devora,</l>
+            <l>dulces sirenas de su margen cuando</l>
+            <l>desnuda plata sus arenas dora,</l>
+            <l>las delicadas hebras, cuyo blando</l>
+            <l>lazo afrenta y prisión fueron de Flora,</l>
+            <l n="1255">cortan y exponen a mayor fiereza</l>
+            <l>por no verlas arder en su cabeza.</l>
+         </lg>
+         <lg>
+            <l>Cualquier osado pecho está cobarde</l>
+            <l>para impugnar el celestial decreto;</l>
+            <l>de inevitable mal no hay quien se guarde,</l>
+            <l n="1260">al cielo airado todo está sujeto.</l>
+            <l>El cuerpo mixto de los orbes arde</l>
+            <l>cediendo su materia al nuevo efeto,</l>
+            <l>de cuya llama en prodigioso espanto</l>
+            <l>contra Aquiles sus rayos guardó el Janto.</l>
+         </lg>
+         <lg>
+            <l n="1265">Ninfa del bosque, y semicapro astuto,</l>
+            <l>busca, para encorvarse, su ribera,</l>
+            <l>Doris, sedienta, el líquido tributo</l>
+            <l>a las undosas márgenes no espera;</l>
+            <l>vacuo cadáver el Danubio enjuto</l>
+            <l n="1270">vierte los peces de su margen fuera</l>
+            <l>que viendo sin humor la fértil vena,</l>
+            <l>última obstinación, muerde su arena.</l>
+         </lg>
+         <lg>
+            <l>Dulces endechas vierte en voz süave</l>
+            <l>el pez alado que a Meandro honora</l>
+            <l n="1275">y con velas de pluma es blanca nave</l>
+            <l>que al morir canta y en sus ondas mora.</l>
+            <l>En incendio común, única el ave</l>
+            <l>ya sus cenizas no conoce agora</l>
+            <l>ni las puede juntar, y en este ultraje</l>
+            <l n="1280">última teme ser de su linaje.</l>
+         </lg>
+         <lg>
+            <l>Rinde el soberbio más su fortaleza</l>
+            <l>v el más veloz su curso ya suspende;</l>
+            <l>líbica hircana y la mayor fiereza</l>
+            <l>al airado elemento el cuello tiende;</l>
+            <l n="1285">fatal cediendo a la común flaqueza</l>
+            <l>el mayor animal no se defiende,</l>
+            <l>cuya cerviz suspenso tuvo al Ganges</l>
+            <l>muros moviendo a debelar falanges.</l>
+         </lg>
+         <lg>
+            <l>El árbol de su honor destitüido</l>
+            <l n="1290">humo respira, y del agravio injusto</l>
+            <l>ceniza exhala el tronco dividido</l>
+            <l>del poderoso humor seco y adusto;</l>
+            <l>el álamo de Alcides escogido,</l>
+            <l>el mirto sacro v el laurel más justo</l>
+            <l n="1295">temen que el dios airado se le acuerde</l>
+            <l>de la que siguió ninfa y lloró verde.</l>
+         </lg>
+         <lg>
+            <l>El funesto ciprés, la sacra oliva,</l>
+            <l>corona de su monte el mayor pino,</l>
+            <l>con la del rayo exenta planta esquiva,</l>
+            <l n="1300">del victorioso honor símbolo dino,</l>
+            <l>ceden vencidos de la llama viva</l>
+            <l>a la segur fatal de su destino,</l>
+            <l>sin defenderse en la montaña el bronco</l>
+            <l>fundamento apoyado con su tronco.</l>
+         </lg>
+         <lg>
+            <l n="1305">Menos se opone e) árbol que es más fuerte,</l>
+            <l>ceniza es ya la más coposa haya,</l>
+            <l>fértil exhalación prodigio vierte</l>
+            <l>el seno religioso de Cambaya;</l>
+            <l>inanimada a conservarse advierte</l>
+            <l n="1310">expuesta roca en solitaria playa,</l>
+            <l>siendo en supuración de flores bellas</l>
+            <l>átomos de fragrancia sus centellas.</l>
+         </lg>
+         <lg>
+            <l>De nubes coronado el Apenino</l>
+            <l>nuevo furor elemental le enciende;</l>
+            <l n="1315">siempre de triunfos fértil el Quirino</l>
+            <l>soberbias llamas por su falda tiende;</l>
+            <l>cediente a nueva forma saxo Alpino</l>
+            <l>liquida el ser y su materia extiende</l>
+            <l>llamas; lágrimas son con que Pirene</l>
+            <l n="1320">del hijo se lamenta de Climene.</l>
+         </lg>
+         <lg>
+            <l>Primero peligró la mayor cumbre</l>
+            <l>del que por años y por nieves cano</l>
+            <l>de miembros fue eminente pesadumbre</l>
+            <l>y monte ya eminente es africano;</l>
+            <l n="1325">cuyo flamante exceso en viva lumbre</l>
+            <l>cala sediento al arenoso llano,</l>
+            <l>donde el carro y la lámpara febea</l>
+            <l>aborto fue de la montaña Etnea.</l>
+         </lg>
+         <lg>
+            <l>Las aguas se sorbió del gran lavacro</l>
+            <l n="1330">que hizo soberana su corriente</l>
+            <l>claro Jordán, que, para siempre sacro</l>
+            <l>gloria es su margen, gracia su torrente.</l>
+            <l>Del Erebo flamante simulacro</l>
+            <l>todo a su potestad lo ve cediente,</l>
+            <l n="1335">urna no, huesa enjuta a escama tanta</l>
+            <l>del Nilo es ya la séptima garganta.</l>
+         </lg>
+         <lg>
+            <l>Eufrates en Armenia, en Siria Oronte,</l>
+            <l>el que baña los reinos del Aurora,</l>
+            <l>arden, y con el raudo Termodonte</l>
+            <l n="1340">el que con labio alterno el margen dora.</l>
+            <l>Reconcentróse en el paterno monte</l>
+            <l>el que su origen claro esconde agora;</l>
+            <l>hijo de clara fuente no hay ninguno</l>
+            <l>que tribute cristales a Neptuno.</l>
+         </lg>
+         <lg>
+            <l n="1345">Bien que en común, particular arsura</l>
+            <l>tiñe la gente, seca la campaña,</l>
+            <l>que en cuanto al Nigris su corriente dura</l>
+            <l>no lava undoso, sino undoso baña;</l>
+            <l>bebióle su cristal la llama pura,</l>
+            <l n="1350">sed implacable que el tributo engaña</l>
+            <l>a Tetis que en sus márgenes espera</l>
+            <l>el clarísimo honor de su ribera.</l>
+         </lg>
+         <lg>
+            <l>Despojos de ceniza en orbe exhausto,</l>
+            <l>sombra caliginosa, caos impuro,</l>
+            <l n="1355">materias corrompidas, globo infausto,</l>
+            <l>cadáver son informe en tomo oscuro;</l>
+            <l>y cual termina en humo el holocausto</l>
+            <l>sórdido por sujeto en lugar puro,</l>
+            <l>tal en mustio dolor de llama injusta</l>
+            <l n="1360">yacer se vio la común madre adusta.</l>
+         </lg>
+         <lg>
+            <l>Bebió su mismo humor sedienta fuente</l>
+            <l>a viscosos negado hijos del río,</l>
+            <l>la tiberina rápida corriente</l>
+            <l>se expone adversa en cóncavo vacío,</l>
+            <l n="1365">de inconstante región el seno ardiente</l>
+            <l>su afrenta advierte en desigual bajío;</l>
+            <l>Tetis exhausta en íntima caverna</l>
+            <l>ondas no ya reliquias sólo interna.</l>
+         </lg>
+         <lg>
+            <l>Arde en su centro el líquido elemento,</l>
+            <l n="1370">y el gran rector de la cerúlea gente,</l>
+            <l>al no esperado y rápido portento</l>
+            <l>sumergió el carro, zabulló el tridente,</l>
+            <l>que no sufriendo el trémulo pavento</l>
+            <l>del nuevo ardor que entre las llamas siente</l>
+            <l n="1375">suelta rendido en la invasión horrenda</l>
+            <l>a escamoso caballo algosa rienda.</l>
+         </lg>
+         <lg>
+            <l>Muertas son muchas, vivas restan pocas</l>
+            <l>aves, ya no de Tetis, naufragantes;</l>
+            <l>su viscoso livor pierden las focas</l>
+            <l n="1380">de los volubles polos habitantes.</l>
+            <l>Licuefactas están las duras rocas,</l>
+            <l>perdiendo el ser y el nombre de constantes;</l>
+            <l>ya no ven a Neptuno las sirenas</l>
+            <l>escupir ondas ni azotar arenas.</l>
+         </lg>
+         <lg>
+            <l n="1385">Palemón, Mellcerta, Panopea,</l>
+            <l>deidades de las ondas cristalinas,</l>
+            <l>moviendo están contra la luz febea</l>
+            <l>fuerza inútil de escamas y de espinas.</l>
+            <l>Tu justicia clamando en vano Astrea</l>
+            <l n="1390">en ya seca región voces nerinas,</l>
+            <l>que no extingue la sed del gran portento</l>
+            <l>cuanto contiene el mar salado argento.</l>
+         </lg>
+         <lg>
+            <l>Ya lascivo Tritón no sigue leve</l>
+            <l>blanca napea que en amor le iguala;</l>
+            <l n="1395">moribundo delfín las ovas mueve</l>
+            <l>y entre conchas enjutas se resbala;</l>
+            <l>sedienta Tetis ya las algas bebe</l>
+            <l>y sus entrañas en vapor exhala;</l>
+            <l>y exhausto de sus líquidos cristales</l>
+            <l n="1400">perlas vomita el mar, vierte corales.</l>
+         </lg>
+         <lg>
+            <l>Eolo en las cavernas donde impera</l>
+            <l>al portento rendido poderoso</l>
+            <l>de Bóreas no concita la severa</l>
+            <l>temida fuerza en el imperio undoso;</l>
+            <l n="1405">reluciente invasión que de su esfera,</l>
+            <l>vertida con impulso luminoso,</l>
+            <l>hace guerra en sus cóncavos asientos</l>
+            <l>al proceloso albergue de los vientos.</l>
+         </lg>
+         <lg>
+            <l>Por donde no contigua halló la tierra</l>
+            <l n="1410">luz se introduce en el imperio oscuro,</l>
+            <l>sórdido teme rey y el antro cierra</l>
+            <l>de los lucientes rayos no seguro;</l>
+            <l>y por ciegas cavernas negra guerra</l>
+            <l>brama ofendida voz de pecho impuro,</l>
+            <l n="1415">a cuyo sordo horror, en ronco grito</l>
+            <l>ladró el Trifauce y borbolló Cocito.</l>
+         </lg>
+         <lg>
+            <l>El ministerio oscuro, la oficina</l>
+            <l>del ciego reino el claro efecto,</l>
+            <l>vierte sulfúreo llanto Proserpina,</l>
+            <l n="1420">llamas el terno vomitó de Alecto;</l>
+            <l>turba infernal y sórdida bocina</l>
+            <l>convoca el caos al gran Plutón sujeto,</l>
+            <l>y por la luz o por la voz que oyeron</l>
+            <l>los Cíclopes los golpes suspendieron.</l>
+         </lg>
+         <lg>
+            <l n="1425">De Escila alumnos Escirón y Tifeo,</l>
+            <l>Procrustes, Polifemo, Fitón pasma;</l>
+            <l>de veneno arma, esfinge, a Briareo,</l>
+            <l>y el Cerbero rabioso interna el arma;</l>
+            <l>estigia furia al fétido Leteo</l>
+            <l n="1430">horrendas sombras, hórrida fantasma</l>
+            <l>Carón conduce y llamas la Quimera</l>
+            <l>vomita a las hermanas de Meguera.</l>
+         </lg>
+         <lg>
+            <l>Cavilosos Diomedes, lestrigones</l>
+            <l>que la región habitan condenada;</l>
+            <l n="1435">ermitas furias, hidras y filones,</l>
+            <l>gente a dolor eterno destinada,</l>
+            <l>venenosas serpientes y gorgones,</l>
+            <l>exhalando la rabia atormentada,</l>
+            <l>forman confusamente conmovidos</l>
+            <l n="1440">frémitos, ululatos y alaridos.</l>
+         </lg>
+         <lg>
+            <l>La compaña rabiosa de Tiestes,</l>
+            <l>obscenas lamias, sórdidos titanes,</l>
+            <l>furiosamente dragonlinas vestes</l>
+            <l>de llamas rompen ofendidos manes;</l>
+            <l n="1445">y aunque impugnar los átomos celestes</l>
+            <l>prueban inútilmente leviatanes,</l>
+            <l>de ponzoñosa fuerza armado Atreo</l>
+            <l>despertó al soporífero Morfeo.</l>
+         </lg>
+         <lg>
+            <l>Estrépito y furor por la caverna,</l>
+            <l n="1450">silva de esfinges ya, brama de arpías,</l>
+            <l>arde con nueva sed la furia interna,</l>
+            <l>sobrando obstinación a sus porfías.</l>
+            <l>Y el rey de las tinieblas, que ansia eterna</l>
+            <l>en regiones vertió siempre sombrías,</l>
+            <l n="1455">viendo la luz en su región opaca</l>
+            <l>la flamígera voz del pecho saca:</l>
+         </lg>
+         <lg>
+            <l>«¿No se contenta el enemigo cielo</l>
+            <l>de vernos en tinieblas encerrados,</l>
+            <l>pisado centro del profundo suelo</l>
+            <l n="1460">en eterna región de condenados,</l>
+            <l>sino que quiere el que idolatra Délo</l>
+            <l>ciega luz conducir a mis estados,</l>
+            <l>donde si mis penates alumbrare</l>
+            <l>por ajeno tendré cuanto mirare?</l>
+         </lg>
+         <lg>
+            <l n="1465">Al eterno decreto contraviene,</l>
+            <l>no guarda división, ni observa fuero,</l>
+            <l>pues de la luz derecho exento tiene</l>
+            <l>el bajel del mortífero barquero;</l>
+            <l>defensa natural siempre conviene,</l>
+            <l n="1470">brazo mueva inmortal Cíclope fiero,</l>
+            <l>muestre ofendido el implacable infierno</l>
+            <l>eterna obstinación, desdén eterno.</l>
+         </lg>
+         <lg>
+            <l>Viertan obstinación los reinos atros,</l>
+            <l>donde nunca el suplicio vio penuria;</l>
+            <l n="1475">la negra advocación de mis báratros</l>
+            <l>vomite ofensas, exhalando furia;</l>
+            <l>flamígeros ostente sus teatros</l>
+            <l>el tenebroso reino de la injuria;</l>
+            <l>betún ardiente con sulfúreo vuelo</l>
+            <l n="1480">queme la tierra y deje opaco el cielo.</l>
+         </lg>
+         <lg>
+            <l>Como a rebeldes trata el firmamento</l>
+            <l>los que en el reino de tinieblas mira,</l>
+            <l>ejercitando el áspero tormento</l>
+            <l>que provoca a las armas de la ira;</l>
+            <l n="1485">y a su ambicioso fin el cielo atento</l>
+            <l>a deshacer el reino nuestro aspira,</l>
+            <l>donde soberbio induce por trofeo</l>
+            <l>rayos de luz que nunca vio el Leteo.</l>
+         </lg>
+         <lg>
+            <l>¿Gente mortal que a nuestro ser no iguala</l>
+            <l n="1490">antes a mis flagelos ya se humilla,</l>
+            <l>poniendo al cielo monstruosa escala</l>
+            <l>quitar no quiso a Júpiter la silla?</l>
+            <l>Y pues por Etna Estéropes exhala</l>
+            <l>la ardiente de su brazo maravilla,</l>
+            <l n="1495">atrabiliosa furia en vez de llanto</l>
+            <l>las fauces regurgiten del espanto.</l>
+         </lg>
+         <lg>
+            <l>Aclare su poder la negra diestra</l>
+            <l>que entre tinieblas hórridas habita;</l>
+            <l>el fin será de la venganza vuestra</l>
+            <l n="1500">de inmutable aprehensión meta prescrita;</l>
+            <l>y ya que la región contiene nuestra</l>
+            <l>si lumbre alada no, lumbre crinita,</l>
+            <l>obstinada desate su violencia,</l>
+            <l>rompa del centro a la circunferencia.</l>
+         </lg>
+         <lg>
+            <l n="1505">Sienta ya el aire en su región herido</l>
+            <l>de opuestos rayos el impulso alterno;</l>
+            <l>luego de afrentas propias impelido</l>
+            <l>las iras califica del infierno;</l>
+            <l>sus armas concitando, el ofendido,</l>
+            <l n="1510">ardiente imperio del suplicio eterno</l>
+            <l>no se limite al centro de la tierra:</l>
+            <l>haga al Olimpo en el Olimpo guerra.»</l>
+         </lg>
+         <lg>
+            <l>Dijo, y a la alta voz ladró el Cerbero,</l>
+            <l>y las fieras hermanas, conmovidas,</l>
+            <l n="1515">mesando están con riguroso acero</l>
+            <l>las viperinas hebras retorcidas;</l>
+            <l>bramó discordemente el coro fiero</l>
+            <l>y en mestísimo son fueron oídas</l>
+            <l>en luego eterno atormentadas voces,</l>
+            <l n="1520">martirios nuevos de ánimos atroces.</l>
+         </lg>
+         <lg>
+            <l>El gran Fabro de llamas coronado</l>
+            <l>con aplauso feliz el triunfo asiente,</l>
+            <l>contra los elementos dilatado</l>
+            <l>de centellas su ignífero accidente;</l>
+            <l n="1525">punto fatal y plazo destinado,</l>
+            <l>en que el efecto de su rayo ardiente</l>
+            <l>pueda, moviendo al firmamento guerra,</l>
+            <l>sorberse el mar y liquidar la tierra.</l>
+         </lg>
+         <lg>
+            <l>Horas sesenta sin ocaso el día,</l>
+            <l n="1530">y el día sin luz el duro caos informa;</l>
+            <l>comunicada luz no recibía</l>
+            <l>Delia opaca en menguante o llena forma.</l>
+            <l>Arde ya todo, y lo que ardido había</l>
+            <l>en globos de ceniza se transforma,</l>
+            <l n="1535">cuando, ofendida del luciente hijo,</l>
+            <l>árida madre al gran tonante dijo:</l>
+         </lg>
+         <lg>
+            <l>«Padre del cielo, si a la eterna altura</l>
+            <l>llega piedad, si alcanza justo ruego</l>
+            <l>mis adustas reliquias asegura</l>
+            <l n="1540">el portento infeliz cesando luego.</l>
+            <l>No exhale ya sulfúrea llama impura</l>
+            <l>de accidente mortal rápido fuego,</l>
+            <l>contenga el orbe su materia dentro</l>
+            <l>reducidas sus fuerzas a su centro.</l>
+         </lg>
+         <lg>
+            <l n="1545">Guardado el continente de su esfera,</l>
+            <l>dese a la luz benéfico ejercicio,</l>
+            <l>quede extinto el furor que el cielo altera</l>
+            <l>de mi seno fructífero el oficio;</l>
+            <l>que no tendrá, si el fuego persevera,</l>
+            <l n="1550">gente el mundo, ni el cielo sacrificio,</l>
+            <l>antes verás, si ya a auxiliar faltares,</l>
+            <l>desnudos de holocaustos tus altares.</l>
+         </lg>
+         <lg>
+            <l>Si castigo se debe a los mortales,</l>
+            <l>¿por qué padece el impecable armento</l>
+            <l n="1555">—las fieras siendo en el suplicio iguales</l>
+            <l>con los que la región aran del viento—</l>
+            <l>y yo que, franca, expongo a tus umbrales</l>
+            <l>la aroma en sacrificio el y aliento,</l>
+            <l>cuyo vapor penetra al cielo inmenso</l>
+            <l n="1560">fragrancias exhalando en humo denso?</l>
+         </lg>
+         <lg>
+            <l>Cuanto el Arabia a tu deidad envía</l>
+            <l>sufragio puro, culto reverente,</l>
+            <l>con religioso afecto observa pía</l>
+            <l>la común madre de la mortal gente;</l>
+            <l n="1565">mi seno el elemento ya no cría</l>
+            <l>que de Ceres es alma su torrente</l>
+            <l>en asunto vital, y por su largo</l>
+            <l>ámbito nace dulce y muere amargo.</l>
+         </lg>
+         <lg>
+            <l>Tú, fértil diosa que los frutos mides,</l>
+            <l n="1570">defiende el reino tuyo que se pierde.</l>
+            <l>Alma madre de Amor, ¿por qué no impides</l>
+            <l>la adusta afrenta de tu mirto verde?</l>
+            <l>¿Y que olvidado, más que fuerte Alcides,</l>
+            <l>del álamo sagrado no se acuerde?</l>
+            <l n="1575">¿Cuándo Apolo el honor de Marte oprime,</l>
+            <l>por más que Dafne en sus cortezas gime?</l>
+         </lg>
+         <lg>
+            <l>El vivo resplandor, la llama ardiente,</l>
+            <l>si no se enfrena ya, cesará cuando</l>
+            <l>sorbido tenga el rígido torrente</l>
+            <l n="1580">del undoso elemento el seno blando;</l>
+            <l>horror volante que obstinadamente</l>
+            <l>las infernales armas dilatando,</l>
+            <l>ya celeste volcán llamas vomita,</l>
+            <l>cruento oficio de región precita.</l>
+         </lg>
+         <lg>
+            <l n="1585">¿Qué cometa enemigo es el que ha sido</l>
+            <l>causa sin ocasión de quejas tantas,</l>
+            <l>o qué pecho mortal tiene ofendido</l>
+            <l>del cielo las deidades sacrosantas?</l>
+            <l>Si culpa los humanos han tenido,</l>
+            <l n="1590">¿por qué padecen insensibles plantas,</l>
+            <l>superando la pena a la malicia</l>
+            <l>y a error particular común justicia?</l>
+         </lg>
+         <lg>
+            <l>Cuando de Proteo ya escamoso armento</l>
+            <l>le bebió a Tetis plata mal segura,</l>
+            <l n="1595">cuanto armado de plumas elemento</l>
+            <l>cortó sublime en la región más pura;</l>
+            <l>y a cuanto como madre di alimento,</l>
+            <l>agora doy adusta sepultura;</l>
+            <l>seno que fértil fue llamas espira</l>
+            <l n="1600">hecho a común ceniza negra pira.</l>
+         </lg>
+         <lg>
+            <l>No es afecto materno ya el que siente,</l>
+            <l>sino pia afección, común tormento,</l>
+            <l>a mis ojos negando llama ardiente</l>
+            <l>la exhalación del húmido elemento;</l>
+            <l n="1605">y pues el que animó benigno ambiente,</l>
+            <l>flato es de Atropos ya letal aliento,</l>
+            <l>piedad será la tuya, si restaura</l>
+            <l>al agua el ser y el ser vital al aura.</l>
+         </lg>
+         <lg>
+            <l>Las que Ceres cubrió vistosas cumbres</l>
+            <l n="1610">con el de espigas inundante llano,</l>
+            <l>hasta las eminentes pesadumbres</l>
+            <l>que suplicios ostentan de tu mano,</l>
+            <l>fueron no son opuesto a eternas lumbres</l>
+            <l>húmido radical de ellas en vano,</l>
+            <l n="1615">que en vano pone a prodigiosa fragua</l>
+            <l>su aliento el aire y su materia el agua.</l>
+         </lg>
+         <lg>
+            <l>Ya del portento el prodigioso exceso</l>
+            <l>la serie desunir pudo constante</l>
+            <l>de los etéreos cárdines que el peso</l>
+            <l n="1620">soltaron de los globos de diamante;</l>
+            <l>de los ardientes trópicos opreso</l>
+            <l>sacude la cerviz el viejo Atlante;</l>
+            <l>cuanta mole contiene el firmamento,</l>
+            <l>en sí misma librada pende al viento.</l>
+         </lg>
+         <lg>
+            <l n="1625">El reino de la luz al accidente</l>
+            <l>nuevo en sus polos ya no está seguro,</l>
+            <l>cuando discurre la materia ardiente</l>
+            <l>del eje puesto hasta el helado Arturo;</l>
+            <l>de llamas el furor incontinente</l>
+            <l n="1630">orbes inunda con su fuego impuro,</l>
+            <l>y con ojos de estrellas cielo airado</l>
+            <l>el primer caos informe ve formado.»</l>
+         </lg>
+         <lg>
+            <l>Cesó la diosa. El Padre, condolido,</l>
+            <l>del nieto consintió a la fatal hora,</l>
+            <l n="1635">el corazón tocando que ha podido</l>
+            <l>tantas costarle perlas al aurora.</l>
+            <l>Cayendo muere el joven presumido,</l>
+            <l>flecha es eterna, eterna vengadora.</l>
+            <l>Eridano piadoso le recibe</l>
+            <l n="1640">y urna en su blando seno le apercibe.</l>
+         </lg>
+         <lg>
+            <l>Tembló la tierra que sufrir no pudo</l>
+            <l>la fuerza del efecto fulminante;</l>
+            <l>esparció su ceniza el ya no rudo</l>
+            <l>tronco cediente a la deidad tonante;</l>
+            <l n="1645">embrazó Marte su luciente escudo,</l>
+            <l>ceden los hombros del mayor gigante,</l>
+            <l>materias desunidas no informaron,</l>
+            <l>pero reliquias y en su ser temblaron.</l>
+         </lg>
+         <lg>
+            <l>Como en la exhalación de nube opaca</l>
+            <l n="1650">previene el lampo al formidable trueno,</l>
+            <l>cuando la luz etérea parte saca</l>
+            <l>y busca el aire en su región sereno,</l>
+            <l>que porción menos densa, en parte flaca,</l>
+            <l>aborta el fuego del preñado seno,</l>
+            <l n="1655">y en cándido faro) celeste trompa</l>
+            <l>ígnea compele a que impelida rompa,</l>
+         </lg>
+         <lg>
+            <l>tal va cayendo del mayor planeta</l>
+            <l>teñido el hijo en el humor sangriento,</l>
+            <l>y condolida la mortal saeta</l>
+            <l n="1660">errar quisiera el golpe y el intento.</l>
+            <l>Admiraron los orbes el cometa</l>
+            <l>que ni tierra exhaló ni formó el viento,</l>
+            <l>costísimo prodigio, pero bello,</l>
+            <l>bello rostro alumbró con su cabello.</l>
+         </lg>
+         <lg>
+            <l n="1665">Tranquilo le cogió de la ribera</l>
+            <l>al osado Faetón el cristal blando;</l>
+            <l>uno y otro elemento se modera</l>
+            <l>dos contrarios sujetos abrazando.</l>
+            <l>Respeta el Nilo, el Ganges hoy venera</l>
+            <l n="1670">al que, su clara margen coronando</l>
+            <l>de luz, le debe al inito misterio</l>
+            <l>el tener de la aguas el imperio.</l>
+         </lg>
+         <lg>
+            <l>Caíste ya, Faetón, cediste al hado.</l>
+            <l>Rayos de fama en llamas inmortales</l>
+            <l n="1675">antorchas son del túmulo sagrado</l>
+            <l>que acompañan con luz tus funerales.</l>
+            <l>Y el valor alumbrando, no arribado,</l>
+            <l>te sirven hoy los orbes de fanales,</l>
+            <l>tu fama a mejor luz restitüida,</l>
+            <l n="1680">por honor inmortal dio mortal vida.</l>
+         </lg>
+         <lg>
+            <l>Los hijos de su aliento fugitivo</l>
+            <l>por trámites diversos se esparcieron,</l>
+            <l>el céfiro buscaron genitivo</l>
+            <l>los que en el seno a Tetis no cayeron;</l>
+            <l n="1685">de la tonante mano el eco altivo</l>
+            <l>el etéreo ligamen desunieron;</l>
+            <l>roto ya el carro en formidable lampo</l>
+            <l>eje y timón recoge adusto campo.</l>
+         </lg>
+         <lg>
+            <l>Trópicos variados y coluros</l>
+            <l n="1690">arden los más remotos horizontes,</l>
+            <l>claros por occidente los escuros</l>
+            <l>tristes avernos impios Aquerontes.</l>
+            <l>Faltando a Tetis en undosos muros</l>
+            <l>montes de agua y piélagos de montes</l>
+            <l n="1695">es arenoso banco el Ponto Euxino</l>
+            <l>y selva en que el abeto alumbra al pino.</l>
+         </lg>
+         <lg>
+            <l>En nubes los vapores concitaba</l>
+            <l>más vengado tonante que ofendido,</l>
+            <l>por ver si con sus hálitos templaba</l>
+            <l n="1700">el efecto de llamas extendido,</l>
+            <l>mas ya a la blanca Tetis le faltaba</l>
+            <l>eficaz alimento presumido,</l>
+            <l>para extinguir las llamas de Vulcano</l>
+            <l>hecho el undoso reino estéril llano.</l>
+         </lg>
+         <lg>
+            <l n="1705">Al doloroso trance prevenido</l>
+            <l>larde llegó mestísima Climene,</l>
+            <l>dolor también fraterno conmovido</l>
+            <l>surcando propio mar de llanto viene;</l>
+            <l>y apenas el mancebo humedecido</l>
+            <l n="1710">del mármol siempre undoso que lo tiene,</l>
+            <l>rubias le ofrece lágrimas el coro</l>
+            <l>que arroja el ámbar y que invidia el oro.</l>
+         </lg>
+         <lg>
+            <l>Materno afecto unido el sacro pío,</l>
+            <l>más compasivo y menos tolerante,</l>
+            <l n="1715">Climene suelta el lagrimoso río</l>
+            <l>que sacrificio vino a ser fragante;</l>
+            <l>el golpe inunda de la flecha impío,</l>
+            <l>que pasó el corazón de madre amante,</l>
+            <l>y estas quejas al cielo encomendadas</l>
+            <l n="1720">ella las dice y son de Amor dictadas.</l>
+         </lg>
+         <lg>
+            <l>«Tú que asistes en coro soberano</l>
+            <l>genitor claro de la luz febea,</l>
+            <l>más justo fuera con piadosa mano</l>
+            <l>al cielo trasplantar tu ilustre idea</l>
+            <l n="1725">que entregar a las llamas de Vulcano</l>
+            <l>al tierno joven, y al rigor de Astrea.</l>
+            <l>Sobra tuvo de honor, pero no falta,</l>
+            <l>pecho que osó emprender cosa tan alta.</l>
+         </lg>
+         <lg>
+            <l>¿Qué rigurosa fuerza de destino</l>
+            <l n="1730">a la meta inmortal de tu carrera</l>
+            <l>cortó los pasos y cerró el camino</l>
+            <l>que a nueva luz formaba, nueva esfera?</l>
+            <l>Para ser infeliz naciste dino</l>
+            <l>de los rayos de gloria verdadera,</l>
+            <l n="1735">donde pudo eclipsarse mejor día</l>
+            <l>tu atrevimiento y la desdicha mía.</l>
+         </lg>
+         <lg>
+            <l>Flecha fatal vistió de sombra obscura</l>
+            <l>el generoso espíritu y ardiente,</l>
+            <l>cuyo aliento mortal pisó la pura</l>
+            <l n="1740">región de eterna luz resplandeciente;</l>
+            <l>mas no segunda al alto osar ventura,</l>
+            <l>hijo, precipitaste infelizmente,</l>
+            <l>donde incesables pagarán mis ojos</l>
+            <l>su líquido tributo a tus despojos.</l>
+         </lg>
+         <lg>
+            <l n="1745">Hecho ceniza ya el cabello veo</l>
+            <l>que esparció al viento el nítido tesoro,</l>
+            <l>y en seca llama el inmortal trofeo</l>
+            <l>de la afrenta mayor que tuvo el oro;</l>
+            <l>cielo poco propicio al gran deseo,</l>
+            <l n="1750">si no tu muerte, acreditó mi lloro,</l>
+            <l>viendo la luz de honor que fue más pura</l>
+            <l>el eclipse fatal de sombra oscura.</l>
+         </lg>
+         <lg>
+            <l>Venganza injusta, adulterado celo,</l>
+            <l>dieron materia y causa de castigo</l>
+            <l n="1755">al común padre y al tonante abuelo,</l>
+            <l>abuelo no, tonante y enemigo;</l>
+            <l>y si recato fue del alto vuelo</l>
+            <l>preservador auxilio, brazo amigo</l>
+            <l>debido afecto de piedad mostrara</l>
+            <l n="1760">si entre gémina luz te colocara.</l>
+         </lg>
+         <lg>
+            <l>Será tu nombre ejemplo lastimoso,</l>
+            <l>más infeliz que el infeliz osado</l>
+            <l>que volando entre nubes, animoso,</l>
+            <l>quedó en cerúleos globos sepultado.</l>
+            <l n="1765">Tú pudiste, en el padre luminoso</l>
+            <l>y en el abuelo claro confiado,</l>
+            <l>no sólo acreditar tu pensamiento,</l>
+            <l>sino honrar nueva estrella el firmamento.</l>
+         </lg>
+         <lg>
+            <l>Tú, clarísimo padre, nunca enjuto,</l>
+            <l n="1770">a anochecer tus márgenes empieza;</l>
+            <l>sea de hoy más tu líquido tributo</l>
+            <l>urna de llanto, aplauso de tristeza.</l>
+            <l>Coro de blancas náyades con luto,</l>
+            <l>interno en verdes troncos, la fiereza</l>
+            <l n="1775">de la flecha mortal deje grabada,</l>
+            <l>porque crezca la fama encomendada.</l>
+         </lg>
+         <lg>
+            <l>Carácter lastimoso informe en breve</l>
+            <l>túmulo, si en él cabe dolor tanto,</l>
+            <l>el inmaturo fin que a piedad mueve</l>
+            <l n="1780">a los impíos baratíos del espanto;</l>
+            <l>y a la clara región de Tetis lleve</l>
+            <l>la causa del llorar, quien lleva el llanto;</l>
+            <l>undosa Glauco ponga la corona</l>
+            <l>al que murió pisando ardiente zona.</l>
+         </lg>
+         <lg>
+            <l n="1785">Alma inmortal, esencia no alterada,</l>
+            <l>esencia no alterada, aunque ofendida,</l>
+            <l>sombra de su prisión ya desatada</l>
+            <l>y a la región de Tetes conducida,</l>
+            <l>si por esto tuvieres olvidada</l>
+            <l n="1790">la viva ofensa de tu muerta vida,</l>
+            <l>vuelve los ojos al dolor materno,</l>
+            <l>incesable sufragio en llanto tierno.</l>
+         </lg>
+         <lg>
+            <l>Esta es la tea nupcial que preparaba</l>
+            <l>a tálamo feliz, amor primero,</l>
+            <l n="1795">con flecha fulminar de eterna aljaba</l>
+            <l>de osado joven corazón sincero.»</l>
+            <l>Cesó, no el llanto, y Febe que lloraba</l>
+            <l>con fraterno dolor el trance fiero.</l>
+            <l>sólo en el corazón de rayo abierto</l>
+            <l n="1800">distingue madre viva, de hijo muerto.</l>
+         </lg>
+         <lg>
+            <l>Faetusa, dolorida y destrenzada,</l>
+            <l>las afrentas del oro suelta al viento,</l>
+            <l>y, de Lampecie triste acompañada,</l>
+            <l>flébil dolor esparce, amargo acento,</l>
+            <l n="1805">claro humor que en materia adulterada,</l>
+            <l>en la margen del Po tomando asiento,</l>
+            <l>inalterable haciendo su existencia</l>
+            <l>pudo mudar la forma y no la esencia,</l>
+         </lg>
+         <lg>
+            <l>cuyas tiernas reliquias esparcidas</l>
+            <l n="1810">Amor las viste y culto las acoge,</l>
+            <l>y, derramadas sí, mas no perdidas,</l>
+            <l>aromático seno las recoge,</l>
+            <l>donde gloriosamente reducidas</l>
+            <l>fruto, si amargo, fértil hoy descoge,</l>
+            <l n="1815">sujeto que debido a mejor plectro</l>
+            <l>fertilidad sudando llora electro.</l>
+         </lg>
+         <lg>
+            <l>Inmóviles las plantas se fijaron</l>
+            <l>vueltos en ramas sus ebúrneos cuellos,</l>
+            <l>cuyos miembros cortezas informaron</l>
+            <l n="1820">transformados en hojas los cabellos.</l>
+            <l>Y álamos siempre verdes coronaron</l>
+            <l>al Pado rey, quedando troncos bellos</l>
+            <l>a quien protege Alcides, y, felices,</l>
+            <l>cándido aroma exhalen sus raíces.</l>
+         </lg>
+         <lg>
+            <l n="1825">Fértilísimas lágrimas sabeas,</l>
+            <l>cuyo precioso ser, no adulterado,</l>
+            <l>dríades las veneran y napeas,</l>
+            <l>con fin atento y próspero cuidado,</l>
+            <l>fueron allí dos urnas amal teas,</l>
+            <l n="1830">de que vertió la copia humor sagrado,</l>
+            <l>cuantas contiene en su feliz Arabia,</l>
+            <l>feliz por esto, y por guardarlas, sabia.</l>
+         </lg>
+         <lg>
+            <l>Canora, al bien ardido, voz le debe</l>
+            <l>el que será su cándido registro,</l>
+            <l n="1835">plumas vistiendo de animada nieve</l>
+            <l>en los undosos senos de Caístro.</l>
+            <l>Agua, si tierra no, le será leve,</l>
+            <l>y Cigno, ya no rey, sino ministro</l>
+            <l>hoy fúnebre al hermano fulminado</l>
+            <l n="1840">sufragio es puro, sacrificio alado.</l>
+         </lg>
+         <lg>
+            <l>Eclipsada la luz del cielo, vino</l>
+            <l>al mundo si, mas que llorase. ¡Oh, cuánto</l>
+            <l>afectos puros de ánimo divino</l>
+            <l>no los puede aprehender humano canto!</l>
+            <l n="1845">Y pues la eterna esencia del camino</l>
+            <l>frágilmente mortal difiere tanto,</l>
+            <l>eterno plectro en cítara sonante</l>
+            <l>su inmortal llanto en claros himnos cante.</l>
+         </lg>
+         <lg>
+            <l>Eridaneidas, náyades, Nereo,</l>
+            <l n="1850">coro gentil de ninfas se juntaron,</l>
+            <l>hespérides llorosas que trofeo</l>
+            <l>de metal duro en sitio blando alzaron.</l>
+            <l>Y el pomposo dolor del Mausoleo</l>
+            <l>con epitafios cultos adornaron</l>
+            <l n="1855">urna, cuyos carácteres describen</l>
+            <l>muertos aplausos, lástimas que viven:</l>
+         </lg>
+         <lg>
+            <l>Cayó Faetón de la mayor altura,</l>
+            <l>conductor claro de la luz paterna;</l>
+            <l>a sobrado valor, faltó ventura,</l>
+            <l n="1860">mas no faltó a su muerte vida eterna.</l>
+            <l>Sufragios de dolor y sepultura</l>
+            <l>bella naya del Po le ofrece tierna.</l>
+            <l>Tú enfrena el pie y el llanto, fugitivo,</l>
+            <l>si muerto admiras al que lloras vivo.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fragmentos de Adonis</title>
+            <author>Pedro Soto de Rojas</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref
+                  target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                  Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Soto de Rojas, Pedro. <title>Parayso cerrado para muchos, jardines abiertos para
+                  pocos, con los fragmentos del Adonis</title>. Ed. De Aurora Egido. Madrid:
+               Cátedra, 1981. Impreso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado en <date>1652</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Fragmento I</head>
+            <l>Del mar Panfilio en el profundo seno</l>
+            <l>yace abrigada Chipre</l>
+            <l>-si bien su planta d'él siempre besada</l>
+            <l>con sus ondas lascivas,</l>
+            <l n="5">del aire regalada</l>
+            <l>con mano generosa,</l>
+            <l>su cabeza apacible y deleitosa-;</l>
+            <l>mira con eminencia</l>
+            <l>septentrional Silicia,</l>
+            <l n="10">meridional Egipto,</l>
+            <l>Siria oriental, occidental Panfilia;</l>
+            <l>presidio es de Amaltea,</l>
+            <l>de Priapo cultor, huertos pensiles,</l>
+            <l>de Pomona, decoro,</l>
+            <l n="15">orgullo y pompa del rapaz alado,</l>
+            <l>exaltación de Venus,</l>
+            <l>rubia altivez de Ceres,</l>
+            <l>tálamo en que, tendido,</l>
+            <l>se muestra Baco, de Minerva asido.</l>
+            <l n="20">D'esta, pues, isla hermosa</l>
+            <l>tuvo el rico gobierno</l>
+            <l>-bien que por sus efetos desdichado-</l>
+            <l>el rey Cinaras, hijo</l>
+            <l>de aquel sincel valiente,</l>
+            <l n="25">sincel Pigmaleón y de la estatua,</l>
+            <l>milagro de sus manos,</l>
+            <l>a quien Venus piadosa,</l>
+            <l>de su amor condolida,</l>
+            <l>porque a su perfección sólo faltaba,</l>
+            <l n="30">le impuso el alma, le inspiró la vida;</l>
+            <l>por hija este rey tuvo</l>
+            <l>la bella Mirra, Mirra más hermosa</l>
+            <l>que el Sol luciente al despuntar del día.</l>
+            <l>¡Oh veneno embozado!,</l>
+            <l n="35">regalando los ojos, le bebía</l>
+            <l>el padre enamorado;</l>
+            <l>que pudo quebrantar tanta belleza,</l>
+            <l>ley de naturaleza,</l>
+            <l>y el amor paternal, casi invencible,</l>
+            <l n="40">pudo ser quebrantado</l>
+            <l>del torpe, del lascivo,</l>
+            <l>que apetito es su nombre,</l>
+            <l>propio al irracional, indigno al hombre.</l>
+            <l>Disimulado el rey sus penas siente,</l>
+            <l n="45">que amor disimulado penas causa:</l>
+            <l>creció y alimentóse</l>
+            <l>en el tirano corazón doliente</l>
+            <l>de las dulces palabras de una boca,</l>
+            <l>de los orgullos de una altiva frente.</l>
+            <l n="50">Por natural vergüenza,</l>
+            <l>mas que no por el cuerdo sufrimiento,</l>
+            <l>el padre indigno su pasión celaba;</l>
+            <l>y la honesta doncella</l>
+            <l>-sol que le abrasa y que le influye estrella-,</l>
+            <l n="55">en ejercicios lícitos pasaba</l>
+            <l>el tiempo, si quedaba</l>
+            <l>absuelta de domésticos cuidados.</l>
+            <l>Un apacible día,</l>
+            <l>en sus cultos jardines,</l>
+            <l n="60">por divertirse hacía</l>
+            <l>el dulce efeto que la blanca Aurora,</l>
+            <l>no porque perlas llora,</l>
+            <l>mas porque su presencia generosa,</l>
+            <l>daba vida a las plantas,</l>
+            <l n="65">a todas ramas sazonado fruto,</l>
+            <l>bellos matices a las varias flores,</l>
+            <l>y con su aliento suavidad de olores;</l>
+            <l>que alegra, si conquista,</l>
+            <l>cuanto es objeto de su dulce vista.</l>
+            <l n="70">Llevarse deja en movimiento manso</l>
+            <l>de la murmuración mal explicada,</l>
+            <l>que un alegre arroyuelo</l>
+            <l>con su discurso natural hacía</l>
+            <l>por entre verdes murtas</l>
+            <l n="75">y frescos arrayanes,</l>
+            <l>dando lugar, tal vez, a que le usurpen</l>
+            <l>sus cristales hermosos</l>
+            <l>humildes juncos y espadañas verdes;</l>
+            <l>siendo presidio de sus claras linfas</l>
+            <l n="80">y albergue a pececillos temerosos,</l>
+            <l>que, entre raíces de árboles torcidas,</l>
+            <l>pretenden sólo conservar las vidas,</l>
+            <l>sin llegar a un estanque dilatado,</l>
+            <l>donde mil sus iguales</l>
+            <l n="85">eran, por temerarios,</l>
+            <l>de otros mayores mísero sustento;</l>
+            <l>y hallaban contento</l>
+            <l>en la agua moderada en que vivían,</l>
+            <l>sin querer, ambiciosos,</l>
+            <l n="90">mares solicitar dificultosos.</l>
+            <l>Sigue la hermosa ninfa sus pisadas</l>
+            <l>y al espacioso estanque</l>
+            <l>llega, donde, llamada de las olas,</l>
+            <l>con dulces lenguas del silencio a solas</l>
+            <l n="95">y aconsejada del calor estivo,</l>
+            <l>se muestra persuadida</l>
+            <l>a dar sus mimebros de cristal luciente</l>
+            <l>al agua divertida,</l>
+            <l>enamorada ya, más que corriente.</l>
+            <l n="100">Parece el cuerpo hermoso que se mueve</l>
+            <l>entre las aguas claras</l>
+            <l>cándida copia de nadante espuma.</l>
+            <l>¡Oh qué ventaja a los cristales hace!,</l>
+            <l>ventaja generosa,</l>
+            <l n="105">como entre lirios nacarada rosa.</l>
+            <l>A esta sazón luchando, y aún rendido,</l>
+            <l>con insultos estaba pensamientos,</l>
+            <l>entre determinado, entre dudoso,</l>
+            <l>el padre enamorado</l>
+            <l n="110">que, algo siempre apartado,</l>
+            <l>la dulce causa de su error seguía.</l>
+            <l>Llegó tan cerca della,</l>
+            <l>que fácilmente pudo una centella</l>
+            <l>ser traída del viento</l>
+            <l n="115">al pecho fulminado,</l>
+            <l>donde, de la ocasión fiera atizado,</l>
+            <l>el corazón doliente</l>
+            <l>descubre ya su incendio dilatado.</l>
+            <l>Ya siente que discurren por sus venas</l>
+            <l n="120">exhalaciones de lascivo fuego;</l>
+            <l>ya la razón se aflige y desvaría</l>
+            <l>con la temeridad del accidente</l>
+            <l>que el apetito cría;</l>
+            <l>ya -¡cuán en vano!- reducir procura</l>
+            <l n="125">siquiera a lucha nueva</l>
+            <l>el ánimo en errar determinado</l>
+            <l>del pervertido padre</l>
+            <l>que su lustrosa calidad le lleva:</l>
+            <l>mas queda desmayada</l>
+            <l n="130">y vergonzosamente atropellada.</l>
+            <l>En tanto, pues, la descuidada ninfa,</l>
+            <l>usurpada del baño</l>
+            <l>entre un, si avaro, delicado paño,</l>
+            <l>la plata de sus miembros escondía,</l>
+            <l n="135">por ellos deslizándose caía</l>
+            <l>la agua templada y pura,</l>
+            <l>cual por mármoles tersos</l>
+            <l>o columnas de cándido alabastro;</l>
+            <l>y a la linfa menor que se escondía</l>
+            <l n="140">rehacía en sus molduras torneadas,</l>
+            <l>perezosa en sus hoyos</l>
+            <l>-abismo, si abundancia de hermosura-,</l>
+            <l>dulcemente la apura</l>
+            <l>aplicando la mano delicada</l>
+            <l n="145">-el cendal interpuesto-</l>
+            <l>hacia la parte que sintió mojada.</l>
+            <l>Fuese apartando un poco</l>
+            <l>del ordinario paso,</l>
+            <l>que ya la esperan con placer no escaso</l>
+            <l n="150">rústicas almohadas de tomillos</l>
+            <l>sobre tapetes verdes y amarillos.</l>
+            <l>Recostóse do el pueblo de las flores,</l>
+            <l>besando alegre sus piadosas plantas;</l>
+            <l>en aras naturales,</l>
+            <l n="155">aromas mil le ofrece,</l>
+            <l>porque gozar su vecindad merece;</l>
+            <l>y allí, con el celebro humedecido,</l>
+            <l>los miembros delicados,</l>
+            <l>del gustoso ejercicio fatigados,</l>
+            <l n="160">entregaron del alma las espías</l>
+            <l>al blando hermano de la amarga muerte</l>
+            <l>que, con sus alas de piedad movido,</l>
+            <l>dulce sombra le hizo al sol dormido.</l>
+            <l>Ya de la lucha bárbara, dudosa,</l>
+            <l n="165">el falso padre, el desmentido amante,</l>
+            <l>a su conceto, vencedor se estima;</l>
+            <l>juzgaba vitoriosa</l>
+            <l>la determinación, infame esclava,</l>
+            <l>y el adúltero paso apresurando,</l>
+            <l n="170">llega a su hija, que durmiendo estaba.</l>
+            <l>Llega atrevido, calla temeroso,</l>
+            <l>quiere embestir y queda desmayado,</l>
+            <l>intenta acometer y atrás se vuelve;</l>
+            <l>de una mujer dormida</l>
+            <l n="175">tiembla determinado,</l>
+            <l>que es cobarde la fuerza del pecado;</l>
+            <l>mas el poder, el cetro, la riqueza</l>
+            <l>-carga del alma, espuela del sentido,</l>
+            <l>disolución infame, descarada,</l>
+            <l n="180">si en ignorantes toca-,</l>
+            <l>los autos justos del temor revoca,</l>
+            <l>y le arroja en el suelo</l>
+            <l>a chupar los claveles de una boca.</l>
+            <l>No de otra suerte susurrante abeja</l>
+            <l n="185">calar se deja al romeral florido</l>
+            <l>tras su goloso humor que está escondido.</l>
+            <l>Salteada la ninfa</l>
+            <l>en el paso lascivo,</l>
+            <l>aun de su pensamiento no tocado,</l>
+            <l n="190">despierta y duda si será soñado</l>
+            <l>caso tan peregrino:</l>
+            <l>ve su padre mudado,</l>
+            <l>no de hombre en fiera, más de fiera en monstro,</l>
+            <l>en el acto y el rostro;</l>
+            <l n="195">duda, suspensa, y, en su duda extraña,</l>
+            <l>el falso que le arguye,</l>
+            <l>por amado, o temido,</l>
+            <l>el silogismo de su error concluye</l>
+            <l>y, pisada la cándida azucena,</l>
+            <l n="200">vïola negra ya quedó de suerte</l>
+            <l>que concibió, cual víbora, su muerte.</l>
+            <l>El bien contento amante,</l>
+            <l>viéndose poseedor de su esperanza,</l>
+            <l>a su resolución reconocido,</l>
+            <l n="205">daba las gracias y a su buena suerte;</l>
+            <l>ya deja de ser padre y es esposo,</l>
+            <l>galantea solícito y cuidoso</l>
+            <l>con máscara de amor su hija y dama;</l>
+            <l>ella, con sus fatigas vueltas gusto,</l>
+            <l n="210">dulce le corresponde,</l>
+            <l>dulce se enlaza del paterno cuello</l>
+            <l>y por lo vergonzoso, o por lo bello,</l>
+            <l>purpúreas rosas deshojadas llueve</l>
+            <l>-triunfo de amor, y de su madre fama-</l>
+            <l n="215">de entre el jazmín, ejemplo de la nieve.</l>
+            <l>Pide licencia al padre de vestirse</l>
+            <l>y el amante le sirve la camisa</l>
+            <l>torciendo el cuello al inclinar la cara,</l>
+            <l>para gozar su hermosura rara</l>
+            <l n="220">no sólo en acto feo,</l>
+            <l>pero con ciegos ojos;</l>
+            <l>que le ponen demanda los sentidos</l>
+            <l>viéndole casi muerto</l>
+            <l>sobre la parte poca</l>
+            <l n="225">que en un deleite temporal les toca.</l>
+            <l>Pusóse, al fin sus galas al descuido</l>
+            <l>que tuvo su cuidado</l>
+            <l>en nueva acción entonces ocupado.</l>
+            <l>Calza coturno de oro en pie de plata,</l>
+            <l n="230">hacia su real palacio el paso inclina</l>
+            <l>y, con tanto dulzor la hierba trata,</l>
+            <l>que por no serle esquiva, o serle ingrata,</l>
+            <l>al suelo se reduce</l>
+            <l>y copias mil de flores le produce.</l>
+            <l n="235">Duplica los requiebros implicados</l>
+            <l>a cada paso el amador sediento;</l>
+            <l>duplica los abrazos añudados</l>
+            <l>en conquistar una esperanza larga;</l>
+            <l>quisiera ver el tiempo detenido,</l>
+            <l n="240">que le parecen soplos</l>
+            <l>-y en esto sólo acierta-</l>
+            <l>las horas que regalan el sentido.</l>
+            <l>Llegaron a su alcázar sumptuoso</l>
+            <l>los dos nuevos amantes:</l>
+            <l n="245">él, cual galán del gusto de su dama</l>
+            <l>se aparta cuidadoso,</l>
+            <l>como rey se presenta a quien le espera</l>
+            <l>y, mientras suelta la madeja hermosa,</l>
+            <l>a solas retirada,</l>
+            <l n="250">con blanco peine en mano regalada,</l>
+            <l>y con nuevo discurso,</l>
+            <l>en nuevo caso,</l>
+            <l>la legítima infanta respetada</l>
+            <l>bastarda oculta reina;</l>
+            <l n="255">más que cabellos, pensamientos peina.</l>
+            <l>En recíproco amor pasaron juntos</l>
+            <l>-felicidad de amantes-</l>
+            <l>algunos dulces, pero breves días.</l>
+            <l>Aviva el apetito</l>
+            <l n="260">y el gusto se dispone</l>
+            <l>con la agridulce salsa</l>
+            <l>que el recato les sirve</l>
+            <l>por la curiosidad de los criados,</l>
+            <l>rigurosos censores</l>
+            <l n="265">de la mejor acción de sus señores.</l>
+            <l>Llegado, pues, el tiempo, siempre corto</l>
+            <l>en casos semejantes,</l>
+            <l>Mirra, fecunda, la opinión desmiente</l>
+            <l>que de su castidad tantos tenían.</l>
+            <l n="270">Sus doncellas lo sienten, y lo callan;</l>
+            <l>sus criados lo miran, y enmudecen;</l>
+            <l>los ancianos se espantan,</l>
+            <l>mancebos la mormuran,</l>
+            <l>niños la satirizan cuando cantan.</l>
+            <l n="275">Quisiera el padre hacerse no entendido</l>
+            <l>por no mirar concluso</l>
+            <l>el pleito criminal que honor le puso,</l>
+            <l>mas ya no valen pruebas de Cupido</l>
+            <l>que, mirando los ojos de su gente</l>
+            <l n="280">-bien es que está engañado-,</l>
+            <l>imagina que saben su pecado.</l>
+            <l>Quiérelos desmentir con fiero enojo,</l>
+            <l>cúlpalos con equívocas palabras;</l>
+            <l>de uno que a todos toca</l>
+            <l n="285">finge que está ofendido;</l>
+            <l>brama cual toro del rejón herido,</l>
+            <l>ruge como león ensangrentado,</l>
+            <l>bufa cual jabalí que el perro siente.</l>
+            <l>Quitar quiere la vida</l>
+            <l n="290">el tirano homicida</l>
+            <l>-por la materia de su mal estado-</l>
+            <l>a quien había quitado</l>
+            <l>la más durable que la fama ofrece.</l>
+            <l>Su culpa infame olvida</l>
+            <l n="295">-por fuerza de amor propio-,</l>
+            <l>a sí mismo se engaña y persüade</l>
+            <l>con elocuencia muda;</l>
+            <l>niega sin que le imputen su delito,</l>
+            <l>dejando falso su descargo escrito</l>
+            <l n="300">con inocente sangre,</l>
+            <l>y determina, en su discurso errado,</l>
+            <l>salir del duro aprieto</l>
+            <l>matando a esposa y hija, a hijo y nieto.</l>
+         </div>
+         <div>
+            <head>Fragmento II</head>
+            <l>Tras una exclamación que al cielo intima</l>
+            <l n="305">-después de estar el mísero juzgado-</l>
+            <l>sale fiero, el semblante alborotado,</l>
+            <l>el paso descompuesto</l>
+            <l>y empuñando el acero; vinculado</l>
+            <l>a su real corona,</l>
+            <l n="310">ministro vil su deshonor pregona;</l>
+            <l>que quiere, en vez del cetro generoso,</l>
+            <l>constituir del más verdugo infame</l>
+            <l>el filo más cobarde, riguroso.</l>
+            <l>Busca la tiranía conjurada</l>
+            <l n="315">a la casi inocente, bien segura,</l>
+            <l>que aguardaba a su esposo,</l>
+            <l>llena, si de vergüenza, de hermosura.</l>
+            <l>Las puertas que conquista, así las hiere,</l>
+            <l>que dan temor dudoso</l>
+            <l n="320">a la ninfa confusa.</l>
+            <l>Pregunta a sus doncellas:</l>
+            <l>«¿Qué voces portentosas son aquéllas?»</l>
+            <l>Y la que más decírselas rehusa,</l>
+            <l>por amor o por odio que le tiene,</l>
+            <l n="325">la avisa del peligro</l>
+            <l>y de su error la acusa.</l>
+            <l>Entra la fuerza el enemigo fiero,</l>
+            <l>y ella, que en hoja de fulgente acero</l>
+            <l>y en el semblante airado</l>
+            <l n="330">ve la sentencia escrita de hijo y madre,</l>
+            <l>por redimir las dos amadas vidas</l>
+            <l>del enemigo y padre,</l>
+            <l>en tiempos diferentes recebidas,</l>
+            <l>-y en actos tan distantes,</l>
+            <l n="335">por la dispensación de su apetito-,</l>
+            <l>calza las plumas que el temor le presta</l>
+            <l>y, dejando su alcázar lastimado,</l>
+            <l>dejando atrás el viento fatigado,</l>
+            <l>con su voz lastimosa,</l>
+            <l n="340">la hermosura funesta</l>
+            <l>fatiga con sus plantas la floresta.</l>
+            <l>Vése Atalanta allí, sin buscar pomas,</l>
+            <l>huyendo el rayo del veloz cuchillo,</l>
+            <l>término que es fatal de su carrera.</l>
+            <l n="345">No se aflige el amante en la conquista,</l>
+            <l>brama el verdugo, en verla tan ligera,</l>
+            <l>y en modo de venganza,</l>
+            <l>cuando más se fatiga y no la alcanza,</l>
+            <l>si queda imagen de su planta hermosa,</l>
+            <l n="350">la rompe airado con el pie grosero.</l>
+            <l>¡Oh, qué infeliz agüero!</l>
+            <l>Ya Mirra desdichada</l>
+            <l>oye la voz, que la llamaba airada.</l>
+            <l>Siéntese sin aliento y desconfía</l>
+            <l n="355">de hallar huida al obstinado alcance</l>
+            <l>que persevera tanto;</l>
+            <l>y así con interior, si dulce, canto,</l>
+            <l>invocando a los dioses, les decía:</l>
+            <l>«¡Oh sagradas deidades,</l>
+            <l n="360">que gozáis sin mudanza dignamente,</l>
+            <l>en trono eterno, eternas majestades,</l>
+            <l>los que en ricos palacios</l>
+            <l>de inmensa arquitectura</l>
+            <l>medís zafiros y pisáis topacios,</l>
+            <l n="365">absueltos siempre de tiniebla obscura,</l>
+            <l>y en mesa dilatada,</l>
+            <l>de apetito mortal jamás tocada,</l>
+            <l>con hartura y reposo</l>
+            <l>bebéis néctar sabroso,</l>
+            <l n="370">tras los dulces bocados,</l>
+            <l>de soberana duración guisados.</l>
+            <l>¡Oh tú!, jüez a todos eminente,</l>
+            <l>que si el rayo en la mano,</l>
+            <l>tienes de amante el corazón humano.</l>
+            <l n="375">Tú, que con luz prudente</l>
+            <l>ves las miserias de la humana gente,</l>
+            <l>oye mi triste querellante voz.»</l>
+            <l>Aquí, en un punto fue la voz turbada</l>
+            <l>de la ninfa cansada,</l>
+            <l n="380">sin que impetrar pudiese</l>
+            <l>auxilio alguno más que la valiese,</l>
+            <l>término tuvo el fugitivo vuelo,</l>
+            <l>penetraron sus lástimas el cielo;</l>
+            <l>que aunque dista a los ojos,</l>
+            <l n="385">a efectos tiernos y a piadosos casos</l>
+            <l>está siempre vecino.</l>
+            <l>Los delicados pies, ya no ligeros,</l>
+            <l>por la admirada tierra se clavaron</l>
+            <l>y en torcidas raíces se tornaron;</l>
+            <l n="390">las blancas piernas de cristal bruñido,</l>
+            <l>juntas, retortijadas,</l>
+            <l>de robustez con aspereza armadas,</l>
+            <l>se oponen firmes al burlado acero.</l>
+            <l>Los tiernos, lisos brazos,</l>
+            <l n="395">tálamo dulce al regalón Cupido,</l>
+            <l>vueltos en gruesas y velludas ramas,</l>
+            <l>palestra son del viento embravecido.</l>
+            <l>Los dedos torneados</l>
+            <l>en renuevos se ostentan delicados;</l>
+            <l n="400">los dorados cabellos,</l>
+            <l>lucida afrenta del honor del día,</l>
+            <l>en algo crespas, verdinegras hojas;</l>
+            <l>las dulces y conformes coyunturas,</l>
+            <l>en nudos descompuestos,</l>
+            <l n="405">y, al fin, quedó cubierta su belleza</l>
+            <l>sutil, cándida y lisa,</l>
+            <l>en resquebrada y áspera corteza</l>
+            <l>de un mal derecho tronco</l>
+            <l>que en seis o siete codos de estatura</l>
+            <l n="410">disfrazó su gallarda compostura,</l>
+            <l>cuyas amargas gomas</l>
+            <l>heredaron su nombre</l>
+            <l>y en teatros funestos representan,</l>
+            <l>con su triste amargura,</l>
+            <l n="415">la tragedia de tanta desventura.</l>
+            <l>Ya llega, ya, la vergonzosa espada,</l>
+            <l>ya ejecuta en el tronco,</l>
+            <l>que casi dentro se quejaba ronco,</l>
+            <l>la justa cuchillada,</l>
+            <l n="420">si fuera, en quien la forma, ejecutada.</l>
+            <l>Mas los cielos piadosos</l>
+            <l>-que conservar una inocente vida</l>
+            <l>con dos venenos saben rigurosos-</l>
+            <l>producen de la herida,</l>
+            <l n="425">entre cuajada sangre desteñida,</l>
+            <l>un peregrino infante,</l>
+            <l>confusión de crepúsculos hermosos,</l>
+            <l>piedad de airadas fieras,</l>
+            <l>de los dioses cuidado,</l>
+            <l n="430">decoro de las ninfas regalado</l>
+            <l>y altiva calidad de sus riberas.</l>
+            <l>En sus robustos y velludos brazos</l>
+            <l>de verdes hierbas, de esmaltadas flores,</l>
+            <l>con dulce amor le recibió Cibeles;</l>
+            <l n="435">a los leones duplicó los lazos,</l>
+            <l>que, por insignia de piedad y amores,</l>
+            <l>en plumas blancas permutó las pieles</l>
+            <l>y adornó con pelícanos su carro.</l>
+            <l>El padre incestuoso,</l>
+            <l n="440">cruel, bárbaro abuelo,</l>
+            <l>viendo su infamia que la ostenta el suelo,</l>
+            <l>desesperado, con mortal desgarro,</l>
+            <l>solicita el castigo riguroso</l>
+            <l>debido a sus delitos.</l>
+            <l n="445">Su conciencia feroz le fiscaliza</l>
+            <l>y, cual verdugo, a la memoria atiza,</l>
+            <l>brasero ya encendido,</l>
+            <l>con bastardas centellas de Cupido,</l>
+            <l>y, al presente, infamado</l>
+            <l n="450">con los dolientes gritos</l>
+            <l>que dilata el infante delicado,</l>
+            <l>huye de sus ministros forajido,</l>
+            <l>solicita los fieros animales,</l>
+            <l>no para darles leyes</l>
+            <l n="455">-que es ya vasallo vil; las fieras, reyes-,</l>
+            <l>mas porque, en garras llenas de braveza,</l>
+            <l>se ejecute el castigo de sus males</l>
+            <l>y se halle en su historia,</l>
+            <l>para ejemplo y memoria;</l>
+            <l n="460">que por tener corona en la cabeza,</l>
+            <l>aunque fue rey injusto,</l>
+            <l>pronunció el auto de su muerte justo.</l>
+            <l>Y ya que mide a un monte la aspereza</l>
+            <l>-la luz mísera en él, aún no distinta-,</l>
+            <l n="465">ministros de rigor salieron tales</l>
+            <l>que, dejando la hierba en sangre tinta</l>
+            <l>y la tierra manchada,</l>
+            <l>la sentencia ejecutan fulminada.</l>
+            <l>Al camino común de los mortales,</l>
+            <l n="470">con pequeñas fatigas de Lucina,</l>
+            <l>salió el infante libertado apenas,</l>
+            <l>cuando Setún solícito y Vituno,</l>
+            <l>que a tal piedad se inclina,</l>
+            <l>le inspira el alma con su aliento el uno</l>
+            <l n="475">en las templadas venas,</l>
+            <l>y el otro, en sus asientos naturales,</l>
+            <l>los sentidos le imprime corporales.</l>
+            <l>Veloz Lenona parte, mas con paso piadoso,</l>
+            <l>a alzar del duro suelo el niño hermoso,</l>
+            <l n="480">prisión de Venus y expulsión de Marte.</l>
+            <l>Júpiter mira con piadoso agrado</l>
+            <l>tanta hermosura, en término tan breve,</l>
+            <l>y casi se le atreve</l>
+            <l>traidor Cupido, a vueltas del deseo</l>
+            <l n="485">de verle bien logrado;</l>
+            <l>y así, por su apetito o su cuidado,</l>
+            <l>resuelve providente</l>
+            <l>en su infalible mente</l>
+            <l>que el trato de los dioses y su empleo</l>
+            <l n="490">sirva al bisoño infante</l>
+            <l>-desarmado y desnudo, mas triunfante-</l>
+            <l>de sueldo rico y disciplina honrosa</l>
+            <l>en aquesta milicia rigurosa.</l>
+            <l>Juntos los vicedioses en las salas</l>
+            <l n="495">que ilustra el rubio aspecto de alegría</l>
+            <l>y atemoriza el fulminante rayo,</l>
+            <l>de su mejor acción hacen ensayo.</l>
+            <l>Ya la cándida voz que proponía</l>
+            <l>el suceso piadoso</l>
+            <l n="500">del brótano de un árbol prodigioso</l>
+            <l>toda deidad pendía,</l>
+            <l>y, mientras calzan obedientes alas</l>
+            <l>los piadosos fervores,</l>
+            <l>Júpiter les confiesa</l>
+            <l n="505">que es de la tierra universal amparo,</l>
+            <l>y debe -aun con su vida- dar reparo</l>
+            <l>-precisa obligación de superiores-</l>
+            <l>a la necesidad, que más se expresa.</l>
+            <l>A cada cual en su eminencia ocupa</l>
+            <l n="510">el mandato obediente.</l>
+            <l>Parte Cunina al amoroso arrullo</l>
+            <l>con plantas de algodón, con su voz süave,</l>
+            <l>con mano diligente,</l>
+            <l>y la blanca Rumena</l>
+            <l n="515">de blanco humor, con abundancia llena,</l>
+            <l>copias ministra en el pezón que chupa</l>
+            <l>el tierno labio con lascivo orgullo.</l>
+            <l>A su sabrosa facultad, Potina,</l>
+            <l>de método no escrito,</l>
+            <l n="520">términos proponiendo al apetito,</l>
+            <l>templadamente al nuevo gusto inclina</l>
+            <l>con el comer sabroso</l>
+            <l>y el beber insaciable, deleitoso.</l>
+            <l>Otra deidad ligera le reserva</l>
+            <l n="525">sin aceite ni hierba,</l>
+            <l>con celo manso y pío,</l>
+            <l>de toda opilación, de todo hastío.</l>
+            <l>Y, con semblante alegre, Vaticano</l>
+            <l>de ordinario le asiste</l>
+            <l n="530">al tierno llanto lastimoso y triste,</l>
+            <l>porque no se le atreva</l>
+            <l>y, en vez de dulce humor, lágrimas beba.</l>
+            <l>Con firme pecho, con igual semblante,</l>
+            <l>Penencia se oponía</l>
+            <l n="535">a las formas que trae la fantasía</l>
+            <l>y a miedos alterados</l>
+            <l>que, sin causa bastante,</l>
+            <l>hieren los corazones delicados.</l>
+            <l>Mite, prudente anciana</l>
+            <l n="540">-deidad mentida en la malicia humana-,</l>
+            <l>le corrige, le templa los deseos.</l>
+            <l>Y Conjus, con sus canas venerables,</l>
+            <l>contra los casos que se ofrecen feos,</l>
+            <l>sanos consejos le propone amables.</l>
+            <l n="545">Sencia le pone el natural agrado,</l>
+            <l>hechizo no estudiado,</l>
+            <l>acetada libranza</l>
+            <l>que el costo ha de pagar de su crianza.</l>
+            <l>Otras sacras deidades se encargaron</l>
+            <l n="550">de acciones de su vida diferentes,</l>
+            <l>y todas juntas ya sacrificaron</l>
+            <l>a los dioses consentes</l>
+            <l>que la ofrenda benignos acetaron:</l>
+            <l>el Júpiter tonante, la cabeza;</l>
+            <l n="555">Minerva sabia, los prudentes ojos,</l>
+            <l>los tiernos brazos, la cuidosa Juno,</l>
+            <l>los blancos pechos vinculó Neptuno</l>
+            <l>y la cintura, el dios de la braveza.</l>
+            <l>Venus, llena de enojos,</l>
+            <l n="560">las espaldas recibe con tristeza,</l>
+            <l>quizá porque le dicen sus antojos</l>
+            <l>que cuando de su amor esté encendida</l>
+            <l>ha de volverlas a la humana vida.</l>
+            <l>Y el dios facundo alado</l>
+            <l n="565">-¡ay, qué gran desventura!,</l>
+            <l>mejor fuera calzar plomo pesado-</l>
+            <l>en pies veloces imponer procura</l>
+            <l>sus dos alas ligeras</l>
+            <l>para que pueda perseguir las fieras.</l>
+            <l n="570">Desde su carro de cristal luciente,</l>
+            <l>-disipación de la tiniebla obscura,</l>
+            <l>primero honor del más alegre día</l>
+            <l>y émulo casi vencedor de Febo-,</l>
+            <l>en la venta común del huésped nuevo,</l>
+            <l n="575">la encendida hermosura</l>
+            <l>Venus miraba con afecto ardiente;</l>
+            <l>a sus cisnes las riendas recogía</l>
+            <l>y en su carrera el curso suspendía.</l>
+            <l>Mirando estaba atenta</l>
+            <l n="580">cuando, descomedido o descuidado,</l>
+            <l>el cisne, de su mano regalado,</l>
+            <l>despliega un ala, de la nieve afrenta,</l>
+            <l>que interpuesta a la vista se presenta.</l>
+            <l>Pudo causarle -como estorbo- celos,</l>
+            <l n="585">y así, con fiero enojo,</l>
+            <l>sacude en cuello blanco azote rojo,</l>
+            <l>cuyo crujido retumbó en los cielos</l>
+            <l>y, amedrentado el tirador bizarro,</l>
+            <l>casi en el eje se ocultó del carro.</l>
+            <l n="590">Vuelve el sabroso objeto</l>
+            <l>con nuevo ardor la vista penetrante,</l>
+            <l>y ya, de enamorada o condolida,</l>
+            <l>mostrar quisiera el necesario efeto</l>
+            <l>en la inocente vida,</l>
+            <l n="595">dándole en sus palacios acogida</l>
+            <l>para que no se estreche;</l>
+            <l>y entre los labios del coral excesos,</l>
+            <l>tras dulces copias de lasciva leche,</l>
+            <l>dulce abundancia de lascivos besos; p</l>
+            <l n="600">ero teme a su amante</l>
+            <l>que se le opone con su luz delante.</l>
+            <l>El colérico Marte conocía</l>
+            <l>de Venus el intento y, no celoso,</l>
+            <l>mas algo cuidadoso,</l>
+            <l n="605">con su ardiente fulgor la entretenía.</l>
+            <l>Ella, disimulando, complacía</l>
+            <l>al adúltero amigo y fiero esposo,</l>
+            <l>hasta ver divertido</l>
+            <l>a Marte poderoso</l>
+            <l n="610">entre cuchillas de rigor vestido,</l>
+            <l>y al astuto Vulcano,</l>
+            <l>con el martillo en la derecha mano.</l>
+            <l>El infante esperaba su ventura</l>
+            <l>que ya cercana viene</l>
+            <l n="615">-porque no se le encarga</l>
+            <l>a corta vida una esperanza larga-,</l>
+            <l>cuando Venus previene</l>
+            <l>del carro hermoso la veloz blancura,</l>
+            <l>olvidando la red y las cadenas,</l>
+            <l n="620">del sabroso delito, amargas penas,</l>
+            <l>que aun hoy publica el gallo temeroso</l>
+            <l>en cada giro del planeta hermoso.</l>
+            <l>Y, sacudiendo el temeroso azote,</l>
+            <l>bajan los hipocisnes las cabezas,</l>
+            <l n="625">alzan las alas en conforme trote,</l>
+            <l>rechina el eje y los tiranos crujen,</l>
+            <l>tres murallas penetran de diamante;</l>
+            <l>si no de Venus los alados tiros,</l>
+            <l>de su artillero las volantes piezas</l>
+            <l n="630">rompen los campos del bramante Eolo</l>
+            <l>do embravecidos sus ministros rugen,</l>
+            <l>entre cuyo ruïdo siempre solo</l>
+            <l>tristes dilata Venus mil suspiros,</l>
+            <l>hasta que el carro al tierno infante</l>
+            <l n="635">llega donde se arroja entre las flores ciega.</l>
+            <l>Lenona caminaba diligente</l>
+            <l>-aunque partió primero,</l>
+            <l>que amor nace con alas y es ligero-</l>
+            <l>cuando alzaba la madre de Cupido</l>
+            <l n="640">del duro suelo el encarnado oriente</l>
+            <l>y cuando la toalla que ceñía</l>
+            <l>en tres conformes partes dividía</l>
+            <l>-porque tres veces guarde</l>
+            <l>del animoso viento desabrido</l>
+            <l n="645">al tierno pecho, sin temor cobarde-,</l>
+            <l>danle los cisnes priesa</l>
+            <l>para que vaya a acompañar el día,</l>
+            <l>y ella se embebecía,</l>
+            <l>después ya que le brinca, chilla y besa,</l>
+            <l n="650">considerando en los futuros años</l>
+            <l>un talle airoso entre lucidos paños.</l>
+         </div>
+         <div>
+            <head>Fragmento III</head>
+            <l>Parados, los crepúsculos la esperan</l>
+            <l>-que ha de pasar delante-,</l>
+            <l>cuando entregó el infante</l>
+            <l n="655">a la casera de una humilde choza,</l>
+            <l>en cuyas simples pajas</l>
+            <l>-mejor que entre brocados bachilleres</l>
+            <l>que la virtud discreta vituperan-</l>
+            <l>de dulce amor y de quietud se goza.</l>
+            <l n="660">Encargóle el cuidado</l>
+            <l>y el premio del trabajo señalado</l>
+            <l>en los que el niño le dará placeres,</l>
+            <l>y de su rico templo en las ofrendas</l>
+            <l>crujió el azote y sacudió las riendas.</l>
+            <l n="665">Casi distaba término imposible</l>
+            <l>para la voz humana,</l>
+            <l>cuando la ansiosa, fatigada, escucha</l>
+            <l>que, el nombre del muchacho preguntando,</l>
+            <l>con la aspereza de los vientos lucha.</l>
+            <l n="670">Corrige, al fin, la confusión terrible,</l>
+            <l>dos veces dilatando</l>
+            <l>Adonis dulce por el aire blando,</l>
+            <l>en señal de la herencia</l>
+            <l>que hizo a la desdicha, la inocencia;</l>
+            <l n="675">y en señal de alegría</l>
+            <l>-no de la posesión, de la esperanza-,</l>
+            <l>el aire y tierra que su voz alcanza</l>
+            <l>de olores mil con suavidad henchía.</l>
+            <l>A más velocidad su curso entrega</l>
+            <l n="680">la precursora del siguiente día,</l>
+            <l>y a sus palacios llega,</l>
+            <l>donde los rayos de su luz despliega.</l>
+            <l>Hizo el rapaz en Venus tanto estrago</l>
+            <l>dejándose mirar -¡oh nuevo estilo</l>
+            <l n="685">de ponzoñoso aspecto!- que pudiera</l>
+            <l>ser desterrada de su hermosa esfera</l>
+            <l>y condenada -cual mujer- al filo</l>
+            <l>del ofendido esposo,</l>
+            <l>que si una vez le mitigó el halago,</l>
+            <l n="690">otra le incita al acto riguroso,</l>
+            <l>si no la disculpara</l>
+            <l>muda elocuencia de belleza rara.</l>
+            <l>Pero los rizos del dorado pelo</l>
+            <l>sobre el marfil lustroso de la frente</l>
+            <l n="695">son rayos que disculpan su accidente,</l>
+            <l>que el oro agravian de Milán delgado,</l>
+            <l>y al sol que pende en la mitad del cielo</l>
+            <l>le vituperan su mejor trenzado;</l>
+            <l>el nácar interpuesto, bien partido,</l>
+            <l n="700">con la reciente deshojada rosa</l>
+            <l>sobre las tiernas cándidas mejillas,</l>
+            <l>no vistas hasta entonces maravillas,</l>
+            <l>son caracteres sabios</l>
+            <l>que informan la violencia que recibe</l>
+            <l n="705">hasta la posesión la amante diosa.</l>
+            <l>De la parte más pura y más hermosa</l>
+            <l>que del zafiro desgajó tercero</l>
+            <l>el Júpiter severo</l>
+            <l>con duro rayo de furor ceñido,</l>
+            <l n="710">cuando hace al fiero Acroceraunia astillas,</l>
+            <l>son los rasgados ojos que apercibe</l>
+            <l>contra su madre el flechador Cupido.</l>
+            <l>El coral encendido,</l>
+            <l>si bien de tierno, congelado apenas,</l>
+            <l n="715">forma los gruesos y conformes labios,</l>
+            <l>dulces ministros de mayores penas</l>
+            <l>y de mayores para el mundo agravios;</l>
+            <l>que ya codician, como son tan bellos,</l>
+            <l>todas las ninfas desmayarse en ellos.</l>
+            <l n="720">La orgullosa garganta,</l>
+            <l>después de dos barbillas ternezuelas,</l>
+            <l>que pueden ser del apetito espuelas,</l>
+            <l>airosa se levanta,</l>
+            <l>casi del pecho juguetón sacando</l>
+            <l n="725">cándidas roscas de alabastro blando.</l>
+            <l>Los miembros bien dispuestos, bien trabados,</l>
+            <l>de su gentil disposición señales,</l>
+            <l>son trabas, son cadenas,</l>
+            <l>términos son mortales</l>
+            <l n="730">de amorosos intentos,</l>
+            <l>hijos desenfrenados de los vientos,</l>
+            <l>por natural estorbo mal logrados.</l>
+            <l>De las doradas flechas matadoras</l>
+            <l>es Adonis la hierba, y como crece</l>
+            <l n="735">por oculta virtud más que por días</l>
+            <l>-que a él sólo se permite</l>
+            <l>con oraciones de su amante pías,</l>
+            <l>que en vez de meses le aprovechen horas-,</l>
+            <l>Cupidillo orgulloso se recrea</l>
+            <l n="740">y, por probar la fuerza del veneno,</l>
+            <l>de cuando en cuando en el lascivo seno</l>
+            <l>de su madre querida,</l>
+            <l>abriendo nueva herida,</l>
+            <l>la aguda copia de su aljaba emplea.</l>
+            <l n="745">Ya desde el cielo Adonis se parece,</l>
+            <l>que da cuidado al ama,</l>
+            <l>y la desprecia, cuando más le llama,</l>
+            <l>por ver los pajarillos en los lazos,</l>
+            <l>hechas las alas de batir pedazos.</l>
+            <l n="750">Por oculto camino</l>
+            <l>de otro jamás pisado, Adonis llega,</l>
+            <l>de la infancia encogida,</l>
+            <l>a la lozana juventud florida;</l>
+            <l>el ánimo ostentando más gallardo</l>
+            <l n="755">que en pecho humano encarcelarse pudo</l>
+            <l>y la mayor belleza</l>
+            <l>que dio con su pincel naturaleza.</l>
+            <l>Mira Venus el monstruo peregrino</l>
+            <l>más bien, cuando más ciega,</l>
+            <l n="760">y aunque le agrada ver que el hierro agudo</l>
+            <l>en una fiera ensangrentó del dardo,</l>
+            <l>recela temerosa,</l>
+            <l>que es la caza en los montes peligrosa.</l>
+            <l>Venerador piadoso de Dïana</l>
+            <l n="765">era el joven valiente,</l>
+            <l>aunque tal vez sus regalados ojos</l>
+            <l>se regalan mirando</l>
+            <l>de hermosas ninfas la lucida escuadra</l>
+            <l>que el monte más espeso</l>
+            <l n="770">tras el herido jabalí taladra.</l>
+            <l>Y cuando llegan a la dulce fuente,</l>
+            <l>a la más vencedora y más ufana</l>
+            <l>a quien la fiera le rindió despojos,</l>
+            <l>si fatigada en la carrera ardiente</l>
+            <l n="775">-el fresco sitio Adonis despejando,</l>
+            <l>que le llevaba del calor el peso--,</l>
+            <l>antes que la agua clara,</l>
+            <l>mil venenos le brinda con su cara.</l>
+            <l>La hermosa Venus con mortal recelo</l>
+            <l n="780">y vivo afecto de gozar su amado,</l>
+            <l>en el gran tribunal de su cuidado,</l>
+            <l>de perezoso acusa al rapto cielo;</l>
+            <l>al minuto menor del tiempo acusa</l>
+            <l>de que el término usurpa dilatado</l>
+            <l n="785">al año más tendido;</l>
+            <l>ella se aflije y huélgase Cupido.</l>
+            <l>Ya sólo de bajar al mundo trata,</l>
+            <l>ya sólo alumbra el paso de su excusa,</l>
+            <l>ya sólo en sí se incluye</l>
+            <l n="790">y un apetito vehemente influye.</l>
+            <l>Al delincuente flechador se aplica,</l>
+            <l>porque la ayude, pues así la ultraja.</l>
+            <l>Toma el azote airada y significa</l>
+            <l>que con enojo a castigarle baja</l>
+            <l n="795">a Chipre, donde vive destraído;</l>
+            <l>ella se aflige y huélgase Cupido.</l>
+            <l>Los cordones morados ondeando</l>
+            <l>con golpes tan süaves,</l>
+            <l>que a su sabor se van lozaneando</l>
+            <l n="800">las tantas veces impacientes aves,</l>
+            <l>al lado izquierdo llama,</l>
+            <l>la mano baja, al mundo señalando.</l>
+            <l>Ya de la cárcel de zafir hermoso</l>
+            <l>desobligada -sin pagar- salía</l>
+            <l n="805">a tanto disimulo mentiroso;</l>
+            <l>ya del seno lascivo, generoso,</l>
+            <l>copias dilata de amorosa llama</l>
+            <l>con que llena los campos de alegría.</l>
+            <l>Al sabroso compás que el carro mueve,</l>
+            <l n="810">nubes de flores de sus faldas llueve,</l>
+            <l>montes de rosas de su luz derrama,</l>
+            <l>el dïáfano viento usurpa dellas</l>
+            <l>para hacer ostentación gallarda;</l>
+            <l>dellas conservan para honrar su aliño</l>
+            <l n="815">el verde prado, la montaña parda,</l>
+            <l>y el dios cerúleo guarda</l>
+            <l>dellas para el cariño</l>
+            <l>que siempre crezca de sus ninfas bellas</l>
+            <l>entre las vivas de su amor centellas.</l>
+            <l n="820">Suspiros dulces más, más que las flores,</l>
+            <l>porque su curso tarda,</l>
+            <l>baja esparciendo la deidad de amores.</l>
+            <l>«Levanta» -dice a el Austro regalado-,</l>
+            <l>«sopla» -al Favonio dice, entretenido-,</l>
+            <l n="825">«llevad estos suspiros a mi amado,</l>
+            <l>traed su dulce oído».</l>
+            <l>Ella se aflige y huélgase Cupido.</l>
+            <l>Tan cerca de la tierra</l>
+            <l>el fulgurante carro se divisa,</l>
+            <l n="830">que teme -y con razón- segunda guerra</l>
+            <l>de algún Faetón segundo.</l>
+            <l>Mas Amor, aunque ciego,</l>
+            <l>con las cenizas de su mismo fuego,</l>
+            <l>conoce que es la que le dio la vida</l>
+            <l n="835">y, quitada la venda,</l>
+            <l>al camino salióle por la senda.</l>
+            <l>Con rueda ardiente de bruñida plata,</l>
+            <l>favoreciendo el mundo,</l>
+            <l>de Chipre el margen regalado pisa;</l>
+            <l n="840">los fatigados cisnes ya desata,</l>
+            <l>que el ala y pierna cada cual dilata</l>
+            <l>y, sacudiendo los sudados cuellos,</l>
+            <l>se peinan, con los picos, los cabellos.</l>
+            <l>Mas porque no se entienda su venida,</l>
+            <l n="845">a nube amiga encomendó su coche</l>
+            <l>que las cortinas de su horror le abroche.</l>
+            <l>En esto, discurrir por la floresta</l>
+            <l>mira a su hijo, con abiertos brazos,</l>
+            <l>dando señal de regocijo y fiesta;</l>
+            <l n="850">sudando los ricillos de la frente,</l>
+            <l>llega al fin, estrechándola los lazos,</l>
+            <l>cerca del suvo natural oriente.</l>
+            <l>Ella, como Íe ve tan desarmado</l>
+            <l>-que el feroz arco y la temida aljaba,</l>
+            <l n="855">con astuto cuidado los dejaba</l>
+            <l>en confianza al venenoso prado-,</l>
+            <l>del suelo le levanta</l>
+            <l>y el hechicero hijuelo,</l>
+            <l>sin venda ya y sin vuelo,</l>
+            <l n="860">dándole besos mil en las mejillas,</l>
+            <l>se añuda en la garganta.</l>
+            <l>Venus, por verle el rostro, al tierno lado</l>
+            <l>-que nunca las consiente, sin sentillas-</l>
+            <l>la examina en sus dedos las cosquillas.</l>
+            <l n="865">Luego el sudor con blanda mano apoca,</l>
+            <l>enjugando con soplos de su boca</l>
+            <l>la hermosa frente y el rizado pelo</l>
+            <l>del hechicero hijuelo;</l>
+            <l>a que se siente allí la persüade</l>
+            <l n="870">sobre una tiernas preparadas flores,</l>
+            <l>dulce tálamo, digno a sus amores,</l>
+            <l>que trae donosos chistes que decille;</l>
+            <l>su madre, por cubrille</l>
+            <l>-cual si no la supiera-</l>
+            <l n="875">la causa que la aflige,</l>
+            <l>sus afectos indómitos corrige</l>
+            <l>y alegre y placentera</l>
+            <l>se sienta luego, porque más se agrade</l>
+            <l>el hechicero hijuelo,</l>
+            <l n="880">a más honor del apacible suelo.</l>
+            <l>Conocieron las aves</l>
+            <l>en los soplos del Austro comedido</l>
+            <l>los huéspedes del prado prevenido</l>
+            <l>y, al son de un ronco, bárbaro instrumento,</l>
+            <l n="885">que un arroyo villano</l>
+            <l>con cristalina, aunque grosera mano,</l>
+            <l>entre unas peñas de rasgado toca,</l>
+            <l>mientras danzan los olmos con el viento,</l>
+            <l>una dulce capilla se convoca</l>
+            <l n="890">con redobles y pasos tan süaves,</l>
+            <l>que todo curso enfrena,</l>
+            <l>si no el discurso que Cupido ordena.</l>
+            <l>Desata al fin el encarnado labio</l>
+            <l>el muchacho elocuente,</l>
+            <l n="895">en todas ciencias sabio,</l>
+            <l>y ata a su madre, de su voz pendiente,</l>
+            <l>traidorcillo insolente:</l>
+         </div>
+         <div>
+            <head>Fragmento IV</head>
+            <l>«Madre, después que me picó la abeja,</l>
+            <l>piso con más cuidado</l>
+            <l n="900">la verde grama al floreciente prado,</l>
+            <l>dilatando por ella mi sentido;</l>
+            <l>que aunque huye en picando rigurosa</l>
+            <l>y al romeral se aleja,</l>
+            <l>junto al dolor, el escarmiento deja.</l>
+            <l n="905">Primero busco el áspid escondido</l>
+            <l>tras de la flor lozana,</l>
+            <l>que mi mano temida y temerosa</l>
+            <l>corte su cuello erguido.</l>
+            <l>Antes que llegue a la beldad temprana</l>
+            <l n="910">de la más fresca rosa,</l>
+            <l>para huir su siempre aguda espina,</l>
+            <l>busco el curso veloz de la mañana.</l>
+            <l>Y a la cándida Naya que dilata</l>
+            <l>dulces coturnos de corriente plata</l>
+            <l n="915">llego cuando unicornio se le inclina,</l>
+            <l>no cuando el torpe rústico camello</l>
+            <l>-señorazo entre fieras-</l>
+            <l>porque le dice las verdades claras,</l>
+            <l>su claridad enturbia cristalina.</l>
+            <l n="920">Yendo por medio el más sutil cabello</l>
+            <l>yugo le impongo al más exento cuello,</l>
+            <l>con dulces lazos de coyundas caras.</l>
+            <l>Traigo los nudos flojos</l>
+            <l>de mi engañosa venda,</l>
+            <l n="925">no hay dama presumida que no entienda</l>
+            <l>que ciego estoy de veras,</l>
+            <l>y mediante el cendal, que es mis antojos,</l>
+            <l>salteo un alma al paso de unos ojos.</l>
+            <l>Sólo el vil interés se me resiste.</l>
+            <l n="930">¿Cómo se me resiste? Me atropella</l>
+            <l>y en asquerosos pies de bajo cobre,</l>
+            <l>socos calzando de metal luciente,</l>
+            <l>en la mejor escuadra de mi gente</l>
+            <l>los codiciosos corazones huella</l>
+            <l n="935">del más rico al más pobre.</l>
+            <l>Ya descarado y satisfecho embiste</l>
+            <l>mis fuertes muros y elevadas torres.</l>
+            <l>¡Y tú, madre cruel, que le socorres!</l>
+            <l>En piezas del Pirú, balas de oriente</l>
+            <l n="940">ejecutan la infame batería</l>
+            <l>que desmantela mi presidio honroso.</l>
+            <l>Cierra la puerta de mi herida ardiente,</l>
+            <l>hace servir mis armas de trofeo</l>
+            <l>a las que honoran su grabado escudo;</l>
+            <l n="945">corta mi lazo, siempre generoso,</l>
+            <l>torpe cuchillo, codicioso, agudo,</l>
+            <l>en la fragua templado</l>
+            <l>de un vil, sediento, hidrópico deseo</l>
+            <l>y luce más que su voraz empleo,</l>
+            <l n="950">cuando más atizado,</l>
+            <l>una centella mía</l>
+            <l>cuando más de su origen se desvía.</l>
+            <l>Peligros contingentes</l>
+            <l>huigo con pie ligero,</l>
+            <l n="955">cual su regazo dulce madre agora.»</l>
+            <l>Y fiel imitando a voz traidora,</l>
+            <l>planta veloz, pequeña,</l>
+            <l>discurre halagüeña</l>
+            <l>sobre flores recientes,</l>
+            <l n="960">hasta llegar do está la antigua aljaba.</l>
+            <l>Finge que corta una lasciva rosa</l>
+            <l>-¡oh traidor lisonjero!-,</l>
+            <l>y saca media flecha</l>
+            <l>do la potencia de su brazo estrecha,</l>
+            <l n="965">con que a su madre hermosa,</l>
+            <l>que a la ofrenda süave, codiciosa,</l>
+            <l>la regalada mano dilataba,</l>
+            <l>el corazón le clava.</l>
+            <l>Sentida la deidad, al punto muda</l>
+            <l n="970">la blanda mano de piedad en ira;</l>
+            <l>a cogerle se arroja,</l>
+            <l>y en propia sangre siente que se moja;</l>
+            <l>que en vez de asir el ala al ceguezuelo</l>
+            <l>-sierpe en un punto alada,</l>
+            <l n="975">de ponzoña más grave</l>
+            <l>y más ligero vuelo-,</l>
+            <l>el pico aprieta de una espina aguda,</l>
+            <l>también como la flecha preparada.</l>
+            <l>Así sucede a cándida paloma</l>
+            <l n="980">que, asida el pie plumoso</l>
+            <l>en lazo cauteloso,</l>
+            <l>grillos se impone más, cuando más tira.</l>
+            <l>¡Oh simple Venus!, mira</l>
+            <l>que todo el campo en que discurres toma</l>
+            <l n="985">el veneno süave</l>
+            <l>que en tus entrañas se aposenta y cabe,</l>
+            <l>y que es rincón pequeño</l>
+            <l>para la pompa de su altivo dueño.</l>
+            <l>El pájaro rapaz que en giro vuela</l>
+            <l n="990">a la paloma herida</l>
+            <l>sujetaba triunfante,</l>
+            <l>y ella asirle desea</l>
+            <l>porque sus fuerzas invencibles crea.</l>
+            <l>¡Oh embriagada ambición de sed crecida,</l>
+            <l n="995">que entre un padre y un hijo poderoso</l>
+            <l>guerra introduces fea!</l>
+            <l>¡Oh riqueza ignorante!,</l>
+            <l>letargo a la razón siempre penoso</l>
+            <l>y al apetito azote cuidadoso</l>
+            <l n="1000">que le hace estar en vela,</l>
+            <l>casos solicitando tan terribles</l>
+            <l>-y aun fines prometiéndose imposibles-,</l>
+            <l>que de naturaleza los cuidados</l>
+            <l>se asombran y los huyen,</l>
+            <l n="1005">viendo que no se incluyen</l>
+            <l>en los términos suyos dilatados.</l>
+            <l>El Icarillo astuto</l>
+            <l>conducirse dejaba de sus alas</l>
+            <l>a las etéreas salas;</l>
+            <l n="1010">y para curso tan difícil toma</l>
+            <l>-a pesar de su madre y sus dolores-</l>
+            <l>plumas infatigables de paloma;</l>
+            <l>que con plumas de cera</l>
+            <l>mal se escudriñan rumbos de la esfera.</l>
+            <l n="1015">Y ella -viento calzada-,</l>
+            <l>dando a la tierra celestial tributo</l>
+            <l>con su sangre cuajada,</l>
+            <l>cual suele herida cierva</l>
+            <l>que el aire pisa perdonar la hierba,</l>
+            <l n="1020">de la floresta sale al monte erguido</l>
+            <l>persiguiendo a Cupido,</l>
+            <l>sin maltratar las presumidas flores;</l>
+            <l>antes se vuelve, en tanto vicio loca,</l>
+            <l>la que al pasar en sus coturnos toca.</l>
+            <l n="1025">Y apenas examina de lo alto</l>
+            <l>los rústicos testigos</l>
+            <l>que al volador condenan delincuente,</l>
+            <l>y a quien ella consiente</l>
+            <l>firmar su dicho siempre verdadero</l>
+            <l n="1030">que el humor más tinto</l>
+            <l>de sus azules venas,</l>
+            <l>cuando en las más serenas</l>
+            <l>ramas que son del monte laberinto</l>
+            <l>la saltea ladrón un sobresalto,</l>
+            <l n="1035">no de escuadra de fieros enemigos,</l>
+            <l>mas de un jabalí fiero</l>
+            <l>que del bufido que arrojó primero</l>
+            <l>le robó riguroso</l>
+            <l>el rico nácar a su rostro hermoso.</l>
+            <l n="1040">Tiende las velas del vestido al viento</l>
+            <l>la hija de la espuma</l>
+            <l>en la venera que el temor le ofrece;</l>
+            <l>que, según está ciega,</l>
+            <l>piensa, corriendo el monte, que navega;</l>
+            <l n="1045">huye a Caribdi en el mortal portento,</l>
+            <l>pero a Escila se llega,</l>
+            <l>donde antes mucho que su mal presuma,</l>
+            <l>entre agua no, se anega</l>
+            <l>entre el fuego que, exento,</l>
+            <l n="1050">en sus entrañas amorosas crece.</l>
+            <l>Rama descomedida</l>
+            <l>-no la perdone la segur primera-</l>
+            <l>usurpando el volante, ostenta el oro;</l>
+            <l>tronco no bien cortado</l>
+            <l n="1055">el cendal despedaza delicado,</l>
+            <l>mostrando de la plata no avarienta</l>
+            <l>el lascivo tesoro.</l>
+            <l>Los ásperos abrojos,</l>
+            <l>símbolo triste de pesar y enojos,</l>
+            <l n="1060">a la planta veloz, cuanto atrevida,</l>
+            <l>siguen de suerte que el humor revienta</l>
+            <l>por la -aunque no sentida</l>
+            <l>a tigres fieras-, lastimosa herida.</l>
+            <l>Desciende al fértil y apacible llano,</l>
+            <l n="1065">pero más peligroso,</l>
+            <l>por el áspid que esconde venenoso,</l>
+            <l>y su grama pisando</l>
+            <l>-que ya que no la cura,</l>
+            <l>dulce parece que la está halagando-</l>
+            <l n="1070">más fatigada o temerosa menos,</l>
+            <l>los peligrosos senos</l>
+            <l>de la inculta espesura</l>
+            <l>mira, volviendo atrás de cuando en cuando;</l>
+            <l>una apacible senda</l>
+            <l n="1075">dulcemente la advierte</l>
+            <l>-a ser posible- su temprana muerte,</l>
+            <l>porque Lampecia la cuidó sombría,</l>
+            <l>honrosa tumba en que reposa el día;</l>
+            <l>y no es mucho que entienda</l>
+            <l n="1080">que tumba que es del luminar primero</l>
+            <l>puede sepulcro ser de su lucero.</l>
+            <l>Beben los verdes álamos sombríos</l>
+            <l>-venerable compaña</l>
+            <l>de la senda huraña-,</l>
+            <l n="1085">de un fatigado arroyo, sudor claro</l>
+            <l>que, dejando las faldas de una sierra</l>
+            <l>-pródiga madre deste hijuelo avaro</l>
+            <l>y los pechos de humor jamás vacíos-,</l>
+            <l>de una piadosa fuente</l>
+            <l n="1090">llega a besar sus plantas, diligente;</l>
+            <l>cohechando la tierra,</l>
+            <l>que le da libre paso a su corriente,</l>
+            <l>con mil pedazos de cristal deshecho</l>
+            <l>del bullicioso pecho.</l>
+            <l n="1095">Y con la majestad que Alcides, ellos,</l>
+            <l>por si interés le mueve,</l>
+            <l>antes que el aura blanda se las lleve,</l>
+            <l>esmeraldas le dan de sus cabellos,</l>
+            <l>por si humildad se humillan,</l>
+            <l n="1100">tanto, que sus copetes levantados</l>
+            <l>entre las guijas brillan,</l>
+            <l>que los coturnos pisan argentados;</l>
+            <l>y los más empinados,</l>
+            <l>por si fueren de amor tantos excesos,</l>
+            <l n="1105">a darle bajan amorosos besos,</l>
+            <l>y abrazos, si no estrechos, regalados;</l>
+            <l>que un árbol sin sentido,</l>
+            <l>como puede, se muestra agradecido.</l>
+            <l>Sigue Venus, huyendo de la fiera,</l>
+            <l n="1110">la senda que se encubre</l>
+            <l>del presumido rústico arroyuelo</l>
+            <l>entre dos hermosísimas murallas,</l>
+            <l>campo que amor previno a sus batallas;</l>
+            <l>levantando del suelo</l>
+            <l n="1115">dulces parras, jazmines y mosquetes,</l>
+            <l>que a los sentidos tiran</l>
+            <l>y más regalan, cuando más se aíran.</l>
+            <l>Ya menos ligera,</l>
+            <l>perdiendo ya el temor, cuando descubre</l>
+            <l n="1120">un generoso sitio de alegría,</l>
+            <l>que hace a los sentidos mil banquetes</l>
+            <l>y que, sin ver el sol, goza del día,</l>
+            <l>porque una fuente clara</l>
+            <l>le muestra alegre su belleza rara.</l>
+            <l n="1125">Los verdes capiteles</l>
+            <l>del inculto palacio</l>
+            <l>que al cielo suben, aunque van despacio,</l>
+            <l>estorban a los vientos el camino;</l>
+            <l>y las paredes siempre sumptuosas,</l>
+            <l n="1130">honoradas de rústicos pinceles,</l>
+            <l>muestran cómo corrige</l>
+            <l>la madreselva con valor divino</l>
+            <l>las deshonestidades orgullosas</l>
+            <l>de enamoradas rosas.</l>
+            <l n="1135">Compungida se aflige,</l>
+            <l>puesto que no se enmienda,</l>
+            <l>que al apetito le soltó la rienda</l>
+            <l>y, corriendo pareja con los ojos</l>
+            <l>sobre el alfombra que tejió velluda</l>
+            <l n="1140">la mano oculta de la hierba ruda</l>
+            <l>al repelón primero,</l>
+            <l>tropezó con la luz de su lucero.</l>
+            <l>Durmiendo, Adonis fatigado estaba</l>
+            <l>de perseguir la fiera colmilluda,</l>
+            <l n="1145">y después en la baña le aguardaba</l>
+            <l>al pie de un arrayán, cuyos despojos</l>
+            <l>galanes son de la risueña fuente,</l>
+            <l>víctima son del culto de su amante,</l>
+            <l>y de su sueño pabellón galante.</l>
+            <l n="1150">Cuando, sin más reposo,</l>
+            <l>la hermosa Citerea dulcemente</l>
+            <l>aparta al pabellón una cortina,</l>
+            <l>con mano cuidadosa, cristalina;</l>
+            <l>y, otra en el muslo puesta,</l>
+            <l n="1155">recatada se inclina</l>
+            <l>-aunque espaldas le hace el grave sueño-</l>
+            <l>por mirar el dichoso</l>
+            <l>que sin amor -pues duerme así- se acuesta.</l>
+            <l>Bebe un incendio en cada aliento manso,</l>
+            <l n="1160">que el ardiente arrayán así lo envía</l>
+            <l>y un áspid halagüeño</l>
+            <l>con cada vista al corazón pequeño</l>
+            <l>entraba y no salía.</l>
+            <l>Crece así la fatiga, y no se advierte;</l>
+            <l n="1165">mas, ¿qué mucho, si nace en tal descanso?</l>
+         </div>
+         <div>
+            <head>Fragmento V</head>
+            <l>El semblante apacible del mancebo</l>
+            <l>mostraba, aunque dormido,</l>
+            <l>estar, a tanto amor agradecido.</l>
+            <l>Simple paloma, la deidad al cebo</l>
+            <l n="1170">se sienta y, sobre el brazo recostada,</l>
+            <l>le guarda el sueño blando,</l>
+            <l>cortés y enamorada;</l>
+            <l>aunque de cuando en cuando</l>
+            <l>-que le enjugaba la sudada frente-</l>
+            <l n="1175">le tomaba las manos mansamente.</l>
+            <l>No se halla entre las cuatro diferencia,</l>
+            <l>que todas son de nieve regalada,</l>
+            <l>y hurtan todas, aunque raro, el vello</l>
+            <l>del oro del cabello;</l>
+            <l n="1180">mas puso convenencia</l>
+            <l>la hermosura entre los dos, de suerte,</l>
+            <l>que sólo hace diferencia el mozo</l>
+            <l>en el dorado bozo.</l>
+            <l>Del más galán testigo de la muerte</l>
+            <l n="1185">y el más hermoso indicio de la vida</l>
+            <l>se halla en sus delitos convencida;</l>
+            <l>y así no niega que robar intenta,</l>
+            <l>en el cabello rubio, ensortijado,</l>
+            <l>que el más altivo de su crenche afrenta,</l>
+            <l n="1190">el oro que, sin cuenta,</l>
+            <l>sobre la hierba cae desordenado.</l>
+            <l>Antes confiesa que ocultar procura</l>
+            <l>la más cándida plata</l>
+            <l>de que es compuesto el ídolo que adora</l>
+            <l n="1195">en su lascivo seno,</l>
+            <l>aunque fue siempre de interés ajeno.</l>
+            <l>Confiesa que recata,</l>
+            <l>para más confusión de la hermosura,</l>
+            <l>copos de nieve pura,</l>
+            <l n="1200">tras de la rosa que su templo honora;</l>
+            <l>y que, en las faldas de su amiga Flora</l>
+            <l>-si la pasión le dura,</l>
+            <l>para cuando despierte-,</l>
+            <l>ha de hacerle espirar en dulce muerte.</l>
+            <l n="1205">Discreto ardid, aunque traidor, le enseña</l>
+            <l>el hijuelo atrevido;</l>
+            <l>y ella lo admite, dándole al dormido</l>
+            <l>fantasmas con que sueña</l>
+            <l>que sigue ninfa hermosa, zahareña,</l>
+            <l n="1210">del culto de Dïana,</l>
+            <l>que con alados pies los montes mide.</l>
+            <l>Toma doblado -aunque penoso- aliento</l>
+            <l>y como ya la alcanza el pensamiento</l>
+            <l>-porque el astuto sueño le propone,</l>
+            <l n="1215">que una espesura su carrera impide-</l>
+            <l>tiende los tiernos amorosos brazos</l>
+            <l>del falso vuelo cautelosos lazos.</l>
+            <l>Y en vez de asir el mentiroso viento</l>
+            <l>-premio común que gana</l>
+            <l n="1220">el que a tales batallas se dispone-,</l>
+            <l>de la mujer lasciva, el pecho blando</l>
+            <l>abraza, así hablando:</l>
+            <l>«Agora, fiera fugitiva, ingrata,</l>
+            <l>no has de poder burlarme,</l>
+            <l n="1225">como en los senos que tu fuente esconde;</l>
+            <l>antes podrás matarme</l>
+            <l>con la cruel que empuñas media lanza,</l>
+            <l>a quien la selva da tantos despojos.»</l>
+            <l>Venus, llena de amor, no se recata,</l>
+            <l n="1230">mas bien con mil caricias le responde:</l>
+            <l>«¿Cuándo fui fugitiva a tus deseos?</l>
+            <l>¿Supe burlar jamás justa esperanza?</l>
+            <l>Por ti, mi dulce amado,</l>
+            <l>dejo un trono de estrellas tachonado</l>
+            <l n="1235">y por éste que pisas</l>
+            <l>triste, aunque verde, aunque apacible suelo,</l>
+            <l>dejo las dulces risas,</l>
+            <l>dejo los campos de zafir del cielo.»</l>
+            <l>Ya despierto soñaba</l>
+            <l n="1240">lo que, soñando, con las manos toca.</l>
+            <l>Suspende el acto regalado y mira</l>
+            <l>con dislumbrados ojos</l>
+            <l>que no es su ninfa hermosa la que abraza;</l>
+            <l>del cielo, sí, la más hermosa estrella,</l>
+            <l n="1245">pues vierte luz tan bella.</l>
+            <l>Duda al crédito daba</l>
+            <l>cual crédito a la duda,</l>
+            <l>y no por eso de su intento muda,</l>
+            <l>que más dulce se enlaza</l>
+            <l n="1250">y más dulce respira</l>
+            <l>junto a más dulce boca;</l>
+            <l>mudos los labios rojos</l>
+            <l>pronuncian con su hielo sus antojos.</l>
+            <l>Y la entendida diosa,</l>
+            <l n="1255">que con sed le miraba,</l>
+            <l>a más vivos afectos le incitaba</l>
+            <l>con gustosas caricias que le hacía</l>
+            <l>entre palabras tiernas</l>
+            <l>-¡oh dulce ardor de incendios animados!-,</l>
+            <l n="1260">dándoles cuidados:</l>
+            <l>en fuego el ampo de la nieve hermosa,</l>
+            <l>con el descuido que se ven, lascivo,</l>
+            <l>sus miembros regalados,</l>
+            <l>afable emulación del trato esquivo.</l>
+            <l n="1265">Dulces requiebros cohechados dieron</l>
+            <l>-aunque a los dos amantes detuvieron-</l>
+            <l>breve lugar a que pasase el día,</l>
+            <l>y a que llegase la amigable noche</l>
+            <l>que, echando las cortinas de su coche,</l>
+            <l n="1270">les dio en su oculta popa asiento nuevo,</l>
+            <l>hasta ponerlos al umbral de Febo.</l>
+            <l>Crujió una rienda la fulgente Aurora</l>
+            <l>por cima el bermellón de sus cabellos,</l>
+            <l>no para despertallos</l>
+            <l n="1275">-que no estaban durmiendo-,</l>
+            <l>antes rompiendo treguas dilatadas</l>
+            <l>y aun paces deshaciendo</l>
+            <l>entre batallas dulces, fatigadas,</l>
+            <l>que para más reposo</l>
+            <l n="1280">el silencio les puso cuidadoso.</l>
+            <l>Entró en su albergue oculto</l>
+            <l>con encubierto azote vigilante,</l>
+            <l>que no hay muro valiente que resista</l>
+            <l>-no tiernas flores del pradillo inculto-</l>
+            <l n="1285">de la luz celestial la menor vista</l>
+            <l>y, hallándolos desnudos,</l>
+            <l>les sacudió con los postreros nudos.</l>
+            <l>Las mejillas de nieve les colora,</l>
+            <l>vergüenza desabrida</l>
+            <l n="1290">que, en acto semejante,</l>
+            <l>es el verdugo natural bastante</l>
+            <l>a verter sangre sin romper herida.</l>
+            <l>Pártense los amantes tiernamente</l>
+            <l>al modo de entender de los sentidos;</l>
+            <l n="1295">pero los ojos juzgan interiores</l>
+            <l>que agora están con perfección unidos</l>
+            <l>-si hay perfección alguna en sus errores-;</l>
+            <l>Venus dos almas lleva</l>
+            <l>en un corazón solo</l>
+            <l n="1300">y el bello Adonis, en su pecho ardiente,</l>
+            <l>dos corazones siente.</l>
+            <l>Con esto, el amor ceba</l>
+            <l>a las palomas de más alto vuelo,</l>
+            <l>y ansí, cuando vecinas más del polo</l>
+            <l n="1305">débiles lazos del caduco suelo</l>
+            <l>les impiden que gocen sin temores</l>
+            <l>la claridad del cielo,</l>
+            <l>ya Adonis sólo cuida lo que agrada</l>
+            <l>a su hermosa amada:</l>
+            <l n="1310">no lo que agrada al culto religioso</l>
+            <l>de la deidad serena</l>
+            <l>que en la carrera ardiente fatigada</l>
+            <l>el apetito desbocado enfrena;</l>
+            <l>no pisa el monte arisco</l>
+            <l n="1315">el ilustre mancebo,</l>
+            <l>ni al escollo empinado</l>
+            <l>del solitario risco</l>
+            <l>el seno más fraguoso</l>
+            <l>solícito examina,</l>
+            <l n="1320">si le usurpa la fiera</l>
+            <l>que el venablo le deja ensangrentado;</l>
+            <l>no de cueva enroscada</l>
+            <l>guarda boca mezquina</l>
+            <l>el brazo generoso,</l>
+            <l n="1325">expuesto el hierro nuevo</l>
+            <l>del asta vizcaína</l>
+            <l>al pecho de la tigre más ligera</l>
+            <l>que el trisLe albergue de sus senos quiera;</l>
+            <l>antes discurre con cuidado ardiente</l>
+            <l n="1330">por los montes prolijos</l>
+            <l>buscando competente</l>
+            <l>sitio para sus lances amorosos</l>
+            <l>y claros, bien que mansos, arroyuelos</l>
+            <l>que, en frescos escondrijos,</l>
+            <l n="1335">guarden selvas espesas,</l>
+            <l>para sustento de sus verdes hijos;</l>
+            <l>porque en sus aguas rústicas, traviesas,</l>
+            <l>se críen tan viciosos,</l>
+            <l>que, en dando dulce entrada</l>
+            <l n="1340">al primitivo honor del claro oriente,</l>
+            <l>hagan oposición, descomedidos,</l>
+            <l>a los rayos del sol más encendidos.</l>
+            <l>Con solícitos pies, no fatigado,</l>
+            <l>llega al vivar antiguo</l>
+            <l n="1345">de los más escondidos conejuelos,</l>
+            <l>y allí se pone a espera,</l>
+            <l>atinado el semblante,</l>
+            <l>el arco prevenido</l>
+            <l>tanto, que llega al cuidadoso oído</l>
+            <l n="1350">la flecha vigilante</l>
+            <l>y la cuerda veloz, cuanto tirante.</l>
+            <l>Lleno el cinto dorado</l>
+            <l>de los despojos que le dio el cuidado</l>
+            <l>-que no siempre temores,</l>
+            <l n="1355">ni huida ligera</l>
+            <l>al conejuelo estorbarán que muera-,</l>
+            <l>visita el sitio ambiguo,</l>
+            <l>donde vínculos mil antes impuso,</l>
+            <l>por ver si le han rentado</l>
+            <l n="1360">copia bastante de cautivos vuelos</l>
+            <l>que pueda regalar a sus amores.</l>
+            <l>Venus, entre las flores</l>
+            <l>del prado más ameno,</l>
+            <l>para su Adonis teje</l>
+            <l n="1365">-que eternamente de su amor se queje-,</l>
+            <l>con una trenza que sacó del seno,</l>
+            <l>esmaltadas guirnaldas</l>
+            <l>de alegre arquitectura,</l>
+            <l>dándoles fuerza nueva de hermosura</l>
+            <l n="1370">con el halago de sus dulces faldas,</l>
+            <l>con el contacto de sus manos bellas,</l>
+            <l>con la terneza de sus mansas huellas.</l>
+            <l>Diole al joven clavel su dulce boca</l>
+            <l>la porción más hermosa que le toca</l>
+            <l n="1375">y de lo puro más, y más lascivo,</l>
+            <l>las mejillas hermosas,</l>
+            <l>reciprocando deleitoso culto,</l>
+            <l>dan a las frescas rosas</l>
+            <l>el claro honor de su sereno vulto</l>
+            <l n="1380">y manso agrado a su principio esquivo,</l>
+            <l>Del ampo hermoso de su frente bella</l>
+            <l>el jazmín vigilante</l>
+            <l>aprende con cuidado</l>
+            <l>a dar regalo al venturoso amado</l>
+            <l n="1385">y la plebeya flor, menos brillante</l>
+            <l>es en el giro de su mano estrella</l>
+            <l>que el cielo ilustra y sus topacios huella.</l>
+            <l>Duraron los halagos</l>
+            <l>del falso ceguezuelo,</l>
+            <l n="1390">engaño de ignorantes;</l>
+            <l>duraron las fingidas alegrías</l>
+            <l>¡ay, cuán pequeños!, ¡ay, cuán pocos días!;</l>
+            <l>que una blanca paloma,</l>
+            <l>que los avisos toma</l>
+            <l n="1395">para seguridad destos amantes</l>
+            <l>en el supremo cielo</l>
+            <l>-seguridad de pluma,</l>
+            <l>¿quién hay que en ella duración presuma?-,</l>
+            <l>de una centella trae quemado el vuelo;</l>
+            <l n="1400">señal de los estragos</l>
+            <l>con que amenaza a la región serena</l>
+            <l>la fuerza vil de una celosa pena,</l>
+            <l>y afectos desbocados amorosos</l>
+            <l>que ánimos precipitan poderosos.</l>
+            <l n="1405">La paloma ligera, fatigada,</l>
+            <l>con alterado arrullo, a Venus llega,</l>
+            <l>y ella, aunque estaba en sus amores ciega,</l>
+            <l>no huye el grato oído</l>
+            <l>cual los hombres mortales</l>
+            <l n="1410">a las inspiraciones celestiales.</l>
+            <l>Cuéntale la jornada</l>
+            <l>del traidor mensajero,</l>
+            <l>y el canto -aunque süave- lisonjero</l>
+            <l>que al perspicaz cien veces avisado</l>
+            <l n="1415">pastor, no de ganado,</l>
+            <l>aún de segundo sueño, vio dormido</l>
+            <l>-¡oh canto de sirena!,</l>
+            <l>¡oh flechas de Cupido!-,</l>
+            <l>dícele, que es la paz constituida</l>
+            <l n="1420">por las deídas todas;</l>
+            <l>entre los dos casados,</l>
+            <l>siente cortar el lazo de sus bodas,</l>
+            <l>aunque a unir vaya lazos apartados,</l>
+            <l>cual si cortara el dulce de la vida.</l>
+            <l n="1425">Y antes de ver la amarga despedida,</l>
+            <l>muestra en llanto sus ojos dilatados.</l>
+            <l>Las manos con dos círculos de flores</l>
+            <l>y los ojos hermosos regalados</l>
+            <l>con otros dos de perlas coronados,</l>
+            <l n="1430">llega a su dulce Adonis que la espera</l>
+            <l>a la puerta cerrada del bosquete,</l>
+            <l>donde es portero venerable cano</l>
+            <l>un rígido mosquete</l>
+            <l>cuyos brazos tendidos</l>
+            <l n="1435">el mozo aparta ufano</l>
+            <l>con atrevida mano.</l>
+            <l>Advierte el llanto, pierde los sentidos</l>
+            <l>y en efectos mayores,</l>
+            <l>dulce le corresponde a sus amores;</l>
+            <l n="1440">saber la causa del dolor quisiera,</l>
+            <l>y antes que esté informado</l>
+            <l>-jüez apasionado-,</l>
+            <l>amenaza del monte</l>
+            <l>la más horrible fiera;</l>
+            <l n="1445">los semidioses faunos amenaza</l>
+            <l>y, aun sin temer ni respetar los cielos,</l>
+            <l>colérico, arrogante, desafía</l>
+            <l>-si no al actor del día,</l>
+            <l>que no le causa su hermosura celos-</l>
+            <l n="1450">al dios que escudo diamantino embraza</l>
+            <l>y escuadrones feroces despedaza.</l>
+            <l>Venus más se enamora</l>
+            <l>viendo juntos a Marte y a Cupido</l>
+            <l>en su Adonis querido,</l>
+            <l n="1455">y aunque interior más tiernamente llora,</l>
+            <l>luz le da de la causa tiernamente,</l>
+            <l>recogiendo las nubes de su oriente.</l>
+            <l>Dislúmbrase el mancebo temeroso</l>
+            <l>cuando hacerse presumió temido,</l>
+            <l n="1460">que, ausente su lucero luminoso,</l>
+            <l>la luz más eminente</l>
+            <l>muestra el campo de horror escurecido.</l>
+            <l>El tiempo la apresura,</l>
+            <l>la paloma la advierte,</l>
+            <l n="1465">la obligación la fuerza,</l>
+            <l>cerca los ejes chillan</l>
+            <l>del embozado carro</l>
+            <l>que trae cubierto la avisada nube;</l>
+            <l>y así, por fin, por despedida amarga,</l>
+            <l n="1470">que mire sólo por su edad le encarga.</l>
+            <l>Dale sanos consejos</l>
+            <l>y, porque no los tuerza</l>
+            <l>le representa desastrada muerte,</l>
+            <l>le representa infame sepoltura;</l>
+            <l n="1475">pero él valiente, el ánimo bizarro,</l>
+            <l>cuando su orgullo altivo más humillan</l>
+            <l>agrado superior ardiente sube</l>
+            <l>y mira los peligros desde lejos.</l>
+            <l>«¡Ay, mi querido Adonis -Venus dice,</l>
+            <l n="1480">viendo el joven que así se precipita-,</l>
+            <l>escucha en lo que fundo mis temores,</l>
+            <l>quede en tu corazón mi voz escrita,</l>
+            <l>pues a tu vida en nada contradice.»</l>
+         </div>
+         <div>
+            <head>Fragmento VI</head>
+            <l>«En aquel campo, regalado dueño</l>
+            <l n="1485">que por entre estos montes se descubre</l>
+            <l>-dijo Venus, el brazo dilatando</l>
+            <l>y a la parte del norte señalando-</l>
+            <l>fue Atalanta doncella,</l>
+            <l>y hoy con garras feroz los montes huella.</l>
+            <l n="1490">Su belleza alcanzaba al pensamiento</l>
+            <l>y su carrera al viento.</l>
+            <l>Por estos montes sola apacentaba</l>
+            <l>naturales cuidados</l>
+            <l>de un infeliz oráculo guiados</l>
+            <l n="1495">que, consultando el casamiento suyo,</l>
+            <l>decretó riguroso</l>
+            <l>su muerte amarga y de su dulce esposo.</l>
+            <l>Ilustres hijos de monarcas cubre</l>
+            <l>un pradillo pequeño,</l>
+            <l n="1500">lisonja alegre del arisco ceño</l>
+            <l>de aquesta sierra fría</l>
+            <l>hacia la parte donde nace el día,</l>
+            <l>que, de mi ciego hijo conducidos,</l>
+            <l>su rico alcázar cada cual dejaba</l>
+            <l n="1505">por la techumbre seca</l>
+            <l>y pobre albergue de una encina hueca,</l>
+            <l>queriendo dar sustento a los sentidos</l>
+            <l>de la porción que entró por los oídos.</l>
+            <l>Fue la ley constituida,</l>
+            <l n="1510">que el que en veloz carrera la alcanzase</l>
+            <l>con ella se casase</l>
+            <l>y, si alcanzado fuese,</l>
+            <l>por tanto atrevimiento, que muriese.</l>
+            <l>Salían los noveles amadores</l>
+            <l n="1515">todos con pies alados</l>
+            <l>y, aun todos engañados,</l>
+            <l>con loca presunción de sus amores;</l>
+            <l>hacia la muerte el más veloz volaba,</l>
+            <l>mas, en viéndola cerca, desmayaba</l>
+            <l n="1520">y, deteniendo el paso que movía</l>
+            <l>-aunque en vano-, su muerte dilataba.</l>
+            <l>Mas siempre no fortuna</l>
+            <l>igual está para la humana vida;</l>
+            <l>no siempre vence el riguroso brazo,</l>
+            <l n="1525">no siempre fuerza a sujeción un lazo.</l>
+            <l>Desátanse cadenas</l>
+            <l>y coronas se erigen;</l>
+            <l>no hay firme cosa alguna</l>
+            <l>en cuanto cerca el globo de la luna.</l>
+            <l n="1530">La voz del casamiento más hermoso,</l>
+            <l>y más dificultoso</l>
+            <l>a Hipomenes llegó, mancebo ardiente,</l>
+            <l>de heroica sangre ilustre decendiente.</l>
+            <l>Estos siempre se rigen</l>
+            <l n="1535">de lo que el apetito les propone,</l>
+            <l>sin que el discurso o la razón lo abone,</l>
+            <l>y así pagara de su error las penas</l>
+            <l>el joven peregrino</l>
+            <l>cuando se expuso a la veloz carrera,</l>
+            <l n="1540">si yo no le valiera</l>
+            <l>con mi poder divino.</l>
+            <l>De un árbol consagrado a mi decoro</l>
+            <l>cuyos renuevos y fulgente hoja</l>
+            <l>pomas producen de oro,</l>
+            <l n="1545">cogí tres globos lisos</l>
+            <l>-rica evasión de su mortal veneno-</l>
+            <l>y dilos a su seno</l>
+            <l>que, de la fuerza del temor rendido,</l>
+            <l>en la carrera estaba palpitando;</l>
+            <l n="1550">dile el forzoso ardid del vencimiento,</l>
+            <l>y a tres corren parejas con el viento.</l>
+            <l>Quédase atrás vencido</l>
+            <l>el ministro veloz del fuerte Eolo,</l>
+            <l>y la hermosa Atalanta,</l>
+            <l n="1555">activa más que el fuego, se adelanta;</l>
+            <l>no corre el joven porque va volando</l>
+            <l>como la flecha que despide airada</l>
+            <l>ardiente cuerda y brazo poderoso;</l>
+            <l>mas, con todo, le importan mis avisos,</l>
+            <l n="1560">que pierde un tercio de su vida amada;</l>
+            <l>y ansí, cuando ella vuelve el rostro hermoso,</l>
+            <l>despreciando la vana competencia,</l>
+            <l>una manzana arroja</l>
+            <l>que -aunque bastara con su lustre solo</l>
+            <l n="1565">a imitación tan bella-,</l>
+            <l>con los rayos del sol, parece estrella</l>
+            <l>que, vencedora en la mitad del día,</l>
+            <l>por los campos amenos discurría.</l>
+            <l>Parte al punto tras ella,</l>
+            <l n="1570">de mujeril codicia compelida,</l>
+            <l>aunque intente ayudarla su inocencia.</l>
+            <l>Tal pájaro en Noruega</l>
+            <l>-casi el sol no nacido, ya difunto-</l>
+            <l>que al nido vuela cual instante rayo</l>
+            <l n="1575">a su consorte junto,</l>
+            <l>viendo la simple presa,</l>
+            <l>por delante atraviesa,</l>
+            <l>y a cogerla se lanza,</l>
+            <l>pero, cogida, al mismo viento alcanza.</l>
+            <l n="1580">Alcanza al joven nieto de Neptuno</l>
+            <l>la bella ninfa, hija de Esqueneo</l>
+            <l>y, aunque de amores ciega</l>
+            <l>-¡oh fiero natural!-, no condolida,</l>
+            <l>otro tercio le quita de la vida.</l>
+            <l n="1585">Viendo tan fiero ensayo,</l>
+            <l>de su tragedia el nuevo amante reo</l>
+            <l>con otro pomo de oro el campo mide,</l>
+            <l>mas, sin temor de vencimiento alguno,</l>
+            <l>se arroja, simple pez, al cauto cebo</l>
+            <l n="1590">que el pescador despide</l>
+            <l>con esperanza y con aliento nuevo,</l>
+            <l>viendo con alas al metal de Febo.</l>
+            <l>¡Ay, que sin detenerse</l>
+            <l>-casi me mueve a lástima el contallo-</l>
+            <l n="1595">cogió el metal precioso,</l>
+            <l>y con pie riguroso</l>
+            <l>tanto como veloz salió ligera</l>
+            <l>va casi al fin de la fatal carrera!</l>
+            <l>Vela delante el fatigado mozo,</l>
+            <l n="1600">y teme infausto mal lograr su bozo,</l>
+            <l>que aquella ligereza</l>
+            <l>es el verdugo vil de su cabeza.</l>
+            <l>Tampoco el fin distaba,</l>
+            <l>que el cuchillo se vía ensangrentado;</l>
+            <l n="1605">aquí vieras el mozo enternecerse</l>
+            <l>y a los troncos más ásperos llorallo;</l>
+            <l>aquí vieras el vulgo alborotado,</l>
+            <l>que cada cual al joven animaba</l>
+            <l>del puesto donde estaba.</l>
+            <l n="1610">Más él a mí se vuelve</l>
+            <l>con tanto afecto interno,</l>
+            <l>que le correspondí con llanto tierno,</l>
+            <l>porque su pecho en lágrimas resuelve;</l>
+            <l>dile fuerza doblada,</l>
+            <l n="1615">hice ligera al despedir la poma,</l>
+            <l>que ya parece en espacioso llano</l>
+            <l>topacio vencedor, que corre ufano.</l>
+            <l>No repara Atalanta,</l>
+            <l>viendo el metal fulgente</l>
+            <l n="1620">en la cercana meta,</l>
+            <l>que pican acicates de oro vivo</l>
+            <l>a animal sensitivo.</l>
+            <l>Y así sale veloz, como saeta;</l>
+            <l>mas cuando llega y la manzana toma,</l>
+            <l n="1625">la halla muy pesada,</l>
+            <l>que está de mi potencia preparada;</l>
+            <l>ya soltarla quisiera,</l>
+            <l>porque su astuto litigante muera,</l>
+            <l>pero el pomo lustroso</l>
+            <l n="1630">se hace en blandas manos pegajoso.</l>
+            <l>¡Oh vil codicia, causadora infame</l>
+            <l>de tantos deshonores!</l>
+            <l>¿Qué fuerte muro resistió combate</l>
+            <l>por término de un día?</l>
+            <l n="1635">¿Do está tu cobardía?</l>
+            <l>Nace común sospecha entre la gente</l>
+            <l>y entre el rumor crecido se levanta,</l>
+            <l>que ésta es secreta acción del dios de amores,</l>
+            <l>pues ya que las manzanas dos cogiera,</l>
+            <l n="1640">fue ceguedad salir por la tercera.</l>
+            <l>Parece no estorbarle carga tanta,</l>
+            <l>según mueve la planta,</l>
+            <l>que casi le alcanzaba</l>
+            <l>cuando él la raya con el pie tocaba.</l>
+            <l n="1645">Manda el senado que vitoria aclame</l>
+            <l>y él se muestra rendido,</l>
+            <l>no a la carrera, a quien se dio en rescate,</l>
+            <l>a los vínculos fuertes de Cupido,</l>
+            <l>que siendo vencedor, quedó vencido.</l>
+            <l n="1650">La hermosa doncella corresponde</l>
+            <l>-más vencida de amor, que ligereza-</l>
+            <l>al dulce agrado de su nuevo esposo;</l>
+            <l>aljófares produce su belleza</l>
+            <l>cuando sembró fatiga,</l>
+            <l n="1655">que al oro exento sin prisión obliga</l>
+            <l>a darle hebras en que penda ufano,</l>
+            <l>mientras que las recoge,</l>
+            <l>cual blanca concha de cristal, su mano.</l>
+            <l>Un cabo del cendal que ciñe coge</l>
+            <l n="1660">-que en la atadura sobra por delante-</l>
+            <l>Hipomenes galante,</l>
+            <l>y hace a su rostro que en sudor le moje.</l>
+            <l>Llegan los dos, echándose los brazos</l>
+            <l>con estrecheza tanta,</l>
+            <l n="1665">que parecen sus lazos a la vista</l>
+            <l>parra amorosa, que laurel conquista.</l>
+            <l>La voz menor del vulgo se levanta</l>
+            <l>-cuando del joven la vitoria canta-</l>
+            <l>al cielo, aunque partida en mil pedazos,</l>
+            <l n="1670">que nada por pequeño se le esconde,</l>
+            <l>aunque en la tierra o en el mar se ahonde.</l>
+            <l>Aguárdalos el tálamo gozoso,</l>
+            <l>de flagrantes aromas perfumado,</l>
+            <l>de flores esmaltado,</l>
+            <l n="1675">y ostentativo con el rico empleo</l>
+            <l>de los epitalamios de Himeneo.</l>
+            <l>Pide a su esposa Hipómenes la mano,</l>
+            <l>y dale, haciendo cortesana salva,</l>
+            <l>una constelación tan blanca y bella,</l>
+            <l n="1680">que pudo hurtarle círculos mi estrella</l>
+            <l>con que las sienes coronar del Alba.</l>
+            <l>Diole también del vencimiento ufano</l>
+            <l>la merecida palma,</l>
+            <l>comunicando en su contacto el alma.</l>
+            <l n="1685">Camina a su lugar el vitorioso</l>
+            <l>joven que piensa en él entrar triunfando</l>
+            <l>a vista de su gente, que le espera;</l>
+            <l>mas iba dando rienda a su apetito</l>
+            <l>tan sin temor, que en la estación primera</l>
+            <l n="1690">el matrimonio consumó nefando</l>
+            <l>en el lugar, si antiguo, venerando,</l>
+            <l>que a un magnífico templo sumptuoso</l>
+            <l>será tiempo infinito,</l>
+            <l>sin moverse contrario,</l>
+            <l n="1695">de envejecidos dioses, sacro erario.</l>
+            <l>Troncos inanimados,</l>
+            <l>los cuellos carcomidos retorciendo,</l>
+            <l>a la pared los rostros van volviendo,</l>
+            <l>que se afrentan de ver en su presencia</l>
+            <l n="1700">deshonestos pecados.</l>
+            <l>Jüez me hicieron de la causa todos,</l>
+            <l>y yo, tan grande atrevimiento viendo,</l>
+            <l>pronuncié la sentencia,</l>
+            <l>y hice ejecutarla en mi presencia.</l>
+            <l n="1705">A ingratitud de duros corazones,</l>
+            <l>condiciones de fiera</l>
+            <l>que por injustos absolutos modos</l>
+            <l>quieren seguir los rumbos de su esfera</l>
+            <l>-perdona, no te ofendan mis razones-,</l>
+            <l n="1710">dos pieles di de rústicos leones.</l>
+            <l>La regalada voz que pronunciaba</l>
+            <l>amorosos concetos</l>
+            <l>es ya un fiero rugido</l>
+            <l>que admira el horizonte del oído;</l>
+            <l n="1715">verdugos son sus garras tan crueles,</l>
+            <l>que no perdonan a viviente alguno,</l>
+            <l>si no es que, por pequeño,</l>
+            <l>no le alcanza a mirar su horrible ceño.</l>
+            <l>Con duro freno -a su pesar- mitiga</l>
+            <l n="1720">la boca, al feroz nieto de Neptuno,</l>
+            <l>el brazo poderoso de Cibeles;</l>
+            <l>mas permitióle por la gran fatiga,</l>
+            <l>que al doble freno entre los dientes daba</l>
+            <l>o por otros secretos,</l>
+            <l n="1725">que en tres giros del sol le tasque el uno.</l>
+            <l>¿Quién duda que éste, que las selvas corre,</l>
+            <l>viendo escrito mi amor en tu hermosura</l>
+            <l>no intente -¡ay, triste!- por venganza dura,</l>
+            <l>que tu sangre le borre?</l>
+            <l n="1730">Bien es que el filo del venablo tuyo</l>
+            <l>de la fiera mayor es más temido;</l>
+            <l>bien es que puedes resistir un monte,</l>
+            <l>mas a las fieras, fieras,</l>
+            <l>a los hombres, los hombres,</l>
+            <l n="1735">no es trato de importancia</l>
+            <l>si no se igualan pérdida y ganancia.</l>
+            <l>Los antiguos renombres,</l>
+            <l>el blasón de tu casa generosa</l>
+            <l>no se adquirió con testas colmilludas,</l>
+            <l n="1740">ni con garras ligeras:</l>
+            <l>con cabezas de reyes coronadas,</l>
+            <l>vencidas en batallas polvorosas.</l>
+            <l>Sigue, pues, goza la grandeza della,</l>
+            <l>al gobierno disponte,</l>
+            <l n="1745">déjate conducir de blanda estrella,</l>
+            <l>con que al presente en tu grandeza influyo,</l>
+            <l>que no es bien que me vaya de la tierra</l>
+            <l>a poner paz, dejando el alma en guerra.»</l>
+            <l>Dijo, y Adonis, que pendiente estaba</l>
+            <l n="1750">de la dulce cadena de su boca</l>
+            <l>que el oído le ataba,</l>
+            <l>con amoroso llanto enternecido,</l>
+            <l>sus brazos dio a la madre de Cupido.</l>
+            <l>Ternezas mil nacían</l>
+            <l n="1755">del animoso corazón de roca</l>
+            <l>que en los mares de lágrimas del pecho</l>
+            <l>lastimoso naufragio padecían,</l>
+            <l>y así, al desembocar del dulce estrecho,</l>
+            <l>sólo tristes suspiros se veían.</l>
+            <l n="1760">La bella hija de la blanca espuma</l>
+            <l>exhortarle quisiera</l>
+            <l>antes que a manos destas hondas muera,</l>
+            <l>pero su lengua muda</l>
+            <l>entre sirtes de lágrimas se anuda.</l>
+            <l n="1765">Los cisnes, ya admirados, se alteraban</l>
+            <l>de ver pasión tan nueva en su lucero,</l>
+            <l>cuando desenlazaban</l>
+            <l>la coyunda amorosa</l>
+            <l>los dos tiernos amantes,</l>
+            <l n="1770">y cuando los cordones recogía</l>
+            <l>-el pie en el plaustro y la derecha mano</l>
+            <l>en su trono de luces soberano-</l>
+            <l>del sol la clara espía.</l>
+            <l>Un ¡ay! a un tiempo duplicado suena,</l>
+            <l n="1775">reciprocado efecto de igual pena,</l>
+            <l>y los cisnes volantes,</l>
+            <l>pensando que partía,</l>
+            <l>sacuden blanca pluma</l>
+            <l>por el aire ligero.</l>
+            <l n="1780">Tanto el joven estaba embebecido</l>
+            <l>en la acción rigurosa,</l>
+            <l>que le rasgó la orla del vestido</l>
+            <l>un eje -aunque de luz- descomedido.</l>
+            <l>Tener Venus intenta el rapto vuelo,</l>
+            <l n="1785">cuelga el azote en el siniestro brazo,</l>
+            <l>y con las manos tiernas,</l>
+            <l>asiendo los cordones, forcejea,</l>
+            <l>el cuerpo perfilado atrás cargando</l>
+            <l>en niñas plantas de cristal, si eternas,</l>
+            <l n="1790">tanto, que rompe de un coturno el lazo.</l>
+            <l>Coléricos los cisnes van graznando,</l>
+            <l>sintiendo sus afrentas;</l>
+            <l>las bocas sin temor al freno exentas</l>
+            <l>piden justicia al cielo,</l>
+            <l n="1795">de que el común derecho les prohiben,</l>
+            <l>que es acción natural correr ligera</l>
+            <l>luz que camina a su dorada esfera;</l>
+            <l>y los agravios que en el viento escriben</l>
+            <l>con pluma lastimada</l>
+            <l n="1800">a deshonor de la potencia airada,</l>
+            <l>porque los hace riguroso dueño</l>
+            <l>a súbdito pequeño,</l>
+            <l>caracteres en bronce los reciben</l>
+            <l>y el tiempo los descubre y los afea,</l>
+            <l n="1805">porque la eterna rectitud los lea.</l>
+            <l>Al palacio camina de la luna,</l>
+            <l>aunque veloz, forzada,</l>
+            <l>y, arrobado, el amante</l>
+            <l>mira el globo de luz que le desvía</l>
+            <l n="1810">su dulce compañía;</l>
+            <l>tiende las manos, y los ojos tiende,</l>
+            <l>su voz presume, que los aires hiende.</l>
+            <l>Mas, voz desamparada,</l>
+            <l>queda en su mesmo aliento sepultada.</l>
+            <l n="1815">Cayó en el suelo del dolor vencido</l>
+            <l>tras dos luchas mortales:</l>
+            <l>una, del cuerpo, abrazo ya apartado;</l>
+            <l>y otra del alma, a corazón partido;</l>
+            <l>a las flores -jüeces- da señales</l>
+            <l n="1820">del vencimiento honroso</l>
+            <l>en trofeos de llanto lastimoso,</l>
+            <l>sin esperanza de vivir alguna,</l>
+            <l>y así, acostado en su primera cuna,</l>
+            <l>mirando el verde prado</l>
+            <l n="1825">fértil después que le regó abundante,</l>
+            <l>se lamentaba el maltratado infante.</l>
+            <l>El amor, que en la hierba se escondía,</l>
+            <l>por si d'él murmuraba,</l>
+            <l>en los pedazos de la voz que hallaba,</l>
+            <l n="1830">estos tristes periodos leía:</l>
+            <l>«¡Oh amor cruel, tirano, mentiroso!</l>
+            <l>¿Dónde tienes tu vida?</l>
+            <l>Tu vida que prometes regalada,</l>
+            <l>¿a quién la das, avaro? ¿No es forzoso</l>
+            <l n="1835">que si a presentes das mortal herida,</l>
+            <l>has de ser con ausentes homicida?</l>
+            <l>¿Dónde tu gloria falsa desvanece,</l>
+            <l>que siempre el fuego del infierno crece?</l>
+            <l>¿Dónde está tu descanso halagüeño,</l>
+            <l n="1840">si a la inquietud milita quien te sigue?</l>
+            <l>¿Adónde tu riqueza está guardada,</l>
+            <l>si de la deuda que mejor te obligue</l>
+            <l>libre sales y absuelto por desnudo?</l>
+            <l>¿Dónde está tu elocuencia, si eres mudo?</l>
+            <l n="1845">¿Adónde tu fantástica alegría</l>
+            <l>que pasa como sueño,</l>
+            <l>sembrando llanto, amarillez y ceño?</l>
+            <l>¿Dónde tienes tu asiento?</l>
+            <l>¿Dónde tu monarquía?</l>
+            <l n="1850">¿En tus alas y el viento?</l>
+            <l>Tus deleites son penas,</l>
+            <l>grillos tus libertades y cadenas.»</l>
+            <l>De tanto vituperio está corrido</l>
+            <l>el bachiller Cupido,</l>
+            <l n="1855">y si con flecha de marfil se hallara</l>
+            <l>cuando le dijo avaro,</l>
+            <l>el corazón del joven traspasara.</l>
+            <l>Sale enojado el ciego dios de amores,</l>
+            <l>rompiendo el aire claro</l>
+            <l n="1860">como encendida exhalación ligera.</l>
+            <l>Adonis, al ruido que le altera,</l>
+            <l>opone el filo del venablo agudo</l>
+            <l>y encuentra un tronco rudo</l>
+            <l>do presumió la portentosa fiera;</l>
+            <l n="1865">alza el rostro con miedo escarmentado</l>
+            <l>y mira su entenado y su enemigo,</l>
+            <l>que le amenaza con mortal castigo;</l>
+            <l>baja los ojos al funesto prado,</l>
+            <l>ve que a su murmurar las flores daban</l>
+            <l n="1870">ojos que le miraban,</l>
+            <l>y las hierbas, orejas,</l>
+            <l>faltando, aun en los hombres, a sus quejas.</l>
+            <l>Por ver si fiera hallase</l>
+            <l>donde tanto rigor se ejecutase,</l>
+            <l n="1875">como se encierra en su encendido pecho,</l>
+            <l>a la montaña horrísona, secreta,</l>
+            <l>parte, de sólo su dolor guiado;</l>
+            <l>que no hay león herido de saeta</l>
+            <l>que tanto vencimiento se prometa.</l>
+            <l n="1880">El niño ciego, en lágrimas deshecho,</l>
+            <l>no de temor, de enojo,</l>
+            <l>llega a la esfera quinta</l>
+            <l>sobre zafir azul de sangre tinta</l>
+            <l>y a Marte busca de semblante rojo.</l>
+            <l n="1885">El agasajo que la luna hacía</l>
+            <l>-que fue a su alcázar la primer jornada-</l>
+            <l>a la lucida caminante hermosa</l>
+            <l>-más de su ausente Adonis temerosa,</l>
+            <l>que del largo camino fatigada-</l>
+            <l n="1890">algún tanto la pena suspendía,</l>
+            <l>si no por voluntad, por cortesía.</l>
+            <l>Olvidaron la noche tenebrosa</l>
+            <l>amorosos sucesos refiriendo</l>
+            <l>de Indimión y el hijo de Cinaras:</l>
+            <l n="1895">una, contaba con palabras claras</l>
+            <l>deshonestos sucesos;</l>
+            <l>y otra, los muy decentes</l>
+            <l>apenas destacaba de los dientes.</l>
+         </div>
+         <div>
+            <head>Fragmento VII</head>
+            <l>El fiscalillo ciego, apasionado,</l>
+            <l n="1900">halla al jüez colérico, indignado,</l>
+            <l>con ceño horrible y con aspecto ardiente;</l>
+            <l>que al salir de una bárbara batalla,</l>
+            <l>su condición desenlazando fiera</l>
+            <l>la celada de fúlgido diamante,</l>
+            <l n="1905">la frente le rompió con la visera.</l>
+            <l>Del escudo embrazado,</l>
+            <l>trinando estaba su tajante acero</l>
+            <l>que tantos miembros destrozó traviesos</l>
+            <l>en asalto tremendo.</l>
+            <l n="1910">A la venganza y a los celos halla</l>
+            <l>asesores al pleito del amante</l>
+            <l>a que él viene ligero.</l>
+            <l>Y así, disimulando,</l>
+            <l>llega, el aliento y plumas moderando.</l>
+            <l n="1915">«¡Oh tú, Mavorte horrendo,</l>
+            <l>del mundo asombro y deste cielo estruendo</l>
+            <l>-dijo el rapaz lisonjeando a Marte-,</l>
+            <l>de un Adonis infame adulterino</l>
+            <l>vengo a pedir venganza en mis agravios.»</l>
+            <l n="1920">Marte la voz de Adonis oyó sólo,</l>
+            <l>y de la suerte que estremece Eolo</l>
+            <l>en la montaña al más robusto pino</l>
+            <l>al querellante estremeció mezquino,</l>
+            <l>y con su estruendo le ocupó los labios.</l>
+            <l n="1925">De sus blasones los escudos raja,</l>
+            <l>los trofeos destroza,</l>
+            <l>dobles arneses hiende,</l>
+            <l>picas, venablos y martillos parte.</l>
+            <l>No tan soberbio el Aquilón sañudo</l>
+            <l n="1930">revuelve el monte de Venusia rudo,</l>
+            <l>ni el Euro así se enciende</l>
+            <l>cuando al peñasco de la antigua sierra</l>
+            <l>que amenaza a la tierra</l>
+            <l>del natural asiento desencaja,</l>
+            <l n="1935">sus erguidas pirámides desgaja,</l>
+            <l>y por el suelo sus orgullos tiende.</l>
+            <l>En un cerdoso jabalí que goza</l>
+            <l>la temerosa majestad del monte,</l>
+            <l>-ya que no por razón, por tiranía,</l>
+            <l n="1940">mientras por él Adonis discurría-</l>
+            <l>influye Marte airado rabia tanta,</l>
+            <l>que aún no cabe en la fiera,</l>
+            <l>pues la que sale por los dientes fuera</l>
+            <l>espanta al Can, que ladra en Flejetonte.</l>
+            <l n="1945">Al tiempo que la Aurora se levanta</l>
+            <l>al llorar tiernamente</l>
+            <l>el duro golpe del sangriento brazo</l>
+            <l>con que, enojado, el griego</l>
+            <l>de sus entrañas le quitó el pedazo,</l>
+            <l n="1950">iba Adonis tan ciego,</l>
+            <l>y con tan corta luz en su horizonte,</l>
+            <l>que le arrancaban el dorado pelo</l>
+            <l>de su lustrosa frente</l>
+            <l>las rústicas encinas.</l>
+            <l n="1955">Venus, en tanto, reposando estaba,</l>
+            <l>la luna se asomaba al primer cielo</l>
+            <l>con la forma menor de su hermosura,</l>
+            <l>cuyo rayo, si escaso, penetrante,</l>
+            <l>aquellas selvas visitó vecinas.</l>
+            <l n="1960">El verdugo de Marte se aprestaba,</l>
+            <l>que al joven ha sentido</l>
+            <l>-¡oh poderoso!, aguarda, espera, tente,</l>
+            <l>que es infame venganza</l>
+            <l>la que por mano vil del noble alcanza-;</l>
+            <l n="1965">desemboca un bufido</l>
+            <l>a amedrentar bastante</l>
+            <l>de las selvas la bárbara espesura.</l>
+            <l>La experiencia le avisa al fuerte mozo,</l>
+            <l>que es jabalí que venteando viene,</l>
+            <l n="1970">y ansí, los pies plantando, le previene</l>
+            <l>de su venablo el atrevido hierro.</l>
+            <l>Siente en su pecho ambiguo un alborozo</l>
+            <l>que la fuerza le dobla;</l>
+            <l>dudaba si es la cólera, si el gozo</l>
+            <l n="1975">quien discurre sus venas y no advierte</l>
+            <l>que es el temor de la vecina muerte.</l>
+            <l>Piensa vencer -es mozo- mas se engaña;</l>
+            <l>aguarda temerario</l>
+            <l>el duro encuentro de la fiera extraña;</l>
+            <l n="1980">el hierro licencioso a tanta saña,</l>
+            <l>rompe en cerdoso ijar postigo exento;</l>
+            <l>bufa, sacude el asta quebrantada,</l>
+            <l>pregonando escarmiento;</l>
+            <l>tomarle Adonis quiere,</l>
+            <l n="1985">pero, infeliz, escarmentando muere.</l>
+            <l>Ensangrentado el montaraz contrario</l>
+            <l>vuelve feroz a la segunda entrada,</l>
+            <l>fiando al filo de su diente agudo,</l>
+            <l>no sólo el joven tierno desarmado</l>
+            <l n="1990">que atrás el cuerpo dobla</l>
+            <l>haciendo amparo de un ciprés funesto,</l>
+            <l>mas del ciprés si lo estorbare el tronco,</l>
+            <l>que a mayor vencimiento está dispuesto</l>
+            <l>el hocico tajante, colmilludo.</l>
+            <l n="1995">¡Ay, qué dolor! Alcánzale en un lado</l>
+            <l>tan rigurosa herida,</l>
+            <l>que no la pudo consentir la vida;</l>
+            <l>antes sale huyendo por la boca</l>
+            <l>arrancando a los labios ya desiertos</l>
+            <l n="2000">el ¡ay! postrer que les quedaba ronco.</l>
+            <l>Al socorro venía</l>
+            <l>la infausta diosa amante,</l>
+            <l>de Dïana avisada,</l>
+            <l>que previó desventura</l>
+            <l n="2005">luego que visitó la selva obscura.</l>
+            <l>La voz ya sin aliento, desmayada,</l>
+            <l>en sus orejas cuidadosas suena,</l>
+            <l>tan mal articulada</l>
+            <l>como la luz del día</l>
+            <l n="2010">que, con pasos inciertos,</l>
+            <l>temerosa entre nieblas se escondía,</l>
+            <l>por no mostrarle a Venus tanta pena.</l>
+            <l>Deja el carro al instante,</l>
+            <l>sueltas las cuerdas de su tiro errante,</l>
+            <l n="2015">y derríbase al suelo,</l>
+            <l>fiada más en su ligera planta</l>
+            <l>que de los cisnes en el rapto vuelo;</l>
+            <l>corre con ansia, y con presteza tanta,</l>
+            <l>que a las secas espinas</l>
+            <l n="2020">que la hieren apenas las quebranta;</l>
+            <l>ve atravesar el monte en descubierto,</l>
+            <l>los pies ya sin concierto,</l>
+            <l>al feroz animal que bufa ronco,</l>
+            <l>y que si antes troncaba las encinas,</l>
+            <l n="2025">agora busca por amparo un tronco;</l>
+            <l>mas tanta sangre desperdicia infame</l>
+            <l>la herida generosa,</l>
+            <l>que antes de hallarle, acabará la vida.</l>
+            <l>Alas nuevas le puso</l>
+            <l n="2030">la fiera, aunque pesada,</l>
+            <l>si no al aspecto horrendo amedrentada,</l>
+            <l>al infeliz suceso temerosa;</l>
+            <l>la montaña penetra, aunque escabrosa,</l>
+            <l>el semblante confuso,</l>
+            <l n="2035">y en lo más encubierto</l>
+            <l>halla a su Adonis palpitando muerto.</l>
+            <l>Llégase cerca, y mira divertida</l>
+            <l>la sangre bulliciosa,</l>
+            <l>en partes no cuajada;</l>
+            <l n="2040">hierbas le aplica a la mortal herida,</l>
+            <l>la mano de piedad ensangrentada;</l>
+            <l>porque el precioso humor no se derrame,</l>
+            <l>junta su boca con la boca helada,</l>
+            <l>y, con voz lastimosa,</l>
+            <l n="2045">de Atalanta imitando los rugidos,</l>
+            <l>resucitarle intenta los sentidos;</l>
+            <l>engañada, imagina que respira,</l>
+            <l>y es que su mismo aliento</l>
+            <l>sale buscando la región del viento,</l>
+            <l n="2050">que en vaso ya quebrado, y tan pequeño,</l>
+            <l>porción no cabe de tan alto dueño.</l>
+            <l>Si se va deslizando</l>
+            <l>la mano yerta que en su seno abriga,</l>
+            <l>acción presume que es de gran fatiga.</l>
+            <l n="2055">Si se tuerce a una parte la cabeza,</l>
+            <l>entiende que es afecto de tristeza;</l>
+            <l>mas el presente día</l>
+            <l>la va desengañando,</l>
+            <l>y ansí, tierna llorando,</l>
+            <l n="2060">estas tristes palabras le decía:</l>
+            <l>«Luz de mis tristes ojos,</l>
+            <l>alma de mi sentido,</l>
+            <l>prisión gustosa de mi atento oído,</l>
+            <l>mitad del corazón que me animaba,</l>
+            <l n="2065">la muerte os ha rendido</l>
+            <l>y pretende gozar vuestros despojos;</l>
+            <l>mas no merece palma,</l>
+            <l>quitando a un cuerpo la mitad del alma.</l>
+            <l>Vuelva el bruto animal que al monte exhorta</l>
+            <l n="2070">a más horror con su fiereza brava;</l>
+            <l>vuelva, y su agudo filo</l>
+            <l>corte, si puede, Alaquesis mi hilo,</l>
+            <l>que mientras no le corta,</l>
+            <l>no vencerá la muerte</l>
+            <l n="2075">al hijo de Cinaras lastimoso,</l>
+            <l>pues triunfa poderoso</l>
+            <l>dentro el alcázar de mi pecho fuerte;</l>
+            <l>en mí será este flaco vencimiento,</l>
+            <l>pues era mi manida regalada</l>
+            <l n="2080">la que está despojada;</l>
+            <l>en mí es el vencimiento.</l>
+            <l>Volved, volved a mí, que estoy rendida,</l>
+            <l>volved, alma hermosa,</l>
+            <l>esos ojos serenos,</l>
+            <l n="2085">de agrado siempre llenos,</l>
+            <l>llenos siempre de pompa luminosa.</l>
+            <l>Volved, veréis la acción más lastimosa</l>
+            <l>que influyeron de Marte los deseos,</l>
+            <l>gozad de aquestas luces los trofeos</l>
+            <l n="2090">que en nieve derretida</l>
+            <l>van dilatando el curso de mi vida.</l>
+            <l>Volved, Adonis bello;</l>
+            <l>escuchen mis oídos</l>
+            <l>aquellos ya pasados</l>
+            <l n="2095">acentos regalados.</l>
+            <l>Volved, Adonis; gocen los sentidos,</l>
+            <l>a quien de ausencia tal el dolor toca</l>
+            <l>los regalados lazos de mi cuello.</l>
+            <l>Goce mi amarga boca el dulce sello</l>
+            <l n="2100">en que las armas del amor grabadas</l>
+            <l>almas mil me imprimían regaladas,</l>
+            <l>entre orlas de oro, de coral y perlas.</l>
+            <l>Mas, ¡ay de mí!, que voces doy al viento</l>
+            <l>y arroyos de mis lágrimas derramo</l>
+            <l n="2105">sin esperanza de jamás cogerlas.</l>
+            <l>Mi Adonis sin aliento,</l>
+            <l>¿y no responde, cuando más le llamo?</l>
+            <l>Tórtola soy en el desierto ramo</l>
+            <l>que ayer estuvo en tálamo frondoso,</l>
+            <l n="2110">gozando alegre de su dulce esposo.</l>
+            <l>Aver vi levantado</l>
+            <l>el laurel eminente,</l>
+            <l>señor del monte, de la selva y prado,</l>
+            <l>cubierto de armonía,</l>
+            <l n="2115">de pompa hermosa y majestad cercado</l>
+            <l>y, en un instante, su verdor marchito</l>
+            <l>hallo en la tierra sin sazón cortado.</l>
+            <l>Ya los cabellos que formaban día</l>
+            <l>alegre más que los del sol luciente</l>
+            <l n="2120">llegaron con su luz al occidente,</l>
+            <l>por el mar de mis llantos lastimoso;</l>
+            <l>los hermosos luceros de su frente,</l>
+            <l>de luces despojados,</l>
+            <l>otros rumbos caminan y otra esfera;</l>
+            <l n="2125">la confusión rosada de su oriente,</l>
+            <l>entre densos nublados,</l>
+            <l>amarillos y cárdenos, se absconde,</l>
+            <l>¡Oh rústico animal!, ¡oh infame fiera!,</l>
+            <l>que sin tocarte cual dragón celeste</l>
+            <l n="2130">con bárbara cabeza</l>
+            <l>eclipses causas de mayor tristeza.</l>
+            <l>Aborrecido Marte, dime ¿dónde?,</l>
+            <l>¿en qué brazo de héroe generoso</l>
+            <l>pusiste aguda espada, o fuerte lanza,</l>
+            <l n="2135">si de mi amado te ofendiste hermoso,</l>
+            <l>con que tomar venganza?</l>
+            <l>En este roble montaraz mi escrito</l>
+            <l>ostentará por término infinito</l>
+            <l>esta venganza tuya,</l>
+            <l n="2140">para que della tu valor se arguya</l>
+            <l>y para que despidas la esperanza</l>
+            <l>de que mi rostro enjuto</l>
+            <l>a mirar vuelva tu semblante bruto.</l>
+            <l>¡Ay!, ¿quién habrá que lágrimas me preste,</l>
+            <l n="2145">difunto amado mío,</l>
+            <l>con que aumentar un caudaloso río</l>
+            <l>que lleve a Tetis y a su escuadra undosa</l>
+            <l>alguna parte del dolor que siento?</l>
+            <l>¿Quién me dará tan poderoso aliento,</l>
+            <l n="2150">que con mi voz alcance lastimosa</l>
+            <l>la más ligera elevación del viento?</l>
+            <l>¿Son estos, dulce esposo, amada prenda,</l>
+            <l>los tálamos lascivos regalados,</l>
+            <l>que me estaban guardados,</l>
+            <l n="2155">para en la vuelta celebrar mis bodas?</l>
+            <l>¿Son las encinas deste monte todas,</l>
+            <l>los placenteros siempre convidados,</l>
+            <l>de tu sangre brindados,</l>
+            <l>y a ser posible, ahítos</l>
+            <l n="2160">de mis dolientes lastimosos gritos?</l>
+            <l>¿Son los epitalamios, dime, agudos</l>
+            <l>estos espinos rudos?</l>
+            <l>Tanta escabrosidad, ¡no hay quien la entienda!»</l>
+            <l>Suena el tropel en la vecina senda</l>
+            <l n="2165">de la hermosa Dïana con su escuadra</l>
+            <l>que contra el fiero jabalí venía.</l>
+            <l>Temiendo al joven solo en tal contienda,</l>
+            <l>corría venteando</l>
+            <l>Melampo perro y, viendo a Adonis, ladra</l>
+            <l n="2170">tan lastimosamente,</l>
+            <l>que líquidos aljófares sembrando</l>
+            <l>va el escuadrón ardiente,</l>
+            <l>sin ver el mal presente.</l>
+            <l>Venus al llanto desató la rienda,</l>
+            <l n="2175">mientras suena la triste melodía</l>
+            <l>que el monte amedrentaba y confundía,</l>
+            <l>y con las manos de cristal manchadas,</l>
+            <l>como maestra, los compases lleva</l>
+            <l>a la música nueva,</l>
+            <l n="2180">arrancando madejas de su frente,</l>
+            <l>de los cinco planetas respetadas</l>
+            <l>y del cuarto envidiadas.</l>
+            <l>Derrama la piedad con ancha mano</l>
+            <l>copias de perlas tantas,</l>
+            <l n="2185">que las recogen las silvestres plantas</l>
+            <l>y en forma las ostentan diferente,</l>
+            <l>orgullos mil verdegueando hermosos</l>
+            <l>en brazos generosos.</l>
+            <l>Ya falta humor a tan copioso arroyo,</l>
+            <l n="2190">el albo sobra al turbulento río,</l>
+            <l>y el rojo humor, ya frío,</l>
+            <l>descansa cerca en un pequeño hoyo.</l>
+            <l>Vuelta a Marte feroz y al torpe hijo,</l>
+            <l>despechada les dijo:</l>
+            <l n="2195">«A pesar de un infame y un deforme,</l>
+            <l>cómplices fieros deste caso enorme,</l>
+            <l>en los tesoros de mi amor pasado</l>
+            <l>vínculo dejaré constituido</l>
+            <l>que eternamente pague a la memoria</l>
+            <l n="2200">lo que usurpar pretenderá el olvido.»</l>
+            <l>Y en un brinquiño de cristal labrado,</l>
+            <l>néctar sacando eterno</l>
+            <l>por cima de la sangre rociado,</l>
+            <l>lo dilataba con semblante tierno.</l>
+            <l n="2205">Vueltas en torno daba</l>
+            <l>y, aunque mal y entre dientes, pronunciaba</l>
+            <l>palabras del dialecto nunca usado.</l>
+            <l>Luego se vio la sangre retirada</l>
+            <l>en diferentes partes arrugada,</l>
+            <l n="2210">en un pie cada parte levantarse</l>
+            <l>y en presencia de todos ampollarse.</l>
+            <l>En cada capullejo que se abría</l>
+            <l>alegre se veía</l>
+            <l>un cielo arrebolado,</l>
+            <l n="2215">que la flor avergüenza del granado;</l>
+            <l>traslado deja de su hermosa historia</l>
+            <l>recomendado a Ceres</l>
+            <l>que siempre le renueva en sus placeres.</l>
+            <l>Y porque allá en los campos del reposo</l>
+            <l n="2220">a tanto amante comunique gloria</l>
+            <l>el espíritu hermoso,</l>
+            <l>luego a su hija invoca,</l>
+            <l>a quien el reino de las almas toca.</l>
+            <l>Proserpina al momento,</l>
+            <l n="2225">con paso cuidadoso</l>
+            <l>hace que se trasmonte</l>
+            <l>-a pesar del barquero de Aqueronte-</l>
+            <l>el alma desta flor rompiendo el viento,</l>
+            <l>del campo Elíseo en el mejor asiento.</l>
+            <l n="2230">Otra escuadra de ninfas ya venía</l>
+            <l>los brazos con guirnaldas</l>
+            <l>y con flores bellísimas las faldas;</l>
+            <l>que al que triunfó de la deidad de amores</l>
+            <l>sepulcro quieren darle entre las flores.</l>
+            <l n="2235">Limpian el cuerpo, aun sin el alma bello,</l>
+            <l>y llévanlo igualado,</l>
+            <l>recogido el cabello,</l>
+            <l>a más hermoso y más vecino prado,</l>
+            <l>donde le canten honras cada día</l>
+            <l n="2240">pájaros mil con dulce melodía.</l>
+            <l>En urna levantada de diamante</l>
+            <l>-ya que el sol en las ondas se escondía-</l>
+            <l>el cuerpo colocaron del amante,</l>
+            <l>y Venus, despedida</l>
+            <l n="2245">de la escuadra de ninfas comedida,</l>
+            <l>en un vale postrero,</l>
+            <l>tomando con desgarro</l>
+            <l>a un serpentín del tenebroso carro</l>
+            <l>la confiada rienda</l>
+            <l n="2250">y -porque el alma su memoria entienda-</l>
+            <l>llamándola primero,</l>
+            <l>en el túmulo puso este letrero:</l>
+            <l>«En esta estrecha parte</l>
+            <l>yace, con pocos años, reposando,</l>
+            <l n="2255">el mayor triunfo del Amor y Marte;</l>
+            <l>todo mortal le rinde por despojos</l>
+            <l>miedo en el corazón, llanto en los ojos.</l>
+            <l>¡Oh tú!, que vas cazando,</l>
+            <l>ninfa inmortal: deten el paso, espera,</l>
+            <l n="2260">llora y después caminarás ligera.»</l>
+         </div>
+      </body>
+   </text>
+</TEI>

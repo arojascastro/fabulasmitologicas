@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Psique</title>
+            <author>Gutierre de Cetina</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref
+                  target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                  Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Cetina, Gutierre de. <title>Rimas</title>. Ed. De Jesús Ponce Cárdenas. Madrid:
+               Cátedra, 2014. Impreso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado en <date><!-- falta fecha --></date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l>Cuenta Apuleyo que mientras él mudado</l>
+            <l>fue en asno, los ladrones que servía</l>
+            <l>una hermosa virgen han robado</l>
+            <l>el día que sus bodas atendía;</l>
+            <l n="5">a la cual, por hacer menos pesado</l>
+            <l>su infortunio, una vieja así decía,</l>
+            <l>mientras que con palabras la consuela</l>
+            <l>contándole de Psique esta novela:</l>
+         </lg>
+         <lg>
+            <l>—“Tres hijas tuvo un rey, tiernas doncellas</l>
+            <l n="10">de hermosura extraña y delicada;</l>
+            <l>la beldad de las dos, si bien son bellas,</l>
+            <l>como cosa mortal era alabada;</l>
+            <l>mas la de la menor era ya entre ellas</l>
+            <l>por Venus de las gentes adoradas.</l>
+            <l n="15">Venus la muestra al hijo y con gran furia</l>
+            <l>le demanda venganza de esta injuria.</l>
+         </lg>
+         <lg>
+            <l>Ya las mayores dos casadas siendo,</l>
+            <l>cada cual con un rey vive contenta</l>
+            <l>y en el matrimonial yugo viviendo</l>
+            <l n="20">parece que mayor descanso sienta.</l>
+            <l>Sola quedaba Psique, que plañiendo</l>
+            <l>con su padre se está muy descontenta,</l>
+            <l>porque por su beldad maravillosa</l>
+            <l>ninguno osa pedirla por esposa.</l>
+         </lg>
+         <lg>
+            <l n="25">El padre, que buscar desea partido,</l>
+            <l>al dios que está en Milesio sacrifica.</l>
+            <l>—“En el yermo más solo y ascondido</l>
+            <l>dejalda sola” —en su respuesta explica—</l>
+            <l>“llevadla como a muerta, que marido</l>
+            <l n="30">mortal no debe haber —le certifica—,</l>
+            <l>mas un dios volador, desnudo y ciego,</l>
+            <l>que el mundo abrasa con ponzoña y fuego”.</l>
+         </lg>
+         <lg>
+            <l>Los padres con el pueblo y con gran llanto</l>
+            <l>y con fúnebre pompa, extraña, oscura,</l>
+            <l n="35">la llevan al lugar que el ídol santo</l>
+            <l>le dijo destinado a su ventura.</l>
+            <l>Con cera y triste son, con bajo canto,</l>
+            <l>con luto, cual se va a la sepultura,</l>
+            <l>juntos del monte a la más alta parte,</l>
+            <l n="40">la dejan sola y cada cual se parte.</l>
+         </lg>
+         <lg>
+            <l>Zéfiro sopla y como vela en nave</l>
+            <l>hinche el vestido a Psique y blandamente</l>
+            <l>en alto la levanta y con süave</l>
+            <l>sueño la deja cerca de una fuente</l>
+            <l n="45">y una casa real do —mientra el grave</l>
+            <l>caso la admira— así decir se siente:</l>
+            <l>—“Psique, todo esto es tuyo, está sin pena,</l>
+            <l>vente a bañar, después vendrás a cena”.</l>
+         </lg>
+         <lg>
+            <l>Las invisibles siervas obedesce</l>
+            <l n="50">Psique y de los vestidos se despoja,</l>
+            <l>y en el baño (que allí luego aparesce)</l>
+            <l>de la cabeza al pie se baña y moja.</l>
+            <l>Un vaso preciosísimo se ofresce</l>
+            <l>con mil varios olores en que escoja</l>
+            <l n="55">y, después de lavada y de él untarse,</l>
+            <l>entra en un rico lecho a recrearse.</l>
+         </lg>
+         <lg>
+            <l>Levantada después Psique y vestida,</l>
+            <l>a mesa de tres pies se pone a cena,</l>
+            <l>donde (puesto que fue muy bien servida)</l>
+            <l n="60">por no ver quién la sirve, lo cree apena.</l>
+            <l>Amor le estaba cerca, que herida</l>
+            <l>siente el alma, por ella en cuita y pena;</l>
+            <l>de instrumentos un son también se oía</l>
+            <l>y de voces muy dulce melodía.</l>
+         </lg>
+         <lg>
+            <l n="65">Cuando pensó dormir, tornada al lecho,</l>
+            <l>en el sueño metida alto y profundo,</l>
+            <l>sin armas llega Amor, de amores hecho</l>
+            <l>prisión y hecho el cuerpo sin segundo.</l>
+            <l>Vencido sobre aquel hermoso pecho</l>
+            <l n="70">se rinde el vencedor de todo el mundo,</l>
+            <l>tomándola primero por su esposa,</l>
+            <l>¡Oh felice, oh gentil copia amorosa!</l>
+         </lg>
+         <lg>
+            <l>Levantada, pues, Psique al nuevo día,</l>
+            <l>después que el volador dios desparece,</l>
+            <l n="75">sin ver ninguna, mil damas oía</l>
+            <l>que a su servicio cada cual se ofrece.</l>
+            <l>Ella se lava y peina y repartía</l>
+            <l>el cabello en mitad, como paresce</l>
+            <l>y estando así, entre sí dice gozosa:</l>
+            <l n="80">—“¿Quién como yo en el mundo hay hoy dichosa?”.</l>
+         </lg>
+         <lg>
+            <l>Las hermanas, el caso oído habiendo,</l>
+            <l>al padre vuelven con angustia y lloro</l>
+            <l>y de aquel monte, al fin, Amor queriendo,</l>
+            <l>Zéfiro las levanta y trae al coro</l>
+            <l n="85">de Psique, que con gozo recibiendo</l>
+            <l>las hermanas, les da muy gran tesoro.</l>
+            <l>Después por no enojar a Amor, al viento</l>
+            <l>manda las vuelva al monte en un momento.</l>
+         </lg>
+         <lg>
+            <l>Las crüeles hermanas, invidiosas</l>
+            <l n="90">de tal prosperidad, sin reposarse,</l>
+            <l>habiendo con maneras cautelosas</l>
+            <l>pensado cómo a Psique han de mostrarse,</l>
+            <l>volviendo a verla, entre mil otras cosas,</l>
+            <l>le aconsejan que quiera asigurarse</l>
+            <l n="95">matando al invisible y fiero esposo,</l>
+            <l>el cual es un dragón muy venenoso.</l>
+         </lg>
+         <lg>
+            <l>Vesla aquí con cuchillo y lumbre ardiente</l>
+            <l>sobre el dormido Amor, con saña rea;</l>
+            <l>mas viendo su beldad clara, eminente,</l>
+            <l n="100">deja de ejecutar obra tan fea.</l>
+            <l>Una Flecha tocando, el ardor siente</l>
+            <l>y a mirar vuelve el hijo de la dea.</l>
+            <l>La lucerna lo quema y, despertando,</l>
+            <l>huye v ella de un pie lo ase llorando.</l>
+         </lg>
+         <lg>
+            <l n="105">Mas no pudiendo ya más sustenerse,</l>
+            <l>en tierra con dolor cae y se queja;</l>
+            <l>de allí cuanto el mirar puede extenderse</l>
+            <l>mira el airado Amor que se le aleja.</l>
+            <l>Desesperada, al fin deja caerse</l>
+            <l n="110">de un gran río, el cual salva la deja</l>
+            <l>de la otra parte. Allí, mientra recela,</l>
+            <l>el dios Pan con palabras la consuela.</l>
+         </lg>
+         <lg>
+            <l>A los reinos llegó de sus hermanas,</l>
+            <l>a las cuales el caso extraño cuenta;</l>
+            <l n="115">finge que con injurias muy villanas</l>
+            <l>Amor la echó de sí con grande afrenta.</l>
+            <l>Ellas crédulas son como inhumanas</l>
+            <l>y cada cual, de tanto bien hambrienta,</l>
+            <l>lanzándose del monte cual primero,</l>
+            <l n="120">con su muerte pagó el pecado fiero.</l>
+         </lg>
+         <lg>
+            <l>Venus sobre delfines recreando</l>
+            <l>entre tanto se está en el oceano,</l>
+            <l>cuando una palomilla que volando</l>
+            <l>del cielo baja en el salado llano</l>
+            <l n="125">dícele: —“Deja, oh diosa, el ir holgando</l>
+            <l>por el mar, que tu hijo está mal sano;</l>
+            <l>de una gota de aceite y fuego ardiente</l>
+            <l>quemado, llora del dolor que siente”.</l>
+         </lg>
+         <lg>
+            <l>Visto Venus a Amor con villanía</l>
+            <l n="130">le riñe, con semblante airado y fiero:</l>
+            <l>—“¿Tú amas —dice— a la enemiga mía,</l>
+            <l>a quien debías llevar al fin postrero?”.</l>
+            <l>Después con amenazas le decía:</l>
+            <l>—“El arco y alas y saetas quiero”.</l>
+            <l n="135">Vesla allá que con Juno y Ceres anda</l>
+            <l>quejando de esto y su favor demanda.</l>
+         </lg>
+         <lg>
+            <l>Con sus palomas Venus sube al cielo,</l>
+            <l>pide a Mercurio, a Júpiter, y habido,</l>
+            <l>le ruega que corriendo el mundo a vuelo</l>
+            <l n="140">el destierro de Psique sea sabido.</l>
+            <l>Él la pregona y dice en su libelo</l>
+            <l>que la hermosa Venus ha ofrecido</l>
+            <l>siete besos a aquel que se la entrega</l>
+            <l>y la muerte a cualquier que se la niega.</l>
+         </lg>
+         <lg>
+            <l n="145">Psique, buscando en tanto a su marido,</l>
+            <l>al templo de la diosa Ceres viene,</l>
+            <l>la cual halla que había recogido</l>
+            <l>todo cuanto a coger el pan conviene.</l>
+            <l>Duélese Ceres de ella y con gemido</l>
+            <l n="150">gran pasión de su destierro tiene,</l>
+            <l>mas por no ir contra Venus la desecha</l>
+            <l>de sí y ni la defiende, ni aprovecha.</l>
+         </lg>
+         <lg>
+            <l>Vase al templo de Juno y de rodillas</l>
+            <l>le cuenta la ocasión de sus enojos,</l>
+            <l n="155">esmaltando con perlas las mejillas</l>
+            <l>que derramando van los bellos ojos.</l>
+            <l>Juno tiene piedad de sus mancillas,</l>
+            <l>mas no pone remedio a sus cordojos;</l>
+            <l>antes por no enojar a Venus bella,</l>
+            <l n="160">despide de sí presto a la doncella.</l>
+         </lg>
+         <lg>
+            <l>Mas Psique, que el marido anda buscando,</l>
+            <l>a la amorosa estancia al fin arriva,</l>
+            <l>donde por los cabellos arrastrando</l>
+            <l>la ponen en presencia de la diva.</l>
+            <l n="165">Mira cómo la están aquí azotando</l>
+            <l>Tristeza airada y la Congoja esquiva.</l>
+            <l>Venus, que el corazón tiene encendido</l>
+            <l>todo en furor, se rasca en el oído.</l>
+         </lg>
+         <lg>
+            <l>Después, varias semillas ayuntando,</l>
+            <l n="170">que aparte cada cual a Psique manda</l>
+            <l>y mientra está la mísera cenando</l>
+            <l>Amor cumple por ella esta demanda.</l>
+            <l>Venus se maravilla y va pensando</l>
+            <l>que impidiendo el Amor sus obras anda.</l>
+            <l n="175">Un pan le da a la fin de su fatiga</l>
+            <l>y a nuevo mal la triste Psique obliga.</l>
+         </lg>
+         <lg>
+            <l>—"Pasa el río y verás en la sombrosa</l>
+            <l>selva ovejas con lana de oro fino;</l>
+            <l>de ella me trae —dice— presurosa”.</l>
+            <l n="180">Psique quiso ahogarse en el camino,</l>
+            <l>mas una caña, de su mal piadosa,</l>
+            <l>la instruye y dice —por querer divino—</l>
+            <l>mientra el ganado duerme que recoja</l>
+            <l>la lana que en las matas se despoja.</l>
+         </lg>
+         <lg>
+            <l n="185">Venus la envía al infierno, a Proserpina,</l>
+            <l>que le traiga de afeite una bujeta.</l>
+            <l>Psique, pensando que al morir camina,</l>
+            <l>por menos mal la muerte se ha ya eleta.</l>
+            <l>A echarse de una torre se destina,</l>
+            <l n="190">mas las piedras estorban que cometa</l>
+            <l>tal error y hablándole le muestran</l>
+            <l>una ciudad y para allá la adiestran.</l>
+         </lg>
+         <lg>
+            <l>Ya por el leñador pasa grosero,</l>
+            <l>sin que a cargar le ayuda, aunque lo pida.</l>
+            <l n="195">En tanto, ya de Estige al lago fiero</l>
+            <l>llegó y en la gran barca es ya metida.</l>
+            <l>Del pasaje a Carón paga un dinero</l>
+            <l>y otro guarda que pague a la salida.</l>
+            <l>Ves el viejo que ruega y la conjura</l>
+            <l n="200">que lo embarque, mas Psique no se cura.</l>
+         </lg>
+         <lg>
+            <l>Después que pasa la laguna muerta</l>
+            <l>y las malvadas tres rastrilladeras,</l>
+            <l>llega al honrado can sobre la puerta</l>
+            <l>que con tres bocas guarda, crudas, fieras.</l>
+            <l n="205">De dos panes que trae, el uno acierta</l>
+            <l>a dar al monstruo y guarda muy de veras</l>
+            <l>el otro para darle a la tornada,</l>
+            <l>como lúe de la torre amaestrada.</l>
+         </lg>
+         <lg>
+            <l>Adormentado el can, tanto camina</l>
+            <l n="210">por la casa infernal toda ahumada</l>
+            <l>que hallando a la bella Proserpina</l>
+            <l>de Venus le recuenta la embajada.</l>
+            <l>Ni a reposarse ni a sentar se inclina,</l>
+            <l>ni a comer ni a otra cosa, aunque rogada,</l>
+            <l n="215">mas la bujeta espera con gran pena,</l>
+            <l>que luego se la da, cerrada y llena.</l>
+         </lg>
+         <lg>
+            <l>Dando a Cérbero Psique el pan segundo</l>
+            <l>y el dinero a Carón ya se tornaba,</l>
+            <l>mas diole un ansia, la mayor del mundo,</l>
+            <l n="220">por abrir la bujeta que llevaba.</l>
+            <l>Abierta, entró en un sueño muy profundo.</l>
+            <l>Amor de una finiestra la miraba,</l>
+            <l>con una flecha la despierta y mueve</l>
+            <l>que a Venus vaya y la bujeta lleve.</l>
+         </lg>
+         <lg>
+            <l n="225">De allí volando al cielo, al gran Tonante</l>
+            <l>ruega —porque de Amor obrar se siente-—</l>
+            <l>que por mujer le dé a Psique, su amante.</l>
+            <l>El lo besa y abraza dulcemente.</l>
+            <l>El águila de Júpiter volante</l>
+            <l n="230">tiene en el pico el fuego fiero ardiente;</l>
+            <l>Mercurio en el celeste territorio</l>
+            <l>todos los dioses llama a consistorio.</l>
+         </lg>
+         <lg>
+            <l>Júpiter a los dioses dice y prueba</l>
+            <l>que es bien que sea de Amor Psique la esposa.</l>
+            <l n="235">Mercurio abaja y presto al cielo lleva</l>
+            <l>a Psique, con tal nueva muy gozosa;</l>
+            <l>la cual por diosa Júpiter aprueba,</l>
+            <l>hecha inmortal y luego los desposa,</l>
+            <l>haciendo que el licor de ambrosia sienta,</l>
+            <l n="240">de que Venus se aplaca y se contenta.</l>
+         </lg>
+         <lg>
+            <l>Bodas hacen espléndidas, reales,</l>
+            <l>con fiesta, pompa, fasto y gran riqueza;</l>
+            <l>y el dios perseguidor de los mortales</l>
+            <l>hace olvidar a Psique su tristeza.</l>
+            <l n="245">Las deas y los dioses inmortales</l>
+            <l>admirados están de su belleza;</l>
+            <l>mientra a la mesa son, esparcen flores</l>
+            <l>las Horas, con mil suertes de colores.</l>
+         </lg>
+         <lg>
+            <l>De allí, los dos amantes deseosos</l>
+            <l n="250">a restaurar se van de sus tormentos</l>
+            <l>al rico lecho, a donde muy gozosos</l>
+            <l>despiden los pasados pensamientos.</l>
+            <l>No seáis, pues, amantes invidiosos,</l>
+            <l>ni presumáis más que ellos de contentos,</l>
+            <l n="255">que entre ellos nació la mayor parte</l>
+            <l>del Gozo que en el mundo se reparte”.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

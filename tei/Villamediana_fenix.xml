@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de la Fénix</title>
+            <author>Conde de Villamediana</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Villamediana, Conde. <title>Poesía</title>. Ed. De María Teresa Ruestes. Barcelona: Planeta, 1992. Impreso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado en <date>1629</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <l>En el clima luciente,</l>
+         <l>feliz cuna del día</l>
+         <l>y patria de la luz adoleciente,</l>
+         <l>selva yace, que ilesa del adusto</l>
+         <l n="5">diluvio fue del infeliz osado</l>
+         <l>que murió en orbes de agua fulminado.</l>
+         <l>Reservóla también vasto Neptuno,</l>
+         <l>cuando margen sus olas no sufriendo</l>
+         <l>la gran madre del mundo</l>
+         <l n="10">fue piélago profundo,</l>
+         <l>esta región a Flora</l>
+         <l>sobre polos de ondas vencedora,</l>
+         <l>que como al gran planeta dedicada</l>
+         <l>de su rayo vital felicitada</l>
+         <l n="15">alientos aromáticos no muda,</l>
+         <l>ni de su verde pompa se desnuda,</l>
+         <l>logrando inalterable primavera</l>
+         <l>en aura que tranquila</l>
+         <l>néctares liba, néctares distila,</l>
+         <l n="20">a quien privilegió decreto eterno</l>
+         <l>de las injurias del rigor alterno,</l>
+         <l>sin que del tiempo ofensas desiguales</l>
+         <l>estos violar pudiesen penetrales,</l>
+         <l>ni ponzoñoso seno,</l>
+         <l n="25">(siempre benigno ambiente)</l>
+         <l>infestar con mortífero veneno;</l>
+         <l>Noto lluvioso y su contrario enjuto</l>
+         <l>aquí no alcanza de Eolo inspirados</l>
+         <l>a formar nubes ni a esparcir nublados,</l>
+         <l n="30">ni al agua en su materia congelada</l>
+         <l>ha visto el feliz suelo</l>
+         <l>donde cándido está el rigor del yelo,</l>
+         <l>tomo el rayo nocivo</l>
+         <l>que inflama la floresta</l>
+         <l n="35">con la violencia del rigor estivo.</l>
+         <l>Apacible templanza</l>
+         <l>logra la amena selva,</l>
+         <l>exención verde, pompa sin mudanza,</l>
+         <l>donde manso corriente,</l>
+         <l n="40">émulo del peligro de Narciso,</l>
+         <l>cristal en sierpes de cristal deviso,</l>
+         <l>en caudal río, en hermosura fuente,</l>
+         <l>sacro el Tempe fertiliza y riega,</l>
+         <l>cuyo dulce tributo</l>
+         <l n="45">a ningún tronco niega,</l>
+         <l>antes comunicando eterno fruto</l>
+         <l>a las plantas felices</l>
+         <l>infunde su virtud a sus raíces.</l>
+         <l>De efímeral aliento no las flores</l>
+         <l n="50">terminan sus olores,</l>
+         <l>que el rayo poderoso que las cría</l>
+         <l>les comunica inalterable día.</l>
+         <l>En esta selva, pues, en ésta impera</l>
+         <l>ave inmortal, emulación volante</l>
+         <l n="55">de la deidad tonante,</l>
+         <l>en todo peregrina,</l>
+         <l>alada eternidad, Fénix divina</l>
+         <l>vencedora del tiempo y de la suerte</l>
+         <l>que se cría y renace de su muerte,</l>
+         <l n="60">sus alas compitiendo vividoras</l>
+         <l>con las del cielo lumbres brilladoras;</l>
+         <l>pupila pues del Sol, cuando la Aurora</l>
+         <l>en fragrantes colores</l>
+         <l>acepta lo virgíneo de las flores</l>
+         <l n="65">y las nocturnas sombras aprisiona</l>
+         <l>precursora del hijo de Latona.</l>
+         <l>Dos y dos veces al cristal engaña</l>
+         <l>cuando sus plumas baña,</l>
+         <l>y de las aguas dulces dulce liba</l>
+         <l n="70">su líquida primicia fugitiva,</l>
+         <l>antes que su horizonte vista el nuevo</l>
+         <l>rayo que a saludarla manda Febo.</l>
+         <l>Luego levanta el vuelo que, pomposo,</l>
+         <l>elige árbol frondoso</l>
+         <l n="75">donde su verde imperio dominando</l>
+         <l>ligera, si no leve,</l>
+         <l>el tepido del austro aliento bebe,</l>
+         <l>y del sol primitivo el fuego blando</l>
+         <l>en numerosa voz saluda cuando</l>
+         <l n="80">el ardiente rubí, que forma el día,</l>
+         <l>asciende por su eclíptica el bizarro</l>
+         <l>flamante globo del brillante carro.</l>
+         <l>Orbe de pluma vago, orbe canoro,</l>
+         <l>émulo es claro del castalio coro</l>
+         <l n="85">y del tracio instrumento,</l>
+         <l>que suspendió el eterno</l>
+         <l>implacable tormento</l>
+         <l>de las crüentas furias del infierno,</l>
+         <l>a quien las cuerdas del pastor ideo</l>
+         <l n="90">ceden no menos ya que el amebeo</l>
+         <l>canto, y la ninfa un tiempo, caña agora,</l>
+         <l>como la lira que aún la selva honora</l>
+         <l>pulsada del famoso Alfesibeo.</l>
+         <l>No el conductor de lúbricos delfines</l>
+         <l n="95">de la métrica voz el dulce canto</l>
+         <l>armonïoso es tanto,</l>
+         <l>ni en el más blando acento Filomena,</l>
+         <l>que süave tributa</l>
+         <l>por la garganta arguta</l>
+         <l n="100">tiernas al viento y a la selva quejas,</l>
+         <l>cuando en dulce armonía</l>
+         <l>números bien que rudos articula,</l>
+         <l>es igual en dulzura</l>
+         <l>a la entre puras aves la más pura.</l>
+         <l n="105">Ni el que nevada pluma</l>
+         <l>le dio Meandro en argentado seno,</l>
+         <l>cometa de los orbes de la espuma,</l>
+         <l>numerosas endechas desatando</l>
+         <l>compite con el número que sólo</l>
+         <l n="110">módulo es hijo de la voz de Apolo,</l>
+         <l>donde aclamado el claro autor del día</l>
+         <l>en ceremonias cultas y canoras</l>
+         <l>de sus números cesa la armonía,</l>
+         <l>y dividiendo plazos a las horas,</l>
+         <l n="115">en términos distintos</l>
+         <l>sus vagos itinera laberintos,</l>
+         <l>como sacerdotisa misteriosa</l>
+         <l>de aquella selva undosa,</l>
+         <l>a cuya alta noticia no se cela</l>
+         <l n="120">cuanto al arte revela</l>
+         <l>de nigromante voz omnipotente</l>
+         <l>Proserpina obediente.</l>
+         <l>Aquí asiste inmortal ave dichosa</l>
+         <l>respondiendo al contacto de sus plumas</l>
+         <l n="125">la sacra selva en una y otra rosa.</l>
+         <l>Aquí la flor de Apolo enamorada</l>
+         <l>con nueva pompa crece</l>
+         <l>y amando convalece</l>
+         <l>si toleró repulsas desamada,</l>
+         <l n="130">porque ya nueva amante</l>
+         <l>a la más feliz ave</l>
+         <l>le consagra su víctima süave,</l>
+         <l>y el concurso apacible de las flores</l>
+         <l>a su planta inmortal tributa olores,</l>
+         <l n="135">naturaleza dibujando en ellas</l>
+         <l>por sus Elisios campos</l>
+         <l>aromáticos lampos,</l>
+         <l>emulación fragrante a las estrellas,</l>
+         <l>adonde ya logrados</l>
+         <l n="140">lustros dos veces ciento,</l>
+         <l>pájaro senescente al cuerpo lento</l>
+         <l>le permite que pida</l>
+         <l>renovación de vida.</l>
+         <l>Deja con este impulso el lugar sacro</l>
+         <l n="145">del inmortal lavacro,</l>
+         <l>y la región sublime, a quien no puede</l>
+         <l>por exención de soberana suerte</l>
+         <l>el dominio atreverse de la muerte.</l>
+         <l>Luego a buscar a nuestro mundo viene</l>
+         <l n="150">lo que el suyo no tiene,</l>
+         <l>de la fe conducida del misterio,</l>
+         <l>y entre pálidas sombras el imperio</l>
+         <l>de la violenta Parca,</l>
+         <l>que ni la voz olvida del villano</l>
+         <l n="155">ni perdona los tronos del monarca.</l>
+         <l>Aquí el tardo mortal ya esparce vuelo</l>
+         <l>por menos fértil suelo</l>
+         <l>árabe, aunque su nombre es fortunado</l>
+         <l>feliz patria del Fénix renovado,</l>
+         <l n="160">y con afecto de morir devoto</l>
+         <l>para sus pompas busca funerales</l>
+         <l>el bosque más remoto,</l>
+         <l>por morada eligiendo las triunfales</l>
+         <l>flexibles sí, mas plantas virtuales,</l>
+         <l n="165">con quien nombre feliz también reparte</l>
+         <l>no sin industria y arte,</l>
+         <l>pues cuanto de veneno</l>
+         <l>engendra el áspid en su ardiente seno,</l>
+         <l>y de la hidra en las entrañas mora,</l>
+         <l n="170">ni el fiero cocodrilo,</l>
+         <l>-asombro de las márgenes del Nilo-</l>
+         <l>con nociva garganta</l>
+         <l>puede empecer la vencedora planta,</l>
+         <l>donde no menos culta su infinito</l>
+         <l n="175">acuerdo esconde el misterioso rito</l>
+         <l>de la turba volante.</l>
+         <l>Ave ya escrupulosa,</l>
+         <l>más advertida que ceremoniosa,</l>
+         <l>lugar buscando de nociva fiera</l>
+         <l n="180">en el bosque seguro</l>
+         <l>para el acto más puro</l>
+         <l>que propiciar en dulce acento espera,</l>
+         <l>Eco, tiernos clamores ultimando,</l>
+         <l>cuyo residuo blando</l>
+         <l n="185">en su clamor propicio</l>
+         <l>endeche el misterioso sacrificio</l>
+         <l>del proceloso albergue de los vientos,</l>
+         <l>primero que a la pura</l>
+         <l>acción se dé encomienda la clausura,</l>
+         <l n="190">porque alterar no puedan sus alientos</l>
+         <l>la parte que es capaz deste peligro,</l>
+         <l>gloriosos impidiendo funerales</l>
+         <l>en exequias natales.</l>
+         <l>Tampoco de las nubes se confía,</l>
+         <l n="195">antes quiere a la luz de mejor día</l>
+         <l>al común padre sin opaco velo,</l>
+         <l>por cenit suyo en el zafir del cielo.</l>
+         <l>Luego formando sepultura o nido</l>
+         <l>con el hado consiente</l>
+         <l n="200">para que muera y nazca juntamente</l>
+         <l>pájaro de sí mismo, producido</l>
+         <l>sin distinción de sexo varïado,</l>
+         <l>que siendo hijo y padre de sí mismo</l>
+         <l>es de su propia muerte procreado.</l>
+         <l n="205">Donde juntando de la selva rica</l>
+         <l>sustancias aromáticas aplica</l>
+         <l>dellas el todo al sacrificio justo,</l>
+         <l>y cuanto humor suave el Indo adusto,</l>
+         <l>que undoso Ganges lava,</l>
+         <l n="210">en su codicia de esconder no acaba;</l>
+         <l>y cuanto guarda el Tiro y el Fenice</l>
+         <l>de lágrimas sabeas,</l>
+         <l>o la remota playa inunda de Cambaya,</l>
+         <l>entrega al acto pío.</l>
+         <l n="215">Junto, pues, todo en no corriente río</l>
+         <l>de líquidas aromas,</l>
+         <l>muerte en lumbre vital se va formando,</l>
+         <l>y en flamante sepulcro, cuna ardiente,</l>
+         <l>con el impulso blando</l>
+         <l n="220">de sus alas el fuego alimentando</l>
+         <l>la que abrasada, si no consumida,</l>
+         <l>de su postrer aliento cobra vida.</l>
+         <l>Luego abandona el moribundo pico</l>
+         <l>sobre su espolio rico,</l>
+         <l n="225">cuyos ya miembros débiles sintiendo</l>
+         <l>se hace sus obsequias y, muriendo</l>
+         <l>en dolorosa voz débil acento,</l>
+         <l>se eterna confiada en su agonía.</l>
+         <l>Para emprender el sacro monumento</l>
+         <l n="230">invoca la deidad que forma el día,</l>
+         <l>y con humilde canto o dulce ruego,</l>
+         <l>el mejor rayo pide al mejor fuego</l>
+         <l>instando, no que en llamas se resuelva,</l>
+         <l>mas que dellas su vida</l>
+         <l n="235">renovando substancia a cobrar venga</l>
+         <l>forma, donde su fuerza ya perdida</l>
+         <l>el inmortal vigor que tuvo tenga</l>
+         <l>a su eterna virtud restitüida.</l>
+         <l>Ya el ambiente del aura que respira</l>
+         <l n="240">ardiente lo animado de la pira</l>
+         <l>en plácido sosiego</l>
+         <l>erige dulce llama, blando fuego,</l>
+         <l>donde el afecto, que aún muriendo vive,</l>
+         <l>se alienta en su materia y se concibe.</l>
+         <l n="245">Mutación es constante,</l>
+         <l>no hálito espirante,</l>
+         <l>esta muerte feliz</l>
+         <l>que en llama pura</l>
+         <l>renovación de vida se asegura.</l>
+         <l n="250">De mil nítidas estrellas la hoguera</l>
+         <l>parece, y cuando en llamas reverbera</l>
+         <l>todo no aún bien ardido,</l>
+         <l>el símbolo glorioso</l>
+         <l>ser al breve epiciclo reducido,</l>
+         <l n="255">cuanto en rayos dóricos la esfera</l>
+         <l>del gran orbe contiene luminoso.</l>
+         <l>En atento esplendor Lucina asiste</l>
+         <l>al plazo moribundo, al nacimiento,</l>
+         <l>celante, no invocada,</l>
+         <l n="260">porque naturaleza coadyuvada</l>
+         <l>tenga fuerza mejor para el gran parto,</l>
+         <l>donde dudosa harto</l>
+         <l>de neutral llama pende,</l>
+         <l>que en fuego regulado</l>
+         <l n="265">árbitra es meta luz constitüida</l>
+         <l>al confín de la muerte, al de la vida,</l>
+         <l>cuando del mismo fuego la ceniza</l>
+         <l>en la forma que altera se eterniza,</l>
+         <l>tal que ya recogidas las reliquias</l>
+         <l n="270">su materia animada</l>
+         <l>al renacer ardiendo cobra forma;</l>
+         <l>la primera que informa</l>
+         <l>esférico es de huevo,</l>
+         <l>cuando el implume nuevo</l>
+         <l n="275">brotando va cual rosa matutina</l>
+         <l>que aún en su verde cárcel se termina.</l>
+         <l>De sus propios despojos al fin nace</l>
+         <l>cuando del fuego al fuego convalece</l>
+         <l>y alimentado en su sustancia crece</l>
+         <l n="280">el pájaro inmortal que, adolescente,</l>
+         <l>unir ya plumas a sus miembros siente.</l>
+         <l>Crecida al fin en nueva forma altiva</l>
+         <l>el ave siempre viva,</l>
+         <l>por material presiente</l>
+         <l n="285">para su nutrimento</l>
+         <l>producción de elemento,</l>
+         <l>y cuanto cría el magno continente</l>
+         <l>sólo de humor celeste logra el aura,</l>
+         <l>que entre dubios crepúsculos restaura,</l>
+         <l n="290">o las líquidas perlas en centellas</l>
+         <l>que exhalan de sus rayos las estrellas.</l>
+         <l>La parte, que no es poca,</l>
+         <l>de ceniza residua, como sacra</l>
+         <l>y de propias reliquias la venera,</l>
+         <l n="295">hecha erario su boca</l>
+         <l>de feliz globo, de feliz esfera,</l>
+         <l>cuando consigo lleva</l>
+         <l>la propia antigua prenda el ave nueva;</l>
+         <l>el que fue monumento</l>
+         <l n="300">mar es ya de fragancia</l>
+         <l>que inunda sin confín larga distancia,</l>
+         <l>dejando nunca exhausto</l>
+         <l>de exuberante aroma su holocausto,</l>
+         <l>o por tumba, o por cuna,</l>
+         <l n="305">que primer móvil fue de su fortuna.</l>
+         <l>Mas ya que instinto natural le anima</l>
+         <l>a dejar nuestro clima,</l>
+         <l>cuando extranjero pájaro presiente</l>
+         <l>debida soledad, afecto ausente,</l>
+         <l n="310">de sus flamantes plumas revestida</l>
+         <l>logrando nueva vida</l>
+         <l>abre las alas en luciente pompa</l>
+         <l>sin que el vuelo interrompa</l>
+         <l>dosel volante, cuya alada turba</l>
+         <l n="315">a su rey conociendo</l>
+         <l>ritos le van süaves ofreciendo,</l>
+         <l>y como a prodigioso honor del viento</l>
+         <l>canoro le administran su elemento.</l>
+         <l>No ya del norte la sublime arpía,</l>
+         <l n="320">cuyas plumas bizarras</l>
+         <l>conceden a sus garras</l>
+         <l>término breve, como breve día,</l>
+         <l>con el adunco pico,</l>
+         <l>aunque el espolio es rico,</l>
+         <l n="325">osa poner sus armas a la presa,</l>
+         <l>ni en sus alas isleño confïado,</l>
+         <l>belígero rapaz, griego cometa,</l>
+         <l>que sus mañas y nido le dio Creta;</l>
+         <l>insidia cautelosa de las aves</l>
+         <l n="330">de la deidad tonante,</l>
+         <l>vasallo leve, súbdito volante,</l>
+         <l>como ufano de verse dominado</l>
+         <l>del nuevo ahora Júpiter alado,</l>
+         <l>convaleciendo escrúpulos de fraude</l>
+         <l n="335">al generoso volador aplaude.</l>
+         <l>También le sigue el pájaro africano,</l>
+         <l>que no temió su nido</l>
+         <l>de coronada fiera alto bramido,</l>
+         <l>cuando bárbaros hierros</l>
+         <l n="340">con el humor hartaron de sus venas</l>
+         <l>de la sedienta Libia las arenas.</l>
+         <l>El émulo del viento</l>
+         <l>generoso neblí -que nacimiento</l>
+         <l>le dio quizá la nube-</l>
+         <l n="345">que más penetra, cuando menos sube,</l>
+         <l>sirviéndole de escalas</l>
+         <l>para pisar estrellas leves alas,</l>
+         <l>cuyo ignorado nido la porfía</l>
+         <l>desmiente aun de la culta cetrería:</l>
+         <l n="350">a la pompa sublime</l>
+         <l>de las aves egregia</l>
+         <l>respecta superior, venera regia.</l>
+         <l>El volador osado, a quien Pirene</l>
+         <l>cuna le presta en haya vividora,</l>
+         <l n="355">si bien afectos tímidos ignora,</l>
+         <l>atiende, no perturba, el feliz vuelo</l>
+         <l>de la que es claro símbolo del cielo.</l>
+         <l>Tú, perspicaz borní, la atención tuya</l>
+         <l>cuánto mejor que a Escálafo la debes</l>
+         <l n="360">a alas de pluma eternizadas leves,</l>
+         <l>la sublime región surcando suya,</l>
+         <l>y aun las atiendes bien sin que resista</l>
+         <l>radiante luz a penetrante vista.</l>
+         <l>La que fiera se ceba</l>
+         <l n="365">y al intuito solar sus hijos prueba</l>
+         <l>sin que le deban fe sus propias plumas,</l>
+         <l>cuyas alas abrasa</l>
+         <l>del fuego la región cuando traspasa,</l>
+         <l>ambiciosa de rayos</l>
+         <l n="370">de Júpiter ministra,</l>
+         <l>rapaz de Ganimedes, reina alada,</l>
+         <l>amazona del viento,</l>
+         <l>del primer elemento</l>
+         <l>por sus ardidos vuelos coronada,</l>
+         <l n="375">en decoro admirante</l>
+         <l>es leve palio al volador triunfante.</l>
+         <l>Y de plumas héroes vaga corona</l>
+         <l>obsequio modulante, alada zona</l>
+         <l>cuando en verde esmeralda verde alfombra</l>
+         <l n="380">admira el nuevo sol, la nueva sombra,</l>
+         <l>y el canoro nublado</l>
+         <l>de coloridas plumas informado</l>
+         <l>numeroso ornamento</l>
+         <l>de los piélagos líquidos del viento.</l>
+         <l n="385">El gran progenitor al luminoso</l>
+         <l>trono suyo madruga,</l>
+         <l>y con rayos enjuga</l>
+         <l>alga cuanta sacó del lecho undoso,</l>
+         <l>y de perspicua lumbre se previene</l>
+         <l n="390">cuando su nueva prole a buscar viene,</l>
+         <l>cual ya admiró su bárbara ribera</l>
+         <l>en imperial decoro</l>
+         <l>vestido tirio, manto en ondas de oro,</l>
+         <l>parto rey dominando mixta turba,</l>
+         <l n="395">cuya soberbia pompa</l>
+         <l>no la mueve o perturba</l>
+         <l>concurso militar, sonora trompa,</l>
+         <l>hecha diadema ardiente</l>
+         <l>de corusco metal zona a su frente,</l>
+         <l n="400">cuando soberbio su animal guerrero,</l>
+         <l>supeditando el llano,</l>
+         <l>el oro, que lo enfrena, vuelto cano,</l>
+         <l>varias reciba leyes, aunque fiero,</l>
+         <l>de la mano imperiosa,</l>
+         <l n="405">bestia al fin generosa,</l>
+         <l>por entre sus armados escuadrones,</l>
+         <l>cuando en los rayos de sus armas mira</l>
+         <l>ministros poderosos de su ira,</l>
+         <l>donde como a deidad no se le atreve</l>
+         <l n="410">sino el aplauso de admirante plebe;</l>
+         <l>tal el honor logrando renacido</l>
+         <l>ave que tuvo en el sepulcro nido,</l>
+         <l>vital restauro en túmulo aparente</l>
+         <l>y en apócrifo llanto</l>
+         <l n="415">feliz origen de su eterno canto,</l>
+         <l>a quien dio su doloso monumento</l>
+         <l>cama flamante, ardido nacimiento,</l>
+         <l>pomposa ahora en su inmortal decoro</l>
+         <l>nuevas al sol esparce plumas de oro.</l>
+         <l n="420">De la canora alada</l>
+         <l>gente, en rústicos himnos aclamada,</l>
+         <l>purpúreo ostenta manto blanco pecho,</l>
+         <l>cuya cerviz, cuyo sacado cuello</l>
+         <l>afrenta son del feminil cabello</l>
+         <l n="425">que en fluctuantes hebras resplandece</l>
+         <l>cuando piélagos de oro el viento crece.</l>
+         <l>Las plumas de sus alas</l>
+         <l>en el celoso manto soberano</l>
+         <l>Iris vaga imitar pretende en vano.</l>
+         <l n="430">Los ojos por su luz no bien distintos</l>
+         <l>animados jacintos</l>
+         <l>brillan, cual superando</l>
+         <l>verde mapa descripto de colores</l>
+         <l>la diosa de las flores</l>
+         <l n="435">en su dominio blando.</l>
+         <l>El corvo pico en perfección suprema</l>
+         <l>afrenta es de la gema</l>
+         <l>que entre el árbol ganchoso de Neptuno,</l>
+         <l>líquido nutrimento</l>
+         <l n="440">le dio la sal del húmido elemento.</l>
+         <l>En corona luciente</l>
+         <l>ciñe terso esplendor, sublime frente,</l>
+         <l>de pompas esparcidas</l>
+         <l>por eternos pinceles coloridas;</l>
+         <l n="445">sus vitales colunas soberanas</l>
+         <l>en su movible máquina más fijas</l>
+         <l>son regulada afrenta a las prolijas</l>
+         <l>corintias o toscanas</l>
+         <l>que en la más culta parte</l>
+         <l n="450">de rebelde materia formó el arte,</l>
+         <l>donde el orbe animado se sustenta</l>
+         <l>cuando el árbol florece en que se asienta.</l>
+         <l>No se esconde lo rubro de las manos</l>
+         <l>entre celajes de sus plumas vanos,</l>
+         <l n="455">antes con tirio lustre</l>
+         <l>perfeccionó su objeto</l>
+         <l>el inmortal sujeto</l>
+         <l>de sublime región lisonja ilustre.</l>
+         <l>El pavón a su pompa no semeja</l>
+         <l n="460">cuando de encina vieja</l>
+         <l>frondosos ramos dilatados cubre</l>
+         <l>con los despojos de Argos que descubre,</l>
+         <l>o cuando más bizarro</l>
+         <l>de celosa deidad conduce el carro.</l>
+         <l n="465">Excede su grandeza al africano</l>
+         <l>de las aves gigante,</l>
+         <l>si fiera alada no, animal volante.</l>
+         <l>Ave no bien creída</l>
+         <l>tanta pluma gentil, tanto ornamento,</l>
+         <l n="470">que blanda pompa esparce al blando viento;</l>
+         <l>mas no tarda como él, arduo su vuelo</l>
+         <l>pisa las nubes y se atreve al cielo;</l>
+         <l>sólo rayo que saca</l>
+         <l>más alma luz de nube más opaca,</l>
+         <l n="475">o rápida cometa</l>
+         <l>veloz palma le niega</l>
+         <l>cuando golfos diáfanos navega.</l>
+         <l>Ciudad antigua tuvo ya el Egito</l>
+         <l>que erigió al sol, en su celante rito,</l>
+         <l n="480">aras opimas y sublime templo,</l>
+         <l>con bien acepto de piedad ejemplo,</l>
+         <l>en dóricas colunas</l>
+         <l>que monte dio tebano</l>
+         <l>a buril acerado, a culta mano,</l>
+         <l n="485">donde como a votivo sacrificio</l>
+         <l>conduce el globo en reverente oficio.</l>
+         <l>De las que ya juntó cenizas, luego,</l>
+         <l>en holocausto puro encomendado</l>
+         <l>al altar y aceptado</l>
+         <l n="490">emprende las reliquias sacro fuego,</l>
+         <l>el despojo inundante</l>
+         <l>es del más puro nardo pululante,</l>
+         <l>mixto amomo y acanto,</l>
+         <l>que antigua ceremonia estimó tanto.</l>
+         <l n="495">Y cuanto las hermanas</l>
+         <l>han llorado frondosas,</l>
+         <l>verde pompa de márgenes undosas,</l>
+         <l>y en el fuego la mirra, que tranquila</l>
+         <l>en lagrimosos rayos se distila</l>
+         <l n="500">de generoso incienso,</l>
+         <l>inundación feliz que en mar inmenso</l>
+         <l>incorpóreo al contacto</l>
+         <l>del globo licuefacto,</l>
+         <l>viva fragancia exhala en humo denso,</l>
+         <l n="505">cuya materia superada sube</l>
+         <l>en humo sacro, en adorante nube.</l>
+         <l>Cuando el glorioso aliento de la pira</l>
+         <l>aromáticos hálitos respira,</l>
+         <l>del pájaro inmortal porción ardiente,</l>
+         <l n="510">ni en el fuego se extingue</l>
+         <l>que su holocausto pingüe</l>
+         <l>de incorruptible humor baña el ambiente</l>
+         <l>tal, que en globos de luz y ondas de lampos</l>
+         <l>lagos prospera de pelusios campos,</l>
+         <l n="515">de quien el Ganges, y el Hidaspe rico</l>
+         <l>de la gran madre los profundos senos</l>
+         <l>no menos ven que los de Arabia llenos.</l>
+         <l>Este prodigio el Nilo venerando</l>
+         <l>en mármol y en metal le informó, cuando</l>
+         <l n="520">percibir pudo claro</l>
+         <l>la sacra efigie del volante raro,</l>
+         <l>la inscripción indicando,</l>
+         <l>o misteriosa o pía,</l>
+         <l>quien vino, lo que trujo, y en qué día.</l>
+         <l n="525">¡Oh fortunado pájaro celeste,</l>
+         <l>progenitor ilustre de ti mismo,</l>
+         <l>no menos heredero que heredado,</l>
+         <l>sacro alimento, sacro alimentado,</l>
+         <l>feliz supuesto de feliz constancia,</l>
+         <l n="530">que de varios influjos ya seguro</l>
+         <l>como parte de cielo siempre puro,</l>
+         <l>accidentes no alteran tu sustancia</l>
+         <l>exenta de que Venus en amplejos</l>
+         <l>recíprocos juntando varios sexos</l>
+         <l n="535">con delicias comunes te corrompa!</l>
+         <l>¡Oh ave no alterada</l>
+         <l>sino en lícito honor: siempre lograda;</l>
+         <l>alma del tiempo, fe de las edades,</l>
+         <l>residuo verdadero</l>
+         <l n="540">del mejor siglo, del candor primero!</l>
+         <l>Tú, pues, que con caracteres iguales</l>
+         <l>verificas anales,</l>
+         <l>sagrado archivo,</l>
+         <l>último y primero</l>
+         <l n="545">de lo que pierde el tiempo, vence el hado,</l>
+         <l>donde guarda la fama originado</l>
+         <l>cuanto con voz articuló de acero,</l>
+         <l>y sublime este piélago de engaños</l>
+         <l>con velas de virtud propio navegas,</l>
+         <l n="550">y en eterna exención dominio niegas</l>
+         <l>a la serie inmutable de los años</l>
+         <l>pues te conservas para siempre pura,</l>
+         <l>ilesa de mudanzas,</l>
+         <l>fabricando tú misma tu ventura,</l>
+         <l n="555">porque jamás a tus umbrales osa</l>
+         <l>impulso vario de voluble diosa,</l>
+         <l>antes los fueros, que en tus senos viven,</l>
+         <l>decretos inmortales no rescriben,</l>
+         <l>supuesto claro de inmutable esencia,</l>
+         <l n="560">por dictamen de eterna providencia,</l>
+         <l>única reservada</l>
+         <l>de violenta segur, de Parca airada;</l>
+         <l>logra, símbolo egregio,</l>
+         <l>de tu inmortalidad el privilegio,</l>
+         <l n="565">digno de rito culto en sacro templo,</l>
+         <l>pues nos enseña a mejor luz tu ejemplo.</l>
+         <l>¡Oh ave para siempre renacida</l>
+         <l>que del sepulcro ascenso a eterna vida</l>
+         <l>alcanzarán las almas</l>
+         <l n="570">vistiendo luz de incorruptibles palmas!</l>
+      </body>
+   </text>
+</TEI>

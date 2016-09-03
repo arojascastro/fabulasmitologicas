@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de Apolo y Dafne</title>
+            <author>Jacinto Polo de Medina</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                  Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Polo de Medina, Jacinto. <title>
+                  <ref target="http://www.cervantesvirtual.com/obra-visor-din/fabula-de-apolo-y-dafne--0/html/fede83d4-82b1-11df-acc7-002185ce6064_1.html#I_1_">Fábula de Apolo y Dafne</ref>
+               </title>. Alicante: Biblioteca Virtual Miguel de
+               Cervantes, 2002. Web.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado en <date>1634</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <l>Cantar de Apolo y Dafne los amores,</l>
+         <l>sin más ni más, me vino al pensamiento.</l>
+         <l>Con licencia de ustedes, va de cuento.</l>
+         <l>¡Vaya de historia, pues, y hablemos culto!;</l>
+         <l n="5">pero ¿cómo los versos dificulto?,</l>
+         <l>¿como la vena mía se resiste?,</l>
+         <l>¡qué linda bobería!,</l>
+         <l>pues a fe que si invoco mi Talía</l>
+         <l>que no le dé ventaja al más pintado.</l>
+         <l n="10">Ya con ella encontré, mi Dios loado.</l>
+         <l>Señora doña Musa, mi señora,</l>
+         <l>sópleme vuesasted muy bien ahora;</l>
+         <l>que su favor invoco</l>
+         <l>para hacer esta copla;</l>
+         <l n="15">y mire vuesasted cómo me sopla.</l>
+         <l>Érase una muchacha con mil sales,</l>
+         <l>con una cara de a cien mil reales,</l>
+         <l>como así me la quiero,</l>
+         <l>más peinada y pulida que un barbero;</l>
+         <l n="20">y en esto que llamamos garabato</l>
+         <l>la gente de buen trato</l>
+         <l>tenía la mozuela gran donaire;</l>
+         <l>pudiera ser poeta por el aire.</l>
+         <l>Aquí es obligación, señora Musa,</l>
+         <l n="25">si ya lo que se usa no es excusa,</l>
+         <l>el pintar de la ninfa las facciones,</l>
+         <l>y pienso comenzar por los talones,</l>
+         <l>aunque parezca mal al que leyere;</l>
+         <l>que yo puedo empezar por do quisiere.</l>
+         <l n="30">Y aunque diga el lector de mi pintura</l>
+         <l>que por el tronco sube hasta el altura;</l>
+         <l>que a nadie dé congojas</l>
+         <l>que yo empiece la ninfa por las hojas,</l>
+         <l>supuesto que son míos</l>
+         <l n="35">estos calientes versos o estos fríos;</l>
+         <l>y el poeta más payo</l>
+         <l>de sus versos bien puede hacer un sayo.</l>
+         <l>Era el pie (yo le vi) de tal manera...</l>
+         <l>¡vive Cristo, que miento; que no era!,</l>
+         <l n="40">porque, por lo sutil y recogido,</l>
+         <l>nunca ha sido este pie visto ni oído.</l>
+         <l>Era, en efeto, blanco y era breve...,</l>
+         <l>¡oh, qué linda ocasión de decir nieve</l>
+         <l>si yo fuera poeta principiante!</l>
+         <l n="45">Llevando nuestros cuentos adelante,</l>
+         <l>y haciendo del villano,</l>
+         <l>me pretendo pasar del pie a la mano,</l>
+         <l>cuyos hermosos dedos</l>
+         <l>(esta vez los jazmines estén quedos,</l>
+         <l n="50">y pongámosles fines,</l>
+         <l>enmendémonos todos los jazmines,</l>
+         <l>y el que así no lo hiciere,</l>
+         <l>y ser poeta del abril quisiere,</l>
+         <l>probará de las gentes los rigores;</l>
+         <l n="55">y a fe que allá se lo dirán de flores).</l>
+         <l>Era, en fin, de cristal belleza tanta...</l>
+         <l>¡Pues no monda cristales la garganta!</l>
+         <l>porque tiene la tal de bienes tales</l>
+         <l>hasta tente garganta de cristales;</l>
+         <l n="60">mas, al contrario, su boquilla es poca...</l>
+         <l>(vamos con tiento en esto de la boca,</l>
+         <l>que hay notables peligros carmesíes,</l>
+         <l>y podré tropezar en los rubíes,</l>
+         <l>epítetos crüeles);</l>
+         <l n="65">¡qué cosquillas me hacen los claveles!,</l>
+         <l>porque a pedir de boca le venían;</l>
+         <l>mas claveles no son lo que solían,</l>
+         <l>ni en los labios de antaño</l>
+         <l>no hay claveles hogaño;</l>
+         <l n="70">pero, para decirles su alabanza,</l>
+         <l>conceptillo mejor mi ingenio alcanza,</l>
+         <l>y tanto, que con otro no se mide:</l>
+         <l>es tan linda su boca, que no pide.</l>
+         <l>Otro escalón subamos más arriba</l>
+         <l n="75">y mi pluma describa</l>
+         <l>sus mejillas hermosas;</l>
+         <l>Jesús, Señor, ¡qué tentación de rosas!,</l>
+         <l>¡qué notable vocablo!,</l>
+         <l>tentarme de botica quiere el diablo;</l>
+         <l n="80">Apolo sea conmigo,</l>
+         <l>y me libre de modos tan perversos.</l>
+         <l>Rosa, y no por mis versos.</l>
+         <l>Vaya la rosa, váyase a la selva,</l>
+         <l>sobre el prado se ensuelva;</l>
+         <l n="85">porque pintar con rosas los carrillos</l>
+         <l>eso llega a ser treta</l>
+         <l>de poetas de teta,</l>
+         <l>y a la ninfa que pinto</l>
+         <l>a dos por tres cualquiera murmurara</l>
+         <l n="90">que le echaba rosas a la cara.</l>
+         <l>No quiero en las mejillas rosas bellas;</l>
+         <l>que da cámaras sólo con olellas.</l>
+         <l>Por eso de las rosas no me valgo;</l>
+         <l>vayan las rosas a espulgar un galgo.</l>
+         <l n="95">No las han menester estas mejillas;</l>
+         <l>porque, para decir sus maravillas,</l>
+         <l>basta decir que están, por lo encarnadas,</l>
+         <l>como de haberles dado bofetadas;</l>
+         <l>que es éste el arrebol que las colora.</l>
+         <l n="100">Sin duda las narices van ahora,</l>
+         <l>cuyos bellos matices...</l>
+         <l>(Dios me saque con bien de las narices)</l>
+         <l>tienen buen colorido,</l>
+         <l>y aunque yo su medida no he medido,</l>
+         <l n="105">hablando por barruntos,</l>
+         <l>calzará la nariz sus cinco puntos;</l>
+         <l>que ya por descarnada y por la hechura</l>
+         <l>tenía esta hermosura</l>
+         <l>(si tengo de decillo)</l>
+         <l n="110">por narices el miércoles corvillo.</l>
+         <l>Ahora falta lo mejor de todo:</l>
+         <l>los ojos van ahora.</l>
+         <l>Yo seré un tal por cual si digo aurora,</l>
+         <l>ténganme por rüin si digo albas</l>
+         <l n="115">y por poeta que nací en las malvas.</l>
+         <l>Los luceros también ya se acabaron;</l>
+         <l>en materia de ojos expiraron</l>
+         <l>modos tan lisonjeros;</l>
+         <l>tenga Dios en el cielo a los luceros;</l>
+         <l n="120">que los ojos de Dafne, por mejores,</l>
+         <l>azabache me fecit, mis señores.</l>
+         <l>De la Etiopía son sus niñas bellas;</l>
+         <l>¿mas que temieron que dijera estrellas?</l>
+         <l>Paso adelante, y déjome las cejas,</l>
+         <l n="125">aunque son extremadas;</l>
+         <l>dénlas vuesas mercedes por pintadas,</l>
+         <l>pues no es fuerza que yo lo pinte todo,</l>
+         <l>y ahora ignoro el modo</l>
+         <l>de dibujar su exceso,</l>
+         <l n="130">y den gracias a Dios que lo confieso;</l>
+         <l>que pudieran, y es fácil, encontrarse</l>
+         <l>con poeta que no lo confesase.</l>
+         <l>Componiendo las tres ánades, madre,</l>
+         <l>a la frente he llegado;</l>
+         <l n="135">gracias a Dios que no las he cantado,</l>
+         <l>y que las desdichadas</l>
+         <l>una vez han salido de cantadas.</l>
+         <l>En fin, tarde o temprano,</l>
+         <l>ya la frente tenemos en la mano;</l>
+         <l n="140">díganme: Dios te ayude,</l>
+         <l>aunque lo quiten cuando yo estornude;</l>
+         <l>que hay su dificultad en lo que digo.</l>
+         <l>Vaya el lector conmigo,</l>
+         <l>y si no quisiere ir, que nunca vaya;</l>
+         <l n="145">que, en efeto, hace raya</l>
+         <l>a cuantas frentes hay la frentecilla.</l>
+         <l>Ya me obligo a decirle maravilla</l>
+         <l>por sólo el consonante,</l>
+         <l>y por lo mismo la diré diamante.</l>
+         <l n="150">Cuantas frentes yo he visto y cuantas trato</l>
+         <l>no son a su zapato;</l>
+         <l>porque la dicha está limpia y serena,</l>
+         <l>con sus ciertos humillos de azucena.</l>
+         <l>Dije azucena; en fin, no pude menos;</l>
+         <l n="155">que el concepto me vino de a paleta;</l>
+         <l>y así, ningún poeta,</l>
+         <l>aunque sea el mejor de los mejores,</l>
+         <l>diga: «No beberé de aquestas flores.»</l>
+         <l>Llevaba su perico, y bien arguyo,</l>
+         <l n="160">que no es poca alabanza decir suyo;</l>
+         <l>que hay perico tan vano, que blasona</l>
+         <l>que desciende de un muerto su persona,</l>
+         <l>y esto es de manera,</l>
+         <l>que, llegándome ayer a una mollera,</l>
+         <l n="165">me dio un tufo de kyries el cabello,</l>
+         <l>con ponerme de lejos para olello,</l>
+         <l>y de responsos rancios y podridos</l>
+         <l>saqué encalabriados los sentidos;</l>
+         <l>mas, como la piedad en mí no falta,</l>
+         <l n="170">a su lado me puse, y en voz alta</l>
+         <l>a todos les suplico</l>
+         <l>que den para enterrar aquel perico.</l>
+         <l>Mas vamos al intento:</l>
+         <l>Era la ninfa como se los cuento</l>
+         <l n="175">y al modo que mi pluma la retrata;</l>
+         <l>¿quién le quita, si es bella, el ser ingrata?</l>
+         <l>Como quitarlo del altar sería:</l>
+         <l>tuvo una condición como una tía.</l>
+         <l>Pudiera un ermitaño, si quisiera</l>
+         <l n="180">pasar áspera vida y muy austera,</l>
+         <l>buscando el mejor modo y el más cierto,</l>
+         <l>irse a su condición como a un desierto;</l>
+         <l>que tuvo esta hermosura</l>
+         <l>una madrastra en cada miradura.</l>
+         <l n="185">Valía la suegra lo que pesa,</l>
+         <l>y en otro tanto oro,</l>
+         <l>al decirla cualquiera: «Yo te adoro»</l>
+         <l>la respuesta que daba</l>
+         <l>con sólo las palabras arañaba,</l>
+         <l n="190">en una razón suya (y no es exceso),</l>
+         <l>yo vi rallar un queso.</l>
+         <l>No supo más de amor que aquella peña;</l>
+         <l>¡hideputa, qué arisca y zahareña!</l>
+         <l>Si alguno, que la rinde su albedrío,</l>
+         <l n="195">la dice: «Dueño mío,</l>
+         <l>pues llegué a ver tus ojos, fui felice»;</l>
+         <l>no dijera una sierpe lo que dice,</l>
+         <l>respondiendo al que llega</l>
+         <l>como una labradora que es gallega.</l>
+         <l n="200">A este Nerón de nieve,</l>
+         <l>a esta suegra de rosa,</l>
+         <l>a esta cruda niña,</l>
+         <l>a esta hiel y vinagre con basquina,</l>
+         <l>a este tigre encarnado,</l>
+         <l n="205">la vio un día, saliéndose hacia el prado,</l>
+         <l>Apolo, un jovenete</l>
+         <l>de estos de guedejita y de copete.</l>
+         <l>Que, en vez de los cabellos, oro peina</l>
+         <l>pudiera ser querido de una reina;</l>
+         <l n="210">mozo muy bien nacido,</l>
+         <l>de solar conocido,</l>
+         <l>y que viene de buenos...</l>
+         <l>Mas ¿linajes ajenos</l>
+         <l>me pongo a averiguar? ¡Qué desvarío!</l>
+         <l n="215">Y si hay quien quiera averiguar el mío,</l>
+         <l>¿no me ha de dar enojo?</l>
+         <l>Así como la vio, llenóle el ojo,</l>
+         <l>y de verla se arroba,</l>
+         <l>y quedósele el alma hecha una boba,</l>
+         <l n="220">los ojos boquiabiertos;</l>
+         <l>que con ellos no chista.</l>
+         <l>Muy adrede la vista;</l>
+         <l>que le dejó aturdidos</l>
+         <l>con un zas de belleza los sentidos:</l>
+         <l n="225">manos de admiraciones.</l>
+         <l>De Dominus vobiscum las acciones,</l>
+         <l>cargado sobre un pie, y el otro alzado</l>
+         <l>y puesto a lo de paso comenzado,</l>
+         <l>columpiándose el cuerpo con vaivenes,</l>
+         <l n="230">a lo de vas o vienes,</l>
+         <l>muy indeterminable de estatura,</l>
+         <l>y puesta de opiniones la postura,</l>
+         <l>sobre si ha de llegarse o no llegarse.</l>
+         <l>Comenzó don Apolo a desbobarse;</l>
+         <l n="235">y de tanta hermosura satisfecho,</l>
+         <l>dijo en su corazón: «Aquesto es hecho,</l>
+         <l>esta rara belleza</l>
+         <l>será mi quebradero de cabeza.»</l>
+         <l>Íbasele acercando el mancebito,</l>
+         <l n="240">haciendo con la boca un pucherito,</l>
+         <l>a medio declararse con la risa,</l>
+         <l>pronunciando jalea y canelones,</l>
+         <l>que pudieran beber con las razones;</l>
+         <l>el gesto con agrado</l>
+         <l n="245">de los que llegan a pedir prestado;</l>
+         <l>zalamero el semblante,</l>
+         <l>como con su doctor un platicante;</l>
+         <l>y llegándose más a su presencia,</l>
+         <l>con la cara de oír de penitencia,</l>
+         <l n="250">y el rostro tan indigno,</l>
+         <l>que parecía amante capuchino,</l>
+         <l>con retórica sabia,</l>
+         <l>que tenía el mozuelo buena labia,</l>
+         <l>comenzó el parlamento</l>
+         <l n="255">con lo de «mi atrevido pensamiento».</l>
+         <l>Díjole: «Reina mía,</l>
+         <l>aquí tiene un esclavo vueseoría;</l>
+         <l>que esa rara beldad me ha cautivado,</l>
+         <l>porque es la Barbarroja de este prado,</l>
+         <l n="260">y con aquestos bríos</l>
+         <l>es vuesasted cosaria de albedríos.</l>
+         <l>Muerto me tiene ya su rostro hermoso,</l>
+         <l>porque es de cuando ve roso y belloso,</l>
+         <l>y a trueque que me mire (aquesto es cierto),</l>
+         <l n="265">yo me doy por bien muerto.</l>
+         <l>Admita esta fineza;</l>
+         <l>que en mí tiene un criado esa belleza;</l>
+         <l>y ninguno más bien puede agradarle,</l>
+         <l>porque tengo que darle;</l>
+         <l n="270">y haré que vayan, si es que no se enoja,</l>
+         <l>por barquillos y aloja;</l>
+         <l>que tampoco de balde no la quiero,</l>
+         <l>yo quiero que me cueste mi dinero.</l>
+         <l>Mi dinerillo es bien que me socorra,</l>
+         <l n="275">no quiero amar de gorra,</l>
+         <l>que es estarme cansando,</l>
+         <l>y es amar ad Efesiosen no dando;</l>
+         <l>pues de que no se cogen hay certezas,</l>
+         <l>a bragas enjutas las bellezas;</l>
+         <l n="280">y ahorrando razones,</l>
+         <l>callen las barbas y hablen los doblones.</l>
+         <l>«Quiérame vuesasted, no sea perdida;</l>
+         <l>que pasará una vida,</l>
+         <l>si no es conmigo ingrata,</l>
+         <l n="285">con más comodidad que una beata.</l>
+         <l>Y si no me tratare con desprecio,</l>
+         <l>pasaráse una vida como un necio.</l>
+         <l>Quiérame vuesasted, no sea avara</l>
+         <l>que también tengo yo muy buena cara.</l>
+         <l n="290">Vuélvase cara mí, porque le cuadre,</l>
+         <l>no han aquí a su padre ni a su madre.»</l>
+         <l>Esto le dijo Apolo a espalda vuelta;</l>
+         <l>pero, ella resuelta,</l>
+         <l>revolviendo la cara con asombro,</l>
+         <l n="295">y puesta de Agnus Dei por sobre el hombro,</l>
+         <l>cejando atrás la vista,</l>
+         <l>facinorosa de ojos y semblante,</l>
+         <l>miradura matante,</l>
+         <l>dijo, como si fuera un enemigo:</l>
+         <l n="300">«Galán, ¿habla conmigo?</l>
+         <l>¿De cuándo acá conmigo en esos puntos?</l>
+         <l>Diga, ¿en qué bodegón comimos juntos?,</l>
+         <l>¿cómo me dice a mí esas picardías?,</l>
+         <l>¿hame visto en algunas puterías?</l>
+         <l n="305">¿Miren con qué nos viene?</l>
+         <l>si por otra me tiene,</l>
+         <l>vaya a buscarla y diga su fineza,</l>
+         <l>y no me esté quebrando la cabeza,</l>
+         <l>ni con ese su amor me descalabre;</l>
+         <l n="310">llame a otro amor, que aqueste no se abre.</l>
+         <l>Mire, no me amohíne,</l>
+         <l>y que soy no imagine</l>
+         <l>ninfa de por ahí ni de mal pelo;</l>
+         <l>vaya a querer al horno de su abuelo.</l>
+         <l n="315">¿No hay más sino, perdiéndome el decoro,</l>
+         <l>éntrome acá, que adoro;</l>
+         <l>y venir estirándose de ceja,</l>
+         <l>con sus once de amor, como de oveja?</l>
+         <l>¡Oh que cosas donosas!,</l>
+         <l n="320">¡amiguita soy yo de aquesas cosas!,</l>
+         <l>que vendrá por amor, y si me enfado,</l>
+         <l>volverá trasquilado;</l>
+         <l>miren con quién se toma,</l>
+         <l>señor Apolo, yo, horro Mahoma,</l>
+         <l n="325">y no hay amor que tenga.»</l>
+         <l>Enfadábase Apolo de la arenga,</l>
+         <l>y viendo tan esquivo lo que adora,</l>
+         <l>la dijo: «Hará, señora,</l>
+         <l>dejémonos de cuentos;</l>
+         <l n="330">¿de qué nos sirven tantos aspamientos?</l>
+         <l>Vuested me ha de querer, cuadre o no cuadre,</l>
+         <l>o mire en qué hora la parió su madre.</l>
+         <l>Dejarme de querer será cansera,</l>
+         <l>vueced me ha de querer, quiera o no quiera.</l>
+         <l n="335">No con miquis aquesas zangas mangas,</l>
+         <l>haga un amor de haldas o de mangas,</l>
+         <l>y el amor, mi señora, en paz tengamos.</l>
+         <l>¿Parece que jugamos?</l>
+         <l>¡pues a fe, si me enojo!</l>
+         <l n="340">¡pues a fe, si la cojo!</l>
+         <l>que yo la haga querer a más de a paso.</l>
+         <l>Vamos, señora, al caso:</l>
+         <l>que usted no me conoce,</l>
+         <l>y por menos que eso, lo eche a doce;</l>
+         <l n="345">que soy la piel del diablo.</l>
+         <l>Diga, ¿empieza a quererme?, ¿con quién hablo?,</l>
+         <l>¿somos aquí o no somos?,</l>
+         <l>¡vive Cristo!, que trata de dar comos.»</l>
+         <l>Dafne le respondió, muy alentada:</l>
+         <l n="350">«Ya he dicho dos mil veces que me enfada;</l>
+         <l>y con todos sus fieros y su enfado,</l>
+         <l>no tendré más amor así que asado;</l>
+         <l>porque doncella soy y soy bonica.»</l>
+         <l>Mas Apolo replica:</l>
+         <l n="355">«Doncellear como querer es eso.</l>
+         <l>Vaya a otro perro usted con ese hueso,</l>
+         <l>mas no a mí, que las vendo.»</l>
+         <l>Y diciendo y haciendo,</l>
+         <l>embistió por un lado.</l>
+         <l n="360">Ella, viendo el negocio mal parado,</l>
+         <l>las lio (como dicen los vulgares),</l>
+         <l>sin esperar a dares ni tomares;</l>
+         <l>pies puso en polvorosa,</l>
+         <l>y exhalación corrió de nieve y rosa.</l>
+         <l n="365">Pesiatal, ¡que lindo verso he dicho!,</l>
+         <l>¿es barro aquesta frase?,</l>
+         <l>ya soy poeta de primera clase;</l>
+         <l>pues digo rosas y hablo primaveras,</l>
+         <l>que también hablo yo muy bien de veras,</l>
+         <l n="370">y hace muy mal quien algo no me alaba.</l>
+         <l>Iba la ninfa que se las pelaba,</l>
+         <l>y mil que entienden desto, y que la vieron,</l>
+         <l>unánimes dijeron:</l>
+         <l>«Como un caballo vuela»;</l>
+         <l n="375">digo, que era una ninfa Valenzuela.</l>
+         <l>A puto el postre Apolo la seguía,</l>
+         <l>y a voces le decía:</l>
+         <l>«Detente, fugitiva de mis ojos,</l>
+         <l>mira que vas descalza y hay abrojos,</l>
+         <l n="380">y maltratando vas tus plantas tiernas,</l>
+         <l>y se te ven las piernas,</l>
+         <l>que son para doncella desacatos;</l>
+         <l>toma, que aquí te traigo unos zapatos,</l>
+         <l>mas, ¡ay!, que a ser ingrata te resuelves,</l>
+         <l n="385">pues a un toma no vuelves.</l>
+         <l>No eres mujer sin duda,</l>
+         <l>si un toma no te muda;</l>
+         <l>pues ¿quién con una manda</l>
+         <l>su dureza no ablanda?</l>
+         <l n="390">Que es el cátalo hecho en cualquier cosa,</l>
+         <l>¿no es posible que, dándote, no quieras?</l>
+         <l>Unas enaguas te daré de veras,</l>
+         <l>con que salgas al prado de mañana,</l>
+         <l>y en viéndote un poeta tan galana,</l>
+         <l n="395">preguntará: ¿Quién es esta señora?»,</l>
+         <l>y él mismo se dirá: «Será la Aurora;</l>
+         <l>¿quién había de ser cosa tan bella?</l>
+         <l>O es en chapines bajos una estrella?»</l>
+         <l>¡Qué de cosas te pierdes!</l>
+         <l n="400">Si me adoras, daráste lindos verdes,</l>
+         <l>y el mejor ha de ser que no te guarde,</l>
+         <l>dejárete salir mañana y tarde;</l>
+         <l>con esto no es posible que estés sorda.</l>
+         <l>Mucho holgara esta vez que fueras gorda</l>
+         <l n="405">por poder alcanzarte.</l>
+         <l>Mucho corres, pues no te alcanza un darte.</l>
+         <l>Detente, fugitiva,</l>
+         <l>tente, rosa con pies y nieve viva;</l>
+         <l>que eres, por lo veloz y por lo breve,</l>
+         <l n="410">mala nueva de nieve,</l>
+         <l>cobarde, de marfil o de azucena,</l>
+         <l>o corres con las zancas de una pena.</l>
+         <l>Mira que soy prudente, ninfa, tente;</l>
+         <l>y claro está, pues doy, que soy prudente.</l>
+         <l n="415">¿Cómo tan sorda estás a mis doblones?</l>
+         <l>¿cómo tan sorda estás a mis razones?</l>
+         <l>Siendo yo tan discreto,</l>
+         <l>escúchame siquiera este soneto.</l>
+         <l>Ea, detente, ninfa de mi vida,</l>
+         <l n="420">que tengo el alma por tu amor perdida.</l>
+         <l>No me dejes, ingrata e importuna,</l>
+         <l>siendo sol, a la luna;</l>
+         <l>siendo día, de noche;</l>
+         <l>mira que soy hermoso y tengo coche.</l>
+         <l n="425">Coche le dijo apenas,</l>
+         <l>cuando, corriendo como Dafne iba,</l>
+         <l>volvió la cara, un poco compasiva,</l>
+         <l>y dijo sin pararse:</l>
+         <l>«Pues no me paro a coche, no hay cansarse;</l>
+         <l n="430">un imposible labra,</l>
+         <l>atrás no ha de volverse mi palabra,</l>
+         <l>y ha de cumplirse, si una vez lo dije,</l>
+         <l>aunque aquesto del coche es quien me aflige.</l>
+         <l>Mas aunque rabie y muera, tijeretas.»</l>
+         <l n="435">Con esto apretó Apolo las soletas,</l>
+         <l>y pescóle el coleto, aunque no quiso.</l>
+         <l>Ya el so letor verá que aquí es preciso</l>
+         <l>que Dafne diese aullidos,</l>
+         <l>mil voces y gemidos;</l>
+         <l n="440">diolas, en fin, que se desgañitaba,</l>
+         <l>mas yo no quiero darlas, si las daba.</l>
+         <l>Paso adelante y déjome de voces;</l>
+         <l>que aunque estoy en la silva o en la selva,</l>
+         <l>no es justo que a dar voces me resuelva.</l>
+         <l n="445">En fin, Dafne las daba,</l>
+         <l>y dada al diablo con Apolo estaba;</l>
+         <l>y de enojo impaciente,</l>
+         <l>diole un bocado y apretóle el diente.</l>
+         <l>Escocióla el bocado, a lo que entiendo,</l>
+         <l n="450">porque Apolo le dijo muy gruñendo:</l>
+         <l>«Suelta la disoluta,</l>
+         <l>valga el diablo la hija de la puta;</l>
+         <l>¿ella sabe a quién muerde? ¿a quién enfada?</l>
+         <l>A fe que si le doy una puñada,</l>
+         <l n="455">que yo le haga que de mí se acuerde.</l>
+         <l>¡Pésia con la bellaca, y cómo muerde!»</l>
+         <l>Y al punto le replica la señora:</l>
+         <l>«Como no diga zas, déla en buen hora;</l>
+         <l>que no se me da un sastre de sus fieros.</l>
+         <l n="460">¿Piensa que trata aquí con sombrereros</l>
+         <l>o alguna gentecilla semejante?</l>
+         <l>Lindo escorrozo tiene el muy bergante.</l>
+         <l>Si es que intenta mi ofensa</l>
+         <l>porque me ve mujer, muy mal lo piensa.</l>
+         <l n="465">Ráigansele del casco esos intentos,</l>
+         <l>que me vuelvo laurel y no hay más cuentos.»</l>
+         <l>Pues dicho y hecho fue como lo dijo.</l>
+         <l>Sin que supiese Apolo</l>
+         <l>cómo ni cómo no se convertía,</l>
+         <l n="470">que mil cruces de verla se hacía;</l>
+         <l>y viendo que la ninfa renegaba,</l>
+         <l>y para lo del siglo se acababa;</l>
+         <l>viéndola con los ojos laureados,</l>
+         <l>y de laurel los dientes traspillados,</l>
+         <l n="475">cuando estaba crüel, ingrata y fiera,</l>
+         <l>en el último vale de madera;</l>
+         <l>antes que diese con aullido ronco</l>
+         <l>la boqueada última de tronco,</l>
+         <l>y antes que diese el cuerpo transformado</l>
+         <l n="480">al verde purgatorio de aquel prado,</l>
+         <l>con las voces muy flacas y en los huesos,</l>
+         <l>tono convaleciente y deslanguido,</l>
+         <l>a lo estar en ayunas el gemido,</l>
+         <l>tan metido en el centro,</l>
+         <l n="485">que parece que hablaba desde adentro,</l>
+         <l>la dijo en aquel trance,</l>
+         <l>en vez de un «Dios te valga», este romance:</l>
+         <l>«¡Oh, qué verde necedad,</l>
+         <l>ingrata Dafne, cometes!</l>
+         <l n="490">Disparate de la selva</l>
+         <l>será tu mudanza siempre.</l>
+         <l>«Ay, mozuela boquirrubia,</l>
+         <l>y ¡qué perdida que eres!</l>
+         <l>¿No sabes tú, cuitadilla,</l>
+         <l n="495">lo que en tu hermosura pierdes?</l>
+         <l>«Mira que dineros valen</l>
+         <l>buena cara y años veinte,</l>
+         <l>y no quiero yo de renta</l>
+         <l>más raíces ni más muebles.</l>
+         <l n="500">Aprende de tus vecinas</l>
+         <l>hermosuras genoveses,</l>
+         <l>que haciendo trato su cara</l>
+         <l>dan chento por chento el trueque.</l>
+         <l>«¿Quién te mete en ser laurel?</l>
+         <l n="505">no es mejor cuarenta veces</l>
+         <l>salirte al prado encarnada</l>
+         <l>que estarte en el prado verde.</l>
+         <l>«No hay sino vivir, y ser</l>
+         <l>apacible con las gentes,</l>
+         <l n="510">y quédese lo severo</l>
+         <l>para un turco matasiete.</l>
+         <l>«Lo esquivo se usó antañazgo,</l>
+         <l>y se usaban los desdenes</l>
+         <l>cuando los cabellos rubios</l>
+         <l n="515">eran gala en los copetes.</l>
+         <l>«¿Eres tú jurisconsulto</l>
+         <l>que ser alcalde pretende,</l>
+         <l>y presenta por servicios</l>
+         <l>la condición de una sierpe?</l>
+         <l n="520">«Sea laurel quien gustare;</l>
+         <l>que no es justo que te empeñes</l>
+         <l>en sazonar los pescados</l>
+         <l>ni engalanar escabeches.</l>
+         <l>«En victorias de aceitunas</l>
+         <l n="525">sólo a ser corona vienes;</l>
+         <l>gentecilla tan soez,</l>
+         <l>que en zapateros se vuelven.</l>
+         <l>«Dirásme, desvanecida,</l>
+         <l>que adornarás muchas frentes;</l>
+         <l n="530">pero un cuerno hace lo mismo</l>
+         <l>en muchas honradas sienes.</l>
+         <l>Esto Apolo le decía,</l>
+         <l>llorando de veinte en veinte</l>
+         <l>las estrellas como el puño;</l>
+         <l n="535">y ella se estuvo en sus trece.</l>
+         <l>Y viéndola ya laurel,</l>
+         <l>les dio a sus hojas crueles</l>
+         <l>bula de absolver de rayos</l>
+         <l>cuando los nublados truenen.</l>
+      </body>
+   </text>
+</TEI>

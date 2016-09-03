@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de Vertumnno y Pomona</title>
+            <author>Luis Barahona de Soto</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref
+                  target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                  Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Barahona de Soto, Luis.<title>
+                  <ref
+                     target="http://www.cervantesvirtual.com/obra-visor-din/fabulas-mitologicas--0/html/ffe48288-82b1-11df-acc7-002185ce6064_19.html#I_7_"
+                     >Fábulas mitológicas</ref>
+               </title>. Ed. Antonio Cruz Casado. Alicante: Bibiblioteca Virtual Miguel de
+               Cervantes, 2003. Web.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado hacia <date>1587</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l>La extraña fuerza de amor,</l>
+            <l>de la belleza los daños</l>
+            <l>y el peligro no menor,</l>
+            <l n="4">y de los cansados años</l>
+            <l>la sutileza y primor,</l>
+            <l>cantará la musa mía,</l>
+            <l>si vos, que le dais aliento</l>
+            <l n="8">y valor en tal porfía</l>
+            <l>le dierdes oído atento,</l>
+            <l>que será darle osadía.</l>
+         </lg>
+         <lg>
+            <l>Aquí, señora, veréis</l>
+            <l n="12">una condición esquiva,</l>
+            <l>casi tal cual la tenéis,</l>
+            <l>y un hablar que a otros derriba,</l>
+            <l>de que vos os defendéis.</l>
+            <l n="16">Quizá no os seré importuno,</l>
+            <l>pues Amor por mí razona,</l>
+            <l>y quizá habrá tiempo alguno</l>
+            <l>en que imitéis a Pomona,</l>
+            <l n="20">como yo siempre a Vertuno.</l>
+         </lg>
+         <lg>
+            <l>No falta en vos la belleza,</l>
+            <l>ni en mí el calor y deseo,</l>
+            <l>ni aun quizá la sutileza;</l>
+            <l n="24">si algo falta, es que peleo</l>
+            <l>contra mayor fortaleza.</l>
+            <l>Do, aunque muera sin vitoria,</l>
+            <l>si es que el cielo así lo manda,</l>
+            <l n="28">seré digno de memoria,</l>
+            <l>por morir en la demanda</l>
+            <l>de impresa de tanta gloria.</l>
+         </lg>
+         <lg>
+            <l>Entre las ninfas más bellas</l>
+            <l n="32">que a las plantas concedieron</l>
+            <l>para guarda las estrellas,</l>
+            <l>y con las mismas nacieron</l>
+            <l>y suelen morir con ellas,</l>
+            <l n="36">Pomona fue más hermosa,</l>
+            <l>más discreta y más esquiva,</l>
+            <l>y en su oficio más airosa;</l>
+            <l>que, para que siempre viva,</l>
+            <l n="40">fue después mudada en diosa.</l>
+         </lg>
+         <lg>
+            <l>Ningún contento sentía</l>
+            <l>en la pesca por los ríos,</l>
+            <l>ni en el bosque en montería,</l>
+            <l n="44">ansí en los secos estíos</l>
+            <l>como en la sazón más fría.</l>
+            <l>La nueva conversación,</l>
+            <l>la gala, la gentileza,</l>
+            <l n="48">ni el cortesano blasón,</l>
+            <l>el título y la grandeza,</l>
+            <l>le dan tormento y pasión.</l>
+         </lg>
+         <lg>
+            <l>Su deleite era cortar</l>
+            <l n="52">frutal y vid no derecha</l>
+            <l>que ocupan el buen lugar,</l>
+            <l>y del que está satisfecha</l>
+            <l>lo regala y va a podar.</l>
+            <l n="56">Corta la tendida rama,</l>
+            <l>los largos brazos refrena</l>
+            <l>del árbol que los derrama,</l>
+            <l>o con aquel le encadena</l>
+            <l n="60">que por vecindad le llama.</l>
+         </lg>
+         <lg>
+            <l>La verde vara cortando,</l>
+            <l>la enjere al árbol añejo,</l>
+            <l>y así los va mejorando,</l>
+            <l n="64">con la experiencia del viejo</l>
+            <l>el nuevo rigor templando.</l>
+            <l>Y, porque lo que es mejor</l>
+            <l>nazca y lo demás se deje,</l>
+            <l n="68">legumbres de buen olor</l>
+            <l>conglutina y entreteje</l>
+            <l>con las de vario sabor.</l>
+         </lg>
+         <lg>
+            <l>Por más contento tenía</l>
+            <l n="72">regar torcidas raíces</l>
+            <l>del frutal que florecía</l>
+            <l>que seguir bajas perdices</l>
+            <l>o venado en montería.</l>
+            <l n="76">No sufre sed fatigosa</l>
+            <l>al jabalí monteando,</l>
+            <l>al corzo, liebre o raposa,</l>
+            <l>o al ave que va volando,</l>
+            <l n="80">con la jara venenosa.</l>
+         </lg>
+         <lg>
+            <l>Mil árboles olorosos,</l>
+            <l>mil gentiles y crecidos,</l>
+            <l>mil acopados y umbrosos,</l>
+            <l n="84">mil abiertos y extendidos,</l>
+            <l>con la luz del sol hermosos;</l>
+            <l>mil yerbas no conocidas,</l>
+            <l>cuál con flores olorosas,</l>
+            <l n="88">cuál con frutas ya crecidas,</l>
+            <l>ya entre sus tallos medrosas,</l>
+            <l>ya en sus capullos metidas.</l>
+         </lg>
+         <lg>
+            <l>Allí la flor colorada</l>
+            <l n="92">en que el amado de Apolo</l>
+            <l>mudó su carne preciada,</l>
+            <l>y la que de polo a polo</l>
+            <l>le contempla embelesada;</l>
+            <l n="96">el almendro, y el dorado</l>
+            <l>ciruelo, y el pero y guindo,</l>
+            <l>el durazno, y el granado,</l>
+            <l>y el árbol que fue en el Pindo</l>
+            <l n="100">a las vírgenes sagrado.</l>
+         </lg>
+         <lg>
+            <l>Y aquella fruta hallada</l>
+            <l>primero en Candía, en Cidón,</l>
+            <l>que, por suave y templada,</l>
+            <l n="104">mandaba darla Solón</l>
+            <l>a la nueva desposada:</l>
+            <l>aquí es todo su contento</l>
+            <l>y su amor todo empleó;</l>
+            <l n="108">nunca de otro tuvo intento,</l>
+            <l>ni el que Venus engendró</l>
+            <l>le pasó por pensamiento.</l>
+         </lg>
+         <lg>
+            <l>¿Qué dejaron de hacer</l>
+            <l n="112">los sátiros saltadores</l>
+            <l>por podella a sí atraer,</l>
+            <l>dioses, silvanos, pastores...?</l>
+            <l>Y no bastó su poder.</l>
+            <l n="116">Con hojoso y verde pino</l>
+            <l>ceñido el fauno las sienes,</l>
+            <l>¡que luchó con su designo</l>
+            <l>para hacer con sus bienes</l>
+            <l n="120">y cuán mal siempre le avino!</l>
+         </lg>
+         <lg>
+            <l>¿Qué cautelas o qué engaños</l>
+            <l>no hizo el viejo Sileno,</l>
+            <l>bien más mozo que sus años?</l>
+            <l n="124">Pero, al fin, tuvo por bueno</l>
+            <l>callar y sufrir sus daños.</l>
+            <l>Entre los de amor heridos</l>
+            <l>Vertuno es quien más gemía,</l>
+            <l n="128">cosa nueva a los nacidos:</l>
+            <l>que en figuras se volvía</l>
+            <l>y trajes no conocidos.</l>
+         </lg>
+         <lg>
+            <l>Éste no como cualquiera</l>
+            <l n="132">sosiega sin ser amado;</l>
+            <l>mas ama de tal manera,</l>
+            <l>que espera con su cuidado</l>
+            <l>hacer de la piedra cera.</l>
+            <l n="136">Do hay tibieza no hay amor,</l>
+            <l>ni hay grados de más y menos</l>
+            <l>en el que es fino amador;</l>
+            <l>todos los amantes buenos</l>
+            <l n="140">han de ir a más y mejor.</l>
+         </lg>
+         <lg>
+            <l>¡Oh, cuántas veces cortó</l>
+            <l>con la corva hoz la mies</l>
+            <l>y segador se mostró,</l>
+            <l n="144">y frente, de haz y envés,</l>
+            <l>de seco heno cercó!</l>
+            <l>Y ¡cuántas el aguijada</l>
+            <l>y la gabana traía</l>
+            <l n="148">de tierra y agua mojada,</l>
+            <l>que jurara quien le vía</l>
+            <l>que dejó yunta y arada!</l>
+         </lg>
+         <lg>
+            <l>Y ¡cuántas fue podador</l>
+            <l n="152">de vides y de arboleda,</l>
+            <l>y de frutos cogedor!</l>
+            <l>Mas no hay do acogerse pueda</l>
+            <l>contra la fuerza de amor.</l>
+            <l n="156">Ya con armas es guerrero,</l>
+            <l>ya tiende la red pescando,</l>
+            <l>ya es cazador, ya vaquero,</l>
+            <l>en todo nunca hallando</l>
+            <l n="160">más remedio que primero.</l>
+         </lg>
+         <lg>
+            <l>Mas su astucia o su fortuna</l>
+            <l>al fin le mostró el camino;</l>
+            <l>que debajo de la luna</l>
+            <l n="164">se lo guardaba el destino</l>
+            <l>para su llaga importuna.</l>
+            <l>Y con toca muy plegada</l>
+            <l>la cabeza se apretó,</l>
+            <l n="168">de muchas canas sembrada,</l>
+            <l>y una vieja se fingió,</l>
+            <l>antigua, flaca y corvada.</l>
+         </lg>
+         <lg>
+            <l>Y, sobre un bordón ñudoso,</l>
+            <l n="172">fingiendo el vigor ya muerto,</l>
+            <l>puso el pecho cauteloso,</l>
+            <l>y así se fue para el güerto</l>
+            <l>que lo hizo venturoso.</l>
+            <l n="176">Cuando por la puerta entró</l>
+            <l>quiso a la ninfa abrazar,</l>
+            <l>y Pomona la abrazó,</l>
+            <l>y unos besos, al llegar,</l>
+            <l n="180">más que de vieja le dio,</l>
+         </lg>
+         <lg>
+            <l>diciéndole: «¡Cuántos males</l>
+            <l>Esta vejez fastidiosa,</l>
+            <l>hija, nos da a los mortales!</l>
+            <l n="184">No nos satisface en cosa</l>
+            <l>sino en privilegios tales,</l>
+            <l>que libremente podamos</l>
+            <l>pasar por donde queremos,</l>
+            <l n="188">y doquiera nos sentamos,</l>
+            <l>y que viejas deseemos</l>
+            <l>lo que mozas desechamos.</l>
+         </lg>
+         <lg>
+            <l>De aquel dulce tiempo viejo</l>
+            <l n="192">que se nos pasó por rueda,</l>
+            <l>como nos curtió el pellejo,</l>
+            <l>otra cosa no nos queda</l>
+            <l>sino sólo el dar consejo.</l>
+            <l n="196">Vengo, hija, fatigada,</l>
+            <l>porque no puedo hallar</l>
+            <l>una yerba muy preciada</l>
+            <l>con que se suele cobrar</l>
+            <l n="200">la flor del rostro robada.</l>
+         </lg>
+         <lg>
+            <l>Y en el punto en que te vi</l>
+            <l>quise llorar de alegría,</l>
+            <l>porque vide escrita en ti</l>
+            <l n="204">una hija que tenía,</l>
+            <l>que, por mi dolor, perdí.</l>
+            <l>Quisiera darte mil voces</l>
+            <l>de contento y de dolor;</l>
+            <l n="208">y no permitan los dioses</l>
+            <l>que ofendas tanto al amor,</l>
+            <l>porque tan mal no te goces».</l>
+         </lg>
+         <lg>
+            <l>Esto dijo y derramó</l>
+            <l n="212">mil lágrimas suspirando,</l>
+            <l>que a Pomona enterneció,</l>
+            <l>bien, señora, como cuando</l>
+            <l>os vide alguna vez yo.</l>
+            <l n="216">Y, después de haber partido</l>
+            <l>un membrillo pieza a pieza,</l>
+            <l>puesto un dedo en el oído,</l>
+            <l>dijo: «Para la cabeza:</l>
+            <l n="220">éste conforta el sentido;</l>
+         </lg>
+         <lg>
+            <l>da al estómago vigor;</l>
+            <l>limpia los dientes y boca;</l>
+            <l>es sano y dulce al sabor,</l>
+            <l n="224">y donde quiera que toca</l>
+            <l>levanta suave olor».</l>
+            <l>Dicen que éste antiguamente</l>
+            <l>fue una dama muy piadosa</l>
+            <l n="228">que murió de un accidente:</l>
+            <l>por esto Venus la diosa</l>
+            <l>la mudó en fruto excelente.</l>
+         </lg>
+         <lg>
+            <l>Y, al revés, aquel laurel</l>
+            <l n="232">fue también otra doncella</l>
+            <l>desamorada y cruel,</l>
+            <l>y así, el fruto que dio ella</l>
+            <l>la permiten que lleve él.</l>
+            <l n="236">Dígolo porque si fuera</l>
+            <l>mi hija, como hermosa,</l>
+            <l>tal, que al que bien la quisiera</l>
+            <l>se le mostrara piadosa,</l>
+            <l n="240">más gozara y más viviera.</l>
+         </lg>
+         <lg>
+            <l>No puedo, cuando te veo,</l>
+            <l>dejar de ser consolada;</l>
+            <l>que, en el rostro y el meneo,</l>
+            <l n="244">de mi triste malograda</l>
+            <l>me quitas pena y deseo.</l>
+            <l>Como sois mozas altivas,</l>
+            <l>todo el mundo despreciáis;</l>
+            <l n="248">sois zahareñas y esquivas;</l>
+            <l>de do viene que seáis</l>
+            <l>piedras, muertas; diosas, vivas.</l>
+         </lg>
+         <lg>
+            <l>Y esta juvenil terneza</l>
+            <l n="252">tiene no sé qué muy vano</l>
+            <l>de esperanzas de grandeza,</l>
+            <l>que aun atienta con la mano</l>
+            <l>la ventura y la riqueza.</l>
+            <l n="256">Mas dé todo lo que ofrece,</l>
+            <l>y, a pedir, algo después,</l>
+            <l>que en un momento perece,</l>
+            <l>y muy otra cosa es</l>
+            <l n="260">de lo que agora parece.</l>
+         </lg>
+         <lg>
+            <l>Las que ya habemos pasado</l>
+            <l>por mil imaginaciones,</l>
+            <l>como nos han engañado,</l>
+            <l n="264">damos mil obligaciones</l>
+            <l>por lo medio, de contado.</l>
+            <l>Tenga en poco quien quisiere</l>
+            <l>el bien y déjelo ir;</l>
+            <l n="268">que aquel que avisado fuere</l>
+            <l>no se debe arrepentir</l>
+            <l>jamás de lo que hiciere.</l>
+         </lg>
+         <lg>
+            <l>Nunca te acontezca tal,</l>
+            <l n="272">despreciar al que te ama:</l>
+            <l>que es un yerro sin igual,</l>
+            <l>y la ventura no llama</l>
+            <l>a quien la conoció mal.</l>
+            <l n="276">A uno que por mí moría</l>
+            <l>desdeñé yo en mi niñez;</l>
+            <l>creedme vos, hija mía,</l>
+            <l>que le desprecié una vez</l>
+            <l n="280">y lloro por él hoy día.</l>
+         </lg>
+         <lg>
+            <l>Tiene no sé qué carcoma</l>
+            <l>la mujer, hermosa o fea,</l>
+            <l>que, si a ver el mundo asoma,</l>
+            <l n="284">no mira cuanto desea</l>
+            <l>ni le harta cuanto toma.</l>
+            <l>Y aunque viéndonos queridas</l>
+            <l>parezca que no queremos;</l>
+            <l n="288">con el placer derretidas,</l>
+            <l>con el gusto que tenemos</l>
+            <l>nos dejamos ir vencidas.</l>
+         </lg>
+         <lg>
+            <l>Cáusanos contentamiento</l>
+            <l n="292">la vana imaginación</l>
+            <l>y duélenos el tormento</l>
+            <l>que recibe el corazón</l>
+            <l>que nos procuró el contento.</l>
+            <l n="296">Comenzamos a querer</l>
+            <l>lo mismo que aborrecimos;</l>
+            <l>mudamos el parecer;</l>
+            <l>duélenos lo que perdimos,</l>
+            <l n="300">lo que dejamos perder.</l>
+         </lg>
+         <lg>
+            <l>Y más cuando aquel [que] ha sido</l>
+            <l>por nosotras despreciado</l>
+            <l>después de habernos servido,</l>
+            <l n="304">lo vemos que está empleado</l>
+            <l>donde es más favorecido.</l>
+            <l>Éste es, pues, el sinsabor;</l>
+            <l>quien bien me quiere no vea</l>
+            <l n="308">a dó llega este dolor;</l>
+            <l>porque entonces se desea</l>
+            <l>cuando se pierde el amor.</l>
+         </lg>
+         <lg>
+            <l>Nunca más me aconteció:</l>
+            <l n="312">antes, después, en llamando,</l>
+            <l>a nadie dije de no,</l>
+            <l>y vivo agora llorando</l>
+            <l>el tiempo que se perdió,</l>
+            <l n="316">que se pasa más ligero</l>
+            <l>que el sueño breve sabroso:</l>
+            <l>mirando el tiempo primero,</l>
+            <l>vase el presente engañoso,</l>
+            <l n="320">esperando el venidero.</l>
+         </lg>
+         <lg>
+            <l>Mientras la masa de nieve</l>
+            <l>y de grana un color vivo</l>
+            <l>le da espíritu y la mueve,</l>
+            <l n="324">cogé el placer fugitivo,</l>
+            <l>antes que el tiempo os le lleve.</l>
+            <l>Y entienda la que es querida</l>
+            <l>que, después que la rosada</l>
+            <l n="328">lumbre de[l] rostro despida,</l>
+            <l>no es ahora tan amada</l>
+            <l>como será aborrecida.</l>
+         </lg>
+         <lg>
+            <l>Huélguese muy libremente,</l>
+            <l n="332">sin cuidado, de gozar</l>
+            <l>lo que pasa y no se siente;</l>
+            <l>que, aunque lo quiera cobrar,</l>
+            <l>ya después no se consiente.</l>
+            <l n="336">Y habiéndose consumido</l>
+            <l>la flor con que agora están,</l>
+            <l>desearán lo aborrecido,</l>
+            <l>y lo que entonces querrán</l>
+            <l n="340">quisieran haber querido.</l>
+         </lg>
+         <lg>
+            <l>¿Quién se espantará que el cielo</l>
+            <l>con vosotras esté airado,</l>
+            <l>pues, con vuestro odioso yelo,</l>
+            <l n="344">las gracias que él os ha dado</l>
+            <l>queréis negarlas al suelo?</l>
+            <l>No hay más bajo ánimo, no,</l>
+            <l>que el que toma y no agradece,</l>
+            <l n="348">desprecia lo que tomó</l>
+            <l>y afrenta a quien se lo ofrece</l>
+            <l>y así, pues, lo recibió.</l>
+         </lg>
+         <lg>
+            <l>Esa flor y esa belleza</l>
+            <l n="352">con que, necias, os alzáis</l>
+            <l>no os la dio por gentileza,</l>
+            <l>mas para que enriquezcáis</l>
+            <l>con ella a naturaleza.</l>
+            <l n="356">Si el sol corre tanto trecho</l>
+            <l>¿por qué no quiere pasarse,</l>
+            <l>aunque fue para esto hecho?</l>
+            <l>No tanto por conservarse</l>
+            <l n="360">cuanto por vuestro provecho:</l>
+         </lg>
+         <lg>
+            <l>Ni el oro ni otro metal</l>
+            <l>en la tierra se engendrara;</l>
+            <l>faltando el bien natural,</l>
+            <l n="364">cualquier planta se secara;</l>
+            <l>muriera todo animal.</l>
+            <l>La clara luz se perdiera</l>
+            <l>y en tinieblas tenebrosas</l>
+            <l n="368">el día se convirtiera</l>
+            <l>y volviéranse las cosas</l>
+            <l>a la confusión primera.</l>
+         </lg>
+         <lg>
+            <l>¿Por qué piensas que salieron</l>
+            <l n="372">de la tierra esos vapores</l>
+            <l>que rocío se hicieron?</l>
+            <l>Para dar fuerza a las flores</l>
+            <l>que de estas plantas nacieron.</l>
+            <l n="376">Y esas plantas y frutales,</l>
+            <l>pregunto, ¿por qué florecen?</l>
+            <l>No por sus bienes o males,</l>
+            <l>mas porque con ellos crecen</l>
+            <l n="380">o viven los animales.</l>
+         </lg>
+         <lg>
+            <l>De cuanto el mundo está lleno</l>
+            <l>todo está ordenado así</l>
+            <l>y por eso es todo bueno:</l>
+            <l n="384">nada nace para sí,</l>
+            <l>mas para el provecho ajeno.</l>
+            <l>Pues ¿queréis vosotras ser</l>
+            <l>a solas privilegiadas?</l>
+            <l n="388">Antes debéis conocer</l>
+            <l>que entre las cosas criadas</l>
+            <l>no aprovecha la mujer.</l>
+         </lg>
+         <lg>
+            <l>Estos árboles y aquéllos,</l>
+            <l n="392">porque su casta se augmente,</l>
+            <l>nos ofrecen frutos bellos,</l>
+            <l>y allí esconden su simiente,</l>
+            <l>que produzga otros como ellos.</l>
+            <l n="396">Los animales, las aves,</l>
+            <l>que por todo el mundo extienden</l>
+            <l>sus caras prendas suaves,</l>
+            <l>otra cosa no pretenden</l>
+            <l n="400">sino durar, como sabes.</l>
+         </lg>
+         <lg>
+            <l>Y si de esto te aprovechas,</l>
+            <l>mira las cosas, en fin,</l>
+            <l>que están todas satisfechas</l>
+            <l n="404">cuando consiguen el fin</l>
+            <l>para el cual han sido hechas.</l>
+            <l>¿Quieres tú, por tu dureza,</l>
+            <l>no dar lo que a ti te dio</l>
+            <l n="408">quien te puso tal belleza,</l>
+            <l>si para eso te crió</l>
+            <l>Dios o la naturaleza?</l>
+         </lg>
+         <lg>
+            <l>Las que no quieren ponerse</l>
+            <l n="412">en tanta selvatiquez</l>
+            <l>gozan su edad sin temerse,</l>
+            <l>y, venida la vejez,</l>
+            <l>no tienen de qué dolerse.</l>
+            <l n="416">Cual el labrador astuto,</l>
+            <l>que, sabiendo que el ivierno</l>
+            <l>viene cubierto de luto,</l>
+            <l>coge en el verano tierno</l>
+            <l n="420">el alegre y dulce fruto.</l>
+         </lg>
+         <lg>
+            <l>Mas la necia que dejare</l>
+            <l>pasar el fértil verano</l>
+            <l>y su fruto no gozare,</l>
+            <l n="424">después, el ivierno cano,</l>
+            <l>no te espantes si llorare.</l>
+            <l>Créeme, pues, que lo siento;</l>
+            <l>que no he hallado dolor</l>
+            <l n="428">igual [a] arrepentimiento,</l>
+            <l>el cual es tanto mayor</l>
+            <l>cuanto perdió más contento.</l>
+         </lg>
+         <lg>
+            <l>Calva y en los pies alada,</l>
+            <l n="432">y tras ella un cojo andando,</l>
+            <l>vi la ventura pintada,</l>
+            <l>la cual muestra que, en volando,</l>
+            <l>jamás puede ser cazada.</l>
+            <l n="436">Perdido al cabello el tiento,</l>
+            <l>no hay quien más asilla pueda;</l>
+            <l>que ella se va por el viento,</l>
+            <l>y entre las manos nos queda</l>
+            <l n="440">el cojo arrepentimiento.</l>
+         </lg>
+         <lg>
+            <l>No hay ingratitud mayor</l>
+            <l>que por hacer larga guerra</l>
+            <l>al amante sembrador,</l>
+            <l n="444">dejar sin fruto la tierra</l>
+            <l>fértil que nos dio el amor.</l>
+            <l>¿Hay crueldad ni tiranía</l>
+            <l>cual la que en esto habéis hecho,</l>
+            <l n="448">que destruyáis a porfía,</l>
+            <l>no sólo el común provecho,</l>
+            <l>mas también grande alegría?</l>
+         </lg>
+         <lg>
+            <l>Y ya que pretendáis ser</l>
+            <l n="452">ingratas al cielo y duras</l>
+            <l>con los que os saben querer,</l>
+            <l>no destruyáis las venturas</l>
+            <l>de aquellos que han de nacer:</l>
+            <l n="456">que si el varón no merece</l>
+            <l>vuestra huraña amistad,</l>
+            <l>injustamente padece</l>
+            <l>aquello vuestra crueldad</l>
+            <l n="460">que humana forma apetece.</l>
+         </lg>
+         <lg>
+            <l>Pues, vuestro vigor pasado,</l>
+            <l>si otro no viene segundo</l>
+            <l>con que sea renovado,</l>
+            <l n="464">quedará el hermoso mundo</l>
+            <l>de su belleza privado.</l>
+            <l>Deshará vuestro interese</l>
+            <l>del orbe la copia llena,</l>
+            <l n="468">cual si el año no trujese</l>
+            <l>tras un lirio y azucena</l>
+            <l>otro que le sucediese.</l>
+         </lg>
+         <lg>
+            <l>Gozad de vuestro tesoro,</l>
+            <l n="472">que el tiempo lo malbarata</l>
+            <l>con el virginal decoro,</l>
+            <l>antes que en color de plata</l>
+            <l>se os vuelva el cabello de oro.</l>
+            <l n="476">Que, aunque me ves, hija, así,</l>
+            <l>del dios Silvano fui amiga;</l>
+            <l>mas desque el lustre perdí,</l>
+            <l>no hay persona que me diga:</l>
+            <l n="480">perra, ¿qué haces ahí?</l>
+         </lg>
+         <lg>
+            <l>Y era entonces tan hermoso</l>
+            <l>Silvano cual no fue alguno;</l>
+            <l>tan gentil, tan abundoso</l>
+            <l n="484">cual es ahora Vertuno,</l>
+            <l>aunque no tan generoso.</l>
+            <l>Porque es Vertuno preciado</l>
+            <l>más de Júpiter Tonante,</l>
+            <l n="488">y más, que es previlegiado:</l>
+            <l>que en oro, en rubí, en diamante,</l>
+            <l>le he visto yo transformado.</l>
+         </lg>
+         <lg>
+            <l>También me acuerdo que un día,</l>
+            <l n="492">afligido por tu amor,</l>
+            <l>le vi que bueyes uncía,</l>
+            <l>convertido en labrador,</l>
+            <l>que yo no le conocía.</l>
+            <l n="496">Mil veces fue ganadero;</l>
+            <l>mil, podador y hortelano;</l>
+            <l>mil, peón; mil, viñadero;</l>
+            <l>mil, con la lanza en la mano,</l>
+            <l n="500">fue soldado y caballero.</l>
+         </lg>
+         <lg>
+            <l>No hay en que no se mudó,</l>
+            <l>y más, se mudó aquel día</l>
+            <l>de lo que nadie pensó,</l>
+            <l n="504">cuando por verte moría,</l>
+            <l>hasta que, al fin, te miró.</l>
+            <l>De fortuna o de natura</l>
+            <l>ninguna gracia le falta,</l>
+            <l n="508">riqueza ni hermosura;</l>
+            <l>y si en algo tiene falta,</l>
+            <l>es contigo de ventura.</l>
+         </lg>
+         <lg>
+            <l>Y si sátiros pastores</l>
+            <l n="512">con él se van a holgar,</l>
+            <l>les excede a los mejores,</l>
+            <l>ansí en correr y saltar</l>
+            <l>como en juegos y primores.</l>
+            <l n="516">Por su música suave,</l>
+            <l>aunque esté de invidia lleno,</l>
+            <l>no he visto quien no le alabe,</l>
+            <l>y ha confesado Sileno</l>
+            <l n="520">que en ella tanto no sabe.</l>
+         </lg>
+         <lg>
+            <l>Guiada por la razón,</l>
+            <l>¡ojalá, ninfa, quisieses</l>
+            <l>amansar tu condición,</l>
+            <l n="524">y, como otras, consintieses</l>
+            <l>la sabrosa sujeción!</l>
+            <l>Que si Elena tan loada</l>
+            <l>por su hermosura fue</l>
+            <l n="528">y de tantos procurada,</l>
+            <l>tu linda gracia yo sé</l>
+            <l>que será más celebrada.</l>
+         </lg>
+         <lg>
+            <l>Tu bello rostro, a quien dio</l>
+            <l n="532">el cielo cuanto podía,</l>
+            <l>para dar muerte nació,</l>
+            <l>cual la bella Hipodamía,</l>
+            <l>o que Atalanta causó.</l>
+            <l n="536">Como tú eres estimada</l>
+            <l>dirás que bajas y feas</l>
+            <l>desean nombre de amada.</l>
+            <l>¿No fue la madre de Eneas</l>
+            <l n="540">de Anquises enamorada?</l>
+         </lg>
+         <lg>
+            <l>Mira que esa hermosura</l>
+            <l>se tiene de consumir;</l>
+            <l>créeme, que soy madura;</l>
+            <l n="544">que vendrás a maldecir</l>
+            <l>el tiempo en que fuiste dura.</l>
+            <l>Mira aquel olmo, que, siendo</l>
+            <l>de parras entretejido,</l>
+            <l n="548">ellas van por él subiendo,</l>
+            <l>y él está rico y florido,</l>
+            <l>ajenas frutas teniendo.</l>
+         </lg>
+         <lg>
+            <l>Las cosas pequeñas crecen</l>
+            <l n="552">con la amistad y concordia,</l>
+            <l>y en breve tiempo florecen;</l>
+            <l>y en menos, con la discordia,</l>
+            <l>las cosas grandes fenecen.</l>
+            <l n="556">El olmo sin uvas, ¿fuera</l>
+            <l>ninguna cosa loada?</l>
+            <l>¿Más que las hojas tuviera?</l>
+            <l>Y la vid, dél apartada,</l>
+            <l n="560">baja y abatida fuera.</l>
+         </lg>
+         <lg>
+            <l>Y ansí, sola tu belleza</l>
+            <l>no puede ser conocida,</l>
+            <l>marchita con tu aspereza,</l>
+            <l n="564">siendo desagradecida</l>
+            <l>del bien de naturaleza.</l>
+            <l>Y el tálamo conyugal,</l>
+            <l>si en tu belleza se funda,</l>
+            <l n="568">con progenie sin igual</l>
+            <l>te hará rica y jocunda</l>
+            <l>cual es la falda oriental.</l>
+         </lg>
+         <lg>
+            <l>Ya [a] Pomona, enternecido</l>
+            <l n="572">el corazón con amor,</l>
+            <l>se puso el rostro encendido,</l>
+            <l>tanto, que del amador</l>
+            <l>el fuego fue conocido.</l>
+            <l n="576">Y, como aquel que podía</l>
+            <l>tomar cualquiera figura,</l>
+            <l>aquel gesto que tenía</l>
+            <l>mudó en tan gran hermosura,</l>
+            <l n="580">que al de la ninfa vencía.</l>
+         </lg>
+         <lg>
+            <l>Ella, queriendo hacerse</l>
+            <l>melindrosa y asombrada</l>
+            <l>dio muestras de amortecerse,</l>
+            <l n="584">y él, buena ocasión hallada,</l>
+            <l>nunca hizo de temerse.</l>
+            <l>Y, siguiendo la ordenanza</l>
+            <l>que a ninguno ha echado en mengua</l>
+            <l n="588">mostró en la amorosa danza</l>
+            <l>que la delicada lengua</l>
+            <l>jamás embotó la lanza.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>

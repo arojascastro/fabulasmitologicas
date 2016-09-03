@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orfeo</title>
+            <author>Juan de Jáuregui</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Jáuregui, Juan de. <title>Poesía</title>. Ed. De Juan Matas Caballero. Madrid: Cátedra, 1993. Impreso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado en <date>1624</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <epigraph>
+            <p>Al excelentísimo señor don Gaspar de Guzmán, conde de Olivares, sumilier de Corps, caballerizo mayor del Consejo de Estado y Guerra de su Majestad, gran canciller de las Indias, alcaide perpetuo de los alcázares de Sevilla</p>
+         </epigraph>
+         <div>
+            <head>Canto I</head>
+            <lg>
+               <l>Gozaba, juvenil, el trace Orfeo,</l>
+               <l>de libre edad, la primavera ociosa,</l>
+               <l>dando a sus años regalado empleo</l>
+               <l>la lira dulcemente numerosa.</l>
+               <l n="5">No al vínculo legal del Himeneo</l>
+               <l>afectos cede, ni a la cipria diosa,</l>
+               <l>cual si anteviera el ánimo presago,</l>
+               <l>ya por su medio, el venidero estrago.</l>
+            </lg>
+            <lg>
+               <l>Ama su voz, que, en dulce melodía,</l>
+               <l n="10">de otro amor le divierte y le enajena;</l>
+               <l>bien que la misma voz, con tiranía,</l>
+               <l>toda hermosura libre a amar condena.</l>
+               <l>Así que en unas armas poseía</l>
+               <l>propia defensa, con ofensa ajena,</l>
+               <l n="15">siendo el sonoro canto, mientras pudo,</l>
+               <l>del Amor flecha, y a su flecha escudo.</l>
+            </lg>
+            <lg>
+               <l>Mas, entre las beldades que atropella,</l>
+               <l>de inquieta llama causador y exento,</l>
+               <l>fue la excepción Eurídice más bella,</l>
+               <l n="20">que impuso apremios a su libre intento:</l>
+               <l>ama, vencido, el que imperaba, y ella</l>
+               <l>juzga felicidad el vencimiento.</l>
+               <l>¡Ay cuántas veces aduló, engañosa,</l>
+               <l>la desdicha, con máscara dichosa!</l>
+            </lg>
+            <lg>
+               <l n="25">En la ninfa gentil toda belleza</l>
+               <l>su imperio ostenta, explica su tesoro;</l>
+               <l>cielos cifra su rostro; su cabeza</l>
+               <l>vierte sobre los hombros pluvias de oro;</l>
+               <l>allí el halago y virginal terneza</l>
+               <l n="30">gozo prometen y originan lloro;</l>
+               <l>allí, entre flores de vivaz semblante,</l>
+               <l>acónito mortal gustó el amante.</l>
+            </lg>
+            <lg>
+               <l>A Eurídice, ya numen de hermosura,</l>
+               <l>Cintia y Venus beldades inferiores</l>
+               <l n="35">postran, como a la luz del sol más pura</l>
+               <l>plebeyos astros ceden esplendores,</l>
+               <l>o a la rosa, que el múrice purpura,</l>
+               <l>cetro oloroso las silvestres flores.</l>
+               <l>Su dócil genio, su pureza honesta</l>
+               <l n="40">reciben culto de Minerva y Vesta.</l>
+            </lg>
+            <lg>
+               <l>Émulo varonil, hermoso opuesto</l>
+               <l>fue el joven de la ninfa generosa,</l>
+               <l>donde el mérito pudo, contrapuesto,</l>
+               <l>solicitar la unión más amorosa.</l>
+               <l n="45">Un pecho y otro, a dominar dispuesto,</l>
+               <l>emprendió la victoria presurosa;</l>
+               <l>mas a un tiempo, en amar no precedidos,</l>
+               <l>se hallaron vencedores y vencidos.</l>
+            </lg>
+            <lg>
+               <l>A indisolubles vínculos estrechos</l>
+               <l n="50">ya reducen alternas aficiones,</l>
+               <l>y en la especie de dicha satisfechos,</l>
+               <l>se consienten recíprocas prisiones.</l>
+               <l>Ya alberga un corazón en ambos pechos,</l>
+               <l>o bien un alma en ambos corazones,</l>
+               <l n="55">sin que otorgasen al consorcio dino</l>
+               <l>piedad las amenazas del destino.</l>
+            </lg>
+            <lg>
+               <l>Cautelar pudo al advertido esposo</l>
+               <l>(mas al amor la providencia implica)</l>
+               <l>de azares el ocurso temeroso,</l>
+               <l n="60">que ya en sus bodas breve llanto indica:</l>
+               <l>no asiste Juno; no locuaz y airoso</l>
+               <l>el dios nupcial su ceremonia explica:</l>
+               <l>de oscura antorcha, con desorden ciego,</l>
+               <l>arde en su mano, reluchando, el fuego.</l>
+            </lg>
+            <lg>
+               <l n="65">Después, cuando la dulce, prevenida</l>
+               <l>hora nocturna al tálamo los llama,</l>
+               <l>y, a ocultos regocijos, encendida</l>
+               <l>luz grata admiten el amante y dama,</l>
+               <l>de causa procedido no advertida,</l>
+               <l n="70">súbito incurso arrebató la llama:</l>
+               <l>ni el discurrir contra el anuncio fiero</l>
+               <l>halló evasión a desmentir su agüero.</l>
+            </lg>
+            <lg>
+               <l>Así temió en su origen la mudanza</l>
+               <l>el fiel consorcio, que repugna el cielo:</l>
+               <l n="75">¡serenidad infiel, cuya bonanza</l>
+               <l>siempre asaltaron ondas de recelo!</l>
+               <l>Nunca allí se enterró la confianza;</l>
+               <l>nunca total prevaleció el consuelo;</l>
+               <l>bien que ignoraban siglos anteriores</l>
+               <l n="80">tan regalado ejemplo de amadores.</l>
+            </lg>
+            <lg>
+               <l>¡Oh cuántas veces él, si la belleza</l>
+               <l>de Eurídice describe en dulce canto,</l>
+               <l>pudo en sus ojos la interior tristeza</l>
+               <l>de incierto origen provocar el llanto!</l>
+               <l n="85">Turba la voz su liberal destreza;</l>
+               <l>embaraza a la ninfa un tierno espanto,</l>
+               <l>viendo del son la repugnancia ingrata,</l>
+               <l>que empieza elogio y llanto se remata.</l>
+            </lg>
+            <lg>
+               <l>¡Oh cuántas veces en igual desvelo</l>
+               <l n="90">los vio la noche y los halló la aurora;</l>
+               <l>o, ya durmiendo, el vivo desconsuelo</l>
+               <l>perseveró en el alma veladora!</l>
+               <l>Sombras fabrica de estupendo yelo</l>
+               <l>trágico el sueño, en invasión traidora:</l>
+               <l n="95">despiertan con temblor los corazones,</l>
+               <l>sin repeler turbadas impresiones.</l>
+            </lg>
+            <lg>
+               <l>Si en diversión alegre el florecido</l>
+               <l>campo les presta deleitable asiento,</l>
+               <l>de ave siniestra el lúgubre gemido</l>
+               <l n="100">su gozo altera con infausto acento.</l>
+               <l>Uno y otro en el ánimo ofendido</l>
+               <l>dolor concibe; y simulando aliento,</l>
+               <l>de su verdad y engaño daban señas</l>
+               <l>llorosa risa, o lágrimas risueñas.</l>
+            </lg>
+            <lg>
+               <l n="105">Suspendido el rigor no espacio largo,</l>
+               <l>mayor que los anuncios fue su efeto;</l>
+               <l>precipitó el recelo en llanto amargo</l>
+               <l>ley preordinada de fatal decreto:</l>
+               <l>la sierpe agreste ya cedido el cargo</l>
+               <l n="110">ejecutivo al superior preceto,</l>
+               <l>la esposa noble, en trance inopinado,</l>
+               <l>fue sangrienta lisonja al fiero hado.</l>
+            </lg>
+            <lg>
+               <l>Bastardo incendio de garzón lascivo,</l>
+               <l>mientras vagaba en plácida floresta,</l>
+               <l n="115">quiso opugnar, sacrilego, el esquivo</l>
+               <l>justo desdén de Eurídice modesta.</l>
+               <l>Al curso la defensa fugitivo</l>
+               <l>ella encomienda, temerosa y presta,</l>
+               <l>y agravios juzga del ausente Orfeo</l>
+               <l n="120">que el pie no se adelante su deseo.</l>
+            </lg>
+            <lg>
+               <l>En sus huellas reincide el torpe amante,</l>
+               <l>dado a insano deleite en precipicio;</l>
+               <l>si bien le agrava, tímido, inconstante,</l>
+               <l>la misma ya ponderación del vicio.</l>
+               <l n="125">Lejos precede al ofensor distante</l>
+               <l>la ninfa, huyendo aun su remoto indicio;</l>
+               <l>fuera intervalo a asegurarla escaso</l>
+               <l>el que divide al Indo del Ocaso.</l>
+            </lg>
+            <lg>
+               <l>En cuanto el miedo casto, diligente,</l>
+               <l n="130">a anteceder el viento la dedica,</l>
+               <l>en círculos de lívida serpiente,</l>
+               <l>que el prado oculta, el pie veloz implica.</l>
+               <l>Hiere improviso el venenoso diente</l>
+               <l>la ebúrnea tez, y su candor rubrica:</l>
+               <l n="135">letal contagio penetró en la herida</l>
+               <l>hasta el íntimo centro de la vida.</l>
+            </lg>
+            <lg>
+               <l>Mortal, en breve, el eficaz veneno</l>
+               <l>a inmortal sueño a Eurídice traslada.</l>
+               <l>Florido ornato finge al campo ameno</l>
+               <l n="140">la sangre, entre la yerba matizada.</l>
+               <l>Vierte infección al esplendor sereno</l>
+               <l>la sierpe, de su triunfo asegurada.</l>
+               <l>¡Oh Alcides! ¡Oh Titán!, flechas y arpones</l>
+               <l>aquí expended, no en hidras y pitones.</l>
+            </lg>
+            <lg>
+               <l n="145">Vengad, ¡oh vos!, la adúltera osadía</l>
+               <l>del garzón torpe, con igual trofeo,</l>
+               <l>agresor de más impía alevosía</l>
+               <l>que Encélado, Mimantes y Tifeo.</l>
+               <l>Cielos más puros éste presumía</l>
+               <l n="150">violentar, inflamado, cual Briareo.</l>
+               <l>Obra es digna, ¡oh Tonante!, a tu decoro</l>
+               <l>que en Etna le sepultes o Peloro.</l>
+            </lg>
+            <lg>
+               <l>Así desvaneció la flor hermosa</l>
+               <l>donde ya la beldad reinó lozana,</l>
+               <l n="155">donde aprendieron la azucena y rosa</l>
+               <l>tersos desdenes de la nieve y grana.</l>
+               <l>En el consorte fiel la dolorosa</l>
+               <l>nueva excedió la tolerancia humana:</l>
+               <l>le admira que de Eurídice la herida</l>
+               <l n="160">en él cediese parte de la vida.</l>
+            </lg>
+            <lg>
+               <l>Como sus ojos siente enajenados</l>
+               <l>del que interior adora dulce objeto</l>
+               <l>que dio a su fe solícitos cuidados</l>
+               <l>y a inmortal llama destinó su afeto,</l>
+               <l n="165">suspiros pierde al viento derramados;</l>
+               <l>disuelve en llanto el corazón inquieto,</l>
+               <l>y, maquinando inútiles engaños,</l>
+               <l>reparos busca a irreparables daños.</l>
+            </lg>
+            <lg>
+               <l>La dulce voz, cuyo nativo acento</l>
+               <l n="170">supo, libre, ostentar blandos errores,</l>
+               <l>y luego, más ceñida al instrumento.</l>
+               <l>siguió preceptos y aumentó primores,</l>
+               <l>hoy, concitada de amoroso aliento,</l>
+               <l>destrezas sutiliza superiores,</l>
+               <l n="175">y más despierta el raro contrapunto</l>
+               <l>del divorcio fatal el tierno asunto.</l>
+            </lg>
+            <lg>
+               <l>Nunca elección del músico destino</l>
+               <l>pudo así modular sonoro labio,</l>
+               <l>que, opuesto al nuevo cántico divino,</l>
+               <l n="180">no padeciese numeroso agravio:</l>
+               <l>el concento de esferas cristalino,</l>
+               <l>que percibió sutil ingenio sabio</l>
+               <l>y admira el Pitagórico, es trofeo</l>
+               <l>y convencida emulación de Orfeo.</l>
+            </lg>
+            <lg>
+               <l n="185">Hijo era noble el generoso amante</l>
+               <l>de la Musa mayor y el dios de Delo,</l>
+               <l>que el furor le duplican elegante</l>
+               <l>con que el ingenio diviniza el vuelo.</l>
+               <l>El castalio licor tan abundante</l>
+               <l n="190">le inunda, que su labio enlabia al cielo,</l>
+               <l>prescribiendo a su verso en Helicona</l>
+               <l>siempre el laurel y la mayor corona.</l>
+            </lg>
+            <lg>
+               <l>Tristezas canta, que en el alma ofenden,</l>
+               <l>en metros tan acordes y süaves,</l>
+               <l n="195">que el vuelo y la carrera le suspenden,</l>
+               <l>condolidas, las fieras y las aves.</l>
+               <l>Buscan su voz, y su terneza aprenden</l>
+               <l>los troncos yertos, los peñascos graves;</l>
+               <l>las corrientes al métrico lenguaje</l>
+               <l n="200">se impelen con retrógrado vïaje.</l>
+            </lg>
+            <lg>
+               <l>Su inmensa actividad reconocida,</l>
+               <l>asunto ya de prodigioso espanto,</l>
+               <l>pues los objetos sin sentido o vida</l>
+               <l>se animan al impulso de su canto,</l>
+               <l n="205">el joven, que su industria reducida</l>
+               <l>tiene a inquirir alivio al ciego llanto,</l>
+               <l>contra la angustia que su paz destruye</l>
+               <l>conspira intentos y, animoso, arguye:</l>
+            </lg>
+            <lg>
+               <l>«Si el vigor —dice— de mi lengua pudo</l>
+               <l n="210">rendir los brutos, de inclemencia armados,</l>
+               <l>e introducir en el peñasco rudo</l>
+               <l>racionales afectos animados,</l>
+               <l>¿cómo, en virtud de sus alientos, dudo</l>
+               <l>(aunque la fuerza impugne de los hados),</l>
+               <l n="215">si el reino inquiero del eterno luto,</l>
+               <l>mover piedad en Radamanto y Pluto?</l>
+            </lg>
+            <lg>
+               <l>«A tanto examen su eficacia atreva</l>
+               <l>mi doloroso canto y ruego tierno.»</l>
+               <l>Dice, y comete a la experiencia nueva</l>
+               <l n="220">el revocar su Eurídice de Averno.</l>
+               <l>Sólo intentada, la estupenda prueba</l>
+               <l>a osados pudo ser ejemplo eterno;</l>
+               <l>y niega, ejecutada (bien que en vano)</l>
+               <l>su imitación al ardimiento humano.</l>
+            </lg>
+         </div>
+         <div>
+            <head>Canto II</head>
+            <lg>
+               <l n="225">En la fragosa Ténaro, que inunda</l>
+               <l>el Lacónico ponto, en sitio incierto,</l>
+               <l>rudo taladro de canal profunda</l>
+               <l>rompe el terreno cavernoso y yerto.</l>
+               <l>Intonsa breña con horror circunda</l>
+               <l n="230">el rasgado peñón, y esconde abierto</l>
+               <l>cóncavo tal, que a la tartárea estanza</l>
+               <l>por las entrañas del abismo alcanza.</l>
+            </lg>
+            <lg>
+               <l>Tan denso allí de rústica madeja</l>
+               <l>asombra el sitio pabellón herboso,</l>
+               <l n="235">que aun lo exterior a la espelunca deja</l>
+               <l>de la estorbada luz siempre invidioso;</l>
+               <l>ni cuando el sol a su cénit se aleja</l>
+               <l>allí introduce rasgo luminoso;</l>
+               <l>presta a la noche la caverna umbría</l>
+               <l n="240">seguro lecho al imperar del día.</l>
+            </lg>
+            <lg>
+               <l>Desde que fabricó la vez primera</l>
+               <l>naturaleza el bosque, le aborrece;</l>
+               <l>no le matiza de verdor; no altera</l>
+               <l>su tosca rama, ni sus hojas crece.</l>
+               <l n="245">Cuando repite abril la primavera,</l>
+               <l>y en vario esmalte el prado reflorece,</l>
+               <l>allí le niega su dominio alterno,</l>
+               <l>siempre reacio, el escabroso invierno.</l>
+            </lg>
+            <lg>
+               <l>De ciegas ondas lago ponzoñoso</l>
+               <l n="250">bate en la peña y riega su boscaje,</l>
+               <l>que al basilisco y áspid venenoso</l>
+               <l>aun fuera su licor mortal brebaje;</l>
+               <l>humos exhala que en el viento ocioso</l>
+               <l>no otorgan a las aves hospedaje;</l>
+               <l n="255">y ellas buscan, huyendo el vapor ciego,</l>
+               <l>antes arder en la región del fuego.</l>
+            </lg>
+            <lg>
+               <l>Nunca, por yerro de accidente, en esta</l>
+               <l>palude o risco o selva retejida,</l>
+               <l>vil pece, tosca fiera, ave funesta,</l>
+               <l n="260">gruta o cueva recoge, árbol anida;</l>
+               <l>el denso evaporar el aire infesta;</l>
+               <l>toda la estancia es odio de la vida;</l>
+               <l>y en su distrito con silencio advierte</l>
+               <l>que se origina el reino de la muerte.</l>
+            </lg>
+            <lg>
+               <l n="265">Nunca en la breña la segur tajante</l>
+               <l>violó de añoso tronco seca rama,</l>
+               <l>ni pie mortal, a orilla del undante</l>
+               <l>lago, imprimió jamás la espesa lama.</l>
+               <l>Previene de escarmiento al caminante</l>
+               <l n="270">la ya esparcida voz que el sitio infama;</l>
+               <l>lejos se mira y, con espanto y miedo,</l>
+               <l>el pie lo huye, y lo demuestra el dedo.</l>
+            </lg>
+            <lg>
+               <l>Desta espelunca a la estación tremenda</l>
+               <l>el sobrado sentir condujo a Orfeo,</l>
+               <l n="275">que aun el Amor se admira de que emprenda</l>
+               <l>tan desperada acción mortal deseo.</l>
+               <l>Ya excluye el lago y, por oblicua senda,</l>
+               <l>al bosque arriba en áspero rodeo;</l>
+               <l>ya en los breñales que la cueva ofuscan</l>
+               <l n="280">posible entrada sus alientos buscan.</l>
+            </lg>
+            <lg>
+               <l>Riesgos tropella con audaz semblante,</l>
+               <l>anhelando desprecios de la muerte,</l>
+               <l>que si con ella lucha Amor constante,</l>
+               <l>produce Amor actividad más fuerte.</l>
+               <l n="285">Aun hasta allí la voz del tierno amante</l>
+               <l>los peligros opuestos no divierte,</l>
+               <l>porque la causa que le impele a tanto</l>
+               <l>deba más a su esfuerzo que a su canto.</l>
+            </lg>
+            <lg>
+               <l>Ya que penetra al margen de la sima,</l>
+               <l n="290">que es del abismo exordio primitivo,</l>
+               <l>a la lira sonante el plectro arrima,</l>
+               <l>y del aire el vapor templa nocivo.</l>
+               <l>El blando acento de la voz se intima</l>
+               <l>en las entrañas del peñasco vivo,</l>
+               <l n="295">que antes sólo admitieron en sus huecos</l>
+               <l>del tartáreo gemir ásperos ecos.</l>
+            </lg>
+            <lg>
+               <l>Sale de sí el gran monte, que apetece</l>
+               <l>vecino el canto; y como crespa goma</l>
+               <l>que en lo bronco del árbol aparece,</l>
+               <l n="300">en cada risco nuevo risco asoma;</l>
+               <l>por el canal en torno inquieta crece</l>
+               <l>la peña, que a la voz se ablanda y doma;</l>
+               <l>y tal se estrecha en la caverna el Tracio,</l>
+               <l>que apenas halla a su camino espacio.</l>
+            </lg>
+            <lg>
+               <l n="305">Ya enmudece su canto, y la rudeza</l>
+               <l>experimenta del taladro corvo:</l>
+               <l>que en jaspes y pizarras la aspereza</l>
+               <l>siempre le opone escrupuloso estorbo.</l>
+               <l>Ya ve delante el sueño, la tristeza;</l>
+               <l n="310">el de pálida tez, lánguido Morbo;</l>
+               <l>la guerra atroz, las Scilas y Quimeras,</l>
+               <l>y otras del Orco antecedentes fieras.</l>
+            </lg>
+            <lg>
+               <l>Todas le erigen temerarias faces,</l>
+               <l>afectando terror su inútil ira;</l>
+               <l n="315">mas los ímpetus él vence minaces</l>
+               <l>con el menor acento de su lira.</l>
+               <l>Los campos ya del Tártaro capaces,</l>
+               <l>en sombra tintos, reconoce y mira</l>
+               <l>a luz incierta, que de mustios fuegos</l>
+               <l n="320">débil se opone a los horrores ciegos.</l>
+            </lg>
+            <lg>
+               <l>Túrbido incendio, entre borrados lejos,</l>
+               <l>aborta infame luz caliginosa,</l>
+               <l>mal retratando en hórridos espejos</l>
+               <l>la bruta faz de la región umbrosa.</l>
+               <l n="325">Rige el paso a los trémulos reflejos</l>
+               <l>el joven, y la indómita, espantosa</l>
+               <l>habitación que, infausta, le ocurría,</l>
+               <l>vencer emprende, armado de armonía.</l>
+            </lg>
+            <lg>
+               <l>Olas de voz inundan el Erebo,</l>
+               <l n="330">y en deleite se anega la tristeza;</l>
+               <l>triunfa el regalo en el concento nuevo,</l>
+               <l>y a ser glorioso lo infernal empieza.</l>
+               <l>No tan plácido triunfo induce Febo</l>
+               <l>cuando a la noche vence su belleza,</l>
+               <l n="335">y Filomela en cánticos süaves</l>
+               <l>cambia gemidos de nocturnas aves.</l>
+            </lg>
+            <lg>
+               <l>Al margen de Aqueronte, algoso río,</l>
+               <l>tiene la voz mil sombras elevadas,</l>
+               <l>en quien ya de la vida faltó el brío,</l>
+               <l n="340">y existen aparentes y animadas;</l>
+               <l>todas atienden el bajel tardío,</l>
+               <l>y a prescrito lugar ser colocadas;</l>
+               <l>maravíllanse viendo el joven fuerte,</l>
+               <l>sin muerte, introducido con la muerte.</l>
+            </lg>
+            <lg>
+               <l n="345">Llega a Aqueronte y en su orilla espera,</l>
+               <l>las cuerdas corrigiendo y consultando.</l>
+               <l>Ve la grosera barca a la ribera</l>
+               <l>opuesta conducir copioso bando.</l>
+               <l>Del instrumento y de la voz esmera,</l>
+               <l n="350">de nuevo entonces, el acento blando:</l>
+               <l>gime la cuerda al rebatir del arco,</l>
+               <l>y su gemido es rémora del barco.</l>
+            </lg>
+            <lg>
+               <l>Resonó en la ribera tiempo escaso</l>
+               <l>el canto, que humanar las piedras suele,</l>
+               <l n="355">cuando atrás vuelve, y obedece el vaso</l>
+               <l>más a la voz que al remo que le impele.</l>
+               <l>La conducida turba, al nuevo caso,</l>
+               <l>se admira, se regala, se conduele;</l>
+               <l>y las réprobas almas, con aliento,</l>
+               <l n="360">se juzgan revocadas del tormento.</l>
+            </lg>
+            <lg>
+               <l>Sólo el piloto rígido concibe</l>
+               <l>furor, porque, decrépito, su oído</l>
+               <l>la suavidad sonora mal percibe,</l>
+               <l>y el bajel mira discurrir torcido.</l>
+               <l n="365">Mas antes que la prora al puerto arribe,</l>
+               <l>de insólita obediencia apetecido,</l>
+               <l>sintió la voz y, con piadoso espanto,</l>
+               <l>también rindió su admiración al canto.</l>
+            </lg>
+            <lg>
+               <l>Templa la dura faz, descuida el remo,</l>
+               <l n="370">y al raro monstruo, tácito, se humilla;</l>
+               <l>llega la barca al procurado extremo</l>
+               <l>y en el alga tenaz hunde la quilla.</l>
+               <l>Entra el amante, y el lugar supremo</l>
+               <l>ocupa, en tanto que la adversa orilla</l>
+               <l n="375">repite el leño; obedeciendo, leve,</l>
+               <l>canoro nauta que le rige y mueve.</l>
+            </lg>
+            <lg>
+               <l>Ya en lo terreno, el músico imperioso</l>
+               <l>del vencido Aqueronte se desvía;</l>
+               <l>el vulgo se difunde temeroso</l>
+               <l n="380">de espíritus que el vaso conducía:</l>
+               <l>déstos, parte se oculta en bosque umbroso,</l>
+               <l>y parte a Flegetón tuerce la vía;</l>
+               <l>al suplicio mayor se entregan unos,</l>
+               <l>y a la mayor felicidad algunos.</l>
+            </lg>
+            <lg>
+               <l n="385">Oye un vario lamento el Trace noble;</l>
+               <l>ve travesar el campo almas errantes;</l>
+               <l>y a portentos flamígeros inmoble,</l>
+               <l>la voz despende en quejas elegantes.</l>
+               <l>No hay en lóbrega selva áspero roble</l>
+               <l n="390">a los halagos áspero sonantes;</l>
+               <l>y en cuanto espacio su cadencia extiende,</l>
+               <l>todo le aplaude y de su labio pende.</l>
+            </lg>
+            <lg>
+               <l>Viole de lejos el voraz Cerbero</l>
+               <l>y de tres bocas intentó ladridos.</l>
+               <l n="395">hasta que el dulce son llegó ligero</l>
+               <l>a informar de regalo sus sentidos.</l>
+               <l>¡Oh cuánto se agradece el monstruo fiero</l>
+               <l>tener entonces tríplices oídos,</l>
+               <l>pues aún quisiera, por espacio largo,</l>
+               <l n="400">se acrecentaran a los ojos de Argo!</l>
+            </lg>
+            <lg>
+               <l>La sonora embriaguez luego sepulta</l>
+               <l>al Can trifauce en soñoliento baño,</l>
+               <l>que suple y vence su eficacia oculta</l>
+               <l>las confecciones de meloso engaño.</l>
+               <l n="405">En latitudes de su cueva inculta</l>
+               <l>se relaja, incapaz de ajeno daño,</l>
+               <l>la bestia inútil, y concede abierta</l>
+               <l>del reino interno la difícil puerta.</l>
+            </lg>
+            <lg>
+               <l>Ésta penetra, y se adelanta el Tracio</l>
+               <l n="410">(cuyo amor y valor igual compite),</l>
+               <l>y el pie dirige al íntimo palacio</l>
+               <l>que, al de Jove emulando, alberga a Dite.</l>
+               <l>Mira a la diestra, en dilatado espacio,</l>
+               <l>el gremio elisio, que feliz admite</l>
+               <l n="415">posesores heroicos, nobles almas,</l>
+               <l>que ornan sus frentes vividoras palmas.</l>
+            </lg>
+            <lg>
+               <l>Bien presume de Eurídice el amante</l>
+               <l>que allí inmortal su domicilio alcanza,</l>
+               <l>y allí le impele con fervor constante</l>
+               <l n="420">ímpetu opuesto a la sagaz templanza.</l>
+               <l>Mas el pie revocando vacilante,</l>
+               <l>en el temor suspende la esperanza:</l>
+               <l>teme, si entra los límites amenos,</l>
+               <l>que, atreviéndose a más, consiga menos.</l>
+            </lg>
+            <lg>
+               <l n="425">Vencer antes propone compasivo</l>
+               <l>(tanto en vigor de sola voz emprende)</l>
+               <l>la gran deidad, de cuyo ceño esquivo</l>
+               <l>el ínfero gobierno unido pende.</l>
+               <l>La vista encumbra al edificio altivo,</l>
+               <l n="430">y a su muralla y puerta el paso tiende;</l>
+               <l>cuando, admirado, ve y admira, tierno,</l>
+               <l>el más bronco espectáculo de Averno.</l>
+            </lg>
+            <lg>
+               <l>Ve en siniestro lugar el espantoso</l>
+               <l>presidio y posesiones del tormento,</l>
+               <l n="435">donde es lago la tierra lagrimoso;</l>
+               <l>y a los gemidos incapaz el viento.</l>
+               <l>No consintió la lira el arco ocioso,</l>
+               <l>ni se negó la voz al instrumento:</l>
+               <l>que serenaron, dulcemente unidos,</l>
+               <l n="440">la tempestad horrísona de aullidos.</l>
+            </lg>
+            <lg>
+               <l>Allí la inquieta pena y el suplicio</l>
+               <l>respiraron alivio; alzó la mano,</l>
+               <l>mansa, el flagelo y punición del vicio,</l>
+               <l>y cupo en el dolor semblante ufano.</l>
+               <l n="445">Hambriento el buitre que devora a Ticio,</l>
+               <l>ya sustituye paz, huésped humano,</l>
+               <l>y se alimenta del canoro acento,</l>
+               <l>en vez del pasto, que dejó, sangriento.</l>
+            </lg>
+            <lg>
+               <l>Sísifo, que su cargo ha fenecido</l>
+               <l n="450">tantas veces y nunca le fenece,</l>
+               <l>porque el peso del hombro sacudido</l>
+               <l>vuelve a subir, y el padecer recrece,</l>
+               <l>ya se reclina al risco detenido,</l>
+               <l>y el que imprimió dolor, descanso ofrece;</l>
+               <l n="455">operando en los dos tregua sonora</l>
+               <l>la dulce lira, de su paz fiadora.</l>
+            </lg>
+            <lg>
+               <l>La rama y frutos, que con ansia ardiente</l>
+               <l>el avaro opulento casi toca,</l>
+               <l>no se elevan entonces de su frente,</l>
+               <l n="460">ni Erídano fugaz sed le provoca;</l>
+               <l>dellos puede gozar, pues obediente</l>
+               <l>ve el agua y árbol a su mano y boca.</l>
+               <l>Mas no consiente, no, la voz de Orfeo,</l>
+               <l>en quien goza su canto, otro deseo.</l>
+            </lg>
+            <lg>
+               <l n="465">En círculo voluble padecía</l>
+               <l>el que fue de Junón amante insano,</l>
+               <l>cuando venció al rigor el armonía,</l>
+               <l>quietando al móvil el girar liviano;</l>
+               <l>así el aspa rodante, que regía</l>
+               <l n="470">áspero mármol disipando el grano,</l>
+               <l>pierde la furia y calma el movimiento</l>
+               <l>si viene el aura y se retira el viento.</l>
+            </lg>
+            <lg>
+               <l>De fogosa raíz sulfúrea vega</l>
+               <l>produce, en punición perseverante,</l>
+               <l n="475">selva de llamas, que con llamas riega,</l>
+               <l>y espigada de fuego mies flamante;</l>
+               <l>donde al tormento más enorme entrega</l>
+               <l>la eternidad, sin tregua relevante,</l>
+               <l>espíritus por fruto reprobado,</l>
+               <l n="480">no en longitud de siglos sazonado.</l>
+            </lg>
+            <lg>
+               <l>Otros allí las llamas apetecen,</l>
+               <l>que, en prisiones de nieve congelada,</l>
+               <l>son ya, por la intensión con que padecen,</l>
+               <l>partes también de la materia helada;</l>
+               <l n="485">en algente espectáculo se ofrecen,</l>
+               <l>como en la bruma scítica obstinada</l>
+               <l>muestra el arroyo, en sus escarchas gruesas,</l>
+               <l>guijas y troncos y hojarascas presas.</l>
+            </lg>
+            <lg>
+               <l>Fueron al yelo torpe y llama fiera</l>
+               <l n="490">los acentos piadosos adversarios:</l>
+               <l>su ardor nocivo el fuego refrigera,</l>
+               <l>el yelo se disuelve (efectos varios).</l>
+               <l>Así, con una causa, el barro y cera</l>
+               <l>siguen discordes fines y contrarios:</l>
+               <l n="495">una se ablanda y otro se endurece,</l>
+               <l>si a un tiempo el sol en ambos resplandece.</l>
+            </lg>
+         </div>
+         <div>
+            <head>Canto III</head>
+            <lg>
+               <l>Ya que en las penas dominó infernales</l>
+               <l>el canoro milagro de la lira,</l>
+               <l>vuelve el paso el amante a los umbrales</l>
+               <l n="500">del alto alcázar, que a celeste aspira.</l>
+               <l>No ven su extremidad ojos mortales,</l>
+               <l>y porque no se mira, más se admira.</l>
+               <l>El menos arduo capitel desdeña</l>
+               <l>venir su origen de terrestre peña.</l>
+            </lg>
+            <lg>
+               <l n="505">Materia tal explica la entereza</l>
+               <l>del friso y arco y la pilastra y perno:</l>
+               <l>que es frágil semejanza a su dureza</l>
+               <l>el pórfido tenaz, el bronce eterno;</l>
+               <l>con la que ostenta el muro fortaleza,</l>
+               <l n="510">aun el diamante y el acero es tierno,</l>
+               <l>porque, alevoso, el tiempo, áspera lima,</l>
+               <l>allí no atreva, ni su diente imprima.</l>
+            </lg>
+            <lg>
+               <l>Severos miembros la labor comparte</l>
+               <l>desde la cima y timbre al pavimento,</l>
+               <l n="515">donde atendió la austeridad del arte</l>
+               <l>más a la duración que al pulimento.</l>
+               <l>De gran peña en la más nervosa parte</l>
+               <l>se interna profundísimo el cimiento,</l>
+               <l>centros taladra y, lejos de sí mismo,</l>
+               <l n="520">nuevos abismos busca en el abismo.</l>
+            </lg>
+            <lg>
+               <l>No fue causa la excelsa arquitectura</l>
+               <l>de que en ella el amante se divierta;</l>
+               <l>sólo inquiere de toda su estructura</l>
+               <l>el ancho limen de la regia puerta.</l>
+               <l n="525">Pondera allí la hazaña que procura,</l>
+               <l>y en su recelo se figura incierta,</l>
+               <l>representando al ánimo suspenso</l>
+               <l>del vecino peligro el riesgo inmenso.</l>
+            </lg>
+            <lg>
+               <l>Mas el varón intrépido corrige</l>
+               <l n="530">del sutil miedo el discurrir sobrado,</l>
+               <l>y por caudillo a la esperanza elige,</l>
+               <l>que alienta y asegura lo intentado.</l>
+               <l>Ya introducido al pórtico, dirige</l>
+               <l>la audace planta al centro retirado,</l>
+               <l n="535">donde en solio inmortal reina imperioso</l>
+               <l>de Proserpina el robador y esposo.</l>
+            </lg>
+            <lg>
+               <l>La voz redunda más sonora en tanto</l>
+               <l>que por el ancho albergue el paso mueve;</l>
+               <l>cede la guardia militar al canto</l>
+               <l n="540">y, suspendida, los acentos bebe.</l>
+               <l>Ya del que impera al reino del espanto</l>
+               <l>la faz descubre, que a mirar se atreve;</l>
+               <l>y con él la consorte, aunque dichosa,</l>
+               <l>eterno lloro a la materna diosa.</l>
+            </lg>
+            <lg>
+               <l n="545">Con derramada adoración se inclina</l>
+               <l>al rey feroz, que, armado de aspereza,</l>
+               <l>de inquietos ojos, rígido, fulmina</l>
+               <l>rayos de ira, eclipsados en tristeza.</l>
+               <l>Obsequio no menor a Proserpina</l>
+               <l n="550">rinde, y colige, atento en su belleza,</l>
+               <l>que, tácita, concede al ignorado</l>
+               <l>ruego lo que deniega el dios turbado.</l>
+            </lg>
+            <lg>
+               <l>No lejos ve de Radamanto el trono,</l>
+               <l>regio ministro, que, legal, escribe</l>
+               <l n="555">con fiel decreto la exclusión o abono</l>
+               <l>de las almas que el Báratro percibe.</l>
+               <l>La más piadosa voz y dulce tono</l>
+               <l>que jamás pudo, el joven apercibe,</l>
+               <l>habiendo ya, con oloroso electro,</l>
+               <l n="560">exasperado la tirante al plectro.</l>
+            </lg>
+            <lg>
+               <l>Resulta suavidad de la aspereza</l>
+               <l>que al delicado nervio el arco aplica,</l>
+               <l>cuando, pulsado con veloz destreza,</l>
+               <l>de la estudiosa mano el arte explica;</l>
+               <l n="565">con mayor elegancia y ligereza,</l>
+               <l>los concentos armónicos duplica</l>
+               <l>luego la voz, que, desatada al viento,</l>
+               <l>los preludios siguió del instrumento.</l>
+            </lg>
+            <lg>
+               <l>Dime lo que lloró, cantando, Orfeo,</l>
+               <l n="570">y los efectos de su ruego, ¡oh ¡Musa!,</l>
+               <l>cuando su voz, seguida del recreo,</l>
+               <l>fue en el palacio cóncavo difusa,</l>
+               <l>y, dulce, consiguió mayor trofeo</l>
+               <l>que, acerbo, el duro rostro de Medusa;</l>
+               <l n="575">pues suspensión en piedra convertida,</l>
+               <l>da a las deidades y a las piedras vida.</l>
+            </lg>
+            <lg>
+               <l>«Numen del orbe y sus abismos —dice—,</l>
+               <l>que gozas con glorioso magisterio,</l>
+               <l>por feliz suerte y mérito felice,</l>
+               <l n="580">igual con Jove, el dividido imperio:</l>
+               <l>yo, el más de los humanos infelice,</l>
+               <l>deciendo a ti del ártico hemisferio.</l>
+               <l>Si estoy vivo no sé: sé que la suerte</l>
+               <l>trajo mi vida al reino de la muerte.</l>
+            </lg>
+            <lg>
+               <l n="585">«Mas cuando viva muerto, o muera vivo,</l>
+               <l>siendo estos miembros mi sepulcro humano,</l>
+               <l>ni aquí me induce presunción de altivo,</l>
+               <l>ni curiosa ambición de estudio arcano.</l>
+               <l>No, cual Teseo ni Piritoo lascivo,</l>
+               <l n="590">tu afrenta inquiero conspirada en vano,</l>
+               <l>ni, como Alcides, cumular espero</l>
+               <l>el hurto a mis hazañas del Cerbero.</l>
+            </lg>
+            <lg>
+               <l>«Sólo cobrar mi espíritu procuro,</l>
+               <l>en Eurídice bella vinculado,</l>
+               <l n="595">en quien la muerte el esplendor más puro</l>
+               <l>robó, antepuesta a la intención del hado.</l>
+               <l>Quejas de amante, no diamante duro,</l>
+               <l>visten mi pecho, a la conquista armado:</l>
+               <l>el ruego humilde, el súplice lamento</l>
+               <l n="600">por mis pertrechos bélicos presento.</l>
+            </lg>
+            <lg>
+               <l>«Ya en la terrena faz, que alegra el cielo,</l>
+               <l>contra la ausencia presumí, industrioso,</l>
+               <l>fingir alivio leve, no consuelo,</l>
+               <l>o ser a mis tormentos poderoso.</l>
+               <l n="605">Yélame, ardiendo, el sol; ardo en el yelo;</l>
+               <l>el descanso me ignora, y el reposo;</l>
+               <l>cuanto los hombres juzgan luz y día</l>
+               <l>es a mis ojos tempestad sombría.</l>
+            </lg>
+            <lg>
+               <l>«Así, aunque vine de región serena</l>
+               <l n="610">al negro centro, no distingo horrores.</l>
+               <l>Y si juzgas mi osar digno de pena</l>
+               <l>porque tus reinos penetró inferiores,</l>
+               <l>ya Amor, por su derecho, me condena.</l>
+               <l>No intimes a mi mal nuevos rigores:</l>
+               <l n="615">que no me añadirá tu abismo ciego</l>
+               <l>ni tormento mayor, ni mayor fuego.</l>
+            </lg>
+            <lg>
+               <l>«Mísero yo, que, con la voz cansada,</l>
+               <l>al reino del dolor descanso ofrezco:</l>
+               <l>todos su pena sienten mitigada,</l>
+               <l n="620">y solo la de tantos yo padezco;</l>
+               <l>de mi tristeza el gozo se traslada,</l>
+               <l>abundo de lo mismo que carezco;</l>
+               <l>canto al alivio ajeno, al propio callo,</l>
+               <l>y lo que a tantos doy, en nadie hallo.</l>
+            </lg>
+            <lg>
+               <l n="625">«Tal causa solicita mi cuidado,</l>
+               <l>que en lo amante se absuelve lo atrevido.</l>
+               <l>Cuanto mi acción te provocó indignado,</l>
+               <l>te merece mi mal compadecido;</l>
+               <l>ni a exceso debes referir sobrado</l>
+               <l n="630">el de amoroso impulso procedido:</l>
+               <l>que si culpas mi acción y mis extremos,</l>
+               <l>en mí a los dioses culparás supremos.</l>
+            </lg>
+            <lg>
+               <l>«Por su Europa verás al gran Tonante</l>
+               <l>en brutas pieles de animal extraño;</l>
+               <l n="635">cisne después, cuando de Leda amante,</l>
+               <l>para lascivo ardid, cándido engaño.</l>
+               <l>Tú mismo, ¡oh rey!, sin ejemplar distante,</l>
+               <l>ser puedes en mi abono desengaño,</l>
+               <l>cuando excediendo esfuerzos de Mavorte</l>
+               <l n="640">fue triunfo tuyo tu feliz consorte.</l>
+            </lg>
+            <lg>
+               <l>«Yo, imitando tu amor, busco la mía.</l>
+               <l>No impidas a tu empresa semejanzas.</l>
+               <l>A ti deba sus glorias mi osadía,</l>
+               <l>su posesión a ti mis esperanzas.</l>
+               <l n="645">Francos regresos al abierto día</l>
+               <l>nos permite: serán tus alabanzas,</l>
+               <l>dando a la lira eternizado empleo,</l>
+               <l>único asunto, única voz de Orfeo.</l>
+            </lg>
+            <lg>
+               <l>«No con designio te defraudo aleve</l>
+               <l n="650">la posesión de Eurídice adquirida.</l>
+               <l>Pido que al mundo, por espacio breve,</l>
+               <l>vuelva a animar dos cuerpos una vida.</l>
+               <l>A todo plazo en feudo se te debe</l>
+               <l>toda viviente esencia producida;</l>
+               <l n="655">sólo será este alivio de mi suerte</l>
+               <l>intermisión, no estorbo, de la muerte.</l>
+            </lg>
+            <lg>
+               <l>«Si toda no, la parte más amada</l>
+               <l>del alma que gocé tu reino incluye,</l>
+               <l>y la porción más corta, abominada,</l>
+               <l n="660">sostengo, en tanto que el dolor la excluye;</l>
+               <l>no muera un alma en partes desatada:</l>
+               <l>ésta admite, o aquélla restituye;</l>
+               <l>antes seré despojo de tu abismo,</l>
+               <l>que en la tierra sepulcro de mí mismo.»</l>
+            </lg>
+            <lg>
+               <l n="665">En cuanto así dilata el blando ruego,</l>
+               <l>toda aspereza de la faz destierra</l>
+               <l>al bronco numen, y penetra luego</l>
+               <l>al corazón con la sonora guerra.</l>
+               <l>Ya el dios admite, plácido, el sosiego,</l>
+               <l n="670">y al turbado rigor la entrada cierra;</l>
+               <l>ya dominar en sus entrañas deja</l>
+               <l>la primera piedad de humana queja.</l>
+            </lg>
+            <lg>
+               <l>Así el bronce, que indómito parece</l>
+               <l>en el intenso ardor de seca rama,</l>
+               <l n="675">depuesta su dureza, se enternece</l>
+               <l>al obstinado incendio de la llama;</l>
+               <l>con obediencias líquidas se ofrece</l>
+               <l>al arte, que lo funde y lo derrama;</l>
+               <l>y el que era ejemplo de metales duros,</l>
+               <l n="680">ya es blanda imagen de licores puros.</l>
+            </lg>
+            <lg>
+               <l>Con semblante Prosérpina lloroso,</l>
+               <l>desde el primer acento el canto oía,</l>
+               <l>sobrando al pecho femenil piadoso</l>
+               <l>el vigor de la acorde melodía.</l>
+               <l n="685">A contrastar su inexorable esposo</l>
+               <l>la intercesora voz apercebia;</l>
+               <l>mas no intercede: que, en su faz propicia,</l>
+               <l>ya la piedad que procuraba indicia.</l>
+            </lg>
+            <lg>
+               <l>El rey, justificando su gobierno,</l>
+               <l n="690">consultivo se vuelve a Radamanto;</l>
+               <l>ve al rígido ministro, entonces tierno,</l>
+               <l>que afecta disimulos contra el llanto.</l>
+               <l>Leyes, al fin, deroga de su Averno</l>
+               <l>por conceder la súplica del canto;</l>
+               <l n="695">su efecto abrevia, en diligente oficio,</l>
+               <l>duplicando el valor del beneficio.</l>
+            </lg>
+            <lg>
+               <l>Al tropel de ministros circunstante</l>
+               <l>que le anticipan obediencia, ordena</l>
+               <l>se restituya Eurídice al amante,</l>
+               <l n="700">y ambos después a la región serena.</l>
+               <l>Manda apenas el dios, cuando delante</l>
+               <l>el bello origen de su gloria y pena</l>
+               <l>el Trace mira, y dilatando el pecho,</l>
+               <l>aun a su gozo presta albergue estrecho.</l>
+            </lg>
+            <lg>
+               <l n="705">Bien que el sitio desecha venturoso</l>
+               <l>de opulencias amenas Eurídice,</l>
+               <l>juzga, el cobrarse en el amante esposo,</l>
+               <l>de su felicidad cambio felice.</l>
+               <l>¡Oh vínculo de amor poco dichoso,</l>
+               <l n="710">tu consistencia el cielo contradice:</l>
+               <l>siempre son tus inútiles contentos</l>
+               <l>prólogo impropio a trágicos tormentos!</l>
+            </lg>
+            <lg>
+               <l>Precepto fue imperial, impuesto en vano</l>
+               <l>(pensión ligera) al sucesor de Febo,</l>
+               <l n="715">no a mirar vuelva con error liviano</l>
+               <l>la vista a su consorte ni al Erebo,</l>
+               <l>hasta que asciendan al abierto llano;</l>
+               <l>a cuyas luces, con aplauso nuevo,</l>
+               <l>gocen halagos que jamás permite</l>
+               <l n="720">la severa región, reino de Dite.</l>
+            </lg>
+            <lg>
+               <l>Seguido, pues, de la inocente bella</l>
+               <l>el prodigioso vencedor, en tanto</l>
+               <l>ya retrocede la triunfante huella</l>
+               <l>y espanto crece al reino del espanto,</l>
+               <l n="725">festivo elogio, en vez de la querella,</l>
+               <l>consagra al dios, reconocido, el canto;</l>
+               <l>en himnos dedicando al beneficio</l>
+               <l>la gratitud sonoro sacrificio.</l>
+            </lg>
+            <lg>
+               <l>Acreditar el corazón no acierta</l>
+               <l n="730">(hábito es ya del padecer prolijo)</l>
+               <l>la nueva dicha que recela incierta,</l>
+               <l>ni albergar en el alma al regocijo.</l>
+               <l>Asi trasciende a la tenárea puerta,</l>
+               <l>siempre la vista con talante fijo,</l>
+               <l n="735">firmada en los objetos anteriores,</l>
+               <l>sin revocarla a fuegos o clamores.</l>
+            </lg>
+            <lg>
+               <l>Cauto, replica el lóbrego camino,</l>
+               <l>v el pie usurpa a las ínferas prisiones,</l>
+               <l>donde ministra el cántico divino</l>
+               <l n="740">de nuevo regaladas suspensiones.</l>
+               <l>Ya reduce distancias, y vecino</l>
+               <l>se mira de las célicas regiones;</l>
+               <l>cuando el dolor, por accidente fiero,</l>
+               <l>logró en su pecho el golpe más severo.</l>
+            </lg>
+            <lg>
+               <l n="745">El músico infeliz reconocía</l>
+               <l>extremos ya de la superna entrada;</l>
+               <l>y si el efecto no, la fantasía</l>
+               <l>gozaba el fin de la triunfal jornada.</l>
+               <l>Rindióse a recelar si le seguía</l>
+               <l n="750">su prenda del abismo revocada,</l>
+               <l>o si, en los riscos de la sima, acaso</l>
+               <l>oblicua senda la retarda el paso.</l>
+            </lg>
+            <lg>
+               <l>Turbó el recelo acciones al sentido;</l>
+               <l>cegó prudencias al discurso inquieto,</l>
+               <l n="755">tal que tradujo la memoria olvido</l>
+               <l>que violó de Plutón el gran preceto:</l>
+               <l>vuelve la vista (¡ay dél!), inadvertido;</l>
+               <l>y apenas mira el procurado objeto,</l>
+               <l>que, anhelando los ojos su presencia,</l>
+               <l n="760">siglos fulminan de llorosa ausencia.</l>
+            </lg>
+            <lg>
+               <l>Los centros braman del abismo ciego,</l>
+               <l>vastas cumbres blandiendo titubeantes;</l>
+               <l>crecen volcanes y vomitan fuego,</l>
+               <l>trémulas ya, pirámides flamantes.</l>
+               <l n="765">De furias, que aborrecen el sosiego,</l>
+               <l>se oyen ladridos rimbombar tronantes;</l>
+               <l>denotan los portentos que el Averno</l>
+               <l>padece mismo otro mayor infierno.</l>
+            </lg>
+            <lg>
+               <l>Sigue a los fuegos, truenos y temblores</l>
+               <l n="770">lóbrego nublo en aparencia ingrata,</l>
+               <l>que, a los horrores implicando horrores,</l>
+               <l>por las fauces del Orco se dilata;</l>
+               <l>en sus humos envuelve voladores</l>
+               <l>a Eurídice, y bramando la arrebata,</l>
+               <l n="775">como en turbado mar, con furia oculta,</l>
+               <l>errante leño el huracán sepulta.</l>
+            </lg>
+            <lg>
+               <l>Desvanece con ímpetu la dama,</l>
+               <l>V en cuanto sigue la profunda vía,</l>
+               <l>con altas quejas a la suerte infama,</l>
+               <l n="780">clamores arduos al amante envía.</l>
+               <l>Huye al centro la voz, que en vano clama;</l>
+               <l>más y más débil cada vez se oía:</l>
+               <l>oye el Trace (o le informa su deseo)</l>
+               <l>lánguido el nombre repetir de Orfeo.</l>
+            </lg>
+            <lg>
+               <l n="785">Al tremendo espectáculo insolente</l>
+               <l>la sangre inquieta por las fibras huye;</l>
+               <l>en vez de vida, el ánimo doliente</l>
+               <l>helado pasmo al pecho sustituye.</l>
+               <l>Tanto abunda al sentir, que ya no siente;</l>
+               <l n="790">de lo templado lo eficaz se arguye;</l>
+               <l>con faz serena, es índice la calma</l>
+               <l>de la borrasca que zozobra el alma.</l>
+            </lg>
+            <lg>
+               <l>Por seguir y aclamar su fugitiva,</l>
+               <l>el pie intenta mover, y lengua muda:</l>
+               <l n="795">en el terreno, aquél, temblando, estriba;</l>
+               <l>ésta, su voz a la garganta anuda.</l>
+               <l>Al sobresalto, al fin, la primitiva</l>
+               <l>fuerza quebranta; y de su muerte en duda,</l>
+               <l>tras las nieblas fugaces y veloces,</l>
+               <l n="800">pasos dilata intrépidos, y voces.</l>
+            </lg>
+            <lg>
+               <l>Del gran dolor a la inclemencia fiera</l>
+               <l>se entrega; y provocando en sí la ira,</l>
+               <l>aun el tormento aseverar quisiera</l>
+               <l>cuando actor de su pérdida se mira.</l>
+               <l n="805">Revuelve de Aqueronte a la ribera,</l>
+               <l>y rudos forma acentos a la lira;</l>
+               <l>no obedeciendo, en el turbado llanto,</l>
+               <l>la cuerda al plectro, ni la voz al canto.</l>
+            </lg>
+            <lg>
+               <l>Ni cuando recupere allí el amante</l>
+               <l n="810">su actividad sonora, no oprimida,</l>
+               <l>será a cobrar su Eurídice bastante,</l>
+               <l>segunda vez al Báratro ofrecida.</l>
+               <l>Dará su labio y cítara sonante</l>
+               <l>gozo al dolor, a los peñascos vida:</l>
+               <l n="815">no así podrá, piadoso, ni obstinado,</l>
+               <l>firmes decretos revocar del hado.</l>
+            </lg>
+            <lg>
+               <l>Huye, impaciente, el reino aborrecido;</l>
+               <l>¡oh cuán diverso de la vez primera,</l>
+               <l>cuando el triunfo amoroso conseguido</l>
+               <l n="820">creyó ostentarle a la solar esfera!</l>
+               <l>El dolor y tristeza, que, rendido</l>
+               <l>el mustio cuello en opresión severa,</l>
+               <l>sus triunfales despojos fueron antes,</l>
+               <l>ya indómitos le oprimen y triunfantes.</l>
+            </lg>
+            <lg>
+               <l n="825">De aquel pecho al antiguo señorío</l>
+               <l>se restituyen con rigor más fiero:</l>
+               <l>tal se conduce del lugar sombrío</l>
+               <l>al superior espléndido hemisfero.</l>
+               <l>No el cambio de lugares, no el desvío</l>
+               <l n="830">mudanza fue del padecer primero,</l>
+               <l>antes continuación, no interrumpida,</l>
+               <l>de infierno igual y sombra aborrecida.</l>
+            </lg>
+         </div>
+         <div>
+            <head>Canto IV</head>
+            <lg>
+               <l>Así, por flébil y funesta vía,</l>
+               <l>al patrio albergue reducirse pudo;</l>
+               <l n="835">tan hórrido la faz, que se leía</l>
+               <l>su historia acerba en el aspecto mudo;</l>
+               <l>facciones elegantes confundía</l>
+               <l>suelto el cabello con desorden rudo,</l>
+               <l>donde estragos comete la tristeza</l>
+               <l n="840">y pálida repugna a su belleza.</l>
+            </lg>
+            <lg>
+               <l>Mas la nativa gracia mal se oculta,</l>
+               <l>en el dolor envuelta macilento;</l>
+               <l>bella existe, y del ánimo resulta</l>
+               <l>en ella impreso el interior tormento.</l>
+               <l n="845">Así su gentileza rinde inculta</l>
+               <l>ninfas mil a piadoso sentimiento;</l>
+               <l>y esta piedad y femenil cuidado</l>
+               <l>que él mueve compasivo, logra amado.</l>
+            </lg>
+            <lg>
+               <l>Amorosas (¡oh cuántas!), de piadosas,</l>
+               <l n="850">viendo en Orfeo el fuego más constante,</l>
+               <l>proceden a indignadas, e invidiosas</l>
+               <l>de la que mereció al mayor amante;</l>
+               <l>y todas, con ofertas cariciosas,</l>
+               <l>que explica mudo femenil semblante,</l>
+               <l n="855">intentan conseguir (asunto ciego)</l>
+               <l>de Eurídice victorias, fuego a fuego.</l>
+            </lg>
+            <lg>
+               <l>Ni oferta admite, ni caricia siente:</l>
+               <l>que sus sentidos a la antigua gloria</l>
+               <l>sólo dirige, y al dolor presente,</l>
+               <l n="860">embarazo total de su memoria.</l>
+               <l>Todos objetos a su bella ausente</l>
+               <l>le representan en amarga historia,</l>
+               <l>y a toda parte, o célica o terrena,</l>
+               <l>que mueva su discurso, halla su pena.</l>
+            </lg>
+            <lg>
+               <l n="865">Su dulce lloro observan repetido</l>
+               <l>las Horas todas con aplauso atento;</l>
+               <l>vele llorar Apolo, convencido</l>
+               <l>que fue menor por Dafne su lamento;</l>
+               <l>vele la Luna, y el garzón dormido</l>
+               <l n="870">deja, usurpada del piadoso acento;</l>
+               <l>no ya risueña en su luciente salva,</l>
+               <l>lágrimas nuevas le tributa el Alba.</l>
+            </lg>
+            <lg>
+               <l>Como en desierta rama canta y llora</l>
+               <l>por sus hijuelos tiernos Filomela,</l>
+               <l n="875">despojos de asechanza robadora,</l>
+               <l>mientras del caro nido ausente vuela,</l>
+               <l>que en la dorada luz gime canora,</l>
+               <l>cuanto en las sombras a su llanto vela,</l>
+               <l>compartiendo, en funesta melodía,</l>
+               <l n="880">iguales quejas a la noche y día.</l>
+            </lg>
+            <lg>
+               <l>Así lamenta el mísero sus males</l>
+               <l>y del robado pecho los despojos,</l>
+               <l>dando a las Horas lástimas iguales,</l>
+               <l>y a la luz y la sombra iguales ojos.</l>
+               <l n="885">Su voz, para los hombres y animales,</l>
+               <l>en dulzura convierte sus enojos;</l>
+               <l>a cuyo llanto y músicas tristezas,</l>
+               <l>son las piedras piedades y ternezas.</l>
+            </lg>
+            <lg>
+               <l>A yermos campos el amante un día</l>
+               <l n="890">daba su voz, y en muda recompensa,</l>
+               <l>de oyentes copia el sitio le ofrecía,</l>
+               <l>silvestres y volátiles, inmensa.</l>
+               <l>Viendo que a sus acentos prevenía</l>
+               <l>el bruto bando elevación suspensa,</l>
+               <l n="895">en renovadas voces y concetos,</l>
+               <l>la esperanza venció con los efetos.</l>
+            </lg>
+            <lg>
+               <l>Al pecho aplica la admirada lira,</l>
+               <l>que en ligero cendal del cuello pende;</l>
+               <l>alguna, luego, de sus cuerdas mira</l>
+               <l n="900">si a la precisa consonancia ofende;</l>
+               <l>áurea clave, tenaz, un nervio estira,</l>
+               <l>otro relaja; y, mesurado, atiende</l>
+               <l>el joven cada acento dividido,</l>
+               <l>siendo al examen árbitro el oído.</l>
+            </lg>
+            <lg>
+               <l n="905">Ya que la lira, en corregidas voces,</l>
+               <l>precursora del canto se adelanta,</l>
+               <l>y en perezosos puntos o veloces</l>
+               <l>suena la firme o trémula garganta,</l>
+               <l>fieras voraces, áspides atroces</l>
+               <l n="910">tierno mitiga, sonoroso encanta;</l>
+               <l>llega su voz, en riscos y montañas,</l>
+               <l>a infundir vidas, a humanar entrañas.</l>
+            </lg>
+            <lg>
+               <l>Del pecho arcano, que amoroso archivo</l>
+               <l>es de miserias trágicas, traslada</l>
+               <l n="915">quejas al viento, que, a la voz cautivo,</l>
+               <l>cambia su soplo en aura delicada.</l>
+               <l>Lo que dice el amante, a ingenio altivo</l>
+               <l>se niega referir; no en dilatada</l>
+               <l>copia se incluye, ni en aliento nuevo:</l>
+               <l n="920">acción apenas consentida a Febo.</l>
+            </lg>
+            <lg>
+               <l>De los efectos sólo se presuma</l>
+               <l>lo que cantar Melpómene recela.</l>
+               <l>De fieras, pues, la inmensa y varia suma,</l>
+               <l>tácita, ocurre a la sonora escuela;</l>
+               <l n="925">flores del viento, ejército de pluma</l>
+               <l>al Tracio aplaude, y a sus ojos vuela;</l>
+               <l>coro de cisnes, que su canto abona,</l>
+               <l>cual círculo de lirios le corona.</l>
+            </lg>
+            <lg>
+               <l>Dada la espalda a un tronco deshojado,</l>
+               <l n="930">con fácil ademán, con planta leve,</l>
+               <l>sereno el rostro, de beldad labrado,</l>
+               <l>donde venció al clavel pálida nieve,</l>
+               <l>la voz y aliento esparce organizado,</l>
+               <l>y el labio apenas pronunciando mueve;</l>
+               <l n="935">ni cuando más el canto se acelera</l>
+               <l>vicia semblante, ni facción altera.</l>
+            </lg>
+            <lg>
+               <l>La franca, airosa diestra, en tanto, oprime</l>
+               <l>cuerdas, aunque disímiles, aunadas,</l>
+               <l>que son a veces, cuando el arco esgrime.</l>
+               <l n="940">de inquietud velocísima ultrajadas,</l>
+               <l>y cuando el son colérico reprime,</l>
+               <l>le da un nervio sonancias dilatadas;</l>
+               <l>los trastes pulsa la siniestra, y sella</l>
+               <l>con tropel atinado y limpia huella.</l>
+            </lg>
+            <lg>
+               <l n="945">La voz se ajusta a la concorde lira,</l>
+               <l>y la lira, a la voz, atenta, sigue,</l>
+               <l>cuya estudiosa respondencia admira</l>
+               <l>que en duplicado coro un fin consigue.</l>
+               <l>Bien que a tiempos el arco se retira,</l>
+               <l n="950">quieto, y la voz su entonación prosigue,</l>
+               <l>sin que la cuerda, aunque padezca agravio,</l>
+               <l>ose imitar la erudición del labio.</l>
+            </lg>
+            <lg>
+               <l>Así del verso la sutil sentencia</l>
+               <l>logra en el canto; que el rumor violento</l>
+               <l n="955">no esconde la palabra en la cadencia,</l>
+               <l>ni sílaba defrauda a su lamento.</l>
+               <l>Mas ya que, articulada sin violencia,</l>
+               <l>cesa la voz, se atreve el instrumento;</l>
+               <l>y, libre, en cuanto el músico respira,</l>
+               <l n="960">a emulaciones de su lengua aspira.</l>
+            </lg>
+            <lg>
+               <l>Alto resuena entonces, porque anima</l>
+               <l>la mano el arco; y dulce y rigurosa.</l>
+               <l>la fibra más sutil rasga y lastima,</l>
+               <l>e inquieta corre hasta la más nervosa.</l>
+               <l n="965">Es el plectro veloz sonora lima,</l>
+               <l>que con las cuerdas juega, nunca ociosa;</l>
+               <l>porque también, negadas al sosiego,</l>
+               <l>ellas respondan, métricas, al juego.</l>
+            </lg>
+            <lg>
+               <l>Dominando a la lira, emprende el canto</l>
+               <l n="970">cláusula nueva con sereno aliento;</l>
+               <l>luego se esfuerza válido, y en tanto,</l>
+               <l>hinche de voz y de milagro el viento;</l>
+               <l>ya con celeridad se eleva tanto,</l>
+               <l>que imprime gozo al último elemento,</l>
+               <l n="975">y de las fugas altas y ligeras</l>
+               <l>sonoridad aprenden las esferas.</l>
+            </lg>
+            <lg>
+               <l>Ya se reforma a entonación mediana,</l>
+               <l>y en recatados puntos perezosos</l>
+               <l>la garganta solícita y liviana</l>
+               <l n="980">de allí acomete lances presurosos;</l>
+               <l>ya en voz igual, suspensa, soberana,</l>
+               <l>sólo describe rasgos sonorosos;</l>
+               <l>en lánguida cadencia al fin se oculta,</l>
+               <l>y el dormido silencio la sepulta.</l>
+            </lg>
+            <lg>
+               <l n="985">Voz firme, de repente, resucita,</l>
+               <l>próspera de galantes suavidades</l>
+               <l>no reiteradas, que jamás se imita,</l>
+               <l>mas eterniza al canto novedades.</l>
+               <l>Siendo en caudal y galas infinita</l>
+               <l n="990">la variedad, ya ignora variedades;</l>
+               <l>ya, despojada su riqueza y copia,</l>
+               <l>se queja el Arte que padece inopia.</l>
+            </lg>
+            <lg>
+               <l>De galas fértil la invención recrea;</l>
+               <l>cauta la voz de repetir se abstiene</l>
+               <l n="995">glosa anterior; huye de sí; no emplea</l>
+               <l>acto en que alguna agilidad no estrene;</l>
+               <l>mil quiebros debilita, mil falsea</l>
+               <l>puntos; tal vez se vibra, y tal sostiene</l>
+               <l>su aliento; ya se arroja, ya se aguarda,</l>
+               <l n="1000">ya en veloz fuga, ya en sonancia tarda.</l>
+            </lg>
+            <lg>
+               <l>Aun cuando toda variación concede</l>
+               <l>faltarle modos y elegancia nueva,</l>
+               <l>el portentoso artífice la excede;</l>
+               <l>aun a la misma novedad renueva;</l>
+               <l n="1005">al Arte exhausta, que a su labio cede,</l>
+               <l>de primorosas diferencias ceba,</l>
+               <l>cual fuente que derrama de su abismo</l>
+               <l>licor perpetuo, y no repite el mismo.</l>
+            </lg>
+            <lg>
+               <l>Tal es el canto que difunde Orfeo.</l>
+               <l n="1010">Dulces mares profiere su garganta,</l>
+               <l>donde nadan, bañadas en recreo,</l>
+               <l>la fiera, el ave, el risco, el monte y planta.</l>
+               <l>Rebosan los halagos al deseo.</l>
+               <l>La inmensidad de brutos, mientras canta,</l>
+               <l n="1015">tasladando a su voz los corazones,</l>
+               <l>le consagran pasmadas atenciones.</l>
+            </lg>
+            <lg>
+               <l>No interrumpe rumor, silbo o bramido</l>
+               <l>la voz, en el concurso innumerable.</l>
+               <l>Parece sólo que le presta oído</l>
+               <l n="1020">mudo el silencio, en yermo inhabitable.</l>
+               <l>No con ala violenta es sacudido</l>
+               <l>el aire inquieto, a la sazón estable:</l>
+               <l>que las aves atentas, sosegadas,</l>
+               <l>libran el vuelo en puntas niveladas.</l>
+            </lg>
+            <lg>
+               <l n="1025">Las fieras todas, en el ocio grato,</l>
+               <l>al can imitan fiel, cuando delante</l>
+               <l>siente improvisa la perdiz su olfato,</l>
+               <l>y allí se fija, inmóvil y constante.</l>
+               <l>Las sierpes y culebras su recato</l>
+               <l n="1030">añaden al sosiego circunstante:</l>
+               <l>ni escama arrastran, vacilando, inquietas,</l>
+               <l>ni de sus lenguas vibran las saetas.</l>
+            </lg>
+            <lg>
+               <l>En sitio llano, y de árboles exento,</l>
+               <l>su canto el joven comenzó piadoso,</l>
+               <l n="1035">y le fenece, no mudando asiento,</l>
+               <l>en alta selva y suelo peñascoso,</l>
+               <l>porque siguieron el activo acento</l>
+               <l>vecinas plantas con verdor frondoso,</l>
+               <l>y de cumbres incultas, no remotas,</l>
+               <l n="1040">enteros riscos y montañas rotas.</l>
+            </lg>
+            <lg>
+               <l>Vieras, pues, ocurrir de toda parte</l>
+               <l>los árboles errantes, desparcidos,</l>
+               <l>como escuadrón solícito de Marte,</l>
+               <l>y en el llano fijar sus pies torcidos.</l>
+               <l n="1045">La plebe mal distinta se reparte</l>
+               <l>en las humildes hojas escondidos;</l>
+               <l>y los nobles, pomposos y compuestos,</l>
+               <l>del sitio eligen preferidos puestos.</l>
+            </lg>
+            <lg>
+               <l>El laurel y la palma (o preminencia</l>
+               <l n="1050">fuese, o que el Trace de honorarios gusta)</l>
+               <l>inmediatos ocupan su presencia,</l>
+               <l>y le coronan de su rama augusta.</l>
+               <l>Más ambición afecta y diligencia,</l>
+               <l>la inquieta yedra, que tenaz se ajusta</l>
+               <l n="1055">al pecho juvenil y el cuello abraza,</l>
+               <l>trepa a las sienes y su frente enlaza.</l>
+            </lg>
+            <lg>
+               <l>El taray y el enebro, al luminoso</l>
+               <l>progenitor del joven consagrados,</l>
+               <l>su canto admiran, en concurso honroso,</l>
+               <l n="1060">de la délfica cítara olvidados.</l>
+               <l>El ciprés melancólico al piadoso</l>
+               <l>lamento se avecina, y los poblados</l>
+               <l>ramos dilatan, desde el tronco enhiesto,</l>
+               <l>fúnebre pompa al cántico funesto.</l>
+            </lg>
+            <lg>
+               <l n="1065">Así las plantas, en consorcio mudo,</l>
+               <l>piadosas, cuanto plácidas y ledas,</l>
+               <l>honran la voz agrícola, que pudo</l>
+               <l>plantar, sin mano, bosques y alamedas.</l>
+               <l>Ya, el que siglos fue páramo desnudo,</l>
+               <l n="1070">es selva revestida de arboledas,</l>
+               <l>donde opondrá el invierno y el estío</l>
+               <l>sombra al calor y resistencia al frío.</l>
+            </lg>
+            <lg>
+               <l>Riscos y peñas, con igual estilo</l>
+               <l>(si bien más perezoso), el son compele:</l>
+               <l n="1075">del sitio ameno al propagado asilo</l>
+               <l>tardas caminan, cual a veces suele,</l>
+               <l>moverse flota que, en el mar tranquilo,</l>
+               <l>céfiro manso con halago impele.</l>
+               <l>Firma cada peñón el tosco asiento:</l>
+               <l n="1080">quieto, cual piedra; como vivo, atento.</l>
+            </lg>
+            <lg>
+               <l>A oyentes de peñasco, en breve, hizo</l>
+               <l>la voz poblar la ya frondosa tierra,</l>
+               <l>y al montaraz concurso advenedizo,</l>
+               <l>el llano se erizó de crespa sierra.</l>
+               <l n="1085">Hay gran monte que arranca, movedizo,</l>
+               <l>su inmenso pie, que en el abismo entierra,</l>
+               <l>y con vaivén gravoso y alta frente,</l>
+               <l>se añade al circo: ¡formidable oyente!</l>
+            </lg>
+            <lg>
+               <l>Aceleraba el curso a su camino,</l>
+               <l n="1090">cerca del sitio, el Estrimón undoso,</l>
+               <l>cuando, a la voz suspenso, el cristalino</l>
+               <l>hombro opuso al torrente impetuoso.</l>
+               <l>Ya sus arenas hasta el mar vecino</l>
+               <l>al aire se registran luminoso,</l>
+               <l n="1095">y el mar se admira que su lecho enjuto</l>
+               <l>le haya negado el líquido tributo.</l>
+            </lg>
+            <lg>
+               <l>Siendo en sí tan opuestos los sujetos</l>
+               <l>que en infinita copia el canto aúna,</l>
+               <l>ya en lo interior, unánimes y quietos,</l>
+               <l n="1100">es uno el corazón, la acción es una.</l>
+               <l>Allí naturaleza sus precetos</l>
+               <l>rompe, no se limita en ley alguna:</l>
+               <l>ondas, peñascos, plantas, animales,</l>
+               <l>de voz conciben almas racionales.</l>
+            </lg>
+            <lg>
+               <l n="1105">A pacíficas tigres y leones</l>
+               <l>seguro se avecina el corzo y gamo;</l>
+               <l>hacen las aves míseras y halcones</l>
+               <l>alcándara común de un solo ramo;</l>
+               <l>no cautelan asaltos los dragones</l>
+               <l n="1110">del conejuelo tímido al reclamo;</l>
+               <l>halla la liebre, con arrimo estrecho,</l>
+               <l>junto al galgo veloz guardado lecho.</l>
+            </lg>
+            <lg>
+               <l>Indiferente de los riscos yertos,</l>
+               <l>todo animal reduce los sentidos</l>
+               <l n="1115">sólo a la voz, con ánimos despiertos,</l>
+               <l>si bien los juzga la atención dormidos.</l>
+               <l>Alto el cuello, los párpados abiertos,</l>
+               <l>sutileza afectando en los oídos,</l>
+               <l>reprueban toda acción, todo deseo,</l>
+               <l n="1120">que ya ocuparon en distinto empleo.</l>
+            </lg>
+            <lg>
+               <l>El que esparció sonoridad más pura,</l>
+               <l>bando leve de pájaros cantores,</l>
+               <l>ya de si mismo, tácito, murmura,</l>
+               <l>despreciando sus gárrulos clamores;</l>
+               <l n="1125">recientes galas observar procura</l>
+               <l>del fértil canto, y elegir primores,</l>
+               <l>porque después, al saludar la Aurora,</l>
+               <l>se explique en elegancia más sonora.</l>
+            </lg>
+            <lg>
+               <l>La que, en arrullos tristes y gemidos,</l>
+               <l n="1130">muerto el consorte, en vano se lastima,</l>
+               <l>si no observa primores escondidos,</l>
+               <l>dolientes quejas imitar estima.</l>
+               <l>La fiera que, con íntimos bramidos,</l>
+               <l>el parto informe del hijuelo anima,</l>
+               <l n="1135">ya invidia de la voz la sonorosa</l>
+               <l>fuerza, a animar los bronces poderosa.</l>
+            </lg>
+            <lg>
+               <l>El álamo gentil, que presumía</l>
+               <l>ser más grata la música del viento,</l>
+               <l>cuando templado céfiro sentía</l>
+               <l n="1140">entre sus hojas dulce impedimento,</l>
+               <l>su engaño le corrige la armonía,</l>
+               <l>que, superior de céfiro al concento,</l>
+               <l>pasa a vencer las mórbidas y ledas</l>
+               <l>voces que exprimen las celestes ruedas.</l>
+            </lg>
+         </div>
+         <div>
+            <head>Canto V</head>
+            <lg>
+               <l n="1145">Con fuerzas preferidas a inmortales</l>
+               <l>la música imperaba portentosa,</l>
+               <l>cuando los filos incitó fatales</l>
+               <l>contra el amante la traición furiosa.</l>
+               <l>Fortuna opuso a méritos iguales</l>
+               <l n="1150">la desdicha mayor, más poderosa;</l>
+               <l>ella alcanzó su triunfo pretendido:</l>
+               <l>fue en breve lucha el mérito vencido.</l>
+            </lg>
+            <lg>
+               <l>Entre las ninfas que, en afecto ciego,</l>
+               <l>áspero el joven, y rebelde, inflama</l>
+               <l n="1155">era el de Lisis más afecto y fuego,</l>
+               <l>Etna de amor, compendio de su llama.</l>
+               <l>Bella infeliz, que el despreciado ruego</l>
+               <l>no rinde a olvidos, y desprecios ama;</l>
+               <l>siendo a despecho del desdén esquivo,</l>
+               <l n="1160">siempre secuaz del siempre fugitivo.</l>
+            </lg>
+            <lg>
+               <l>No aquella vez la soledad distante</l>
+               <l>privarla pudo del aspecto amado,</l>
+               <l>ni el desvelo permite de la amante</l>
+               <l>centro oculto a los ojos del cuidado;</l>
+               <l n="1165">bien que informada a término distante</l>
+               <l>ser pudo del copioso vulgo alado</l>
+               <l>y de la selva incógnita que mira:</l>
+               <l>señas de Orfeo, imperios de su lira.</l>
+            </lg>
+            <lg>
+               <l>Llega, y su vista al músico ofensiva</l>
+               <l n="1170">le indigna y fuerza a enmudecer el canto:</l>
+               <l>crueldad no fue, no fue arrogancia altiva,</l>
+               <l>en pecho tan cortés, desprecio tanto.</l>
+               <l>El ser amante le reserva y priva</l>
+               <l>de ser amante; y aborrece en tanto</l>
+               <l n="1175">insidias contra Eurídice, no aquella</l>
+               <l>acción rendida de la ninfa bella.</l>
+            </lg>
+            <lg>
+               <l>De su desprecio, Lisis, advertida,</l>
+               <l>también traslada ceños al semblante,</l>
+               <l>y su arenga alterando prevenida,</l>
+               <l n="1180">licenciosa, le dice, bien que amante:</l>
+               <l>«¡Oh tú, de vivas almas homicida,</l>
+               <l>y de la muerte idólatra ignorante;</l>
+               <l>a los dioses adverso, y a ti mismo,</l>
+               <l>por adorar fantasmas del abismo!</l>
+            </lg>
+            <lg>
+               <l n="1185">«No sólo adoras una sombra ausente,</l>
+               <l>mas ausente con muerte duplicada;</l>
+               <l>donde ni ya tus sentimientos siente,</l>
+               <l>ni ser puede por ellos restaurada;</l>
+               <l>y la beldad te ofende floreciente</l>
+               <l n="1190">en aras a tu amor sacrificada;</l>
+               <l>no mi beldad, que si lo fue algún día,</l>
+               <l>ardió en tu fuego; ya ceniza es fría.</l>
+            </lg>
+            <lg>
+               <l>«Víctima inútil, sacrificio vano</l>
+               <l>a tu fiereza, que en el hondo Averno</l>
+               <l n="1195">desnudando tu ser del ser humano,</l>
+               <l>vestido vuelves de inhumano infierno.</l>
+               <l>Mas si tu pecho infierno es inhumano,</l>
+               <l>¿cómo reserva en la memoria eterno</l>
+               <l>de Eurídice el amor nunca oprimido?:</l>
+               <l n="1200">debiera Lete introducir su olvido.</l>
+            </lg>
+            <lg>
+               <l>«Sola su llama incluyes y tormento,</l>
+               <l>y es la memoria su tormento y llama,</l>
+               <l>que en tus entrañas buscan alimento,</l>
+               <l>y en las de aquella que en tu ardor se inflama.</l>
+               <l n="1205">No usurpes, no, la voz al instrumento,</l>
+               <l>que si tu enojo mis ofensas ama,</l>
+               <l>también ofende y mata, cuando admira,</l>
+               <l>la cuerda, el plectro, el cántico, la lira.</l>
+            </lg>
+            <lg>
+               <l>«Eres de Amor trasunto sonoroso:</l>
+               <l n="1210">la voz es flecha que penetra y clava;</l>
+               <l>lazo la cuerda; el arco armonïoso</l>
+               <l>arco es de Amor, como la lira aljaba.</l>
+               <l>Tu suavidad es acto riguroso,</l>
+               <l>falsa sirena abona quien te alaba.</l>
+               <l n="1215">No infundas vidas en peñascos vanos,</l>
+               <l>si privas de vivir pechos humanos.</l>
+            </lg>
+            <lg>
+               <l>«Tú, con arbitrios de rigor infieles,</l>
+               <l>das a las piedras vida, das terneza,</l>
+               <l>por trasladar a ti (cambios crueles)</l>
+               <l n="1220">su despojada rústica dureza.</l>
+               <l>¡Tirano imán, que toda forma impeles</l>
+               <l>a que siga tu sólida entereza!</l>
+               <l>¡Rígido imán, que, por instinto fiero,</l>
+               <l>de acero vives, te alimenta acero!»</l>
+            </lg>
+            <lg>
+               <l n="1225">Así se queja Lisis, alternando</l>
+               <l>ya el rigor, ya el afable vasallaje,</l>
+               <l>siempre el amor de Eurídice impugnando</l>
+               <l>su lengua y voz. Mas al osado ultraje</l>
+               <l>se enciende el fiel idólatra, juzgando</l>
+               <l n="1230">impia la voz, sacrilego el lenguaje.</l>
+               <l>Huye de Lisis, huye su impaciencia,</l>
+               <l>con el cuerdo silencio y con la ausencia.</l>
+            </lg>
+            <lg>
+               <l>Ya entonces trueca en amenaza el ruego</l>
+               <l>la ninfa, en quien expira la esperanza.</l>
+               <l n="1235">Ira la rinde a su dominio ciego;</l>
+               <l>exclúyela del suyo la templanza;</l>
+               <l>es ya furor su amor, rabia su fuego,</l>
+               <l>traición su fe, su gozo la venganza.</l>
+               <l>«¡Venganza!», exclama; en su rigor se alienta:</l>
+               <l n="1240">¡alivio atroz, felicidad sangrienta!</l>
+            </lg>
+            <lg>
+               <l>En Tracia, a la sazón, se repetía</l>
+               <l>el juego bacanal, que de Rifeo</l>
+               <l>las ninfas, en traviesa compañía.</l>
+               <l>tributan holocaustos a Lieo;</l>
+               <l n="1245">por cuya acción el memorable día,</l>
+               <l>si fausto a Baco, fue funesto a Orfeo;</l>
+               <l>y quien solemnizaba el sacro rito</l>
+               <l>le permutó en sacrílego delito.</l>
+            </lg>
+            <lg>
+               <l>En baile inquieto las Bacantes suenan,</l>
+               <l n="1250">que, ya furiosas, con diversos plectros</l>
+               <l>cítaras pulsan, tímpanos atruenan,</l>
+               <l>tirsos vibrando y florecidos cetros.</l>
+               <l>Entre albogues y pífaros resuenan</l>
+               <l>himnos al Dios en ditirambos metros;</l>
+               <l n="1255">mas de rumores tantos confundido,</l>
+               <l>si es vario el son, es único el sonido.</l>
+            </lg>
+            <lg>
+               <l>Al estrépito bárbaro cercano</l>
+               <l>llega, anhelante, Lisis, donde opone</l>
+               <l>tan firmes voces al tumulto insano,</l>
+               <l n="1260">que a su atención los ánimos compone.</l>
+               <l>Del amante, cual rústico inhumano,</l>
+               <l>quejas armadas de traición propone:</l>
+               <l>persuadir pudo el cauteloso labio</l>
+               <l>por agravio común, el propio agravio.</l>
+            </lg>
+            <lg>
+               <l n="1265">Era el insigne Trace, era su gloria</l>
+               <l>noticia universal; no el precedente</l>
+               <l>caso infeliz de su amorosa historia</l>
+               <l>ignora ninfa, no el desdén presente.</l>
+               <l>En el desdén se ofende su memoria;</l>
+               <l n="1270">toda hermosura su desprecio siente:</l>
+               <l>así de Lisis al disignio ciego</l>
+               <l>halló dispuesta introducción el fuego.</l>
+            </lg>
+            <lg>
+               <l>Los pechos, pues, del escuadrón bacante,</l>
+               <l>del Dios y su licor ya estimulados,</l>
+               <l n="1275">percibieron, con áspero semblante,</l>
+               <l>de nueva insania estímulos doblados.</l>
+               <l>Las aras dejan, y al adverso amante</l>
+               <l>vuelven los pies, de ligereza armados;</l>
+               <l>y le aclaman con bárbaro apellido,</l>
+               <l n="1280">de Venus adversario y de Cupido.</l>
+            </lg>
+            <lg>
+               <l>Al sitio llegan, cuya selva admira,</l>
+               <l>en el que vieron antes limpio llano.</l>
+               <l>De su arboleda entonces se retira,</l>
+               <l>a paso lento, el enemigo, en vano.</l>
+               <l n="1285">Ya que su riesgo advierte, al plectro y lira</l>
+               <l>aplica dulce voz y docta mano,</l>
+               <l>y aunque suspende rápidas esferas,</l>
+               <l>los corazones no de humanas fieras.</l>
+            </lg>
+            <lg>
+               <l>Le acometieron en tropel violento,</l>
+               <l n="1290">formando al verle clamoroso espanto;</l>
+               <l>en roncas voces se confunde el viento,</l>
+               <l>y en su alarido se sepulta el canto.</l>
+               <l>Vence el bronco rumor, y el tierno acento</l>
+               <l>es sólo inútil voz, o es sólo llanto:</l>
+               <l n="1295">bien que con él, por fúnebre decoro,</l>
+               <l>honra su muerte el cisne más sonoro.</l>
+            </lg>
+            <lg>
+               <l>Cual suele, si a la luz del claro día,</l>
+               <l>se atreve la nocturna ave funesta,</l>
+               <l>que en cavernoso nido se escondía,</l>
+               <l n="1300">sólo al secreto risco manifiesta,</l>
+               <l>darle asalto veloz, con ufanía,</l>
+               <l>plumoso bando en agonal floresta,</l>
+               <l>y por lograr traidoras asechanzas,</l>
+               <l>no habiendo ofensas, cometer venganzas,</l>
+            </lg>
+            <lg>
+               <l n="1305">tal busca el femenil concurso estrecho</l>
+               <l>al amante, que, en trémulos suspiros</l>
+               <l>interrumpiendo el canto, es ya su pecho</l>
+               <l>destinada señal de adversos tiros.</l>
+               <l>Fuerzas suple el colérico despecho;</l>
+               <l n="1310">el aire cruzan, en rodantes giros,</l>
+               <l>piedras, leños y tirsos bacanales:</l>
+               <l>mas bacanales no, sino marciales.</l>
+            </lg>
+            <lg>
+               <l>El tímpano, la flauta, que volando</l>
+               <l>se arroja, y todo músico instrumento,</l>
+               <l n="1315">arma es allí mortífera, trocando</l>
+               <l>la suavidad en tan opuesto intento;</l>
+               <l>contra el joven se impelen, profanando</l>
+               <l>pluvia sonora el más sonoro acento;</l>
+               <l>su pecho buscan y su ofensa emprenden</l>
+               <l n="1320">(prodigio nuevo), pero no le ofenden:</l>
+            </lg>
+            <lg>
+               <l>que todo cuerpo, ora ligero o grave,</l>
+               <l>de los violentos brazos impelido,</l>
+               <l>cuando en el aire el canto oye süave,</l>
+               <l>quiebra el furor, se eleva suspendido;</l>
+               <l n="1325">y sin que el vuelo arrojadizo acabe,</l>
+               <l>de la intentada acción arrepentido,</l>
+               <l>cae a los pies del animado acento,</l>
+               <l>venia impetrando a su alevoso intento.</l>
+            </lg>
+            <lg>
+               <l>Mas ya la escuadra turbulenta y ciega,</l>
+               <l n="1330">que el dulce son confunde en sus clamores,</l>
+               <l>al grave insulto se adelanta y llega,</l>
+               <l>por deber a sus diestras los rigores.</l>
+               <l>Ya entonces Lisis a las ninfas ruega</l>
+               <l>(tarda piedad, inútiles favores)</l>
+               <l n="1335">templen sus iras; y en la acción traidora,</l>
+               <l>ser cómplice abomina, siendo autora.</l>
+            </lg>
+            <lg>
+               <l>¡Oh cuántas veces la ofendida amante,</l>
+               <l>si el asta o piedra arroja contra Orfeo,</l>
+               <l>tras el incurso demudó el semblante,</l>
+               <l n="1340">el golpe revocando en su deseo!</l>
+               <l>Su muerte aclama, y en el mismo instante,</l>
+               <l>promueve afectos a diverso empleo,</l>
+               <l>luchando así contra el oculto y vivo</l>
+               <l>piadoso amor, despecho vengativo.</l>
+            </lg>
+            <lg>
+               <l n="1345">Ya que progresos tan atroces mira</l>
+               <l>en la opresión del inocente amado,</l>
+               <l>prevalece el amor, huye la ira;</l>
+               <l>su vida es ya desvelo del cuidado.</l>
+               <l>Mas la turba, que, indómita, conspira</l>
+               <l n="1350">a su rigor, en parte ejecutado,</l>
+               <l>menos se abstiene que la tigre o lobo,</l>
+               <l>famélicos del pasto, de su robo.</l>
+            </lg>
+            <lg>
+               <l>Por sus diestras, con ánimos sangrientos,</l>
+               <l>reitera la impiedad brutas heridas,</l>
+               <l n="1355">donde ya los festivos instrumentos</l>
+               <l>son en sus manos armas homicidas.</l>
+               <l>La vida, entre los últimos alientos,</l>
+               <l>expira el labio, que inspiró mil vidas:</l>
+               <l>y el resonar «Eurídice» en voz clara,</l>
+               <l n="1360">fue el alma, que su pecho desampara.</l>
+            </lg>
+            <lg>
+               <l>¡Oh rencor femenil, qué horrible enseñas</l>
+               <l>a la crueldad incógnitas crueldades!</l>
+               <l>¿Cómo no ves los robles y las peñas,</l>
+               <l>y allí aprendes ternezas y piedades?</l>
+               <l n="1365">El tronco, el risco inteligentes señas</l>
+               <l>a tu aspereza dan de humanidades,</l>
+               <l>cuando tu pecho, con rigor más bronco,</l>
+               <l>les da ejemplares de peñasco y tronco.</l>
+            </lg>
+            <lg>
+               <l>La sacrílega acción vengar pudiera</l>
+               <l n="1370">el concurso de brutos ya obligados,</l>
+               <l>si el éxtasis atónito no hubiera</l>
+               <l>vencido sus alientos relajados;</l>
+               <l>ya toda fiera, a la sazón, no es fiera,</l>
+               <l>antes rinden sus cuellos inclinados</l>
+               <l n="1375">al yugo del pastor y a las amarras,</l>
+               <l>y al duro lazo las tremendas garras.</l>
+            </lg>
+            <lg>
+               <l>Ya que su acuerdo, de la voz cautivo,</l>
+               <l>los quietos animales restauraron,</l>
+               <l>no recobrando su rigor nativo,</l>
+               <l n="1380">la piedad aprendida conservaron;</l>
+               <l>y muerto viendo al que adoraban vivo,</l>
+               <l>de dolor, más que de furor, bramaron,</l>
+               <l>cual pueden, compensando, agradecidos,</l>
+               <l>dulces cantos con hórridos bramidos.</l>
+            </lg>
+            <lg>
+               <l n="1385">Luego, disuelto el rapto de las aves,</l>
+               <l>dellas fueron a un tiempo repetidos</l>
+               <l>clamores de dolor, bien que süaves,</l>
+               <l>y aquella vez del músico aprendidos.</l>
+               <l>De lenguas faltos, los peñascos graves,</l>
+               <l n="1390">emulando lamentos y gemidos;</l>
+               <l>bocas desgarran, y con labios huecos,</l>
+               <l>también profieren lamentables ecos.</l>
+            </lg>
+            <lg>
+               <l>Los vientos, que serenos y compuestos</l>
+               <l>tuvo la voz, ya al viento se derraman,</l>
+               <l n="1395">y en los peñascos áridos, enhiestos,</l>
+               <l>rompiendo el soplo, sibilantes, braman.</l>
+               <l>A su encuentro, los árboles opuestos</l>
+               <l>fraguan rumor, y como pueden claman:</l>
+               <l>ojos relievan de preñadas gomas,</l>
+               <l n="1400">llantos vertiendo, en lágrimas aromas.</l>
+            </lg>
+            <lg>
+               <l>No sólo aquellos impíos corazones</l>
+               <l>de su prisión el alma en que ha vivido</l>
+               <l>dividen, mas en mínimas porciones</l>
+               <l>fue el cuerpo de sí mismo dividido.</l>
+               <l n="1405">Recibe las sangrientas divisiones</l>
+               <l>la tierra, y con amor compadecido</l>
+               <l>ama el destrozo, huyendo las crueldades,</l>
+               <l>por darle en más sepulcros más piedades.</l>
+            </lg>
+            <lg>
+               <l>Próspero admite la cabeza y lira</l>
+               <l n="1410">el Hebro ismario en su ribera amena;</l>
+               <l>muerta la lengua, a Eurídice respira.</l>
+               <l>rota la cuerda, a Eurídice resuena.</l>
+               <l>Láminas de oro a su funesta pira</l>
+               <l>construye el Hebreo de su rica arena;</l>
+               <l n="1415">por cuyas prendas, sus cristales fríos</l>
+               <l>ya aspiran al imperio de los ríos.</l>
+            </lg>
+            <lg>
+               <l>Pero las Musas las troncadas partes</l>
+               <l>juntan del cuerpo, obedeciendo a Apolo:</l>
+               <l>cuanto esparció la furia a varias partes,</l>
+               <l n="1420">agrega la piedad a un sitio solo;</l>
+               <l>y como inteligentes de las Artes,</l>
+               <l>en opulento olvido de Mausolo,</l>
+               <l>túmulo erigen, que el terrestre asiento</l>
+               <l>se usurpa, habitador de otro elemento.</l>
+            </lg>
+            <lg>
+               <l n="1425">Luego subliman a mayor altura</l>
+               <l>la lira insigne, que, en impulso leve,</l>
+               <l>al cielo honró, creció la lumbre pura</l>
+               <l>del orbe octavo con estrellas nueve.</l>
+               <l>Al casto coro posesión segura</l>
+               <l n="1430">del nuevo signo el firmamento debe:</l>
+               <l>carácter que, en eternos resplandores,</l>
+               <l>consagra a nueve Musas nueve honores.</l>
+            </lg>
+            <lg>
+               <l>En tanto, el dios, de cuyas aras antes</l>
+               <l>las ninfas vio, con provocado aliento,</l>
+               <l n="1435">ausentarse rebeldes y bacantes,</l>
+               <l>y al sacrilegio proceder sangriento,</l>
+               <l>afectos de ira preparó constantes,</l>
+               <l>sobrio y severo más que vinolento.</l>
+               <l>porque llevase la traición consigo</l>
+               <l n="1440">en su delito el plazo del castigo.</l>
+            </lg>
+            <lg>
+               <l>Apenas, pues, el bárbaro trofeo</l>
+               <l>consiguieron las furias bacanales,</l>
+               <l>cuando aplicó venganzas Basareo,</l>
+               <l>bien que a traición tan desigual, no iguales:</l>
+               <l n="1445">ante el lugar que del eterno Orfeo</l>
+               <l>después guardó cenizas inmortales,</l>
+               <l>fue homicida de ninfas homicidas,</l>
+               <l>sus muertes propagando en verdes vidas.</l>
+            </lg>
+            <lg>
+               <l>Sus pies, al torpe error precipitados,</l>
+               <l n="1450">ya con tenacidad prende la tierra,</l>
+               <l>y en cepas y raíces transformados,</l>
+               <l>para silvestre vida los entierra.</l>
+               <l>Por libertar sus pasos estorbados,</l>
+               <l>mueve contra sí misma inquieta guerra</l>
+               <l n="1455">cada ninfa, y rehuye su embarazo,</l>
+               <l>cual avecilla presa en liga o lazo.</l>
+            </lg>
+            <lg>
+               <l>Cuanto forceja más, siente la planta</l>
+               <l>darse al terreno con mayor firmeza,</l>
+               <l>y el pecho, en que albergó dureza tanta,</l>
+               <l n="1460">ya de roble ostentar nueva dureza;</l>
+               <l>levanta el brazo y ramo le levanta;</l>
+               <l>la fresca tez ya es árida corteza;</l>
+               <l>seguido al tronco se prolonga el cuello;</l>
+               <l>ya es leño el rostro y hojas el cabello.</l>
+            </lg>
+            <lg>
+               <l n="1465">Cerca de la que obró el canoro llanto,</l>
+               <l>las ninfas su arboleda forman densa.</l>
+               <l>Así dos bosques a Pomona espanto</l>
+               <l>fueron, y al Trace honor y recompensa:</l>
+               <l>uno en memoria de su dulce canto,</l>
+               <l n="1470">el otro en fe de su vengada ofensa;</l>
+               <l>el bosque humano obró rusticidades,</l>
+               <l>cuando el rústico bosque humanidades.</l>
+            </lg>
+            <lg>
+               <l>Mas el heroico espíritu de Orfeo</l>
+               <l>venganzas contra ofensas no pretende,</l>
+               <l n="1475">que, en alma ya feliz, grave deseo</l>
+               <l>ni altera afecto, ni pasión enciende.</l>
+               <l>A las ínfimas ondas del Leteo</l>
+               <l>la vez segunda y última deciende;</l>
+               <l>los sitios reconoce de su abismo,</l>
+               <l n="1480">donde es también reconocido él mismo.</l>
+            </lg>
+            <lg>
+               <l>En los Elíseos reinos colocado,</l>
+               <l>a Eurídice investiga cuidadoso,</l>
+               <l>cuando su vista le atajó el cuidado,</l>
+               <l>y fue su vista el colmo a su reposo.</l>
+               <l n="1485">Burlando ya de la invasión del hado,</l>
+               <l>en sus abrazos se internó glorioso,</l>
+               <l>donde anteriores padecidos males</l>
+               <l>hoy le sazonan gozos inmortales.</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>

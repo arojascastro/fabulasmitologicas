@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Segunda parte de la Filomena</title>
+                <author>Félix Lope de Vega</author>
+                <respStmt>
+                    <resp>Digitalización, codificación y publicación de</resp>
+                    <persName>Antonio Rojas Castro</persName>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>Primera edición digital de <date>2016</date>
+            </edition>
+            </editionStmt>
+            <publicationStmt>
+                <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Lope de Vega, Félix. <title>Obras poéticas</title>. Ed. De José Manuel Blecua. Barcelona: Planeta, 1989. Impreso.</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>Texto originalmente publicado en <date>1621</date>.</creation>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <epigraph>
+                <p>A la ilustrísima señora doña Leonor Pimentel</p>
+            </epigraph>
+            <lg>
+                <l>Canté, clara Leonor, la dulce historia</l>
+                <l>de Filomena viva; agora en muerte,</l>
+                <l>si muerte puede ser en tanta gloria,</l>
+                <l>vos permitid que en su desdicha acierte.</l>
+                <l n="5">No penséis que hay batalla sin vitoria,</l>
+                <l>sin enemigos resistencia fuerte;</l>
+                <l>más queda que llorar a Filomena:</l>
+                <l>que no hay estado sin pensión de pena.</l>
+            </lg>
+            <lg>
+                <l>Dichosa el ave cuyo infame canto</l>
+                <l n="10">no pone al cazador dulce codicia,</l>
+                <l>porque si canta y es al mundo espanto,</l>
+                <l>allí pone más fuerza su malicia;</l>
+                <l>que aunque es verdad que aquel respeto santo</l>
+                <l>a la virtud se debe de justicia,</l>
+                <l n="15">como el alma no es gracia que se hereda,</l>
+                <l>no hay hombre que ventaja sufrir pueda.</l>
+            </lg>
+            <lg>
+                <l>Estando Filomena agradecida</l>
+                <l>al cielo, que le dio dulce garganta</l>
+                <l>para contar la historia que, advertida,</l>
+                <l n="20">no menos que su voz al mundo espanta,</l>
+                <l>soberbio un tordo, negra piel vestida,</l>
+                <l>las alas viles a intentar levanta</l>
+                <l>ser Faetón de su Sol en desafío:</l>
+                <l>vos juzgaréis, Leonor, su desvarío.</l>
+            </lg>
+            <lg>
+                <l n="25">Que puesto que contiene su contienda</l>
+                <l>lo que suelen llamar filosofía,</l>
+                <l>y de mi dulce musa se pretenda</l>
+                <l>clara, distinta y fácil armonía,</l>
+                <l>que ingenio tan feliz la comprehenda</l>
+                <l n="30">será disculpa del amor y mía:</l>
+                <l>quien no la tenga no me escuche, en tanto</l>
+                <l>que a más heroico fin la voz levanto.</l>
+            </lg>
+            <lg>
+                <l>No es todo para todos; vos, divina</l>
+                <l>entre humanos ingenios, dad oído</l>
+                <l n="35">al tordo, que la voz fingida inclina</l>
+                <l>a Filomena, a quien inquieta el nido.</l>
+                <l>Sed vos Apolo, en tanto que declina,</l>
+                <l>puesto que aurora sois, que yo, atrevido,</l>
+                <l>más al amor que al rudo entendimiento</l>
+                <l n="40">cantar más alto que hasta agora intento.</l>
+            </lg>
+            <lg>
+                <l>A vos, señora, pues, a la armonía</l>
+                <l>de vuestro raro ingenio, a la excelencia</l>
+                <l>con que os llama su nombre el mismo Apolo,</l>
+                <l>a quien mi inculta musa, que ser mía</l>
+                <l n="45">bastaba por disculpa;</l>
+                <l>pero por no temer un yerro solo,</l>
+                <l>confiesa que debiera, en tanta culpa,</l>
+                <l>y más siendo de ingenios competencia,</l>
+                <l>consagraros a vos de polo a polo</l>
+                <l n="50">cuanto excelente fuera,</l>
+                <l>si hubiera ley que obligación pusiera</l>
+                <l>a lo que no es posible;</l>
+                <l>y así, divina luz, claro imposible,</l>
+                <l>a quien mi tosco y rudo entendimiento</l>
+                <l n="55">promete celebrar en solo indicio</l>
+                <l>de humilde sacrificio,</l>
+                <l>en tanto que el primero movimiento,</l>
+                <l>que esto puede la pluma,</l>
+                <l>puesto que eternos mármoles consuma,</l>
+                <l n="60">alterare los orbes inferiores,</l>
+                <l>dando veloz desvelo</l>
+                <l>a los ojos flamígeros del cielo,</l>
+                <l>ofrece mi rudeza, que a mayores</l>
+                <l>estilos no se atreve,</l>
+                <l n="65">una fábula sola</l>
+                <l>a vos: que tanto, agradecido, debe</l>
+                <l>mi amor bien empleado, amor fundado</l>
+                <l>en los méritos más que en las estrellas.</l>
+                <l>¡Oh fénix española,</l>
+                <l n="70">que merecéis por vos más que por ellas</l>
+                <l>la verde laureola</l>
+                <l>con que la frente amastes,</l>
+                <l>cuyos zafiros altos igualastes</l>
+                <l>con arte, voz, espíritu y cuidado!</l>
+                <l n="75">Oíd la competencia,</l>
+                <l>pues la desdicha oístes</l>
+                <l>de Filomena, ruiseñor agora;</l>
+                <l>veréis la envidia de su infusa ciencia</l>
+                <l>en pájaros que apenas conocistes,</l>
+                <l n="80">que más cantan de noche que al aurora.</l>
+                <l>Oíd la voz sonora,</l>
+                <l>dulcísima y süave</l>
+                <l>del ave que en la verde primavera</l>
+                <l>escucha el soto, el valle y la ribera.</l>
+                <l n="85">Oíd, Sibila, vos; oíd, señora;</l>
+                <l>seréis jüez en tanta diferencia</l>
+                <l>mientras la noche teme su presencia,</l>
+                <l>que con tal distinción orna y colora</l>
+                <l>cristales, plantas, flores,</l>
+                <l n="90">aduerme celos y despierta amores.</l>
+                <l>Oíd, Leonor, el son: oíd el ave,</l>
+                <l>no en verso forastero oculto y grave,</l>
+                <l>con nudos como pino;</l>
+                <l>no feroz, no enigmático, mas puro,</l>
+                <l n="95">suelto de la prisión de sus tiranos,</l>
+                <l>que, de erizado, impenetrable y duro,</l>
+                <l>cansa por deleitar, hiere las manos.</l>
+                <l>Crióse un tordo negro y no lustroso,</l>
+                <l>de plumas de otras aves envidioso,</l>
+                <l n="100">al son de la mecánica armonía,</l>
+                <l>de quien jamás perdió la consonancia,</l>
+                <l>si bien le despreció con arrogancia,</l>
+                <l>con ser propio Quirón de tal Aquiles;</l>
+                <l>y así, con engañada fantasía,</l>
+                <l n="105">acuchillando el aire las sutiles</l>
+                <l>alas, pasó de Tetis las espumas,</l>
+                <l>y fue a mudar las plumas</l>
+                <l>desde las pajas de su pobre nido</l>
+                <l>a la Academia ilustre que ha tenido</l>
+                <l n="110">mayor nombre en el mundo;</l>
+                <l>y allí, Platón segundo,</l>
+                <l>perdone la ironía,</l>
+                <l>que Pitágoras no, pues no sabía</l>
+                <l>callar sus propias faltas,</l>
+                <l n="115">cuanto más las ajenas,</l>
+                <l>el número añadió por las almenas</l>
+                <l>de aquellos edificios,</l>
+                <l>a cuyos frontispicios</l>
+                <l>Grecia humilló sus célebres liceos.</l>
+                <l n="120">Diole su lengua la divina escuela,</l>
+                <l>por los menos principios y deseos:</l>
+                <l>que es imposible al de Etiopia el baño.</l>
+                <l>Y allí después con presunción y engaño,</l>
+                <l>así entre garzas, cuervo infausto vuela</l>
+                <l n="125">entre fénices rojos, amarillos,</l>
+                <l>blancos, azules, verdes.</l>
+                <l>¡Oh vana presunción, a cuántos pierdes!</l>
+                <l>Enseñaba ignorantes pajarillos,</l>
+                <l>y para hacer a los mayores mengua,</l>
+                <l n="130">decía que en secreto</l>
+                <l>les daba los escritos desta lengua,</l>
+                <l>porque ignoraban todos su dialeto;</l>
+                <l>y de lo que ignoraba,</l>
+                <l>que es propio de ignorantes, blasonaba,</l>
+                <l n="135">y astuto, mas no sabio, como Ulises,</l>
+                <l>a cuestas su soberbia por Anquises,</l>
+                <l>y por penates bárbara poesía,</l>
+                <l>que ni en latín ni en español sabía,</l>
+                <l>salió de las escuelas,</l>
+                <l n="140">y pensando valerse de cautelas</l>
+                <l>entre pájaros legos cortesanos,</l>
+                <l>en cuya condición se prometía</l>
+                <l>poder solicitar aplausos vanos,</l>
+                <l>llegó a las puertas áulicas un día.</l>
+                <l n="145">Luego se le ofreció la portentosa</l>
+                <l>fábrica de ignorantes: que la fama</l>
+                <l>diciendo mal presumen que se adquiere,</l>
+                <l>y tiñendo la pluma latinosa</l>
+                <l>en el ajeno honor, lució la llama</l>
+                <l n="150">al torno de la débil mariposa,</l>
+                <l>Ícaro de su luz, sol en que muere,</l>
+                <l>quedando más ardiente y vitoriosa;</l>
+                <l>que el invidioso ciego</l>
+                <l>de añadir combustible sirve al fuego.</l>
+                <l n="155">Estaba en este tiempo Filomena</l>
+                <l>en una selva amena</l>
+                <l>trinando, la garganta</l>
+                <l>con tan suaves puntos y redobles,</l>
+                <l>que la escuchaban álamos y robles</l>
+                <l n="160">y el alma de la más ingrata planta;</l>
+                <l>ya con la lidiamista entristecía</l>
+                <l>del valle los pastores,</l>
+                <l>ya con dórica voz los componía,</l>
+                <l>y el aire hallaba sueño entre las flores</l>
+                <l n="165">bastante a sosegar el agua estigia;</l>
+                <l>ya con música frigia,</l>
+                <l>como a Alejandro el dulce Timoteo,</l>
+                <l>más que el bronce animado,</l>
+                <l>y el parche a pausas en el centro herido,</l>
+                <l n="170">intrépido furor daba al oído,</l>
+                <l>y a las armas el plectro delicado.</l>
+                <l>No la historia cantaba de Tereo,</l>
+                <l>cuando con oro letras escribía</l>
+                <l>a la venganza, en que el agravio para,</l>
+                <l n="175">sino del cielo el ínclito trofeo,</l>
+                <l>que el Antártico polo le ofrecía,</l>
+                <l>con sangre viva calentando el ara.</l>
+                <l>La envidia, que declara</l>
+                <l>presto su inclinación, al miserable</l>
+                <l n="180">tordo infestó de suerte,</l>
+                <l>que esforzando la voz para su muerte,</l>
+                <l>desafió la dulce Filomena,</l>
+                <l>con risa de los dioses, que al notable</l>
+                <l>espectáculo nuevo</l>
+                <l n="185">de Marsias y de Febo,</l>
+                <l>de Aragne y Palas, a la selva amena</l>
+                <l>con verdes lauros y sagradas vestes</l>
+                <l>bajaron de los cóncavos celestes,</l>
+                <l>y a las estrellas igualó su arena.</l>
+                <l n="190">Los Pílades y Orestes</l>
+                <l>que trajo el tordo fueron la abubilla</l>
+                <l>y el ave infelicísima a Castilla;</l>
+                <l>mas trajo Filomena</l>
+                <l>la que pronosticaba imperio en Roma,</l>
+                <l n="195">ave cesárea, de esmeraldas llena</l>
+                <l>la fíente, más serena</l>
+                <l>que el Iris, que del sol colores toma,</l>
+                <l>o exprimiendo la imagen de la luna,</l>
+                <l>y siendo desde lejos</l>
+                <l n="200">espejo circular de sus reflejos;</l>
+                <l>y el gallo más valiente</l>
+                <l>que en la palestra coronó la trente,</l>
+                <l>y que Marte pudiera,</l>
+                <l>no el carro, honrar con él su quinta esfera;</l>
+                <l n="205">y haciéndole una peña dulce sombra,</l>
+                <l>traída por reliquias del Parnaso,</l>
+                <l>y una ciudad que nunca tuvo miedo,</l>
+                <l>que la firmeza nombra</l>
+                <l>alta imperial Toledo,</l>
+                <l n="210">propuso el nuevo caso,</l>
+                <l>pidiendo grata audiencia</l>
+                <l>a tanta celestial circunferencia,</l>
+                <l>donde era el tordo un punto</l>
+                <l>indivisible, aunque a la envidia junto.</l>
+                <l n="215">«¡Sacros planetas, Filomena dijo,</l>
+                <l>que dejando la máquina conforme</l>
+                <l>para la producción de efectos varios,</l>
+                <l>y aquel asiento en las estrellas fijo</l>
+                <l>con que queréis que al uno el otro informe</l>
+                <l n="220">para medios que son tan necesarios,</l>
+                <l>venís a ver el fin de dos contrarios!</l>
+                <l>Vosotras, altas, imperiales aves,</l>
+                <l>y las que con sonora melodía</l>
+                <l>también tenéis preceptos de poesía,</l>
+                <l n="225">que disponéis en números süaves;</l>
+                <l>peñas, árboles altos,</l>
+                <l>ni de hojas verdes ni de ramas faltos,</l>
+                <l>oíd mi voz, y escuche al tordo Midas,</l>
+                <l>pues nacen cañas, que del viento heridas,</l>
+                <l n="230">descubren las orejas en castigo;</l>
+                <l>vergüenza es ver tan flaco el enemigo;</l>
+                <l>pero veréis que en este dulce canto</l>
+                <l>su inútil voz condeno a eterno llanto.</l>
+                <l>Erige el hombre al cielo la cabeza,</l>
+                <l n="235">porque cualquiera obra, tal figura,</l>
+                <l>cual es más apta al movimiento, tiene,</l>
+                <l>al cielo adorna circular belleza,</l>
+                <l>piramidal al fuego, que a la pura</l>
+                <l>llama inmortal eternamente viene;</l>
+                <l n="240">ésta con la diamétrica conviene</l>
+                <l>al hombre, a quien el corazón anima,</l>
+                <l>en la mitad del pecho colocado;</l>
+                <l>por eso el sol asiste a los planetas,</l>
+                <l>donde cual centro luz igual imprima;</l>
+                <l n="245">y siendo de Pitágoras llamado</l>
+                <l>gran animal el cielo, en sus perfetas</l>
+                <l>partes por corazón el sol dispuso,</l>
+                <l>aunque Platón le puso</l>
+                <l>sobre el orbe argentado de la luna,</l>
+                <l n="250">respeto de que Venus le eclipsara,</l>
+                <l>como la bella Cintia, vez alguna</l>
+                <l>que entre la tierra y él se interpolara.</l>
+                <l>¡Qué es ver su hermosa fábrica vestida</l>
+                <l>de figuras, si bien imaginarias,</l>
+                <l n="255">el carro de Erictonio en trece estrellas,</l>
+                <l>la nave, aunque sin vientos, impelida</l>
+                <l>por el celeste campo a partes varias,</l>
+                <l>y en el camino universal febeo</l>
+                <l>las deidades que huyeron de Tifeo!</l>
+                <l n="260">»Es una luz el claro entendimiento</l>
+                <l>que Dios al alma infunde;</l>
+                <l>no es de saber al hombre lo infinito:</l>
+                <l>Platón excluye al arte en su argumento,</l>
+                <l>sin que dellos permita disciplina.</l>
+                <l n="265">Nada es sin causa alguna en que se funde;</l>
+                <l>todo tiene su número prescrito,</l>
+                <l>con el cual se termina.</l>
+                <l>Es sustancia sensible y animada</l>
+                <l>el animal; al hábito no puede</l>
+                <l n="270">hallar la privación fácil entrada;</l>
+                <l>la corporal acción, en lo que es, mueve;</l>
+                <l>el alma no, porque es fuerza que quede</l>
+                <l>inmovible en sus actos, que no ocupa</l>
+                <l>lugar el alma, que el lugar es cuerpo,</l>
+                <l n="275">y otro ocuparle debe,</l>
+                <l>y el alma no, como la esfera última,</l>
+                <l>que de todo lugar se desocupa.</l>
+                <l>Quien no lleva temor, camina en cuerpo;</l>
+                <l>nadie en las horas sabe la penúltima.</l>
+                <l n="280">Llamó la natural filosofía</l>
+                <l>dilatación del claro sol al día.</l>
+                <l>»Quien difine la ciencia en algún modo,</l>
+                <l>difine la ignorancia;</l>
+                <l>quien de las cosas improbables quiere</l>
+                <l n="285">sacar la conclusión va errado en todo.</l>
+                <l>No ha de usar silogismo a lo imposible</l>
+                <l>el que disputa, ni se da en distancia</l>
+                <l>debida proporción, si es infinita.</l>
+                <l>La enunciación cualquiera parte adquiere</l>
+                <l n="290">de la contradición; inacesible</l>
+                <l>es al hombre la ciencia circunscrita</l>
+                <l>en la eterna deidad; que es en lo oculto</l>
+                <l>creer y no entender el mejor culto.</l>
+                <l>Quien la naturaleza considera</l>
+                <l n="295">de alguna cosa así, también debría</l>
+                <l>los accidentes della.</l>
+                <l>La forma es fin de la materia, y ella</l>
+                <l>también el fundamento</l>
+                <l>para la sucesión de formas varias.</l>
+                <l n="300">Medir el movimiento</l>
+                <l>es del tiempo la esencia;</l>
+                <l>con las cosas contrarias</l>
+                <l>las contrarias se curan;</l>
+                <l>las violentas no duran.</l>
+                <l n="305">Si los cielos tuvieran existencia,</l>
+                <l>tuviera nuestro ser ser transmutable,</l>
+                <l>mas nunca el orden rompe.</l>
+                <l>Por calor natural lo generable</l>
+                <l>vive, y por el extraño se corrompe.</l>
+                <l n="310">El ánima es principio, por quien vive,</l>
+                <l>siente, entiende y se mueve,</l>
+                <l>por las partes que debe,</l>
+                <l>de quien virtud recibe</l>
+                <l>todo animal, y un acto</l>
+                <l n="315">del orgánico y físico</l>
+                <l>cuerpo que en su potencia vida tiene;</l>
+                <l>siempre es más sabio el de más blando tacto.</l>
+                <l>Tratan cerca de un mismo</l>
+                <l>género el metafísico,</l>
+                <l n="320">dialéctico y sofista,</l>
+                <l>por más que todo fuerte silogismo</l>
+                <l>a la verdad resista.</l>
+                <l>Perpetuo y corruptible, no se miden,</l>
+                <l>y así de otras potencias se dividen</l>
+                <l n="325">nuestros entendimientos, siempre abstractos,</l>
+                <l>del cuerpo. Las potencias</l>
+                <l>se distinguen por actos, y los actos</l>
+                <l>por objetos de tantas diferencias.</l>
+                <l>Repercusión del aire que respira</l>
+                <l n="330">a la arteria es la voz, y las colores</l>
+                <l>son causa que las cosas sean visibles;</l>
+                <l>a eternidad de permansión aspira</l>
+                <l>todo ente natural; los resplandores</l>
+                <l>del sol de día las estrellas ciegan;</l>
+                <l n="335">las especies que son inteligibles</l>
+                <l>son el lugar del alma intelectiva;</l>
+                <l>siempre a mover los apetitos llegan</l>
+                <l>debajo de razón del bien que priva,</l>
+                <l>o ya existente o aparente sea.</l>
+                <l n="340">Nunca naturaleza sin los medios</l>
+                <l>de opuesto a opuesto va, que es repugnancia,</l>
+                <l>ni hay cuerpo que del alma sea sustancia.</l>
+                <l>El principio primero en una ciencia</l>
+                <l>ha de ser firme en ella y conocido.</l>
+                <l n="345">Hay esta diferencia</l>
+                <l>del lógico al filósofo: que el lógico</l>
+                <l>demonstrativamente</l>
+                <l>sabe lo que el filósofo ha sabido</l>
+                <l>con argumento firme y analógico,</l>
+                <l n="350">clara y probablemente.</l>
+                <l>Las cosas que tenemos conocidas</l>
+                <l>acerca de nosotros con aquellas</l>
+                <l>que la naturaleza comprehende,</l>
+                <l>pocas y siempre son mal entendidas,</l>
+                <l n="355">aunque se estudie en ellas.</l>
+                <l>De tres maneras la amistad se entiende:</l>
+                <l>honesta, delectable y provechosa.</l>
+                <l>De la mujer hermosa,</l>
+                <l>que siempre reverencio,</l>
+                <l n="360">el mayor ornamento es el silencio.</l>
+                <l>Mas, ¿dónde me ha llevado,</l>
+                <l>por la diversidad destas sentencias,</l>
+                <l>deseo de cantar, si os he cansado</l>
+                <l>eslabonando tantas diferencias?</l>
+                <l n="365">¡Cuánto mejor me fuera</l>
+                <l>que con himnos homéricos</l>
+                <l>eternas gracias y alabanzas diera,</l>
+                <l>deidades inmortales,</l>
+                <l>que dejáis para oírme</l>
+                <l n="370">los círculos esféricos</l>
+                <l>de vuestro reino firme,</l>
+                <l>a tanta inclinación a mi justicia,</l>
+                <l>conociendo del tordo la malicia!</l>
+                <l>O ya que mi rudeza se acobarda,</l>
+                <l n="375">loara los ingenios peregrinos</l>
+                <l>que aquí me apadrinaron.</l>
+                <l>Mas ¿qué diré del águila gallarda,</l>
+                <l>que imprime en los del sol rayos divinos,</l>
+                <l>si sus alas de sombra coronaron</l>
+                <l n="380">mi inocencia, a dos líneas retirada?</l>
+                <l>Callar y obedecer a la fortuna.</l>
+                <l>¿Qué diré de aquel gallo que pudiera</l>
+                <l>formar espanto al animal que tiene</l>
+                <l>más breve el corazón por la abrasada</l>
+                <l n="385">furia, que a dilación mayor repuna,</l>
+                <l>cuanto más al que nace en la ribera</l>
+                <l>del sardo mar, o por los montes viene</l>
+                <l>del arcadio Partenio,</l>
+                <l>en cuya odiosa voz se ve su ingenio?</l>
+                <l n="390">¿Qué diré de la peña del Parnaso,</l>
+                <l>archivo de Esculapio, que, entre peñas,</l>
+                <l>bañado de las aguas del Pegaso,</l>
+                <l>depositó su médico tesoro,</l>
+                <l>con quien fueran pirámides pequeñas</l>
+                <l n="395">y sin valor, aunque le diera el oro</l>
+                <l>las que guardaron tantas diferencias,</l>
+                <l>que a las ai tes y ciencias,</l>
+                <l>que el protoplasto reservó al incendio</l>
+                <l>de tantas iras y celestes fraguas,</l>
+                <l n="400">sirvieron de defensa y de compendio.</l>
+                <l>y de nave a la fiera</l>
+                <l>inundación de las futuras aguas?</l>
+                <l>»Mas, oh Toledo, tú, ciudad primera</l>
+                <l>en la corona de la madre España,</l>
+                <l n="405">salve, lustre y honor de la ribera</l>
+                <l>del Tajo, por quien osa Manzanares,</l>
+                <l>ceñido de mastranzo y espadaña,</l>
+                <l>entrar en competencia con los mares</l>
+                <l>donde nace el coral, y desafía</l>
+                <l n="410">sus perlas con su arena,</l>
+                <l>y la sangre de Tiro con las rubias</l>
+                <l>que en sus corrientes saludables cría;</l>
+                <l>que apenas ven la margen sin las lluvias,</l>
+                <l>y con alguna cándida sirena</l>
+                <l n="415">el más fuerte delfín, la mayor foca,</l>
+                <l>y el caballo del mar celeste, a veces,</l>
+                <l>con plateados peces;</l>
+                <l>salve, y a tu dorada pluma y boca</l>
+                <l>rindan la lengua griega y la latina</l>
+                <l n="420">los Píndaros, los Enios.</l>
+                <l>A todos, pues, ¡oh ingenios!,</l>
+                <l>dignos de eterna, inextinguible fama,</l>
+                <l>la ingrata para amor, gloriosa rama,</l>
+                <l>ciña de verdes y triunfales hojas.</l>
+                <l n="425">Y tú, que de mi dulce voz te enojas,</l>
+                <l>oh ave para mí negra y infausta,</l>
+                <l>la garganta inexhausta</l>
+                <l>de maldecir a quien jamás te ofende,</l>
+                <l>en tus pequeños músculos extiende,</l>
+                <l n="430">y advierte que, presentes las deidades,</l>
+                <l>no has de mentir, sino cantar verdades;</l>
+                <l>y perdona el apóstrofe forzoso,</l>
+                <l>oír tú, negro cantor, si no agorero,</l>
+                <l>que para responder descansar quiero.</l>
+                <l n="435">»Éste, escuchad, oh numes celestiales;</l>
+                <l>éste es aquel que a Filomena infama;</l>
+                <l>éste es aquel que en desafíos tales</l>
+                <l>al estudio inmortal niega la fama;</l>
+                <l>éste es aquél, gramático y retórico,</l>
+                <l n="440">no por usar de término anafórico;</l>
+                <l>éste, escuchad agora,</l>
+                <l>aunque porque callé se va la aurora,</l>
+                <l>que con mi dulce canto</l>
+                <l>suele enjugar las perlas de su llanto;</l>
+                <l n="445">suspensa en mis memorias,</l>
+                <l>y de Troya olvidando las historias,</l>
+                <l>esconderse en las flores,</l>
+                <l>que le dieron por lágrimas colores.»</l>
+                <l>Así cantó la dulce Filomena,</l>
+                <l n="450">y así, Leonor ilustre, engrandecía</l>
+                <l>la juventud del águila, que baña</l>
+                <l>las alas en la fuente de Helicona:</l>
+                <l>así al francés Simón, por quien la arena</l>
+                <l>de Manzanares oro y perlas cría,</l>
+                <l n="455">después que honró su docta pluma a España;</l>
+                <l>y así del doctor Peña la corona,</l>
+                <l>con que Apolo filósofo laurea</l>
+                <l>su digna frente, en quien mirar desea</l>
+                <l>el árbol fugitivo,</l>
+                <l n="460">tan amoroso ya cuanto era esquivo;</l>
+                <l>y así del gran Tribaldos de Toledo</l>
+                <l>el nombre, que a los tiempos causa miedo;</l>
+                <l>pues quedarán vencidos,</l>
+                <l>el inmortal sobre mayor esfera,</l>
+                <l n="465">y ellos entonces de correr corridos.</l>
+                <l>Mas oye, pues me llama</l>
+                <l>con nuevo aliento Apolo,</l>
+                <l>si bien tu nombre solo</l>
+                <l>pudiera darme fama.</l>
+                <l n="470">Apenas enlazó su dulce pico</l>
+                <l>mudo silencio, y suspiró en los ecos</l>
+                <l>la voz enamorada de Narciso,</l>
+                <l>cuando en aplauso el prado, entonces rico</l>
+                <l>de la copia de Flora, y los más secos</l>
+                <l n="475">remotos valles dieron dulce aviso</l>
+                <l>de la futura gloria al pretendiente;</l>
+                <l>liberal una fuente,</l>
+                <l>la margen excedió, de cuya risa</l>
+                <l>la hierba hurtó cristal, perlas las flores,</l>
+                <l n="480">que luego en sus colores</l>
+                <l>camaleones fueron.</l>
+                <l>El tordo entonces con la voz remisa,</l>
+                <l>que no le obedecieron</l>
+                <l>valles, fuentes y prados,</l>
+                <l n="485">desató la garganta a los templados</l>
+                <l>vientos, que algunos de su parte había;</l>
+                <l>pero no es sabio quien del viento fía;</l>
+                <l>y mirando risueño la abubilla,</l>
+                <l>que estaba ya cobarde y amarilla,</l>
+                <l n="490">aunque el eco se hacía mudo y sordo,</l>
+                <l>dijo con voz retórica de tordo:</l>
+                <l>«Las partes son de la oración, senado</l>
+                <l>amplísimo, ilustrísimo,</l>
+                <l>ocho, según Antonio las describe:</l>
+                <l n="495">nombre, pronombre, ecétera; mas, dado</l>
+                <l>que fue varón doctísimo,</l>
+                <l>en cuyos libros su memoria vive,</l>
+                <l>prolijo y nimio escribe:</l>
+                <l>mas a personas de tan altos méritos</l>
+                <l n="500">no quiero hablar de género y pretéritos;</l>
+                <l>pero decir que son de la doctrina</l>
+                <l>las letras fundamento</l>
+                <l>en la lengua caldea,</l>
+                <l>en la sagrada hebrea,</l>
+                <l n="505">la griega y la latina.</l>
+                <l>De la caldea fue inventor primero</l>
+                <l>Abrahán; de la la hebrea, Moisés santo,</l>
+                <l>si bien antes tenían los hebreos</l>
+                <l>las letras de Fenicia:</l>
+                <l n="510">y della, de Agenor el heredero</l>
+                <l>a Grecia trajo ia que estiman tanto.</l>
+                <l>De los egipcios, mereció trofeos</l>
+                <l>Isis, su reina, y con igual codicia</l>
+                <l>las latinas halló Carmenta sabia;</l>
+                <l n="515">el uso de las cuales por el mundo</l>
+                <l>fue universal, exceptas las naciones</l>
+                <l>bárbaras, cuyo error su lumbre agravia.</l>
+                <l>De su composición fue autor segundo</l>
+                <l>Donato, Silvio, y con Prisciano Ognicio,</l>
+                <l n="520">Diomedes y Roberto.</l>
+                <l>Trata de la Gramática el oficio</l>
+                <l>de las letras latinas lo más cierto;</l>
+                <l>de ¡a oración las partes,</l>
+                <l>sílabas, pies, acento, ortografía,</l>
+                <l n="525">que importa a tantas artes:</l>
+                <l>de la etimología,</l>
+                <l>del meta plasmo, tema y barbarismo,</l>
+                <l>de la fábula, historia, verso y prosa.</l>
+                <l>Afirman los autores,</l>
+                <l n="530">y lo apruebo yo mismo,</l>
+                <l>que de todas las lenguas, las mejores</l>
+                <l>son la hebrea, la griega y la latina.</l>
+                <l>De aquestas tres prefiero</l>
+                <l>a la griega en razón de su dulzura,</l>
+                <l n="535">y ser la más sonora, hermosa y pura.</l>
+                <l>Divídese, aunque agora peregrina</l>
+                <l>de aquel valor primero,</l>
+                <l>en jónica, en común, ática, dórica</l>
+                <l>y eólica; la nuestra en la romana,</l>
+                <l n="540">latina, mixta y presta.</l>
+                <l>Halló Jano la presta y su teórica,</l>
+                <l>antiguo rey de Italia; y la latina,</l>
+                <l>abrasada la máquina trovaría,</l>
+                <l>el rey Latino, y dícese que en ésta</l>
+                <l n="545">fueron escritas de Solón las leyes.</l>
+                <l>La romana, después que de los reyes</l>
+                <l>Roma triunfó con libertad divina,</l>
+                <l>en quien fueron famosos Plauto y Enio,</l>
+                <l>Virgilio, Nevio, Horacio, Hortensio, Ovidio,</l>
+                <l n="550">aunque no los envidio</l>
+                <l>con mi divino ingenio,</l>
+                <l>ni a Catón, Cicerón y Quintiliano.</l>
+                <l>Dilatado el romano</l>
+                <l>Imperio, entró la mixta,</l>
+                <l n="555">que en Italia y España confundieron,</l>
+                <l>cuando juntas se vieron</l>
+                <l>con tantos barbarismos,</l>
+                <l>impropia locución y solecismos.</l>
+                <l>Por tanto, a la Gramática se debe</l>
+                <l n="560">que allí no se acabase,</l>
+                <l>cuyo cuidado quiere que no pase</l>
+                <l>la línea a quien el bárbaro se atreve.</l>
+                <l>En la pronunciación el son y acento</l>
+                <l>muestra, en efeto, el modo y fundamento</l>
+                <l n="565">de la composición, con diligencia,</l>
+                <l>y la separación de las vocales,</l>
+                <l>líquidas, mudas, consonantes; ciencia</l>
+                <l>que en números iguales</l>
+                <l>enseña cómo el verbo rige el nombre,</l>
+                <l n="570">en qué modos conviene</l>
+                <l>con él también, y en cuántos</l>
+                <l>con el antecedente y relativo</l>
+                <l>su conveniencia tiene;</l>
+                <l>asimismo el activo y el pasivo,</l>
+                <l n="575">neutro, común y deponente; trata</l>
+                <l>del nombre y el pronombre,</l>
+                <l>y a mil diversidades se dilata.</l>
+                <l>Ésta es la fuente original perene;</l>
+                <l>de su líquida plata</l>
+                <l n="580">bebieron los primeros rudimentos</l>
+                <l>cuantos tienen asientos</l>
+                <l>en el templo glorioso de la fama,</l>
+                <l>a quien sacro laurel la frente enrama.</l>
+                <l>Mas, ¿cómo os canso yo? ¿Cómo os fastidio?</l>
+                <l n="585">Pasemos a materias levantadas:</l>
+                <l>¿Qué sentís de Virgilio? ¿Qué de Ovidio</l>
+                <l>y las odas de Horacio celebradas?</l>
+                <l>Pero leed a Higinio y a Macrobio,</l>
+                <l>contra algunos poetas más airado</l>
+                <l n="590">que contra España el Jovio.</l>
+                <l>¡Qué duro es Silio! Estacio, ¡qué cansado!</l>
+                <l>Lucano, historiador más que poeta,</l>
+                <l>¡Qué libre Juvenal! Marcial, lascivo.</l>
+                <l>¿Qué diré de Propercio, de Tibulo,</l>
+                <l n="595">que hicieron con Catulo</l>
+                <l>impreso triunvirato?</l>
+                <l>¿Qué del Cartaginés? ¿Qué de Lucrecio?</l>
+                <l>¿Qué del trágico Séneca, que precio</l>
+                <l>por no mostrarme a nuestra patria ingrato?</l>
+                <l n="600">Y pasaré en silencio</l>
+                <l>a Dámaso, Juvenco y a Prudencio,</l>
+                <l>y por santo a Orïencio;</l>
+                <l>mas no perdonaré a Nemesïano,</l>
+                <l>Ausonio y Claudïano.</l>
+                <l n="605">De los griegos no quiero decir nada,</l>
+                <l>que apenas sé leer la lengua griega,</l>
+                <l>y es hablar del color la vista ciega;</l>
+                <l>pero en Quinto Calabrio fue excusada</l>
+                <l>la imitación, con que arrogante vino</l>
+                <l n="610">a seguir la deidad del Venusino;</l>
+                <l>pues fue soberbio y loco,</l>
+                <l>y en traducirle el Valereo Jodoco.</l>
+                <l>Perdono entre modernos a Pontano,</l>
+                <l>Tarcañota, Segundo, Angerïano,</l>
+                <l n="615">Petrarca, los Estrazas y Vulteyo,</l>
+                <l>Filelfo y Sanazaro, y tanta copia</l>
+                <l>del estilo plebeyo,</l>
+                <l>gente cansada, bárbara y impropia.</l>
+                <l>Pues, ¿qué, si hablara acaso</l>
+                <l n="620">de la lengua vulgar entre españoles,</l>
+                <l>nubes, en quien los otros fueran soles,</l>
+                <l>Boscán, Mendoza, Herrera y Garcilaso,</l>
+                <l>sin otros de menores jerarquías?</l>
+                <l>Primero el sol las puertas del ocaso,</l>
+                <l n="625">última parte de los breves días,</l>
+                <l>bañara en oro y púrpura sangrienta.</l>
+                <l>¿Qué es ver tanto inorante, que comenta,</l>
+                <l>sin entender, el alma de Virgilio?</l>
+                <l>¡Oh musas, dadme vuestro sacro auxilio!</l>
+                <l n="630">Pero será materia indigna al canto</l>
+                <l>de un ave como yo, de ciencia llena;</l>
+                <l>porque, si en voz me gana Filomena,</l>
+                <l>yo a ella en la teórica, que tanto</l>
+                <l>estiman las escuelas de los sabios,</l>
+                <l n="635">que de naturaleza los agravios</l>
+                <l>supo el arte vencer, y al fin me espanto</l>
+                <l>que Tulio la engrandezca,</l>
+                <l>y al arte la anteponga y desvanezca,</l>
+                <l>sabiendo que Aristóteles decía,</l>
+                <l n="640">padre de la mejor filosofía,</l>
+                <l>que en el nacer ninguno</l>
+                <l>merece o desmerece:</l>
+                <l>tal es el natural sin arte alguno.</l>
+                <l>El arte sí que adorna y enriquece;</l>
+                <l n="645">él da luz al diamante</l>
+                <l>y perfección al oro.</l>
+                <l>Naturalmente Filomena canta,</l>
+                <l>siempre trágica amante;</l>
+                <l>yo con arte aprendido,</l>
+                <l n="650">que a quien me escucha espanta,</l>
+                <l>pues hablo en lo que ignoro,</l>
+                <l>dándome grato oído,</l>
+                <l>admirados de ver que, tan pequeño,</l>
+                <l>intrépido, me arroje,</l>
+                <l n="655">y que a los dioses de la tierra enoje.</l>
+                <l>Mas, como el alma es desta casa el dueño,</l>
+                <l>y la virtud unida</l>
+                <l>más fuerte viene a ser que dilatada,</l>
+                <l>y con el arte la región vencida</l>
+                <l n="660">del aire fue de Dédalo pisada,</l>
+                <l>yo sé muy bien que puedo,</l>
+                <l>no digo ser Tifonte,</l>
+                <l>pero poner a las estrellas miedo:</l>
+                <l>y sin temer la pena de Faetonte,</l>
+                <l n="665">volar deste horizonte</l>
+                <l>a la casa del sol, y en breves alas,</l>
+                <l>si ser tu ave, oh Jove, me concedes,</l>
+                <l>llevar a Ganimedes</l>
+                <l>a las doradas salas:</l>
+                <l n="670">que el águila, conmigo,</l>
+                <l>es tórtola cobarde,</l>
+                <l>y el gallo, mi enemigo,</l>
+                <l>cantor entre mujeres,</l>
+                <l>franco en la rubia Ceres,</l>
+                <l n="675">entre quien hace alarde</l>
+                <l>de las pintadas plumas,</l>
+                <l>pues peñas son espumas</l>
+                <l>y Toledos aldeas.</l>
+                <l>Presto, como de márgenes letras,</l>
+                <l n="680">saldrá de mi museo</l>
+                <l>mi lámpara en tinieblas,</l>
+                <l>que quitará las nieblas</l>
+                <l>a los ojos del vulgo y al deseo;</l>
+                <l>veréis allí lugares declarados,</l>
+                <l n="685">hasta agora tan mal interpretados,</l>
+                <l>y que a Gelio y Turnebo</l>
+                <l>faltó la luz de Febo;</l>
+                <l>de Lambino y Durancio</l>
+                <l>y Lipso veréis presto</l>
+                <l n="690">que todo fue cansancio;</l>
+                <l>yo soy a todos un divino opuesto.</l>
+                <l>Mirad aqueste pico y esta cara,</l>
+                <l>este negro lustroso.</l>
+                <l>Oh, dioses, ¿cuál me escoge por su ave,</l>
+                <l n="695">si quiere ser dichoso?</l>
+                <l>Que aquí mi dulce voz cansada para,</l>
+                <l>porque si replicare, como muestra,</l>
+                <l>pueda volver más fuerte a la palestra.»</l>
+                <l>Dijo, desvanecida, el ave impura,</l>
+                <l n="700">funesta a nuestros ojos;</l>
+                <l>que teme engaños de la sombra escura</l>
+                <l>quien causa envidias y sospecha enojos.</l>
+                <l>No se movió la selva; solamente</l>
+                <l>le murmuró la fuente,</l>
+                <l n="705">y esparcido el ganado</l>
+                <l>que bajaba un pastor del monte al prado,</l>
+                <l>dio groseros balidos;</l>
+                <l>los pájaros se fueron de sus nidos,</l>
+                <l>silbando al orador, y los oyentes</l>
+                <l n="710">arrugaron las frentes,</l>
+                <l>al satírico tordo aborreciendo.</l>
+                <l>Filomena dulcísima, creyendo</l>
+                <l>que más información era importante,</l>
+                <l>solicitó el silencio circunstante,</l>
+                <l n="715">y templando la voz con el süave</l>
+                <l>céfiro que en las aguas sumergía</l>
+                <l>las varias plumas que vistió aquel día,</l>
+                <l>movió la lengua en dulce acento y grave,</l>
+                <l>de suerte que a escucharla parecía,</l>
+                <l n="720">por verla tan sonora,</l>
+                <l>que bajando otra vez la blanca Aurora,</l>
+                <l>purpúrea comenzaba a sonrojarse;</l>
+                <l>las flores, que la vieron duplicarse,</l>
+                <l>a sus plantas las hojas previnieron</l>
+                <l n="725">por volver a bañarse.</l>
+                <l>Y en vez del blando aljófar aparente,</l>
+                <l>el engaño bebieron.</l>
+                <l>Enmudeció la fuente,</l>
+                <l>que dejando la margen que tenía,</l>
+                <l n="730">las guijas, trastes ya de su armonía,</l>
+                <l>y menudas arenas,</l>
+                <l>de polvos de oro llenas,</l>
+                <l>dilató su cristal por todo el prado</l>
+                <l>mirándole de flores esmaltado</l>
+                <l n="735">por un espejo trasparente el cielo,</l>
+                <l>como pintura que en lugar de velo</l>
+                <l>por los cristales muestra las colores,</l>
+                <l>así, debajo de las aguas, flores.</l>
+                <l>Escucha, pues, Leonor, el dulce canto,</l>
+                <l n="740">ya parte de tu honor, que estimo en tanto:</l>
+                <l>que si la protección toca a los sabios,</l>
+                <l>reciben como propios los agravios.</l>
+                <l>¡Oh, pues, premia mi amor, que el tuyo solo</l>
+                <l>tiene más precio que el laurel de Apolo!</l>
+                <l n="745">«Senado ilustre y claro</l>
+                <l>—dijo el ave amorosa,</l>
+                <l>templando el pico en la primera rosa—;</l>
+                <l>si con largo y retórico proemio</l>
+                <l>solicitar adulación quisiera,</l>
+                <l n="750">en este siglo avaro</l>
+                <l>de la divina Astrea,</l>
+                <l>que con doradas alas</l>
+                <l>se fue a juzgar a las etéreas salas,</l>
+                <l>huyendo la mentira atroz y fea,</l>
+                <l n="755">temiera el justo premio,</l>
+                <l>que entre deidades culpa mortal fuera,</l>
+                <l>y indigno agravio en el terreno gremio;</l>
+                <l>y ansí, pienso que puedo</l>
+                <l>con breve exordio prevenir el miedo.</l>
+                <l n="760">»Después que oí la voz de mi enemigo,</l>
+                <l>la materia que trata,</l>
+                <l>a lo que llega su arrogante ingenio,</l>
+                <l>la condición con que al mayor amigo</l>
+                <l>más venenoso mata,</l>
+                <l n="765">y que la envidia fue su propio genio,</l>
+                <l>ni quiero que Cilenio</l>
+                <l>me influya, dicte y mueva,</l>
+                <l>ni que dulce Hipocrene</l>
+                <l>bañe de ambrosia pura</l>
+                <l n="770">mis labios, ni volver con fuerza nueva</l>
+                <l>a la palestra dura,</l>
+                <l>donde a cantar sus inorancias viene.</l>
+                <l>¡Oh mísero gramático.</l>
+                <l>sólo en acentos y oraciones prático!</l>
+                <l n="775">Y aun pluguiera a los dioses soberanos</l>
+                <l>que oraciones y acentos</l>
+                <l>supiera entre arrogancias espumosas.</l>
+                <l>Todo es ostentación y engaños vanos,</l>
+                <l>entre inorantes a su lengua atentos;</l>
+                <l n="780">no aquí, donde las aves más famosas</l>
+                <l>común han hecho el fénix en España,</l>
+                <l>que en las fuentes del sol las alas baña.</l>
+                <l>»Afrenta al vencedor el vil sujeto;</l>
+                <l>pero por mi modestia, que en efeto</l>
+                <l n="785">nunca yo la perdí, ni en la tragedia</l>
+                <l>del infame Tereo,</l>
+                <l>mi prudencia indignó su mal deseo;</l>
+                <l>que el sufrimiento la mitad remedia</l>
+                <l>de un trágico suceso,</l>
+                <l n="790">que suele la venganza doblar tanto;</l>
+                <l>comenzaré mi canto,</l>
+                <l>defensa de otros que canté en distintas</l>
+                <l>selvas, si no fue llanto;</l>
+                <l>va en dilatadas voces, va en sucintas,</l>
+                <l n="795">del arcadio Ladón y el Erimanto,</l>
+                <l>del Tajo y del humilde Manzanares,</l>
+                <l>y en las liberas fértiles sagradas,</l>
+                <l>de cedro y terebinto coronadas,</l>
+                <l>del río que venera los altares</l>
+                <l n="800">de la cuna del sol, que al sol dio vida,</l>
+                <l>y de su muerte la postrera cama.</l>
+                <l>Oíd, dioses, oíd; que mi ofendida</l>
+                <l>sonora voz a la palestra os llama;</l>
+                <l>mi voz, que de mi patria aborrecida,</l>
+                <l n="805">no en todas, en algunas intenciones,</l>
+                <l>halló lugar en bárbaras naciones.</l>
+                <l>»Apenas en mi nido,</l>
+                <l>que de pajas torcidas fabricaba</l>
+                <l>mi padre, de los montes procedido,</l>
+                <l n="810">donde Pelayo a España restauraba</l>
+                <l>del africano fiero,</l>
+                <l>¡oh Amor, de la tragedia autor primero!,</l>
+                <l>de plumas vi cubierto el blanco pecho,</l>
+                <l>a sus puntas humor comunicando,</l>
+                <l n="815">y siendo ya deshecho,</l>
+                <l>nuevas alas alas el céfiro cortando,</l>
+                <l>mostrarme tantas tierras,</l>
+                <l>ciudades altas y nevadas sierras;</l>
+                <l>cuando con dulce canto,</l>
+                <l n="820">aprendido de tantos ruiseñores,</l>
+                <l>que con varias colores,</l>
+                <l>ceñidos de laurel y rojo acanto,</l>
+                <l>enseñaban los tiernos pajarillos,</l>
+                <l>di muestras de llegar al palio santo.</l>
+                <l n="825">Pero antes desta edad, en la más tierna,</l>
+                <l>cuando la sangre a la razón gobierna,</l>
+                <l>y a los cantores grillos</l>
+                <l>cárceles fabricaba,</l>
+                <l>cogidos en los trigos,</l>
+                <l n="830">versos sin forma en embrïón brotaba;</l>
+                <l>y cuando a los pintados colorines</l>
+                <l>con los nuevos amigos</l>
+                <l>la liga cautelosa les ponía,</l>
+                <l>y el alba de claveles y jazmines</l>
+                <l n="835">la frente componían</l>
+                <l>yo mis versos también, con viva fuerza,</l>
+                <l>a quien sin arte el natural esfuerza;</l>
+                <l>mas luego que con él, y que tenía</l>
+                <l>en la filosofía</l>
+                <l n="840">seguro el fundamento,</l>
+                <l>que sin ella mil ciegos van a tiento,</l>
+                <l>diciendo desatinos,</l>
+                <l>canté mejores versos,</l>
+                <l>imitando los griegos y latinos.</l>
+                <l n="845">Y cuando ya los vi puros y tersos,</l>
+                <l>dándome aliento juveniles años,</l>
+                <l>canté de amor las iras,</l>
+                <l>verdades y mentiras,</l>
+                <l>y entre tantos engaños.</l>
+                <l n="850">Rimas llamé también sus desengaños.</l>
+                <l>»Mas ya la primavera</l>
+                <l>animaba los árboles desnudos</l>
+                <l>con verdes almas por los troncos rudos;</l>
+                <l>las aves daban música a las flores,</l>
+                <l n="855">y una fuente parlera</l>
+                <l>a la noche contaba sus amores,</l>
+                <l>cuando ninfa cruel, que yo quería,</l>
+                <l>de aquella verde selva,</l>
+                <l>eco el Amor la vuelva,</l>
+                <l n="860">otro pájaro amó, grande y lustroso,</l>
+                <l>yo pienso que oropéndola sería,</l>
+                <l>del bosque a Manzanares toldo umbroso,</l>
+                <l>más rico de vestidos y colores,</l>
+                <l>pero no de tan dulce melodía,</l>
+                <l n="865">aunque cantaba en oro sus amores.</l>
+                <l>Elisa se llamaba</l>
+                <l>la ninfa, y era tan hermosa y bella,</l>
+                <l>que el sol se la llevó para su estrella;</l>
+                <l>ésta, porque yo quise</l>
+                <l n="870">vengarme amando a Nise</l>
+                <l>(Nise, que me adoraba,</l>
+                <l>y a quien cantar solía</l>
+                <l>luego que amanecía</l>
+                <l>el alba entre sus ojos),</l>
+                <l n="875">mandó, por dar venganza a sus enojos,</l>
+                <l>a un cazador, que en lazos me prendiese.</l>
+                <l>Prendióme, y de mi libre patrio nido</l>
+                <l>despojóme atrevido,</l>
+                <l>sin que yo le ofendiese,</l>
+                <l n="880">y en su cárcel me tuvo tiempo largo,</l>
+                <l>que a los presos jamás parece breve;</l>
+                <l>y con injusto cargo</l>
+                <l>(así tal vez a los jüeces mueve</l>
+                <l>ira, amor y codicia)</l>
+                <l n="885">desterróme de selvas y de prados,</l>
+                <l>disfrazada en justicia,</l>
+                <l>la venganza amorosa.</l>
+                <l>»Yo entonces de pastores y ganados</l>
+                <l>despedíme llorosa,</l>
+                <l n="890">y ellos también lloraron,</l>
+                <l>mayormente una vez que me escucharon</l>
+                <l>estas tristes canciones,</l>
+                <l>con más suspiros y almas que razones:</l>
+                <l>“Sola esta vez quisiera,</l>
+                <l n="895">dulce instrumento mío, me ayudaras,</l>
+                <l>por ser la postrimera,</l>
+                <l>y que después colgado te quedaras</l>
+                <l>de aqueste sauce verde,</l>
+                <l>donde mi alma llora el bien que pierde.”</l>
+                <l n="900">»Contra la selva Calidonia entonces</l>
+                <l>iba la armada del monarca hispano:</l>
+                <l>seguí las gavias y banderas rojas,</l>
+                <l>sin espantarme tronadores bronces,</l>
+                <l>fuerte invención del alemán Vulcano,</l>
+                <l n="905">supuesto que pasé varias congojas.</l>
+                <l>Allí canté de Angélica y Medoro</l>
+                <l>desde el Catay a España la venida,</l>
+                <l>sin que los ecos del metal sonoro</l>
+                <l>y de las armas el furioso estruendo</l>
+                <l n="910">perturbasen mi Euterpe,</l>
+                <l>sirviendo el mar de arroyo sonoroso,</l>
+                <l>como en los prados fértiles corriendo,</l>
+                <l>que se transforma en cristalina sierpe;</l>
+                <l>y para dar aliento más famoso</l>
+                <l n="915">al estilo amoroso,</l>
+                <l>con dulces locuciones y colores</l>
+                <l>la pólvora dio olor, las jarcias flores.</l>
+                <l>las velas verdes toldos y doseles,</l>
+                <l>y los desnudos árboles laureles.</l>
+                <l n="920">Volví desde los blancos albïones</l>
+                <l>a la torre famosa del tebano,</l>
+                <l>donde puso el romano</l>
+                <l>eternas inscripciones;</l>
+                <l>y desde allí a las selvas y montañas,</l>
+                <l n="925">por donde, manso y ledo,</l>
+                <l>el Tajo celebrado,</l>
+                <l>dormido entre mastranzos y espadañas,</l>
+                <l>pretina de cristal ciñe a Toledo,</l>
+                <l>por sus ingenios fértiles dorado</l>
+                <l n="930">más que por sus arenas,</l>
+                <l>retratando en sus aguas sus almenas.</l>
+                <l>Salve, dije a la cuna</l>
+                <l>del noble Garcilaso,</l>
+                <l>honor de España, a quien cruel fortuna</l>
+                <l n="935">quitó la vida; ¡oh lamentable caso!</l>
+                <l>¡Que villanos le diesen muerte fiera</l>
+                <l>a quien la envidia perdonar quisiera!</l>
+                <l>Y tú, Gregorio Hernández, dije luego,</l>
+                <l>que a Virgilio nos diste castellano,</l>
+                <l n="940">aunque a pesar de la mejor sirena,</l>
+                <l>en tus sacras cenizas arde el fuego</l>
+                <l>de tu memoria, que deshace en vano</l>
+                <l>olvido injusto de la gloria ajena:</l>
+                <l>que de tu culta vena</l>
+                <l n="945">no puede eternamente</l>
+                <l>dejar de estar España agradecida,</l>
+                <l>ni tu patria de darte inmortal vida.</l>
+                <l>¡ Oh tú, Pedro Liñán, que injustamente</l>
+                <l>quiere el Ebro usurparte,</l>
+                <l n="950">como Calabria a Titiro divino,</l>
+                <l>preciado de tu origen, para darte</l>
+                <l>lo que de ti recibe !</l>
+                <l>Pero responde el Tajo cristalino</l>
+                <l>que por tus versos vive,</l>
+                <l n="955">y que te vio nacer desde sus ruedas,</l>
+                <l>donde devana eternamente plata.</l>
+                <l>Tú, pues, que al docto Sanazaro heredas,</l>
+                <l>no sé si diga que es tu patria ingrata.</l>
+                <l>¡Oh, Francisco Gutiérrez!, vive, y viva</l>
+                <l n="960">la corona de flores</l>
+                <l>que entre laurel y oliva</l>
+                <l>musas latinas a tu frente ofrecen;</l>
+                <l>pues si las hay mayores,</l>
+                <l>mayores tus virtudes las merecen.</l>
+                <l n="965">Dije en los altos montes; y los sotos</l>
+                <l>y valles más remotos</l>
+                <l>se alegraron de verme,</l>
+                <l>y el Tajo, donde duerme</l>
+                <l>con sueño más profundo,</l>
+                <l n="970">surtiendo plata y perlas,</l>
+                <l>el parabién me daba;</l>
+                <l>la envidia me miraba,</l>
+                <l>monstro el mayor del mundo,</l>
+                <l>pesándole de verlas,</l>
+                <l n="975">con ojos retorcidos;</l>
+                <l>yo siempre con modestia,</l>
+                <l>sufriendo su molestia,</l>
+                <l>alegré los pastores bien nacidos,</l>
+                <l>y fui favorecida</l>
+                <l n="980">cuando más perseguida</l>
+                <l>de aquél a quien el Tormes</l>
+                <l>humilla entre pizarras</l>
+                <l>el arrogante pecho,</l>
+                <l>que ciñen sauces y intricadas parras,</l>
+                <l n="985">y del valor divino satisfecho,</l>
+                <l>y las hazañas a la luz conformes</l>
+                <l>de aquel Alba primera,</l>
+                <l>que ya es planeta de la quinta esfera,</l>
+                <l>paga tributos fértiles y opimos</l>
+                <l n="990">Ceres en blanco pan, Baco en racimos.</l>
+                <l>Canté versos bucólicos</l>
+                <l>con pastoril zampoña, melancólicos;</l>
+                <l>que siempre tiene amor los fines trágicos,</l>
+                <l>todo celos, temor y encantos mágicos.</l>
+                <l n="995">Allí cubrí con áspera corteza</l>
+                <l>príncipes generosos,</l>
+                <l>almas nacidas en los ricos paños</l>
+                <l>de la mayor nobleza,</l>
+                <l>iguales a los leves poderosos,</l>
+                <l n="1000">que no villanos bárbaros y extraños.</l>
+                <l>Así pienso que fueron los edilios</l>
+                <l>de Teócrito griego,</l>
+                <l>fundados en amor, si noble, ciego,</l>
+                <l>cuya invención se debe a los concilios</l>
+                <l n="1005">de aquellos labradores,</l>
+                <l>músicos de las aras de Dïana,</l>
+                <l>si ya no son de Orestes los cantores,</l>
+                <l>Tindárida, la diosa siciliana,</l>
+                <l>mezclando los estilos, los amores;</l>
+                <l n="1010">mas como quiera, vienen disfrazados</l>
+                <l>el gran rey Tolomeo</l>
+                <l>entre selvas y rústicos ganados,</l>
+                <l>y Lícidas también mitileneo,</l>
+                <l>Frasidemo y Antígenes,</l>
+                <l n="1015">que no cantó con la sonora trompa</l>
+                <l>del ciego Melesígenes.</l>
+                <l>Pues, ¿qué diré del claro Mantüano,</l>
+                <l>por más que el tordo bárbaro interrompa</l>
+                <l>fundamento tan llano?</l>
+                <l n="1020">¡Cuántas veces cantó claros Mecenas</l>
+                <l>y fuertes capitanes belicosos</l>
+                <l>en pastoriles fístulas y avenas!</l>
+                <l>¡Cuántas veces los reyes generosos</l>
+                <l>con los versos que hurtó de la Sibila</l>
+                <l n="1025">de aquella edad, que leche y miel distila</l>
+                <l>por olmos, alcornoques y laureles!</l>
+                <l>Mas él, que no penetra los linteles</l>
+                <l>de las puertas jamás en los escritos,</l>
+                <l>todo lo llama errores,</l>
+                <l n="1030">todo inorancia y bárbaros delitos,</l>
+                <l>sin consultar los clásicos autores;</l>
+                <l>mas ¿qué ha de hacer, que su soberbia ciega</l>
+                <l>la luz del sol le niega,</l>
+                <l>y piensa que se escriben de villanos,</l>
+                <l n="1035">los pies sobre los trillos</l>
+                <l>las hoces en las manos,</l>
+                <l>derribando los trigos amarillos,</l>
+                <l>o las sabinas por los montes llanos</l>
+                <l>con el destral agudo,</l>
+                <l n="1040">al golpe respondiendo el valle mudo,</l>
+                <l>los versos sibilinos</l>
+                <l>de los cónsules dinos,</l>
+                <l>que a las selvas los lleva el gran poeta?</l>
+                <l>Pero ¿quién sufrirá los desatinos</l>
+                <l n="1045">de la crítica seta?</l>
+                <l>¿Quién esta gente mísera, inorante,</l>
+                <l>con ingenio pedante,</l>
+                <l>que a Dios la mano abrevia,</l>
+                <l>sin ver que cada día</l>
+                <l n="1050">sale del bello sol la aurora previa,</l>
+                <l>y que en Espiaña Sanazaros cría,</l>
+                <l>tan bien como en Parténope la bella,</l>
+                <l>intrépida doncella,</l>
+                <l>de la parte mejor que el mundo tiene,</l>
+                <l n="1055">que a ser su reina viene,</l>
+                <l>pues distancias, edades y lugares</l>
+                <l>constituyen ingenios singulares?</l>
+                <l>»Esto canté, y en mis primeros años</l>
+                <l>Amor fue mi maestro,</l>
+                <l n="1060">Anacreonte diestro;</l>
+                <l>pero luego pasé de sus engaños</l>
+                <l>con más ilustre genio</l>
+                <l>a dirigir la pluma y el ingenio</l>
+                <l>al patrón Mantüano,</l>
+                <l n="1065">que canté con estilo castellano,</l>
+                <l>despreciado en España injustamente,</l>
+                <l>si bien menos hinchado y elocuente,</l>
+                <l>después que con los versos extranjeros,</l>
+                <l>en quien Lasso y Boscán fueron primeros,</l>
+                <l n="1070">perdimos la agudeza, gracia y gala</l>
+                <l>tan propia de españoles,</l>
+                <l>en los conceptos, soles,</l>
+                <l>y en las sales, fenices;</l>
+                <l>y así, ninguno lo que imita iguala;</l>
+                <l n="1075">y son en sus escritos infelices,</l>
+                <l>pues ninguno en el método extranjero</l>
+                <l>puso su ingenio en el lugar primero.</l>
+                <l>»Mas, ¡ay, ave infeliz para la envidia,</l>
+                <l>a quien tanto fastidia</l>
+                <l n="1080">la fama y gloria ajena,</l>
+                <l>de triunfos, arcos y laureles llena!</l>
+                <l>Cayó mi dulce Isidro</l>
+                <l>en un villano pozo,</l>
+                <l>mas no perdiendo el gozo,</l>
+                <l n="1085">que mal pueden romper lanzas de vidro</l>
+                <l>en armas de diamante,</l>
+                <l>ni pincel inorante</l>
+                <l>borrar la simetría</l>
+                <l>de la figura que pintado había</l>
+                <l n="1090">con divinos colores;</l>
+                <l>antes guardan mejor campos de flores</l>
+                <l>las márgenes de espinos,</l>
+                <l>que fríos desatinos</l>
+                <l>de ingenios envidiosos</l>
+                <l n="1095">descubren más las almas,</l>
+                <l>como las fuertes palmas,</l>
+                <l>que resistiendo al peso,</l>
+                <l>levantan más los ramos vitoriosos.</l>
+                <l>Deste feliz suceso</l>
+                <l n="1100">pasé a la Dragantea,</l>
+                <l>y las cerdas del arco,</l>
+                <l>a pesar de Aristarco,</l>
+                <l>en la resina indiana;</l>
+                <l>allí, dulces y infusas,</l>
+                <l n="1105">las antárticas musas</l>
+                <l>ciñeron de corales, como grana</l>
+                <l>del rojo pez de Tiro,</l>
+                <l>mis sienes españolas,</l>
+                <l>y codició su mar con altas olas</l>
+                <l n="1110">agradecer al Tajo</l>
+                <l>tan lucido trabajo</l>
+                <l>en término tan breve.</l>
+                <l>Mas, como nunca paga lo que debe</l>
+                <l>la patria, dejé aparte</l>
+                <l n="1115">las trompetas de Marte,</l>
+                <l>y canté las desdichas</l>
+                <l>de un peregrino en ella,</l>
+                <l>mejores para dichas</l>
+                <l>de quien tuvo en nacer la misma estrella.</l>
+                <l n="1120">Esto en el claro Betis,</l>
+                <l>donde le esperan Anfitrite y Tetis,</l>
+                <l>de pacífica oliva coronado,</l>
+                <l>entre barcos de plata y oro echado,</l>
+                <l>y Herrera, honor del griego y del latino,</l>
+                <l n="1125">a pesar de inorantes, fue divino.</l>
+                <l>»Después, volviendo al Tajo, desatado</l>
+                <l>el cuello perezoso</l>
+                <l>del carro de las cándidas palomas,</l>
+                <l>triunfo de Venus y de Amor vendado,</l>
+                <l n="1130">padre del tiempo ocioso,</l>
+                <l>en el sacro Jordán mi musa embarco;</l>
+                <l>y en olorosas lágrimas y aromas</l>
+                <l>del Líbano frondoso</l>
+                <l>pasé de nuevo el arco,</l>
+                <l n="1135">y despreciando bárbaros amores,</l>
+                <l>canté los betlemíticos pastores,</l>
+                <l>hallando más ventajas</l>
+                <l>en adorar un Sol nacido en pajas</l>
+                <l>que en vanas hermosuras.</l>
+                <l n="1140">No pude deshacer tantas pinturas;</l>
+                <l>pero pinté sobrellas</l>
+                <l>canciones al Autor de las estrellas,</l>
+                <l>nuevas Rimas divinas, amorosas.</l>
+                <l>Y porque ya para mayores cosas</l>
+                <l n="1145">me llamaba la edad, troqué la lira</l>
+                <l>en la trompeta heroica de la fama.</l>
+                <l>Y como ya canté la dulce cuna</l>
+                <l>donde al divino Sol parió la Luna,</l>
+                <l>en veinte libros la postrera cama,</l>
+                <l n="1150">donde venció Ricardo al Saladino</l>
+                <l>en las riberas del Jordán divino,</l>
+                <l>que del fruto dorado de sus palmas</l>
+                <l>coronaba las frentes y las almas;</l>
+                <l>Ricardo, pío inglés, abuelo santo</l>
+                <l n="1155">de los mejores reyes de Castilla,</l>
+                <l>conquistadores de la gran Sevilla,</l>
+                <l>puerta de un mundo que nos honra tanto,</l>
+                <l>pues por España antárticas regiones,</l>
+                <l>que ignoró Tolomeo,</l>
+                <l n="1160">saben el evangelio y fe de Cristo,</l>
+                <l>y llegan los castillos y leones</l>
+                <l>a la cama de Apolo didimeo,</l>
+                <l>como por Luso al polo de Calisto.</l>
+                <l>Decilde al ave fúnebre, deidades,</l>
+                <l n="1165">trocando por verdades</l>
+                <l>esta envidiosa tema,</l>
+                <l>que emprenda algún poema</l>
+                <l>que intente honor a España.</l>
+                <l>Es la reprehensión fácil hazaña;</l>
+                <l n="1170">pero el tomar la pluma</l>
+                <l>no se concede a todos.</l>
+                <l>¡Oh cuántos que blasonan de mil modos</l>
+                <l>que desprecian humana competencia,</l>
+                <l>en la más breve suma</l>
+                <l n="1175">nos muestran sin prudencia</l>
+                <l>su engaño y su ignorancia!</l>
+                <l>Del decir al hacer hay gran distancia.</l>
+                <l>»Canté la historia trágica</l>
+                <l>de quien se ríe el tordo,</l>
+                <l n="1180">siguiendo los antiguos escritores:</l>
+                <l>todo es verdad lo de la nave mágica;</l>
+                <l>pero ¿cuál envidioso no fue sordo</l>
+                <l>y ciego a sus divinos resplandores?</l>
+                <l>Los episodios que ilustré mayores,</l>
+                <l n="1185">que paréntesis deben</l>
+                <l>en el docto retórico,</l>
+                <l>no comprehenden al poeta histórico,</l>
+                <l>puesto que necios críticos lo aprueben;</l>
+                <l>ni comencé mi historia</l>
+                <l n="1190">por el huevo de Leda.</l>
+                <l>Mas no tiene memoria</l>
+                <l>quien lee con envidia,</l>
+                <l>que como le fastidia</l>
+                <l>que ajeno honor le exceda,</l>
+                <l n="1195">no hay cosa heroica que agradarle pueda.</l>
+                <l>En el fin imité cuantos poetas</l>
+                <l>claros celebra Italia;</l>
+                <l>pero si Ovidio y el divino Estacio</l>
+                <l>están en lengua siria,</l>
+                <l n="1200">envidia para ti, mal interpretas,</l>
+                <l>¡oh Momo de Accidalia</l>
+                <l>cuyo chapín te ofende!,</l>
+                <l>la imitación que ignoras</l>
+                <l>y mi humildad pretende;</l>
+                <l n="1205">mal en la playa tiria</l>
+                <l>te cansa Garcerán (gloria de España)</l>
+                <l>Manrique, honor de Nájara y Triviño,</l>
+                <l>cuyo valor desdoras;</l>
+                <l>mal con tu negra tinta</l>
+                <l n="1210">presumes detener cándido armiño</l>
+                <l>a quien la aurora en sus jazmines baña,</l>
+                <l>y pone el sol en su dorada cinta.</l>
+                <l>A Ismenia el arte pinta,</l>
+                <l>como a Camila el docto Mantüano",</l>
+                <l n="1215">el Taso a Arminda bella,</l>
+                <l>y el Ferrarés la hermosa Bradamante.</l>
+                <l>Pero mejor se alaba el castellano</l>
+                <l>de la ilustre doncella</l>
+                <l>que llamaron Varona,</l>
+                <l n="1220">que al rey aragonés prendió arrogante,</l>
+                <l>origen del linaje Baraona.</l>
+                <l>Mas es la admiración, cual siempre ha sido,</l>
+                <l>hija de la inorancia;</l>
+                <l>Juana fue ejemplo restaurando a Francia,</l>
+                <l n="1225">sin otras mil mujeres varoniles,</l>
+                <l>más que Alejandros, Hétores y Aquiles;</l>
+                <l>ni de Cenobia despreció Aureliano-</l>
+                <l>triunfo y laurel, ni el ser restituido</l>
+                <l>Enrique de la fuerte Margarita,</l>
+                <l n="1230">el acero belígero en la mano,</l>
+                <l>y en el cabello espléndido esparcido</l>
+                <l>el peine de marfil; alta vitoria</l>
+                <l>desde el espejo al campo solicita</l>
+                <l>Semíramis valiente;</l>
+                <l n="1235">pero mejor en la sagrada historia</l>
+                <l>Débora, israelita,</l>
+                <l>gobierno de tan ínclitos varones:</l>
+                <l>mas quien no ve la luz, tampoco siente.</l>
+                <l>Yo canté, finalmente,</l>
+                <l n="1240">los mártires japones,</l>
+                <l>porque mi voz no agradeciese sólo</l>
+                <l>el mar que el Duero, el Tajo, el Betis bebe,</l>
+                <l>sino el que tiene por cénit el polo</l>
+                <l>más oriental; pero sin causa emprendo,</l>
+                <l n="1245">aunque al honor se debe</l>
+                <l>daros satisfación, si la tuvistes,</l>
+                <l>aves, selvas y montes;</l>
+                <l>aunque pienso que ofendo,</l>
+                <l>pues que mi voz oistes,</l>
+                <l n="1250">dilatada por tantos horizontes</l>
+                <l>desde la infancia mía,</l>
+                <l>si os acordáis, cuando cantar solía:</l>
+                <l>»La verde primavera</l>
+                <l>de mis floridos años</l>
+                <l n="1255">pasé cautivo, Amor, en tus prisiones.</l>
+                <l>¿Qué monte, selva o fiera</l>
+                <l>no se movió con escuchar mis daños</l>
+                <l>en estas y otras célebres canciones?</l>
+                <l>Mas haced reflexión en la memoria</l>
+                <l n="1260">de novecientas fábulas oídas</l>
+                <l>por toda España, y muchas dilatadas</l>
+                <l>al pacífico mar; que no hay historia</l>
+                <l>que tantas nos proponga referidas,</l>
+                <l>cuanto más estampadas,</l>
+                <l n="1265">que a menos humildad causaran gloria;</l>
+                <l>y así, debe advertirse</l>
+                <l>que esto no es alabarse,</l>
+                <l>a nadie preferirse,</l>
+                <l>a nadie aventajarse;</l>
+                <l n="1270">es sólo defenderse</l>
+                <l>y a viles objeciones oponerse;</l>
+                <l>pues que por ley divina</l>
+                <l>y humana se concede</l>
+                <l>la natural defensa,</l>
+                <l n="1275">naturaleza inclina,</l>
+                <l>en cuanto el hombre puede,</l>
+                <l>a resistir la ofensa.</l>
+                <l>Y pues las leyes quieren</l>
+                <l>que el honor se anteponga</l>
+                <l n="1280">aun a la misma vida,</l>
+                <l>justo derecho adquieren</l>
+                <l>los que, cuando se oponga</l>
+                <l>la envidia fementida</l>
+                <l>a la verdad con actos adquirida,</l>
+                <l n="1285">intenten su defensa, y de su furia</l>
+                <l>se libren con modestia.</l>
+                <l>Las leyes llaman lícita</l>
+                <l>la defensa del hombre</l>
+                <l>a la fuerza y la injuria,</l>
+                <l n="1290">al agravio y molestia;</l>
+                <l>común es este nombre</l>
+                <l>y el natural derecho de las gentes.</l>
+                <l>Sufren los inocentes</l>
+                <l>los agravios ocultos,</l>
+                <l n="1295">mas no podrán los públicos insultos.</l>
+                <l>Murmura el blando céfiro y las fuentes</l>
+                <l>no haberme defendido;</l>
+                <l>luego fue permitido</l>
+                <l>dilatar mi defensa en versos cultos.</l>
+                <l n="1300">Si los jurisconsultos</l>
+                <l>la acusación presumen por envidia,</l>
+                <l>por ella es bien que reprobarse deba;</l>
+                <l>calumnia el que no prueba,</l>
+                <l>la mentira fastidia,</l>
+                <l n="1305">supuesto que nos mueva</l>
+                <l>vestida de retóricos colores.</l>
+                <l>Deidades, selvas, montes, fuentes, flores,</l>
+                <l>no quiero más defensa</l>
+                <l>que ser vosotros cándidos testigos</l>
+                <l n="1310">de la voz que escuchastes tantas veces:</l>
+                <l>ya os consta de la ofensa,</l>
+                <l>y aunque dulces amigos,</l>
+                <l>seréis también jüeces;</l>
+                <l>que yo doy fin aquí por no cansaros</l>
+                <l n="1315">y por tener lugar para alabaros:</l>
+                <l>todos sabéis mi pena;</l>
+                <l>defended vuestra dulce Filomena.»</l>
+            </lg>
+            <lg>
+                <l>Ya de las fuentes la sonora plata</l>
+                <l>que por las altas márgenes bullía,</l>
+                <l n="1320">manso rüido de cristal desata,</l>
+                <l>aplauso justo en música armonía;</l>
+                <l>alegre por el prado se dilata,</l>
+                <l>y nuevas a los árboles envía</l>
+                <l>con el crespo Favonio, que le hurtaba</l>
+                <l n="1325">las blancas perlas que a las hojas daba.</l>
+            </lg>
+            <lg>
+                <l>Ya las aves también, que al dulce canto</l>
+                <l>estuvieron atentas, respondían</l>
+                <l>con acordadas voces, y entretanto</l>
+                <l>las selvas la vitoria conferían;</l>
+                <l n="1330">cuando teñido de envidioso espanto</l>
+                <l>de ver que darle el premio proponían,</l>
+                <l>el tordo quiso responder, haciendo</l>
+                <l>con las funestas alas ronco estruendo.</l>
+            </lg>
+            <lg>
+                <l>Pero los dioses luego decretaron</l>
+                <l n="1335">la sentencia en favor de Filomena,</l>
+                <l>y a su eterno silencio condenaron</l>
+                <l>el tordo, que hoy con tal vergüenza suena;</l>
+                <l>y que si hablare, por piedad mandaron</l>
+                <l>que sólo sea, del delito en pena,</l>
+                <l n="1340">lo que aprendiere con mortal fatiga,</l>
+                <l>sin saber lo que dice, aunque lo diga.</l>
+            </lg>
+            <lg>
+                <l>Canta, fénix del bosque, canta, alado</l>
+                <l>espíritu, que en venas tan sutiles</l>
+                <l>escondes voz que el inmortal senado</l>
+                <l n="1345">escucha por los cándidos viriles;</l>
+                <l>mezcla con suavidad, clarín sagrado,</l>
+                <l>sin que puedas temer pájaros viles,</l>
+                <l>al género cromático y diatónico,</l>
+                <l>con intervalo dulce el enharmónico.</l>
+            </lg>
+            <lg>
+                <l n="1350">Haz puntos sustentados, haz intensos,</l>
+                <l>haz semitonos, diesis y redobles,</l>
+                <l>que vivirá tu voz siglos inmensos</l>
+                <l>entre almas puras, entre ingenios nobles;</l>
+                <l>así penetra el sol círculos densos,</l>
+                <l n="1355">y a la ruda segur los toscos robles</l>
+                <l>caen del tiempo, agricultor sin fama,</l>
+                <l>cuando palma inmortal nubes enrama.</l>
+            </lg>
+            <lg>
+                <l>¿Qué importa que cornejas, que siniestra</l>
+                <l>infame multitud de rudas aves</l>
+                <l n="1360">aniquile tu voz sonora y diestra,</l>
+                <l>si semínimas son para tus claves?</l>
+                <l>Deciendan a la música palestra,</l>
+                <l>y tus decenas altas y süaves</l>
+                <l>verán olimpos, donde el tiempo llama</l>
+                <l n="1365">eternas las cenizas de tu fama.</l>
+            </lg>
+        </body>
+    </text>
+</TEI>

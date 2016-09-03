@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de Acis y Galatea</title>
+            <author>Luis Carrillo y Sotomayor</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Carrillo y Sotomayor, Luis. <title>Obras</title>. Ed. De Rosa Navarro. Madrid: Castalia, 1990. Impreso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado en<date>1611</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Argumento de la fábula, por su hermano don Alonso Carrillo</head>
+            <lg>
+               <l>De viva peña asientos ocupaban</l>
+               <l>la blanca Galatea y Scila hermosa,</l>
+               <l>bramando el Etna lo que apenas daban,</l>
+               <l>tiernas quejas oyó de voz llorosa.</l>
+               <l n="5">Así pues, Galatea, celebraban</l>
+               <l>fieras lisonjas a su falsa esposa;</l>
+               <l>y así de un golpe el Cíclope tirano</l>
+               <l>llore en cristal mi Acis hizo en vano.</l>
+            </lg>
+         </div>
+         <div>
+            <head>La fábula</head>
+            <lg>
+               <l>De cuál era marfil, la blanca mano</l>
+               <l n="10">o el peine que entre el oro discurría;</l>
+               <l>o si era el sol aquél que el océano</l>
+               <l>de sus hermosos rayos lo vestía,</l>
+               <l>o aquél que, altivo, del Titón anciano</l>
+               <l>la blanca esposa, pálido, seguía,</l>
+               <l n="15">dudoso el Etna, aun detenia en su falda</l>
+               <l>abrazadas las perlas de esmeralda.</l>
+            </lg>
+            <lg>
+               <l>En sus fuegos terrible y temeroso,</l>
+               <l>sacó la negra frente, y admirado</l>
+               <l>en ver de Galatea el rostro hermoso,</l>
+               <l n="20">acrecentó su fuego enamorado:</l>
+               <l>y estando atento, del volcán fogoso,</l>
+               <l>así escuchó, de humos coronado,</l>
+               <l>lamentarse la ninfa, de una suerte,</l>
+               <l>por larga vida y por temprana muerte.</l>
+            </lg>
+            <lg>
+               <l n="25">"Con más galas mostraba el blanco día</l>
+               <l>en manos de la aurora su tesoro,</l>
+               <l>y más hermoso el rojo sol vertía</l>
+               <l>de su ligero carro aljófar y oro.</l>
+               <l>Resplandecientes ejes recebía</l>
+               <l n="30">en su cerviz robusta el fuerte Toro,</l>
+               <l>y de Pirois y Etón la blanca pluma</l>
+               <l>el aire y luz hendió vertiendo espuma.</l>
+            </lg>
+            <lg>
+               <l>"Con apacible risa se extendía</l>
+               <l>un arroyo, de juncia coronado,</l>
+               <l n="35">a quien el rubio sol nunca ofendía,</l>
+               <l>que exento dél estaba el fresco prado;</l>
+               <l>con cuello hojoso y verde, se oponía</l>
+               <l>a su color el sauce levantado,</l>
+               <l>y, burlando del sol, ufano, el viento</l>
+               <l n="40">robaba a varias flores el aliento.</l>
+            </lg>
+            <lg>
+               <l>"Más que la blanca nieve intacta y pura,</l>
+               <l>una pequeña cueva se mostraba</l>
+               <l>—segunda a mi Acis bello en hermosura—</l>
+               <l>que la azul Anfitrite coronaba.</l>
+               <l n="45">Persuadiónos su sitio y su frescura</l>
+               <l>y el destino cruel que me guiaba;</l>
+               <l>hizo el amor la viva piedra alfombra,</l>
+               <l>dosel la peña, y del dosel la sombra.</l>
+            </lg>
+            <lg>
+               <l>"Más lazos que aquel olmo levantado</l>
+               <l n="50">recibe de su yedra, ¡oh Scila mía!,</l>
+               <l>con más que ciñe aqueste verde prado</l>
+               <l>de su corriente arroyo el agua fría,</l>
+               <l>mi cuello enlazó Acis, que, enredado,</l>
+               <l>esconderse en mí el triste parecía;</l>
+               <l n="55">en dulce lucha y amoroso juego,</l>
+               <l>dieron al corazón las lenguas fuego."</l>
+            </lg>
+            <lg>
+               <l>Venció, en fin, la memoria, y coronados</l>
+               <l>de perlas Galatea entrambos ojos,</l>
+               <l>sobre los hilos de oro derramados,</l>
+               <l n="60">de aljófar Scila vio varios despojos;</l>
+               <l>ablandó, cual discreta, sus cuidados,</l>
+               <l>venció con sus razones sus enojos.</l>
+               <l>Prosiguió Galatea el fatal cuento,</l>
+               <l>paróse el mar y suspendióse el viento.</l>
+            </lg>
+            <lg>
+               <l n="65">"Los premios del amor nos incitaban,</l>
+               <l>la soledad y sombras persuadían,</l>
+               <l>y el ver cómo las vides se abrazaban</l>
+               <l>con los hermosos chopos y se asían;</l>
+               <l>también dos tortolillas nos mostraban,</l>
+               <l n="70">en besos dulces, cuánto se querían:</l>
+               <l>todo era, en fin, amor, que amor triunfaba</l>
+               <l>hasta en la hierba que en el prado estaba.</l>
+            </lg>
+            <lg>
+               <l>"Tiemblo al decirte: igual a aquel que toca</l>
+               <l>álamo, bien que altivo, el alto cielo,</l>
+               <l n="75">de una lóbrega cueva el ancha boca</l>
+               <l>pobló soberbio; estremecióse el suelo;</l>
+               <l>prestóle humilde asiento una alta roca,</l>
+               <l>zampoña pastoril, igual consuelo;</l>
+               <l>retumbó el monte, de sus silbos lleno;</l>
+               <l n="80">lloró su propio mal, cantó el ajeno.</l>
+            </lg>
+            <lg>
+               <l>"El líquido cristal, que se abrazaba</l>
+               <l>y con lascivo juego se extendía,</l>
+               <l>temeroso a las voces que escuchaba,</l>
+               <l>esconderse en sí mismo pretendía.</l>
+               <l n="85">Yo, triste, que de miedo le negaba</l>
+               <l>aliento al flaco pecho y lengua fría,</l>
+               <l>así escuché la causa de mi muerte</l>
+               <l>cantar mi rostro y lamentar su suerte":</l>
+            </lg>
+            <lg>
+               <l>"No la envidia del cielo, el prado hermoso,</l>
+               <l n="90">ya por mejor color, ya por bordado</l>
+               <l>de hermosas flores, ni con cuello hojoso</l>
+               <l>el ciprés a las nubes encumbrado;</l>
+               <l>no del arroyo aquel color lustroso,</l>
+               <l>ya en aguas libre, ya en cristal atado,</l>
+               <l n="95">ni juntos ciprés, prado, cristal frío,</l>
+               <l>igualan la beldad del dueño mío.</l>
+            </lg>
+            <lg>
+               <l>"No el indomable toro más airado,</l>
+               <l>ni con ancianos brazos extendida,</l>
+               <l>resiste a su pastor, ni al enojado</l>
+               <l n="100">viento resiste más la encina herida;</l>
+               <l>no está más sordo el fiero mar turbado,</l>
+               <l>ni víbora cruel más ofendida,</l>
+               <l>que sorda está, que fiera está y airada,</l>
+               <l>en oyendo mi voz, mi prenda amada.</l>
+            </lg>
+            <lg>
+               <l n="105">"Compite al blando viento su blandura</l>
+               <l>—de cisne blanca pluma— y en dudosa</l>
+               <l>suerte la iguala de la leche pura</l>
+               <l>la nata dulce y presunción hermosa;</l>
+               <l>en su beldad promete y su frescura</l>
+               <l n="110">del hermoso jardín el lirio y rosa.</l>
+               <l>Y si mis quejas, ninfa hermosa, oyeras,</l>
+               <l>leche, pluma, jardín, flores vencieras.</l>
+            </lg>
+            <lg>
+               <l>"No al soberbio ladrido el temeroso</l>
+               <l>gamo, ligero tanto, iguala al viento</l>
+               <l n="115">—que los deseos deja, presuroso,</l>
+               <l>atrás, corrido del lebrel exento—,</l>
+               <l>como, al mirarme, el prado del pie hermoso</l>
+               <l>no siente de mi dueño el blando asiento.</l>
+               <l>Mas ¿qué me espanto de que al viento igualas</l>
+               <l n="120">si el amor y mi suerte te dan alas?</l>
+            </lg>
+            <lg>
+               <l>"Sosiega el rostro de la mar airado</l>
+               <l>con el divino tuyo, ninfa mía;</l>
+               <l>merezca, si lo puede un desdichado,</l>
+               <l>con sólo verte, un rato de alegría;</l>
+               <l n="125">borde tu rostro un campo dilatado</l>
+               <l>de azul cristal, y gloríese este día</l>
+               <l>ser la primera vez que su ancho velo</l>
+               <l>sirve a mi hermoso sol de ser su cielo.</l>
+            </lg>
+            <lg>
+               <l>"Exento del invierno y del verano,</l>
+               <l n="130">parte del monte el alabastro puro</l>
+               <l>puebla, competidor de aquesa mano,</l>
+               <l>del tiempo envidia, cual tu pecho duro;</l>
+               <l>desiguales labores forma ufano,</l>
+               <l>de que serás su dueño ya seguro,</l>
+               <l n="135">y piensa competir, altivo, al cielo,</l>
+               <l>pues lo tiene de ser al sol del suelo.</l>
+            </lg>
+            <lg>
+               <l>"Dan sombra al Etna, más que el alto ceño</l>
+               <l>ya de soberbias rocas o encumbrados</l>
+               <l>tejos y lauros, tuyos, dulce dueño,</l>
+               <l n="140">si dellos ser gustases, mis ganados;</l>
+               <l>el campo esconden cuando en blando sueño</l>
+               <l>están, de pacer hartos, desatados;</l>
+               <l>número y cuenta excede su grandeza,</l>
+               <l>que el contarlo lo tengo por pobreza.</l>
+            </lg>
+            <lg>
+               <l n="145">"Envidia del oriente y de la aurora,</l>
+               <l>de pámpanos hermosos coronado,</l>
+               <l>los apacibles olmos bello dora</l>
+               <l>el racimo, a sus ramos abrazado;</l>
+               <l>de rojo y gualda, la copiosa Flora</l>
+               <l n="150">el manzano te ofrece, matizado,</l>
+               <l>y por despojos de tu mano hermosa,</l>
+               <l>guarda el blanco jazmín y abierta rosa.</l>
+            </lg>
+            <lg>
+               <l>"Las cobardes castañas, ofendidas</l>
+               <l>de la tardanza de tu blanca mano,</l>
+               <l n="155">segunda vez se esconden de corridas</l>
+               <l>en su amarillo erizo; el verde llano</l>
+               <l>vuelve a guardar las flores producidas,</l>
+               <l>con que un tiempo pensó impedir, ufano</l>
+               <l>—mas mi dicha cruel no lo consiente—,</l>
+               <l n="160">de olor el aire y de beldad su frente.</l>
+            </lg>
+            <lg>
+               <l>"El manso silguerillo, que, alentado,</l>
+               <l>bañándose en el agua, caluroso,</l>
+               <l>compite al ruiseñor el delicado</l>
+               <l>acento, en tono, por mi mal, lloroso,</l>
+               <l n="165">nenias canta a mi muerte; que, si amado</l>
+               <l>el árbol por su canto y más dichoso,</l>
+               <l>al escuchar su voz, mi bien, süave,</l>
+               <l>dudaras cuál es flor o cuál es ave.</l>
+            </lg>
+            <lg>
+               <l>"No fue naturaleza tan avara,</l>
+               <l n="170">antes franca conmigo, de sus bienes;</l>
+               <l>ni es tan rústica, no, mi frente y cara,</l>
+               <l>ni son tan feas mis valientes sienes.</l>
+               <l>Testigo me es el agua hermosa y clara</l>
+               <l>del odio injusto que a mi rostro tienes,</l>
+               <l n="175">pues corre murmurando después ella</l>
+               <l>de que no me quisieses, ninfa bella.</l>
+            </lg>
+            <lg>
+               <l>"Mira qué grande soy: no está en el cielo</l>
+               <l>Júpiter —que decís arroja, airado,</l>
+               <l>rayos al mundo— tal, ni el ancho suelo</l>
+               <l n="180">tal le pintó cuando le ve enojado.</l>
+               <l>Sirve a mis hombros de espacioso velo</l>
+               <l>el áspero cabello derramado,</l>
+               <l>¿y quién no estar al hombre bien confiesa</l>
+               <l>el vello grueso y duro y barba espesa?</l>
+            </lg>
+            <lg>
+               <l n="185">"Ciñe mi larga frente un ojo; el cielo,</l>
+               <l>como el hermoso sol, lo alumbra solo;</l>
+               <l>suegro te doy a aquel que el ancho suelo</l>
+               <l>abraza altivo de uno al otro polo;</l>
+               <l>tu rey es y señor; si gustas, vélo,</l>
+               <l n="190">más que la hermana del hermoso Apolo.</l>
+               <l>Mira que quien no teme el rayo airado</l>
+               <l>tiembla a tu blanco pie, mi dueño amado.</l>
+            </lg>
+            <lg>
+               <l>"Sufriera tu desdén, triste, sufriera</l>
+               <l>mis dolores y penas inmortales;</l>
+               <l n="195">si compañía en otros tristes viera,</l>
+               <l>pasáralas; mas ¿quién tan desiguales?</l>
+               <l>¡Que así tu esquiva mano, que así quiera</l>
+               <l>la causa ser de mis perpetuos males!</l>
+               <l>¡Ay, yedra ingrata, a muro ajeno asida!</l>
+               <l n="200">¡Y, ay, paciencia, más larga que mi vida!</l>
+            </lg>
+            <lg>
+               <l>"Arda en tus ojos él, arda en tu pecho;</l>
+               <l>que él sentirá de aqueste brazo airado</l>
+               <l>la furia que gobierna a su despecho,</l>
+               <l>lo que un cíclope puede desdeñado.</l>
+               <l n="205">Por estos campos quedará deshecho</l>
+               <l>el tierno cuerpo de tu dueño amado,</l>
+               <l>y gustarás, en fin, que así lo quieres,</l>
+               <l>ver siempre parte dél por donde fueres."</l>
+            </lg>
+            <lg>
+               <l>"En vano el fiero, con terrible acento,</l>
+               <l n="210">amenazas y amores lamentaba,</l>
+               <l>y su terrible voz el manso viento,</l>
+               <l>mas no en vano, sereno, dilataba;</l>
+               <l>cuando, dejando el espacioso asiento,</l>
+               <l>los arrogantes pasos gobernaba</l>
+               <l n="215">con un soberbio pino que traía;</l>
+               <l>temblaba el Etna donde el pie ponía.</l>
+            </lg>
+            <lg>
+               <l>"Cual el valiente toro que ha perdido</l>
+               <l>de la vacada el reino, que, enojado,</l>
+               <l>espanta el bosque con feroz bramido,</l>
+               <l n="220">desafía al contrario, confiado</l>
+               <l>en que algún duro roble habrá vencido</l>
+               <l>el duro imperio de su cuerno airado,</l>
+               <l>así el cruel, de amor y enojo ciego,</l>
+               <l>llenó frente y narices de humo y fuego.</l>
+            </lg>
+            <lg>
+               <l n="225">"Volvió la vista do a mis ojos daba</l>
+               <l>plata en el cuello y en las hebras oro</l>
+               <l>aquel que mis entrañas abrazaba,</l>
+               <l>aquel que era mi gloria y mi tesoro;</l>
+               <l>vio que en mi cuello mi Acis se enlazaba</l>
+               <l n="230">—¡ay, causa justa de mi amargo lloro!—;</l>
+               <l>encontróse el amor y enojo, y pudo</l>
+               <l>—¿quién duda?— armado más que no un desnudo.</l>
+            </lg>
+            <lg>
+               <l>"Venció el enojo, en fin, venció, y, airado,</l>
+               <l>dando una gruesa peña al brazo exento,</l>
+               <l n="235">temblando el Etna al grito levantado,</l>
+               <l>y sacándola ardiente de su asiento:</l>
+               <l>—'Será la vez postrera que abrazado</l>
+               <l>mire mi bien, mi mal’, dijo; y el viento</l>
+               <l>la voz trujo y la piedra, y en un punto</l>
+               <l n="240">me vi en la mar y vi mi bien difunto.</l>
+            </lg>
+            <lg>
+               <l>"Lo que los hados permitir quisieron,</l>
+               <l>de mi divino amante los despojos</l>
+               <l>en esta clara fuente los volvieron,</l>
+               <l>que cada día aumenta mis enojos.</l>
+               <l n="245">Aquéste el lugar fue donde le vieron</l>
+               <l>para no verle más mis tristes ojos,</l>
+               <l>y ésta, la fuente hermosa y cristal frío,</l>
+               <l>amarga siempre por el llanto mío."</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
