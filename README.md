@@ -1,7 +1,7 @@
 
 #Fábulas mitológicas del Siglo de Oro
 
-Este repositorio contiene una colección de textos publicados por [Antonio Rojas Castro] (www.antoniorojascastro.com). A fecha de septiembre de 2016, la coleccion consta de 25 poemas en español fechados entre en los siglos XVI y XVII en formato XML/TEI y TXT. 
+Este repositorio contiene una colección de textos (161.216 palabras) publicados por [Antonio Rojas Castro] (www.antoniorojascastro.com). A fecha de septiembre de 2016, la coleccion consta de 25 poemas en español fechados entre en los siglos XVI y XVII en formato XML/TEI y TXT. 
 
 Si deseas obtener solamente el cuerpo del texto, puedes convertir los archivos TEI en texto plano con la herramienta [OxGarage] (http://www.tei-c.org/oxgarage/).
 
