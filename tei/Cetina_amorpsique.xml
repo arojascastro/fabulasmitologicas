@@ -29,7 +29,7 @@
          </sourceDesc>
       </fileDesc>
       <profileDesc>
-         <creation>Texto originalmente publicado en <date><!-- falta fecha --></date>.</creation>
+         <creation>Texto fechado entre <date notBefore="1538">1538</date> y <date notAfter="1554">1554</date>.</creation>
       </profileDesc>
    </teiHeader>
    <text>
