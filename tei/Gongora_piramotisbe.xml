@@ -10,8 +10,12 @@
             <title>Fábula de Píramo y Tisbe</title>
             <author>Luis de Góngora</author>
             <respStmt>
-               <resp>Digitalización, codificación y publicación de</resp>
+               <resp>Publicado por</resp>
                <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+            <respStmt>
+               <resp>Edición de</resp>
+               <persName>Antonio Carreira</persName>
             </respStmt>
          </titleStmt>
          <editionStmt>

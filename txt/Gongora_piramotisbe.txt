@@ -5,8 +5,11 @@
             Fábula de Píramo y Tisbe
             Luis de Góngora
             
-               Digitalización, codificación y publicación de
+		Publicado por
                Antonio Rojas Castro
+
+		Editado por
+		Antonio Carreira
             
          
          
@@ -18,9 +21,7 @@
                   Reconocimiento 4.0 Internacional.
          
          
-            Góngora, Luis de. 
-                  Edición digital y estudio de la polémica gongorina
-               . Dir. De Mercedes Blanco. París: OBVIL, 2016. Web.
+            Góngora, Luis de. Edición digital y estudio de la polémica gongorina. Dir. De Mercedes Blanco. París: OBVIL, 2016. Web.
          
       
       
