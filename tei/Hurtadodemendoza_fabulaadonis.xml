@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de Adonis, Hipómenes y Atalanta</title>
+            <author>Diego Hurtado de Mendoza</author>
+            <respStmt>
+               <resp>Codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref
+                  target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+                  Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Hurtado de Mendoza, Diego. <title>Obra lírica de Diego Hurtado de Mendoza</title>.
+               Ed. De Concepción Bermejo Jiménez. Murcia: Universidad de Murcia, 1989. Tesis
+               doctoral dirigida por Francisca Moya del Baño.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto fechado entre <date notBefore="1530">1530</date> y <date notAfter="1575"
+            >1575</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l>El tierno pecho de cruel herida</l>
+            <l n="2">por la dura salvaje fiera abierto;</l>
+            <l>la madre del amor toda afligida,</l>
+            <l n="4">que con lágrimas baña al joven muerto;</l>
+            <l>y tú, virgen de Hipómenes vencida,</l>
+            <l n="6">entre gloria dudosa y miedo cierto</l>
+            <l>seréis el argumento de esta historia,</l>
+            <l n="8">que presente hará vuestra memoria.</l>
+         </lg>
+         <lg>
+            <l>A ti, Doña Marina de Aragón,</l>
+            <l n="10">a quien naturaleza estudiosa</l>
+            <l>de obra sin tener comparación,</l>
+            <l n="12">hizo, sobrando a sí y a cualquier cosa,</l>
+            <l>hermosa sobre todas cuantas son,</l>
+            <l n="14">y es lo menos que tienes ser hermosa,</l>
+            <l>a ti llamo que alargues tu favor,</l>
+            <l n="16">dando principio y fin a esta labor.</l>
+         </lg>
+         <lg>
+            <l>La honesta y clara lumbre de tus ojos,</l>
+            <l n="18">que a todo humano tiene rendido;</l>
+            <l>la blanca mano llena de despojos</l>
+            <l n="20">de almas y voluntades que has prendido;</l>
+            <l>las gracias en ti unidas a manojos,</l>
+            <l n="22">tu grandeza y valor nunca vencido,</l>
+            <l>mas vencedor de humanos corazones,</l>
+            <l n="24">enderecen y guíen mis razones.</l>
+         </lg>
+         <lg>
+            <l>Y porque con la voz más dulce y pura</l>
+            <l n="26">y espíritu más alto que el humano</l>
+            <l>pueda apartarme de la niebla escura,</l>
+            <l n="28">despreciando el común vulgo profano,</l>
+            <l>tú, Señora, me sube en el altura</l>
+            <l n="30">que no puede llevarme ajena mano,</l>
+            <l>y guía mis sentidos a tu modo,</l>
+            <l n="32">pues no lo pueden todos hacer todo.</l>
+         </lg>
+         <lg>
+            <l>En el mar, donde el Sol resplandecer</l>
+            <l n="34">se ve primero con dorada lumbre,</l>
+            <l>y por las bajas ondas extender</l>
+            <l n="36">los rayos de templada mansedumbre;</l>
+            <l>Donde suele dejar ya de correr</l>
+            <l n="38">la rosada mañana en alta cumbre,</l>
+            <l>y tornase al acostumbrado lecho</l>
+            <l n="40">con rostro tierno y delicado pecho;</l>
+         </lg>
+         <lg>
+            <l>Arabia la feliz, allí bañada</l>
+            <l n="42">del manso mar, contino reverdece;</l>
+            <l>do el dulce fresco y la calor templada</l>
+            <l n="44">se mezclan por la tierra que florece</l>
+            <l>con el bálsamo y mirra delicada.</l>
+            <l n="46">Mirra de quien olor nunca perece,</l>
+            <l>Mirra que, enamorada de su padre,</l>
+            <l n="48">fue de su mismo hijo hermana y madre.</l>
+         </lg>
+         <lg>
+            <l>Diré de Mirra, que a esta tierra vino,</l>
+            <l n="50">la ira del cruel padre excusando,</l>
+            <l>por bravos montes y áspero camino,</l>
+            <l n="52">siempre la aguda espada recelando;</l>
+            <l>y al fin, de aborrecida le convino,</l>
+            <l n="54">la verde hierba en lágrimas bañando,</l>
+            <l>en lugar de perdón y piedad,</l>
+            <l n="56">pedir castigo a Dios de su maldad.</l>
+         </lg>
+         <lg>
+            <l>Las manos extendidas contra el cielo</l>
+            <l n="58">decía con vergüenza e ira movida:</l>
+            <l>“Yo ensucié y rompí el virginal velo;</l>
+            <l n="60">yo el tálamo violé en que fui nacida;</l>
+            <l>hice a mi padre de su hijo abuelo,</l>
+            <l n="62">y a mi madre hurté la honra debida.</l>
+            <l>¡Oh hija, de tu padre torpe amiga,</l>
+            <l n="64">de tu madre combleza y enemiga!</l>
+         </lg>
+         <lg>
+            <l>“Si el hombre que confiesa mal hacer,</l>
+            <l n="66">es oído en sazón desesperada;</l>
+            <l>si el castigo que puedo merecer,</l>
+            <l n="68">respecto del delito será nada;</l>
+            <l>si sé que todos me han de aborrecer</l>
+            <l n="70">vivos o muertos, viva o sepultada,</l>
+            <l>ruego a Dios que me saque de este mundo</l>
+            <l n="72">de manera que no ensucie el profundo”</l>
+         </lg>
+         <lg>
+            <l>Oyóla Dios en su deseo postrero,</l>
+            <l n="74">y el blanco pié de tierra le cubrió;</l>
+            <l>la carne y huesos convirtió en madero,</l>
+            <l n="76">los dedos en raíces retorció;</l>
+            <l>en rayada corteza el blanco cuero,</l>
+            <l n="78">los dos brazos en ramos extendió,</l>
+            <l>y ella, con la vergüenza y la graveza,</l>
+            <l n="80">dejó sumir el rostro en la corteza.</l>
+         </lg>
+         <lg>
+            <l>Las lágrimas quedaban solamente,</l>
+            <l n="82">y estas se convirtieron en licor</l>
+            <l>que, endurecido con el sol ardiente,</l>
+            <l n="84">el aire mezcla de suave olor;</l>
+            <l>vive su nombre en boca de la gente,</l>
+            <l n="86">porque quiso la madre del amor</l>
+            <l>que la planta de mirra se llamase</l>
+            <l n="88">y la memoria el nombre conservase.</l>
+         </lg>
+         <lg>
+            <l>Un niño tierno, en carne concebido,</l>
+            <l n="90">crecía dentro del madero oscuro;</l>
+            <l>crecía y deseaba ser salido,</l>
+            <l n="92">por huir de su madre al aire puro;</l>
+            <l>ya el tiempo del nacer era venido.</l>
+            <l n="94">El árbol se doblaba aunque era duro;</l>
+            <l>faltáronle las quejas del parir,</l>
+            <l n="96">mas no dejó por eso de gemir.</l>
+         </lg>
+         <lg>
+            <l>El mismo pareció que se apretaba</l>
+            <l n="98">y callando mostraba su tormento;</l>
+            <l>el tronco en nuevas lágrimas bañaba</l>
+            <l n="100">y movía la tierra de cimiento;</l>
+            <l>Lucina, diosa del parir, que estaba</l>
+            <l n="102">presente a tan extraño nacimiento,</l>
+            <l>vido abrirse el madero por delante,</l>
+            <l n="104">y recibió en sus manos al infante.</l>
+         </lg>
+         <lg>
+            <l>Las ninfas le tomaron a criar,</l>
+            <l n="106">y Adonis el hermoso le llamaron.</l>
+            <l>Era su hermosura tan sin par</l>
+            <l n="108">que como de milagro se espantaron;</l>
+            <l>y muchos que los vían a la par,</l>
+            <l n="110">por el hijo de Venus le trocaron;</l>
+            <l>si del costado el arco Amor dejaba,</l>
+            <l n="112">o Adonis al costado lo llevaba.</l>
+         </lg>
+         <lg>
+            <l>No hay cosa más liviana que los días:</l>
+            <l n="114">pasa una edad corriendo y otra mana;</l>
+            <l>éste que niño tierno ahora vías,</l>
+            <l n="116">nacido de su abuelo y su hermana,</l>
+            <l>ya es muchacho, ya es hombre de porfías,</l>
+            <l n="118">ya le miran las ninfas de su gana;</l>
+            <l>ya enamora a la madre de Cupido,</l>
+            <l n="120">y venga el fuego en que la suya ha ardido.</l>
+         </lg>
+         <lg>
+            <l>En el Arabia es fama que, cansada</l>
+            <l n="122">la diosa Venus por tierra yendo,</l>
+            <l>del murmullo de un agua convidada</l>
+            <l n="124">que entre la hierba verde iba corriendo,</l>
+            <l>con el sol y el trabajo acalorada,</l>
+            <l n="126">al fresco viento el blanco pecho abriendo,</l>
+            <l>cubierta de una tela transparente,</l>
+            <l n="128">se sentó a reposar cabe una fuente.</l>
+         </lg>
+         <lg>
+            <l>Acaso Adonis por allí venía</l>
+            <l n="130">de correr el venado temeroso:</l>
+            <l>no de otra arte que el sol cuando volvía</l>
+            <l n="132">en Lydia los ganados al reposo.</l>
+            <l>El polvo que en el rostro se veía</l>
+            <l n="134">y el sudor le hacían más hermoso,</l>
+            <l>como con el rocío, húmeda y cana</l>
+            <l n="136">sale la fresca rosa en la mañana.</l>
+         </lg>
+         <lg>
+            <l>Queriendo defenderse del calor</l>
+            <l n="138">y con el agua clara refrescante,</l>
+            <l>vido sola a la madre del Amor</l>
+            <l n="140">sobre la verde hierba reposarse.</l>
+            <l>El espejo, y el peine y partidor,</l>
+            <l n="142">la ropa con que suele ataviarse,</l>
+            <l>todo lo vio esparcido, sin concierto,</l>
+            <l n="144">y su hermoso cuerpo descubierto.</l>
+         </lg>
+         <lg>
+            <l>En torno estaban las silvestres diosas</l>
+            <l n="146">puestas en ejercicio delicado:</l>
+            <l>quien teje en oro coloradas rosas.</l>
+            <l n="148">Quien coge varias flores por el prado;</l>
+            <l>poníanse a acechar las más hermosas</l>
+            <l n="150">los sátiros traviesos a excusado,</l>
+            <l>declarando por señas sus deseos,</l>
+            <l n="152">y apartábanlos ellas con meneos.</l>
+         </lg>
+         <lg>
+            <l>La libertad andaba desceñida,</l>
+            <l n="154">y las iras, ligeras en moverse,</l>
+            <l>el simple llanto, la razón vencida,</l>
+            <l n="156">y los rabiosos celos sin valerse;</l>
+            <l>la disimulación ya conocida,</l>
+            <l n="158">el turbado temor en atreverse,</l>
+            <l>los livianos perjuros y promesas,</l>
+            <l n="160">los cortos sobresaltos y las priesas.</l>
+         </lg>
+         <lg>
+            <l>Echaban la soltura y mocedad</l>
+            <l n="162">a la corva vejez de la campaña;</l>
+            <l>con ellos va la ciega libertad,</l>
+            <l n="164">la risa, el juego y el dulzor que engaña</l>
+            <l>el hervor de seguir la novedad,</l>
+            <l n="166">la esperanza sin causa y poca maña</l>
+            <l>y otras gentes que siguen a esta Diosa</l>
+            <l n="168">se veían por la hierba deleitosa.</l>
+         </lg>
+         <lg>
+            <l>Entre todas volaba el Niño Ciego</l>
+            <l n="170">tirando mil maneras de saetas;</l>
+            <l>a quien abrasa en amoroso fuego,</l>
+            <l n="172">a quien hace heridas imperfectas.</l>
+            <l>Engaña a algunos entre burla y juego,</l>
+            <l n="174">alguna hace libre, a otras sujetas,</l>
+            <l>y en fin, a todos vence el albedrío</l>
+            <l n="176">por fuerza, por razón o desvarío.</l>
+         </lg>
+         <lg>
+            <l>Este que vio venir tan sin recelo</l>
+            <l n="178">a Adonis con sus canes por el llano,</l>
+            <l>a la madre huyó con presto vuelo</l>
+            <l n="180">apretando las flechas con la mano;</l>
+            <l>y ella, que le sintió llegar al suelo,</l>
+            <l n="182">los brazos le tendió con rostro humano;</l>
+            <l>al abrazar, el niño descuidado</l>
+            <l n="184">la hirió una flecha en el costado.</l>
+         </lg>
+         <lg>
+            <l>Luego, con mano y pecho todo junto,</l>
+            <l n="186">herida, desvió de sí al infante;</l>
+            <l>estaba la saeta tan a punto,</l>
+            <l n="188">que el hierro penetró bien adelante;</l>
+            <l>y como alzó los ojos, en el punto</l>
+            <l n="190">que sintió la herida, vio al amante;</l>
+            <l>vio al amante, y quedó en la hierba verde</l>
+            <l n="192">como la mansa cierva que se pierde.</l>
+         </lg>
+         <lg>
+            <l>El Niño, echado de la madre aparte,</l>
+            <l n="194">se sintió de lo hecho tan de veras,</l>
+            <l>que probó en el tirar su fuerza y arte</l>
+            <l n="196">con una flecha de las más ligeras.</l>
+            <l>Curvando el arco de una y de otra parte</l>
+            <l n="198">hasta juntar entrambas empulgueras,</l>
+            <l>tocó el rostro la cuerda y man(o) derecha,</l>
+            <l n="200">y a la izquierda la punta de la flecha.</l>
+         </lg>
+         <lg>
+            <l>Hizo la cuerda al desarmar sonido,</l>
+            <l n="202">y voló la saeta por derecho,</l>
+            <l>con la cual el mancebo fue herido</l>
+            <l n="204">de cruel golpe en el siniestro pecho.</l>
+            <l>El del tiro quedó todo aturdido,</l>
+            <l n="206">y Amor se alzó en el aire satisfecho,</l>
+            <l>y vanaglorioso en su volar,</l>
+            <l n="208">de haber herido entrambos a la par.</l>
+         </lg>
+         <lg>
+            <l>No fueron menester largas historias,</l>
+            <l n="210">ni muchos andamiento de razones,</l>
+            <l>que quien había juntado las memorias</l>
+            <l n="212">juntó sin dilación los corazones;</l>
+            <l>las ninfas se alegraron de sus glorias,</l>
+            <l n="214">y los cubrieron de suaves dones;</l>
+            <l>rosas blancas y rojas, y otras flores</l>
+            <l n="216">que mueven y acrecientan los amores.</l>
+         </lg>
+         <lg>
+            <l>La Diosa está de sí tan olvidada,</l>
+            <l n="218">que huye la ribera Citherea,</l>
+            <l>a Gnido, de pescados abastada,</l>
+            <l n="220">a Papho que la mar casi rodea;</l>
+            <l>a Amatonta se deja despreciada</l>
+            <l n="222">por más oro y metales que posea;</l>
+            <l>desdeña cielo y tierra, y no lo quiere;</l>
+            <l n="224">a sólo Adonis precia y por él muere.</l>
+         </lg>
+         <lg>
+            <l>Ni toma el peine ni el espejo más,</l>
+            <l n="226">ni de las hachas amorosas cura,</l>
+            <l>ni adorna la cabeza por compás,</l>
+            <l n="228">ni descoge la blanca vestidura.</l>
+            <l>El reposo y el juego deja atrás,</l>
+            <l n="230">ni se halla contenta ni segura,</l>
+            <l>ni sale aderezada ni compuesta,</l>
+            <l n="232">como cuando a los dioses hace fiesta.</l>
+         </lg>
+         <lg>
+            <l>El dorado cabello, que es bastante</l>
+            <l n="234">a deshacer el sol, al viento suelta.</l>
+            <l>En el hombro el carcaj de oro sonante,</l>
+            <l n="236">la limpia veste en oro trae revuelta.</l>
+            <l>En la mano arco y flecha penetrante,</l>
+            <l n="238">un perro de trailla, otro de suelta,</l>
+            <l>halla y hiere la caza en esa hora</l>
+            <l n="240">y pensando matarla, la enamora.</l>
+         </lg>
+         <lg>
+            <l>A mansos animales se presenta,</l>
+            <l n="242">y de las fieras a quien menos daña,</l>
+            <l>a las medrosas liebres ahuyenta</l>
+            <l n="244">y al ciervo corredor por la campaña.</l>
+            <l>A quien hiere parado, y a quien tienta</l>
+            <l n="246">con fuerza: a quien rodea, a quien engaña,</l>
+            <l>parando ahora lazos, ahora liga,</l>
+            <l n="248">de las seguras aves enemiga.</l>
+         </lg>
+         <lg>
+            <l>Huye al rojo león, que con la muerte</l>
+            <l n="250">se ceba y harta de la res paciente;</l>
+            <l>al lobo nunca harto, al oso fuerte,</l>
+            <l n="252">del furioso puerco al corvo diente,</l>
+            <l>y temiendo celosa de tu suerte,</l>
+            <l n="254">a ti también aparta este accidente,</l>
+            <l>y te aconseja, Adonis, que no quieras</l>
+            <l n="256">ofrecerte a la ira de las fieras.</l>
+         </lg>
+         <lg>
+            <l>Con lágrimas te ruego y con pasión</l>
+            <l n="258">mas poco le aprovecha este cuidado:</l>
+            <l>“Huye Adonis”, te dice, “la ocasión,</l>
+            <l n="260">no seas con mi daño tan osado;</l>
+            <l>ni lo sufre el peligro o la razón</l>
+            <l n="262">ser contra los valientes esforzado;</l>
+            <l>acometer las bestias es locura,</l>
+            <l n="264">a quien armas tan bravas dio natura.</l>
+         </lg>
+         <lg>
+            <l>“Mil desastres que suelen ofrecerse</l>
+            <l n="266">entre el deseo ardiente y la victoria</l>
+            <l>a quien en los peligros va a ponerse,</l>
+            <l n="268">me turban y revuelven la memoria.</l>
+            <l>Si tu ánimo no puede torcerse,</l>
+            <l n="270">no me cueste tan caro esta tu gloria,</l>
+            <l>que por seguir un puerco, y no un venado,</l>
+            <l n="272">te vea yo a peligro condenado.”</l>
+         </lg>
+         <lg>
+            <l>Tu floreciente edad, tu hermosura,</l>
+            <l n="274">tu gracia, tu saber y tu destreza,</l>
+            <l>de que yo me vencí, siendo segura,</l>
+            <l n="276">no la puede entender bestial bruteza;</l>
+            <l>ni querrán perdonar en la espesura</l>
+            <l n="278">el oso, el puerco, el lobo, a tu belleza;</l>
+            <l>no vencen rostro y ojos celestiales</l>
+            <l n="280">la furia de los brutos animales.</l>
+         </lg>
+         <lg>
+            <l>“En el corvo colmillo el puerco lleva</l>
+            <l n="282">el rayo de su fuerza, y el león</l>
+            <l>con ímpetu amenaza y furor prueba</l>
+            <l n="284">su saña, sin hallar contradicción.</l>
+            <l>Ningún animal hay que tanto mueva</l>
+            <l n="286">y altere contra mí su condición</l>
+            <l>como el crudo león y dañador</l>
+            <l n="288">por haber sido ingrato a mí y a Amor.”</l>
+         </lg>
+         <lg>
+            <l>Adonis, deseoso de sentir</l>
+            <l n="290">la causa de tan gran enemistad,</l>
+            <l>le comenzó con ruegos a pedir</l>
+            <l n="292">contase de aquel hecho la verdad.</l>
+            <l>“Soy contenta”, dijo ella, “de decir</l>
+            <l n="294">cuan mal agradecieron mi piedad,</l>
+            <l>contándote el milagro y caso extraño</l>
+            <l n="296">que a mí causó vergüenza y a ellos daño.</l>
+         </lg>
+         <lg>
+            <l>“Mas el aliento del correr vencido,</l>
+            <l n="298">y el desacostumbrado trabajar,</l>
+            <l>con la sombra de este árbol extendido,</l>
+            <l n="300">que a los rayos del sol no da lugar,</l>
+            <l>el verde prado alrededor ceñido</l>
+            <l n="302">de estos olmos que crecen a la par,</l>
+            <l>el agua limpia y clara en que nos vemos,</l>
+            <l n="304">nos convida a que un poco descansemos.”</l>
+         </lg>
+         <lg>
+            <l>Tan mansa y sosegada cercando iba</l>
+            <l n="306">la fuente el fresco prado y alameda,</l>
+            <l>que aunque corriese presurosa y viva,</l>
+            <l n="308">a la vista mostraba estarse queda.</l>
+            <l>El junco agudo ni la caña esquiva,</l>
+            <l n="310">ni la ova tejida y vuelta en rueda.</l>
+            <l>estorbaban el agua que corriese,</l>
+            <l n="312">ni el suelo que en lo hondo no se viese.</l>
+         </lg>
+         <lg>
+            <l>De césped vivo, de alta hierba verde</l>
+            <l n="314">se cercaba la margen por defuera</l>
+            <l>con el bledo inmortal, que nunca pierde</l>
+            <l n="316">la color en invierno y primavera,</l>
+            <l>y con la roja flor que nos acuerde</l>
+            <l n="318">el caso de Jacinto en la ribera,</l>
+            <l>con otras flores varias y hermosas,</l>
+            <l n="320">suaves hierbas y plantas olorosas.</l>
+         </lg>
+         <lg>
+            <l>Los árboles ramosos y cerrados,</l>
+            <l n="322">que amenazan al cielo con la cima.</l>
+            <l>Ceñían el lugar tan apretados</l>
+            <l n="324">como tejido mimbre o tela prima;</l>
+            <l>vense los pardos montes apartados,</l>
+            <l n="326">y las dudosas sierras por encima,</l>
+            <l>los cerros con los valles desiguales,</l>
+            <l n="328">albergo de los brutos animales.</l>
+         </lg>
+         <lg>
+            <l>Luego, en medio del prado se sentaron,</l>
+            <l n="330">y trabándose estrecho con los brazos,</l>
+            <l>la hierba y a sí mismos apretaron,</l>
+            <l n="332">mezclando las palabras con abrazos;</l>
+            <l>nunca revueltas vides rodearon</l>
+            <l n="334">el álamo con tantos embarazos.</l>
+            <l>Ni la verde y entretejida hiedra</l>
+            <l n="336">se pegó tanto al árbol o a la piedra.</l>
+         </lg>
+         <lg>
+            <l>Así estando, la Diosa comenzó</l>
+            <l n="338">la preguntada historia a proponer,</l>
+            <l>diciendo: “No sé, Adonis, si llegó</l>
+            <l n="340">por fama a tu noticia una mujer</l>
+            <l>que en soltura de pies dicen venció</l>
+            <l n="342">a los más sueltos hombres a correr,</l>
+            <l>tanto que por milagro de natura</l>
+            <l n="344">tenía toda Grecia su soltura.</l>
+         </lg>
+         <lg>
+            <l>“Atalanta por nombre se decía,</l>
+            <l n="346">y era virgen de tanta gentileza,</l>
+            <l>que estábamos en duda si tenía</l>
+            <l n="348">más parte en hermosura o ligereza:</l>
+            <l>a ésta vino acaso en fantasía,</l>
+            <l n="350">de consultar a Apolo la certeza</l>
+            <l>si viviría casada o al contrario;</l>
+            <l n="352">deseo entre doncellas ordinario.</l>
+         </lg>
+         <lg>
+            <l>“Respondióle en turbada voz y escura,</l>
+            <l n="354">harto escuras palabras al sentido:</l>
+            <l>-Deja, Atalanta, estar tu hermosura;</l>
+            <l n="356">no procures gozarla con marido;</l>
+            <l>que tu hado está escrito, aunque escondido;</l>
+            <l n="358">pero no escusarás esta ventura;</l>
+            <l>tiempo vendrá en el cual te casarás,</l>
+            <l n="360">y viviendo, de ti carecerás-.”</l>
+         </lg>
+         <lg>
+            <l>“Espantada, Atalanta en sí dudaba</l>
+            <l n="362">la ira del oráculo y respuesta,</l>
+            <l>y con temor huyendo, se esquivaba</l>
+            <l n="364">por la cerradura y áspera floresta;</l>
+            <l>si alguno por mujer la demandaba,</l>
+            <l n="366">respondía feroz a la propuesta</l>
+            <l>que ninguno la habría que la pidiese,</l>
+            <l n="368">si primero a correr no la venciese.</l>
+         </lg>
+         <lg>
+            <l>“-Yo misma seré el precio al vencedor,</l>
+            <l n="370">decía, y no es pequeño, ya lo veis;</l>
+            <l>el vuestro sé que no será mayor,</l>
+            <l n="372">por mucho que en ganarme aventuréis;</l>
+            <l>veráse la soltura y el amor</l>
+            <l n="374">de los que por amiga me queréis;</l>
+            <l>cada uno se esfuerce en la corrida,</l>
+            <l n="376">porque el vencido perderá la vida-“.</l>
+         </lg>
+         <lg>
+            <l>Divulgase por Grecia este concierto;</l>
+            <l n="378">y puesto que la ley era tan dura</l>
+            <l>que el vencido al instante fuese muerto</l>
+            <l n="380">tan grande es su valor y hermosura</l>
+            <l>que deliberan en el campo abierto</l>
+            <l n="382">muchos poner la vida en aventura;</l>
+            <l>y así, camino y tierra se henchía</l>
+            <l n="384">de quien por ver o por correr venía.</l>
+         </lg>
+         <lg>
+            <l>“Entre los que a mirar allí venían,</l>
+            <l n="386">Hipómenes fue uno, el cual estaba</l>
+            <l>asentado a juzgar lo que hacían,</l>
+            <l n="388">y de las bravas leyes se espantaba,</l>
+            <l>condenando entre sí cuantos querían</l>
+            <l n="390">mujer que tal peligro les costaba;</l>
+            <l>y diciendo: - No puede tolerarse</l>
+            <l n="392">que así mueran los hombres por casarse.</l>
+         </lg>
+         <lg>
+            <l>“Más como ve ponerse a la doncella</l>
+            <l n="394">en campo, y parecer parte desnuda,</l>
+            <l>juzgando no haber visto otra más bella,</l>
+            <l n="396">súbito la opinión del todo muda;</l>
+            <l>da por honesta y justa la querella,</l>
+            <l n="398">y turbado, la lengua casi muda,</l>
+            <l>las manos altas, pide allí perdón</l>
+            <l n="400">a los que había ofendido sin razón.”</l>
+         </lg>
+         <lg>
+            <l>“Querría que corriesen, más desea</l>
+            <l n="402">que ninguno alcanzase el vencimiento;</l>
+            <l>después ha envidia que el vencido sea</l>
+            <l n="404">muerto por tan valido pensamiento.</l>
+            <l>Entre temor y gloria devanea;</l>
+            <l n="406">crece el deseo y falta el sufrimiento;</l>
+            <l>ya correría, mas teme de perder,</l>
+            <l n="408">más que la vida, el precio del correr.</l>
+         </lg>
+         <lg>
+            <l>“Pensoso y triste, en voluntad confusa,</l>
+            <l n="410">revuelve mil porfías entre sí;</l>
+            <l>ya teme, ya se esfuerza, ya se acusa,</l>
+            <l n="412">ya dice: ¡Torpe yo, ¿qué hago aquí?</l>
+            <l>Amor y hermosura, que me excusa</l>
+            <l n="414">me harán vencedor, quiero por mí</l>
+            <l>ponerme a la fortuna que se ofrece;</l>
+            <l n="416">que Amor el atrevido favorece.</l>
+         </lg>
+         <lg>
+            <l>“El que consigo estaba así a decir,</l>
+            <l n="418">moviendo y apartando inconvenientes,</l>
+            <l>alzando la cabeza vio venir</l>
+            <l n="420">un hombre por correr entre las gentes;</l>
+            <l>pártese la doncella, y al salir</l>
+            <l n="422">va como los arroyos muy corrientes,</l>
+            <l>por llana y honda madre sin sonido,</l>
+            <l n="424">que vencen a la vista y al oído.</l>
+         </lg>
+         <lg>
+            <l>Más, puesto que correr viese a Atalanta</l>
+            <l n="426">con tan ligero paso y volador,</l>
+            <l>que los livianos vientos adelanta</l>
+            <l n="428">y la presta saeta o pasador,</l>
+            <l>su hermosura y gracia más le espanta,</l>
+            <l n="430">que viene en el correr siempre mayor</l>
+            <l>a cada paso que ella da la mira,</l>
+            <l n="432">alza y baja los ojos y suspira.</l>
+         </lg>
+         <lg>
+            <l>El aire junto con los blancos pies</l>
+            <l n="434">el vestido desvían y le allegan;</l>
+            <l>los cabellos cogidos al través</l>
+            <l n="436">que, en parte, al viento fresco se desplegan:</l>
+            <l>la blanca nieve que en las piernas es,</l>
+            <l n="438">que de sólo mirar los hombres ciegan,</l>
+            <l>el blanco pecho visto por el oro,</l>
+            <l n="440">hace más estimado su tesoro .</l>
+         </lg>
+         <lg>
+            <l>“La color de la carne se veía tal</l>
+            <l n="442">con el trabajo del correr mezclada,</l>
+            <l>cual suele el rojo paño en el cristal</l>
+            <l n="444">hacer sombra entre blanca y colorada;</l>
+            <l>la pura leche no parece igual</l>
+            <l n="446">sobre las vivas rosas derramada,</l>
+            <l>ni el limpio alabastro transparente</l>
+            <l n="448">esparcida la púrpura de Oriente.</l>
+         </lg>
+         <lg>
+            <l>“El, que estaba a mirar embebecido</l>
+            <l n="450">y la cruel carrera se acababa</l>
+            <l>y, con dolor del mísero vencido,</l>
+            <l n="452">se ejecuta la ley y pena brava.</l>
+            <l>Vuelve Atalanta al puesto conocido,</l>
+            <l n="454">quien se alegra con ella, quien la alaba;</l>
+            <l>vencedora y contenta en nueva gloria,</l>
+            <l n="456">con corona de fiesta y de victoria.</l>
+         </lg>
+         <lg>
+            <l>“El mancebo, llegado algo más junto,</l>
+            <l n="458">cuando la ve venir con la corona,</l>
+            <l>sale fuera de sí de todo punto,</l>
+            <l n="460">como quien por amores se abandona;</l>
+            <l>ni le espanta la pena del difunto</l>
+            <l n="462">ni la ley que la muerte no perdona;</l>
+            <l>así que, de afición turbado y ciego,</l>
+            <l n="464">sin miedo se adelanta y habla luego:</l>
+         </lg>
+         <lg>
+            <l>“- ¿Por qué en victorias fáciles te empleas,</l>
+            <l n="466">venciendo a perezosos, Atalanta?</l>
+            <l>Ponte a correr conmigo, si deseas</l>
+            <l n="468">ver donde tu presteza se adelanta;</l>
+            <l>por mucha ligereza que poseas</l>
+            <l n="470">tu belleza nos turba y nos espanta;</l>
+            <l>en tus pies puede estar bien el correr,</l>
+            <l n="472">mas en tu vista amor puso el vencer.</l>
+         </lg>
+         <lg>
+            <l>“- Si puedes ser vencida por alguno,</l>
+            <l n="474">no te será desdeño de vencerte</l>
+            <l>de mí, que soy biznieto de Neptuno,</l>
+            <l n="476">que en el mar tempestuoso de la suerte;</l>
+            <l>y si tú me vencieres, no hay ninguno</l>
+            <l n="478">que te dé tanta gloria con su muerte,</l>
+            <l>pues nunca esconderá nube el olvido</l>
+            <l n="480">la memoria de Hipómenes vencido.</l>
+         </lg>
+         <lg>
+            <l>“La doncella que vio al joven hermoso</l>
+            <l n="482">ofrecerse a la muerte de su grado,</l>
+            <l>mírale con un rostro piadoso</l>
+            <l n="484">y pésale de verle tan osado.</l>
+            <l>-¿Qué dios a los hermosos envidioso,</l>
+            <l n="486">-dijo entre sí — qué suerte o duro hado</l>
+            <l>le enciende en este ardor la fantasía?</l>
+            <l n="488">O ¿es dios a cada uno su agonía?</l>
+         </lg>
+         <lg>
+            <l>“¿ Quién con peligro de la dulce vida</l>
+            <l n="490">le hace procurar mi compañía?</l>
+            <l>Si yo fuese juez de esta partida,</l>
+            <l n="492">no estimo tanto la belleza mía;</l>
+            <l>estimo bien la suya, que ofrecida</l>
+            <l n="494">a la muerte condena y que porfía;</l>
+            <l>no me toca ni mueve su beldad,</l>
+            <l n="496">aunque podría moverse a la verdad.</l>
+         </lg>
+         <lg>
+            <l>“Aunque es mozo y en años floreciente,</l>
+            <l n="498">no me muevo por él, mas por su estado,</l>
+            <l>por su valor y ánimo valiente,</l>
+            <l n="500">que desprecia la muerte de su grado;</l>
+            <l>su linaje de dioses desciende</l>
+            <l n="502">por línea de Neptuno en cuarto grado,</l>
+            <l>que me ama y me compra con morir,</l>
+            <l n="504">si victoria no puede conseguir.</l>
+         </lg>
+         <lg>
+            <l>“Respondióle: - Si huelgas de partirte,</l>
+            <l n="506">deja estar este tálamo sangriento,</l>
+            <l>que aún puedes todavía arrepentirte</l>
+            <l n="508">de tan caro y esquivo casamiento;</l>
+            <l>no cures por lo dicho de afligirte</l>
+            <l n="510">que yo te dejo, siendo tú contento,</l>
+            <l>y otra cualquier doncella, a mi pensar,</l>
+            <l n="512">te puede con derecho desear.</l>
+         </lg>
+         <lg>
+            <l>“Mas ¿qué cuidado tengo yo de ti,</l>
+            <l n="514">habiendo muerto tantos hasta ahora?</l>
+            <l>Viva o muera, decía luego entre sí,</l>
+            <l n="516">pague, pues que a su daño se enamora;</l>
+            <l>que, si muertes de tantos que por mí</l>
+            <l n="518">pierden vidas y honras en una hora</l>
+            <l>no le mueven y apartan, bien parece</l>
+            <l n="520">que le pesa esta vida y la aborrece.”</l>
+         </lg>
+         <lg>
+            <l>¿”Qué disculpa de mi inhumanidad</l>
+            <l n="522">daré a Grecia, que tengo por testigo,</l>
+            <l>si mato con furor y crueldad</l>
+            <l n="524">a éste porque osó vivir conmigo?</l>
+            <l>Si el premio del amor y piedad</l>
+            <l n="526">ha de ser cruda muerte y cruel castigo,</l>
+            <l>no podrá comportar hombre que viva</l>
+            <l n="528">el odio de victoria tan esquiva.</l>
+         </lg>
+         <lg>
+            <l>“¿Qué culpa tengo yo? ¡Ojalá quisieras</l>
+            <l n="530">dejar la peligrosa empresa y dura!</l>
+            <l>Que en más livianas y de menos veras</l>
+            <l n="532">se pudiera emplear tu hermosura;</l>
+            <l>O, ya que te determinaste, fueras</l>
+            <l n="534">el más ligero y de mejor ventura,</l>
+            <l>huésped, no ganarás en mí, venciendo,</l>
+            <l n="536">cuanto arriesgas en ti perder corriendo.</l>
+         </lg>
+         <lg>
+            <l>“¡Oh qué aire de rostro y qué meneo</l>
+            <l n="538">entre virgen honesta y joven fuerte!</l>
+            <l>¡Oh Hipómenes mezquino, que te veo</l>
+            <l n="540">ofrecer por mi causa a cruel muerte!</l>
+            <l>¡O no me hubieras visto, o tu deseo</l>
+            <l n="542">fuera más conveniente, yo menos fuerte!</l>
+            <l>Hablaba entre sí misma la doncella,</l>
+            <l n="544">Y maldecía el fin de la querella.</l>
+         </lg>
+         <lg>
+            <l>“-Si yo fuera tan bienaventurada</l>
+            <l n="546">que el importuno hado no negara</l>
+            <l>a mi suerte la vida descansada,</l>
+            <l n="548">uno solo eres tú a quien deseara-“</l>
+            <l>esto dijo, y de nuevo amor tocada,</l>
+            <l n="550">revuelta la color toda en la cara,</l>
+            <l>sin entender la fuerza del dolor,</l>
+            <l n="552">arde y ama, y no siente que es amor.</l>
+         </lg>
+         <lg>
+            <l>Ya el padre, que al correr era presente,</l>
+            <l n="554">y el pueblo la carrera demandaba;</l>
+            <l>ordénase a mirar toda la gente,</l>
+            <l n="556">y solo en medio Hipómenes quedaba;</l>
+            <l>el cual con voz solícita y ardiente</l>
+            <l n="558">mi santo nombre en su favor llamaba</l>
+            <l>diciendo: -Favorece mi osadía,</l>
+            <l n="560">tú, diosa, que encendiste el alma mía.</l>
+         </lg>
+         <lg>
+            <l>“Tú, sobre todas soberana diosa,</l>
+            <l n="562">alumbras los mortales en el suelo;</l>
+            <l>tú venciste en la tierra de hermosa</l>
+            <l n="564">la que de clara vences en el cielo;</l>
+            <l>por ti se aplaca el viento, el mar reposa;</l>
+            <l n="566">tú del género humano eres consuelo,</l>
+            <l>por ti nos abre el año nuevas flores,</l>
+            <l n="568">tú das principio y fin a los amores.</l>
+         </lg>
+         <lg>
+            <l>“Quien a las simples y ligeras aves,</l>
+            <l n="570">cuando acuciosas edifican nidos,</l>
+            <l>hace con voces dulces y suaves</l>
+            <l n="572">declarar sus cuidados encendidos.</l>
+            <l>“Quien a los otros animales graves</l>
+            <l n="574">mueve con nueva furia los sentidos,</l>
+            <l>correr ásperos valles y sombríos</l>
+            <l n="576">y nadar presurosos hondos ríos.”</l>
+         </lg>
+         <lg>
+            <l>“Quien dio fuerzas al joven que, de hecho,</l>
+            <l n="578">le encienda amor y le revuelva en fuego,</l>
+            <l>en noche oscura, el tempestuoso estrecho</l>
+            <l n="580">atravesar con lluvia y tiempo ciego.</l>
+            <l>Corta las bravas olas con el pecho,</l>
+            <l n="582">truena y ábrese el cielo, y el mar, luego,</l>
+            <l>rompe las altas peñas resonando;</l>
+            <l n="584">mas él con su furor pasa nadando.”</l>
+         </lg>
+         <lg>
+            <l>“No le tienen turbados elementos,</l>
+            <l n="586">no los padres con lágrimas y llanto,</l>
+            <l>el mar negro sacado de cimientos</l>
+            <l n="588">no le aparta el deseo o pone espanto;</l>
+            <l>no la virgen que, en ansias y tormentos</l>
+            <l n="590">suspensa, pasará aquel entretanto,</l>
+            <l>y al fin morirá muerte lastimera</l>
+            <l n="592">sobre el cuerpo tendido en la ribera.</l>
+         </lg>
+         <lg>
+            <l>“En la parte más fértil y abastada</l>
+            <l n="594">de la tierra de Cipro, una heredad</l>
+            <l>por los antiguos padres consagrada</l>
+            <l n="596">fue a mi templo en señal de piedad;</l>
+            <l>en medio resplandece una dorada</l>
+            <l n="598">planta con hojas de oro, a quien la edad</l>
+            <l>ni el año seco, estéril, destemplado,</l>
+            <l n="600">estorban que no dé el fruto dorado”.</l>
+         </lg>
+         <lg>
+            <l>“De esta huerta llegaba cuando digo</l>
+            <l n="602">que Hipómenes estaba en agonía;</l>
+            <l>deliberé ayudarle como amigo</l>
+            <l n="604">con tres manzanas de oro que traía;</l>
+            <l>y tomándole aparte sin testigo,</l>
+            <l n="606">le declaré a qué riesgo se ponía;</l>
+            <l>dile el fruto, el consejo y el favor</l>
+            <l n="608">para vencer por arte y por amor.”</l>
+         </lg>
+         <lg>
+            <l>“La trompa dio señal: cada cual sale</l>
+            <l n="610">recogiendo el aliento con el pecho,</l>
+            <l>ni avenida ni viento hay que se iguale,</l>
+            <l n="612">ora corra extendido, agora estrecho;</l>
+            <l>la fuerza y ligereza es la que vale,</l>
+            <l n="614">y el no perder el ánimo en el hecho;</l>
+            <l>corre el uno y el otro cuanto puede</l>
+            <l n="616">y no hay vista que atrás no se les quede.”</l>
+         </lg>
+         <lg>
+            <l>Volarán por encima de la lista</l>
+            <l n="618">en las mieses que crecen a la par</l>
+            <l>y, venciendo al juicio y a la vista,</l>
+            <l n="620">por las hinchadas ondas de la mar,</l>
+            <l>sin abajar la punta de la arista</l>
+            <l n="622">ni bañarse las plantas al pasar;</l>
+            <l>nunca fue tan ligero el pensamiento,</l>
+            <l n="624">ni el tiempo cuando sales del momento.</l>
+         </lg>
+         <lg>
+            <l>“El favor de la gente, que infinita</l>
+            <l n="626">acudía con palabras y meneo,</l>
+            <l>la torpeza del ánimo les quita,</l>
+            <l n="628">y acrecienta el esfuerzo y el deseo;</l>
+            <l>cada cual dice: -Hipómenes, con grita,</l>
+            <l n="630">esfuerza, esfuerza, Hipómenes, que veo</l>
+            <l>quedar por ti la plaza y la querella,</l>
+            <l n="632">alcanzando la gloria y la doncella.</l>
+         </lg>
+         <lg>
+            <l>“No sé cual de los dos más se holgaba,</l>
+            <l n="634">Atalanta o Hipómenes, con esto</l>
+            <l>o cuantas veces ella lo pasaba,</l>
+            <l n="636">tirada de la gloria y del honesto;</l>
+            <l>mas, volviendo a mirarle, se paraba</l>
+            <l n="638">por no quitar los ojos de su gesto;</l>
+            <l>a cada uno el aliento fallecía</l>
+            <l n="640">y el puesto de muy lejos se veía.</l>
+         </lg>
+         <lg>
+            <l>“Viendo Hipómenes que iba por vencerse,</l>
+            <l n="642">echóle de través una manzana;</l>
+            <l>ella, como vio el fruto revolverse,</l>
+            <l n="644">suspensa reparó entre el miedo y las gana;</l>
+            <l>mas al cabo la alzó sin detenerse,</l>
+            <l n="646">tornando a la carrera más liviana;,</l>
+            <l>pasa el joven por ella con este arte,</l>
+            <l n="648">y el pueblo favorece por su parte.</l>
+         </lg>
+         <lg>
+            <l>“Atalanta, que vio la gran presteza</l>
+            <l n="650">con que se adelantaba tan ardido,</l>
+            <l>esfuerza por cobrar con ligereza</l>
+            <l n="652">el tiempo y el espacio que ha perdido;</l>
+            <l>pasa otra vez delante sin pereza.</l>
+            <l n="654">El joven, que se vio otra vez vencido,</l>
+            <l>la segunda manzana echó adelante,</l>
+            <l n="656">ella la alcanza, y pasa en un instante.”</l>
+         </lg>
+         <lg>
+            <l>“La última jornada y más dudosa</l>
+            <l n="658">quedaba por pasar de la carrera,</l>
+            <l>cuando Hipómenes dice: -¡O eterna Diosa!</l>
+            <l n="660">Tú me trajiste el don y la manera;</l>
+            <l>no me niegues tu ayuda poderosa.</l>
+            <l n="662">Y arrojó la manzana tan afuera</l>
+            <l>que, en caso que Atalanta la quisiese,</l>
+            <l n="664">en el ir y volver se detuviese.”</l>
+         </lg>
+         <lg>
+            <l>“Parecióme dudar cual seguiría,</l>
+            <l n="666">el fruto o la carrera; y así estando,</l>
+            <l>al oro le incliné la fantasía</l>
+            <l n="668">con nuevo resplandor, el cual alzando</l>
+            <l>añadí nuevo peso al que tenía,</l>
+            <l n="670">nuevo estorbo y graveza acrecentando;</l>
+            <l>armé al joven de fuerza y ligereza,</l>
+            <l n="672">a ella de desmayo y torpeza.”</l>
+         </lg>
+         <lg>
+            <l>“Y por ser más larga yo en contarte</l>
+            <l n="674">el proceso que fue de la corrida,</l>
+            <l>fue vencida Atalanta con este arte,</l>
+            <l n="676">sin la cual no pudiera ser vencida.</l>
+            <l>Quienquiera juzgará por cada parte</l>
+            <l n="678">si la gloria de entrambos fue crecida:</l>
+            <l>de él, que su muerte en vida vio trocada,</l>
+            <l n="680">de ella verse vencer del que era amada.</l>
+         </lg>
+         <lg>
+            <l>“Aquel podrá sentir que lo ha probado</l>
+            <l n="682">si tendrían o no vida sabrosa,</l>
+            <l>venir por tal peligro a tal estado;</l>
+            <l n="684">verse juntos hermoso con hermosa,</l>
+            <l>dulce amiga con dulce enamorado,</l>
+            <l n="686">nuevo esposo yacer con nueva esposa.”</l>
+            <l>¿Qué estado puede haber más apacible</l>
+            <l n="688">debajo de la luna en lo visible?</l>
+         </lg>
+         <lg>
+            <l>“¿Parécete que fuera conveniente</l>
+            <l n="690">que agradecieran este beneficio,</l>
+            <l>primero con devoto continente,</l>
+            <l n="692">después con oración y sacrificio?</l>
+            <l>Ni de mí se acordaron al presente</l>
+            <l n="694">ni me adoraron con debido oficio.</l>
+            <l>Antes menospreciaron mi deidad,</l>
+            <l n="696">llevados de soberbia y vanidad.”</l>
+         </lg>
+         <lg>
+            <l>Con súbito furor y dura saña,</l>
+            <l n="698">sintiendo el menosprecio que te digo,</l>
+            <l>resolví contra ellos fuerza y maña</l>
+            <l n="700">por mostrar nuevo ejemplo de castigo;</l>
+            <l>dándoles a entender que quien engaña</l>
+            <l n="702">a Dios le hallara bravo enemigo,</l>
+            <l>sin faltarle cruel pena y tormento</l>
+            <l n="704">en que los otros tomen escarmiento.</l>
+         </lg>
+         <lg>
+            <l>Pues, gustando de su felicidad,</l>
+            <l n="706">por mostrarse a los pueblos de confino</l>
+            <l>en colmo de tan gran prosperidad,</l>
+            <l n="708">como usasen espeso andar camino,</l>
+            <l>un templo de perpetua antigüedad</l>
+            <l n="710">descubrieron, que al paso era vecino,</l>
+            <l>tan cubierto de hiedras y ocupado</l>
+            <l n="712">que bien mostraba ser lugar sagrado.</l>
+         </lg>
+         <lg>
+            <l>Echíon el ilustre y glorioso,</l>
+            <l n="714">de los dioses la gran madre aplacando,</l>
+            <l>edificó aquel templo suntuoso</l>
+            <l n="716">por voto o por tenerla de su bando;</l>
+            <l>donde ellos, por tomar algún reposo,</l>
+            <l n="718">entraron, el camino rodeando;</l>
+            <l>y yo por castigar su mal ejemplo,</l>
+            <l n="720">las furias les moví dentro del templo.</l>
+         </lg>
+         <lg>
+            <l>“En lugar apartado era una cueva,</l>
+            <l n="722">adonde el sacerdote colocados</l>
+            <l>metió, dando lugar a otra obra nueva,</l>
+            <l n="724">los ídolos de dioses desusados;</l>
+            <l>aquí la torpe abominable prueba</l>
+            <l n="726">comenzaron por malos de pecados,</l>
+            <l>abriendo con el acto deshonesto</l>
+            <l n="728">las sacrilegas puertas del incesto.”</l>
+         </lg>
+         <lg>
+            <l>“Los ídolos, del caso aborrecidos,</l>
+            <l n="730">revolvieron los ojos a la tierra,</l>
+            <l>la madre de los dioses no nacidos</l>
+            <l n="732">a la infernal laguna los destierra;</l>
+            <l>mas pareció a los que eran ofendidos</l>
+            <l n="734">que esta muerte sería liviana guerra,</l>
+            <l>y dánles, en lugar de los abismos,</l>
+            <l n="736">que, viviendo, carezcan de sí mismos.”</l>
+         </lg>
+         <lg>
+            <l>En vedijas torcidas y leonadas</l>
+            <l n="738">sintieron sus gargantas esconder,</l>
+            <l>y en los dedos las uñas encorvadas;</l>
+            <l n="740">los hombros en espaldas extender,</l>
+            <l>todo el peso en los pechos y, pisadas</l>
+            <l n="742">por la tierra las colas revolver;</l>
+            <l>En el rostro la ira y el ensaño,</l>
+            <l n="744">Y en lugar de la voz bramido extraño.</l>
+         </lg>
+         <lg>
+            <l>“Por tálamo las ásperas montañas</l>
+            <l n="746">usan, y ponen miedo de crueles,</l>
+            <l>que, muertos, a las otras alimañas</l>
+            <l n="748">aún espanta el ruido de sus pieles;</l>
+            <l>enfrentados la boca y crudas sañas,</l>
+            <l n="750">tiran juntos el carro de Cibeles;</l>
+            <l>de estos te ruego, Adonis, que te guardes</l>
+            <l n="752">y acometas a los que son cobardes.”</l>
+         </lg>
+         <lg>
+            <l>Así dijo, y al joven abrazando,</l>
+            <l n="754">en el aire sereno levantada,</l>
+            <l>por el cuenco del cielo rodeando,</l>
+            <l n="756">de cuatros blancos cisnes fue tirada;</l>
+            <l>en el viento iba el carro tropezando</l>
+            <l n="758">y la rueda en el eje embarazada;</l>
+            <l>cualquier nube le da contrariedad,</l>
+            <l n="760">señal de venidera adversidad.</l>
+         </lg>
+         <lg>
+            <l>Adonis de la pena de Atalanta</l>
+            <l n="762">quedaba entre sí maravillándose,</l>
+            <l>cuando un ventor la voz sorda levanta,</l>
+            <l n="764">en el rastro de un puerco rodeándose;</l>
+            <l>conoce el redoblar en la garganta</l>
+            <l n="766">de la voz, que venía acercándose,</l>
+            <l>y ve la fiera de bestial braveza</l>
+            <l n="768">por un canto romper la maleza.</l>
+         </lg>
+         <lg>
+            <l>Apresurando el paso por un llano</l>
+            <l n="770">se fue a ella derecho cuanto pudo,</l>
+            <l>apretando con una y otra mano</l>
+            <l n="772">el agudo venablo por el nudo;</l>
+            <l>e hirióla con fuerza, mas en vano,</l>
+            <l n="774">en el derecho lado del escudo;</l>
+            <l>el arma penetró tan poco adentro</l>
+            <l n="776">que reparó en el hueso del encuentro.</l>
+         </lg>
+         <lg>
+            <l>Gobernaban el ánimo y ardor</l>
+            <l n="778">las juveniles fuerzas y experiencia,</l>
+            <l>mas no pudieron tanto que al furor</l>
+            <l n="780">de la fiera hiciesen resistencia,</l>
+            <l>así que el golpe dado con error,</l>
+            <l n="782">el ímpetu bestial y la violencia</l>
+            <l>al joven corajoso enamorado</l>
+            <l n="784">causaron dura muerte en aquel prado;</l>
+         </lg>
+         <lg>
+            <l>Porque el puerco herido, incontinente</l>
+            <l n="786">le recogió en la trompa por derecho,</l>
+            <l>y, desarmando en él su duro diente,</l>
+            <l n="788">abrió de cabo a cabo el tierno pecho;</l>
+            <l>y con la misma furia y accidente,</l>
+            <l n="790">no contento del daño que había hecho</l>
+            <l>acuchilló de paso en un instante</l>
+            <l n="792">cuantos canes topó al lado y delante.</l>
+         </lg>
+         <lg>
+            <l>En la hierba quedó el cuerpo extendido</l>
+            <l n="794">y el alma salió envuelta en sangre y viento;</l>
+            <l>la Diosa, aunque iba ya a vuelo tendido,</l>
+            <l n="796">temerosa de algún acaecimiento,</l>
+            <l>todo junto sintió el golpe y gemido,</l>
+            <l n="798">muerto el joven, y el prado vio sangriento;</l>
+            <l>deja el carro con furia y desconcierto</l>
+            <l n="800">y derribase sobre el cuerpo muerto.</l>
+         </lg>
+         <lg>
+            <l>Tal lo halla cual flor de primavera</l>
+            <l n="802">que poco antes honraba el verde prado,</l>
+            <l>fresca y alta, y en orden la primera,</l>
+            <l n="804">mas fue al pasar tocada del arado;</l>
+            <l>cual el blanco jazmín o adormidera,</l>
+            <l n="806">cogido en un instante y arrojado,</l>
+            <l>la tez y resplandor y hermosura</l>
+            <l n="808">vueltos en sombra eterna y noche escura.</l>
+         </lg>
+         <lg>
+            <l>Como en el ser perfecto y el camino</l>
+            <l n="810">inmortal de mortal difiere tanto,</l>
+            <l>los sentimientos de ánimo divino</l>
+            <l n="812">no los puede exprimir humano canto,</l>
+            <l>pues, ¿qué haré yo, nuevo peregrino?</l>
+            <l n="814">¿cómo declararé el divino llanto,</l>
+            <l>si no puedo entenderlo ni gustarlo?</l>
+            <l n="816">El partido mejor será callarlo.</l>
+         </lg>
+         <lg>
+            <l>Solamente diré que, en remembranza</l>
+            <l n="818">de tan triste memoria y tal dolor,</l>
+            <l>quiso Venus hacer nueva mudanza,</l>
+            <l n="820">convirtiendo la sangre en roja flor,</l>
+            <l>y ella tomar de Amor justa venganza</l>
+            <l n="822">no llamándose madre del Amor,</l>
+            <l>antes con rayos de oro y clara lumbre</l>
+            <l n="824">siguiendo al rubio sol por la alta cumbre.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>
