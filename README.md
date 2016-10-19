@@ -1,7 +1,7 @@
 
 #Fábulas mitológicas del Siglo de Oro
 
-Este repositorio contiene una colección de textos (161.216 palabras) publicados por [Antonio Rojas Castro] (http://antoniorojascastro.com). A fecha de septiembre de 2016, el repositorio consta de 25 poemas en español fechados en los siglos XVI y XVII en formato XML/TEI y TXT. 
+Este repositorio contiene una colección de textos (161.216 palabras) publicados por [Antonio Rojas Castro] (http://antoniorojascastro.com). A fecha de septiembre de 2016, el repositorio consta de 26 poemas en español fechados en los siglos XVI y XVII en formato XML/TEI y TXT. 
 
 Si deseas obtener solamente el cuerpo del texto, puedes convertir los archivos TEI en texto plano con la herramienta [OxGarage] (http://www.tei-c.org/oxgarage/).
 
@@ -16,6 +16,7 @@ Si deseas obtener solamente el cuerpo del texto, puedes convertir los archivos T
 * *Fábula de Genil* de Pedro Espinosa
 * *Fábula de Píramo y Tisbe* de Luis de Góngora
 * *Fábula de Polifemo y Galatea* de Luis de Góngora
+* *Fábula de Adonis* de Diego Hurtado de Mendoza
 * *Orfeo* de Juan de Jáuregui
 * *La Andrómeda* de Félix Lope de Vega
 * *La Circe* de Félix Lope de Vega
