@@ -1,0 +1,50 @@
+@namespace xml url('http://www.w3.org/XML/1998/namespace');
+@namespace tei url('http://www.tei-c.org/ns/1.0');
+
+TEI, fileDesc, editionStmt, publicationStmt, author, resp{
+    font-family: 'Open Sans', sans-serif;
+    display:block;
+    font-size: 20px; 
+        }  
+
+teiHeader{
+    background-color: lightblue;
+    line-height:40px;
+    padding:50px;
+    text-align: center;
+}
+
+title, hi, label{
+    font-style:italic;
+}
+
+epigraph, argument{
+    font-style:italic;
+    display: block;
+    margin-top:40px;
+    margin-bottom: 20px;
+}
+
+head{
+    font-weight: bold;
+    display:block;
+    margin-top:40px;
+    margin-bottom:20px;
+}
+
+lg{
+   display:block;
+   margin-bottom:20px;
+    }    
+    
+l{
+   display:block;
+    } 
+
+/* l[n]:before{
+    content: attr(n);
+    margin-left: -100px;
+    position:absolute;
+}*/
+      
+
