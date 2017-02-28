@@ -1,7 +1,7 @@
 
 #Fábulas mitológicas del Siglo de Oro
 
-Este repositorio contiene una colección de textos (más de 160.000 palabras) publicados por [Antonio Rojas Castro] (http://antoniorojascastro.com). A fecha de septiembre de 2016, el repositorio consta de 26 poemas en español fechados en los siglos XVI y XVII en formato XML/TEI y TXT. 
+Este repositorio contiene una colección de textos (150 227 palabras) publicados por [Antonio Rojas Castro] (http://antoniorojascastro.com). A fecha de marzo de 2017, el repositorio consta de 24 poemas en español fechados en los siglos XVI y XVII en formato XML/TEI y TXT. 
 
 Si deseas obtener solamente el cuerpo del texto, puedes convertir los archivos TEI en texto plano con la herramienta [OxGarage] (http://www.tei-c.org/oxgarage/).
 
@@ -9,7 +9,6 @@ Si deseas obtener solamente el cuerpo del texto, puedes convertir los archivos T
 
 * *Fábula de Acteón* de Luis Barahona de Soto
 * *Fábula de Vertumno y Pomona* de Luis Barahona de Soto
-* *El Narciso* de Juan Bermúdez y Alfaro
 * *Fábula de Leandro y Hero* de Gabriel Bocángel
 * *Fábula de Acis y Galatea* de Luis Carrillo y Sotomayor
 * *La Psique* de Gutierre de Cetina
@@ -26,7 +25,6 @@ Si deseas obtener solamente el cuerpo del texto, puedes convertir los archivos T
 * *El Orfeo en lengua castellana* de Juan Pérez de Montalbán
 * *Fábula de Apolo y Dafne* de Jacinto Polo de Medina
 * *Fábula de Pan y Siringa* de Jacinto Polo de Medina
-* *Fábula de Apolo y Dafne* de Francisco de Quevedo
 * *Fragmentos de Adonis* de Pedro Soto de Rojas
 * *Los rayos de Faetón* de Pedro Soto de Rojas
 * *Fábula de Apolo y Dafne* del Conde de Villamediana
