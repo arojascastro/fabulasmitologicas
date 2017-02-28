@@ -7,6 +7,8 @@ Si deseas obtener solamente el cuerpo del texto, puedes convertir los archivos T
 
 ##Contenido
 
+### Corpus
+
 * *Fábula de Acteón* de Luis Barahona de Soto
 * *Fábula de Vertumno y Pomona* de Luis Barahona de Soto
 * *Fábula de Leandro y Hero* de Gabriel Bocángel
@@ -31,6 +33,21 @@ Si deseas obtener solamente el cuerpo del texto, puedes convertir los archivos T
 * *Fábula de Europa* del Conde de Villamediana
 * *Fábula de Faetón* del Conde de Villamediana
 * *Fábula de la Fénix* del Conde de Villamediana
+
+### Código
+
+Esta carpeta contiene archivos R utilizados para obtener las frecuencias relativas y para clasificar los textos con distancia euclidiana.
+
+### Resultados
+
+Esta carpeta contiene: 
+* un archivo Excel con una descripción cuantitativa de los textos;
+* visualizaciones realizadas con R y Stylo;
+* y cuatro listas de palabras clave obtenidas con AntConc.
+
+### Hoja de estilo
+
+Archivo CSS para visualizar los archivos XML en Oxygen Modo Author.
 
 ##Licencia
 La colección se publica en abierto y bajo licencia [Creative Commons Reconocimiento 4.0 Internacional] (https://creativecommons.org/licenses/by/4.0/) por lo que se puede clonar o bien descargar con fines académicos. 
