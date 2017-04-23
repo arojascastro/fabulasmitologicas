@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../teistyle.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de Apolo y Dafne</title>
+            <author>Francisco de Quevedo</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Quevedo, Francisco de. <title>Obra poética</title>. Ed. De José Manuel Blecua. Madrid: Castalia, 1985. Impreso.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado en <date>1605</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l>Delante del Sol venía</l>
+            <l>Corriendo Dafne, doncella</l>
+            <l>De extremada gallardía,</l>
+            <l n="4">Y en ir delante tan bella,</l>
+            <l>Nueva Aurora parecía.</l>
+         </lg>
+         <lg>
+            <l>Cansado más de cansalla</l>
+            <l>Que de cansarse a sí Febo,</l>
+            <l n="8">A la amorosa batalla</l>
+            <l>Quiso dar principio nuevo,</l>
+            <l>Para mejor alcanzalla.</l>
+         </lg>
+         <lg>
+            <l>Mas viéndola tan cruel,</l>
+            <l n="12">Dio mil gritos doloridos,</l>
+            <l>Contento el amante fiel</l>
+            <l>De que alcancen sus oídos</l>
+            <l>Las voces, ya que no él.</l>
+         </lg>
+         <lg>
+            <l n="16">Mas envidioso de ver</l>
+            <l>Que han de gozar gloria nueva</l>
+            <l>Las palabras en su ser,</l>
+            <l>Con el viento que las lleva</l>
+            <l n="20">Quiso parejas correr.</l>
+         </lg>
+         <lg>
+            <l>Pero su padre, celoso,</l>
+            <l>En su curso cristalino</l>
+            <l>Tras ella corrió furioso,</l>
+            <l n="24">Y en medio de su camino</l>
+            <l>Los atajó sonoroso.</l>
+         </lg>
+         <lg>
+            <l>El Sol corre por seguilla,</l>
+            <l>Por huir corre la estrella;</l>
+            <l n="28">Corre el llanto por no vella,</l>
+            <l>Corre el aire por oílla,</l>
+            <l>Y el río por socorrella.</l>
+         </lg>
+         <lg>
+            <l>Atrás los deja arrogante,</l>
+            <l n="32">Y a su enamorado más,</l>
+            <l>Que ya, por llevar triunfante</l>
+            <l>Su honestidad adelante,</l>
+            <l>A todos los deja atrás.</l>
+         </lg>
+         <lg>
+            <l n="36">Mas viendo su movimiento,</l>
+            <l>Dio las razones que canto,</l>
+            <l>Con dolor y sin aliento,</l>
+            <l>Primero al correr del llanto</l>
+            <l n="40">Y luego al volar del viento:</l>
+         </lg>
+         <lg>
+            <l>«Di, ¿por qué mi dolor creces</l>
+            <l>Huyendo tanto de mí</l>
+            <l>En la muerte que me ofreces?</l>
+            <l n="44">Si el Sol y luz aborreces,</l>
+            <l>Huye tú misma de ti.</l>
+         </lg>
+         <lg>
+            <l>»No corras más, Dafne fiera,</l>
+            <l>Que en verte huir furiosa</l>
+            <l n="48">De mí, que alumbro la Esfera,</l>
+            <l>Si no fueras tan hermosa,</l>
+            <l>Por la noche te tuviera.</l>
+         </lg>
+         <lg>
+            <l>»Ojos que en esa beldad</l>
+            <l n="52">Alumbráis con luces bellas</l>
+            <l>Su rostro y su crueldad,</l>
+            <l>Pues que Sois los dos estrellas,</l>
+            <l>Al Sol que os mira, mirad.</l>
+         </lg>
+         <lg>
+            <l n="56">»¡En mi triste padecer</l>
+            <l>Y en mi encendido querer,</l>
+            <l>Dafne bella, no sé cómo</l>
+            <l>Con tantas flechas de plomo</l>
+            <l n="60">Puedes tan veloz correr!</l>
+         </lg>
+         <lg>
+            <l>»Ya todo mi bien perdí;</l>
+            <l>Ya se acabaron mis bienes;</l>
+            <l>Pues hoy corriendo tras ti,</l>
+            <l n="64">Aun mi corazón, que tienes,</l>
+            <l>Alas te da contra mí.»</l>
+         </lg>
+         <lg>
+            <l>A su oreja esta razón,</l>
+            <l>Y a sus vestidos su mano,</l>
+            <l n="68">Y de Dafne la oración,</l>
+            <l>A Júpiter soberano</l>
+            <l>Llegaron a una sazón.</l>
+         </lg>
+         <lg>
+            <l>Sus plantas en sola una</l>
+            <l n="72">De lauro se convirtieron;</l>
+            <l>Los dos brazos le crecieron,</l>
+            <l>Quejándose a la Fortuna</l>
+            <l>Con el ruido que hicieron.</l>
+         </lg>
+         <lg>
+            <l n="76">Escondióse en la corteza</l>
+            <l>La nieve del pecho helado,</l>
+            <l>Y la flor de su belleza</l>
+            <l>Dejó en la flor un traslado</l>
+            <l n="80">Que al lauro presta riqueza.</l>
+         </lg>
+         <lg>
+            <l>De la rubia cabellera</l>
+            <l>Que floreció tantos mayos,</l>
+            <l>Antes que se convirtiera,</l>
+            <l n="84">Hebras tomó el Sol por rayos,</l>
+            <l>Con que hoy alumbra la esfera.</l>
+         </lg>
+         <lg>
+            <l>Con mil abrazos ardientes,</l>
+            <l>Ciñó el tronco el Sol, y luego,</l>
+            <l n="88">Con las memorias presentes,</l>
+            <l>Los rayos de luz y fuego</l>
+            <l>Desató en amargas fuentes.</l>
+         </lg>
+         <lg>
+            <l>Con un honesto temblor,</l>
+            <l n="92">Por rehusar sus abrazos,</l>
+            <l>Se quejó de su rigor,</l>
+            <l>Y aun quiso inclinar los brazos,</l>
+            <l>Por estorbarlos mejor.</l>
+         </lg>
+         <lg>
+            <l n="96">El aire desenvolvía</l>
+            <l>Sus hojas, y no hallando</l>
+            <l>Las hebras que ver solía,</l>
+            <l>Tristemente murmurando</l>
+            <l n="100">Entre las ramas corría.</l>
+         </lg>
+         <lg>
+            <l>El río, que esto miró,</l>
+            <l>Movido a piedad y llanto,</l>
+            <l>Con sus lágrimas creció,</l>
+            <l n="104">Y a besar el pie llegó</l>
+            <l>Del árbol divino y santo.</l>
+         </lg>
+         <lg>
+            <l>Y viendo caso tan tierno,</l>
+            <l>Digno de renombre eterno,</l>
+            <l n="108">La reservó en aquel llano,</l>
+            <l>De sus rayos el Verano,</l>
+            <l>Y de su hielo el Invierno.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>
