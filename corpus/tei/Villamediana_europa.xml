@@ -18,13 +18,10 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <p>Publicado con una licencia de <ref
-                  target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
-                  Reconocimiento 4.0 Internacional</ref>.</p>
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
          </publicationStmt>
          <sourceDesc>
-            <p>Villamediana, Conde. <title>Poesía</title>. Ed. De María Teresa Ruestes. Barcelona:
-               Planeta, 1992. Impreso.</p>
+            <p>Villamediana, Conde. <title>Poesía</title>. Ed. De María Teresa Ruestes. Barcelona: Planeta, 1992. Impreso.</p>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -159,7 +156,7 @@
          <l>cuyo fecundo rayo</l>
          <l>duplicado es abril, florido mayo,</l>
          <l>regia sale deidad, gloria, decoro</l>
-         <l>del fortunado imperio de Fenicia,</l>
+         <l>del fortunado imperio de <placeName>Fenicia</placeName>,</l>
          <l n="125">que Venus logra tanto,</l>
          <l>a que en vago tributo fresco prado</l>
          <l>en luz sea floresciente</l>
@@ -620,7 +617,7 @@
          <l>juntas las palmas de la nieve ardiente</l>
          <l>en lamentable voz de quejas llena,</l>
          <l>lagrimosa beldad omnipotente</l>
-         <l n="585">del Olimpo invocó deidades cuantas</l>
+         <l n="585">del <placeName>Olimpo</placeName> invocó deidades cuantas</l>
          <l>en su cerviz constante</l>
          <l>sostener pudo el mauritano Atlante,</l>
          <l>dando al mar nuevas conchas eritreas</l>
@@ -662,13 +659,13 @@
          <l>de gente a quien se debe sacrificio.</l>
          <l n="625">¡Oh Padre!, ¡oh Patria!, ¡oh cielos enemigos!,</l>
          <l>ya exceden a mis culpas sus castigos.</l>
-         <l>Hija infeliz del que Fenicia honora</l>
+         <l>Hija infeliz del que <placeName>Fenicia</placeName> honora</l>
          <l>en regio solio de oro,</l>
          <l>¿ha de tener agora</l>
          <l n="630">por tumba el mar o por marido un toro?</l>
          <l>¡Oh cuánto mejor fuera</l>
          <l>que de mis venas ya se alimentara</l>
-         <l>la que en Libia más fiera</l>
+         <l>la que en <placeName>Libia</placeName> más fiera</l>
          <l>o en las hircanas selvas se hallara,</l>
          <l n="635">que dar hoy de mi suerte la miseria</l>
          <l>a fiera obscenidad torpe miseria!</l>
@@ -764,7 +761,7 @@
          <l>Mi generosa cuna es la que miras</l>
          <l>de apacibles repulsas tiernas iras,</l>
          <l>rescripto fin y gloriosa meta,</l>
-         <l>silla en la tierra de mi imperio Creta,</l>
+         <l>silla en la tierra de mi imperio <placeName>Creta</placeName>,</l>
          <l n="730">isla que para tuya sólo es chica,</l>
          <l>bien que de rica cien ciudades rica,</l>
          <l>al nombre tuyo dedicada toda</l>

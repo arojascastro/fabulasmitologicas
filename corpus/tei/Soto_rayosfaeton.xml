@@ -94,7 +94,7 @@
             </lg>
             <lg>
                <l>Húmeda gruta o cristalina alcoba,</l>
-               <l n="50">lisonja dulce al esplendor de Oriente,</l>
+               <l n="50">lisonja dulce al esplendor de <placeName>Oriente</placeName>,</l>
                <l>cuya fábrica ilustre escollo roba,</l>
                <l>centinela de montes preeminente,</l>
                <l>ocupa honroso pabellón de toba,</l>
@@ -974,7 +974,8 @@
             <lg>
                <l n="745">Clío ardiente sintió previsto el caso,</l>
                <l>que en dos frentes los tiempos examina,</l>
-               <l>y con la voz que regaló el Parnaso</l>
+               <l>y con la voz que regaló el <placeName>Parnaso</placeName>
+               </l>
                <l>ultrajó a la bizarra Nonacrina;</l>
                <l>estórbale su acento el veloz paso</l>
                <l n="750">que articula: «¿Do vas ninfa mezquina?</l>
@@ -1242,7 +1243,8 @@
                <l n="960">que forman los cuidados de las fuentes.</l>
             </lg>
             <lg>
-               <l>Etna correspondiente de Nereo,</l>
+               <l>
+                  <placeName>Etna</placeName> correspondiente de Nereo,</l>
                <l>respiración mojada de su enojo,</l>
                <l>si no es vulva de Temis que a Peneo</l>
                <l>precipitado aborta de un antojo,</l>
@@ -1393,7 +1395,7 @@
             </lg>
             <lg>
                <l>Dijo, y al punto el bronce espiritado,</l>
-               <l>como suele en el Líbano eminente</l>
+               <l>como suele en el <placeName>Líbano</placeName> eminente</l>
                <l>el cedro comoverse descollado,</l>
                <l>persuadido del Céfiro elocuente,</l>
                <l n="1085">se estremeció, y en metro concertado</l>
@@ -1711,7 +1713,8 @@
                <l>en vez de hacer oposición le incita:</l>
                <l>«Pide, pide -le dice-, en tanto gozo,</l>
                <l>al pecho real de estos empeños quita,</l>
-               <l n="1335">que juro por el lago Estigio Averno</l>
+               <l n="1335">que juro por el lago Estigio <placeName>Averno</placeName>
+               </l>
                <l>darte el imperio de la luz eterno».</l>
             </lg>
             <lg>
@@ -1752,7 +1755,7 @@
                <l n="1365">monte la deidad es, y en prometiendo</l>
                <l>Euro la voz, que se mostró enojado,</l>
                <l>allá destrozos se verán y astillas</l>
-               <l>del Erídano infausto en las orillas.</l>
+               <l>del <placeName>Erídano</placeName> infausto en las orillas.</l>
             </lg>
             <lg>
                <l>El corazón magnánimo alterado,</l>
@@ -1960,7 +1963,7 @@
             <lg>
                <l>El robador de la Fenice hermosa,</l>
                <l n="1530">triplicidad y término de aquélla</l>
-               <l>que es dulce en Chipre venerada rosa,</l>
+               <l>que es dulce en <placeName>Chipre</placeName> venerada rosa,</l>
                <l>y en consentes deidades la más bella,</l>
                <l>observarás; y por la piel hermosa</l>
                <l>a Lucina verás que se desvela</l>
@@ -2032,7 +2035,8 @@
                <l>a quien pide la paz con tierno llanto.</l>
                <l>Ruge enojado el animal nemeo,</l>
                <l>del gran hijo de Júpiter quebranto.</l>
-               <l>Rayos forjó el vecino de Leteo</l>
+               <l>Rayos forjó el vecino de <placeName>Leteo</placeName>
+               </l>
                <l n="1590">con tanta rabia no, con tanto espanto,</l>
                <l>volcán arroja montes de ceniza,</l>
                <l>que menos fuego que su boca atiza.</l>
@@ -2233,7 +2237,7 @@
                <l>son, a las que sin número naciones</l>
                <l>solicitan las fuentes en sus senos.</l>
                <l>De ardentísima sed demostraciones</l>
-               <l n="1750">los de Etiopia dan, pues en los cïenos</l>
+               <l n="1750">los de <placeName>Etiopia</placeName> dan, pues en los cïenos</l>
                <l>(no linfas ya) deshacen sus agravios,</l>
                <l>mojando manos, ojos, dientes, labios.</l>
             </lg>
@@ -2282,15 +2286,15 @@
                <l>el Atos santo, índico el Cambades,</l>
                <l>el Pelión, que albergue a los terribles</l>
                <l>monstruos queriones dio, tantas edades.</l>
-               <l>El Ida ya sin fuentes apacibles,</l>
+               <l>El <placeName>Ida</placeName> ya sin fuentes apacibles,</l>
                <l n="1790">el Timolo y Oeta majestades</l>
                <l>que son del mundo, aquél por el Pactolo,</l>
                <l>y éste por tumba que es de Alcides sólo.</l>
             </lg>
             <lg>
-               <l>Helicona y Parnaso de las Musas,</l>
-               <l>Emo el de Tracia, habitación de Marte,</l>
-               <l n="1795">y Etna con tanto fuego no se escusa,</l>
+               <l>Helicona y <placeName>Parnaso</placeName> de las Musas,</l>
+               <l>Emo el de <placeName>Tracia</placeName>, habitación de Marte,</l>
+               <l n="1795">y <placeName>Etna</placeName> con tanto fuego no se escusa,</l>
                <l>antes aloja el que Faetón reparte.</l>
                <l>Ya no comen Alíeos ni Aretusas,</l>
                <l>ni el gran Pirén los dos imperios parte.</l>
@@ -2304,7 +2308,7 @@
                <l>por su candor del mundo celebrada.</l>
                <l n="1805">La nieve se deshace y, consumida,</l>
                <l>sus minas dan la plata que acendrada</l>
-               <l>corre por el Genil y, a más decoro,</l>
+               <l>corre por el <placeName>Genil</placeName> y, a más decoro,</l>
                <l>líquido el Dauro le tributa en oro.</l>
             </lg>
             <lg>
@@ -2328,11 +2332,11 @@
                <l>permutaron las nieves con los fuegos.</l>
             </lg>
             <lg>
-               <l n="1825">De cuatro Olimpos, si uno por costumbre,</l>
+               <l n="1825">De cuatro <placeName>Olimpo</placeName>s, si uno por costumbre,</l>
                <l>por la ley general, cualquier se enciende.</l>
                <l>Del culto Pindo la sagrada cumbre</l>
                <l>fuego sacude que las nubes hiende.</l>
-               <l>Del Apenino, a que Aníbal dio lumbre,</l>
+               <l>Del <placeName>Apenino</placeName>, a que Aníbal dio lumbre,</l>
                <l n="1830">con cabo el cerco de los cielos prende</l>
                <l>la llama y, ya voraz, muda de esfera,</l>
                <l>no vuela arriba, al centro va ligera.</l>
@@ -2365,12 +2369,13 @@
                <l>Destrozado su arnés, el que galante</l>
                <l>salteando las nubes las salpica,</l>
                <l n="1855">se ve arrimado a un inconstante hilo.</l>
-               <l>¿Quién tal dijera al inundante Nilo?</l>
+               <l>¿Quién tal dijera al inundante <placeName>Nilo</placeName>?</l>
             </lg>
             <lg>
-               <l>Tigris, Eufratres, Ganges y Danubios</l>
+               <l>
+                  <placeName>Tigris</placeName>, Eufratres, <placeName>Ganges</placeName> y <placeName>Danubio</placeName>s</l>
                <l>al mar llegan caudales tan gastados,</l>
-               <l>que el Tajo, el Idas y Arimaspo rubios,</l>
+               <l>que el Tajo, el <placeName>Ida</placeName>s y Arimaspo rubios,</l>
                <l n="1860">amarillos se quedan asombrados.</l>
                <l>Viéronse ayer temidos por diluvios</l>
                <l>Pactolos, Renos, Tíberis y Pados.</l>
@@ -2379,28 +2384,28 @@
             </lg>
             <lg>
                <l n="1865">Sale sulfúreo el Nar, Melas ungido,</l>
-               <l>Lincisto bacanal, frigio el Meandro,</l>
+               <l>Lincisto bacanal, frigio el <placeName>Meandro</placeName>,</l>
                <l>Permesio de las musas escogido,</l>
                <l>Y Inaco argivo, acusación de Evandro.</l>
-               <l>Suavísimo el Jordán esclarecido,</l>
+               <l>Suavísimo el <placeName>Jordán</placeName> esclarecido,</l>
                <l n="1870">y el hondo estrecho en que luchó Leandro,</l>
                <l>alojaron en lóbregas alcobas</l>
                <l>por cándido cristal, cerúleas ovas.</l>
             </lg>
             <lg>
                <l>Callado el Guadiana, el Duero horrendo,</l>
-               <l>el Ebro, el Segre, el Miño, y el Cefiso,</l>
+               <l>el <placeName>Ebro</placeName>, el Segre, el Miño, y el Cefiso,</l>
                <l n="1875">el Ródano se olvida de su estruendo,</l>
                <l>y de su majestad Paropaniso.</l>
-               <l>El Oaxes de Creta va saliendo,</l>
-               <l>Acis del Etna y de Tesalia Anfriso,</l>
-               <l>de Tracia el Estrimón, de Siria Oronte,</l>
+               <l>El Oaxes de <placeName>Creta</placeName> va saliendo,</l>
+               <l>Acis del <placeName>Etna</placeName> y de <placeName>Tesalia</placeName> Anfriso,</l>
+               <l>de <placeName>Tracia</placeName> el Estrimón, de <placeName>Siria</placeName> Oronte,</l>
                <l n="1880">dentre sus amazonas Tremodonte.</l>
             </lg>
             <lg>
-               <l>Tanai rifeo, Sperquio de Tesalia,</l>
+               <l>Tanai rifeo, Sperquio de <placeName>Tesalia</placeName>,</l>
                <l>Simois y Janto de Dardania ardiente,</l>
-               <l>el magnánimo Betis de Vandalia,</l>
+               <l>el magnánimo <placeName>Betis</placeName> de Vandalia,</l>
                <l>y de Magnesia el gran Peneo doliente.</l>
                <l n="1885">Ligeris y Garumna por la Galia,</l>
                <l>todos al mar terminan su occidente.</l>
@@ -2461,7 +2466,7 @@
                <l>De fuego copos nieva el firmamento</l>
                <l n="1930">y las nubes centellas a porfía,</l>
                <l>granizo dan y el húmedo elemento</l>
-               <l>a Libia en lo arenoso desafía.</l>
+               <l>a <placeName>Libia</placeName> en lo arenoso desafía.</l>
                <l>La tierra se enhestó en su firme asiento,</l>
                <l>por bocas mil cenizas escupía,</l>
                <l n="1935">vivificando a la mayor los labios</l>
@@ -2530,7 +2535,7 @@
             <lg>
                <l n="1985">El sol la nube pareció preñada,</l>
                <l>que un rayo y cuatro disipó centellas.</l>
-               <l>En la orilla de Erídano mojada</l>
+               <l>En la orilla de <placeName>Erídano</placeName> mojada</l>
                <l>éste humea y por los vientos ellas.</l>
                <l>Faetón entre ceniza ensangrentada.</l>
                <l n="1990">Las fieras entre el humo a las estrellas</l>

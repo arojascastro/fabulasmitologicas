@@ -164,8 +164,8 @@
             <l>la tierra, el mar y el viento enamorando.</l>
          </lg>
          <lg>
-            <l n="105">En la isla de Chipre le dio puerto,</l>
-            <l>entre Siria y Cilicia, el mar Carpacio,</l>
+            <l n="105">En la isla de <placeName>Chipre</placeName> le dio puerto,</l>
+            <l>entre <placeName>Siria</placeName> y Cilicia, el mar Carpacio,</l>
             <l>donde en lo más ameno y descubierto</l>
             <l>Venus fundó su espléndido palacio;</l>
             <l>del cual las Horas, diosas del concierto,</l>
@@ -195,7 +195,7 @@
          </lg>
          <lg>
             <l>Apolo Cintio, con real decoro,</l>
-            <l n="130">rizas como en España las guedejas,</l>
+            <l n="130">rizas como en <placeName>España</placeName> las guedejas,</l>
             <l>vibrando el arco, y de las flechas de oro</l>
             <l>rayos de luz entre amorosas quejas,</l>
             <l>abrió de sus riquezas el tesoro,</l>
@@ -215,13 +215,13 @@
          </lg>
          <lg>
             <l n="145">Plutón, que al repartir el mundo tuvo</l>
-            <l>a España y cuanto mira al occidente,</l>
+            <l>a <placeName>España</placeName> y cuanto mira al occidente,</l>
             <l>el nombre que de dios del oro obtuvo</l>
             <l>mostró en los rayos de la torva frente;</l>
             <l>porque entonces Plutón más libre estuvo</l>
             <l n="150">de la deformidad que el impaciente</l>
             <l>pecho movió cuando a robar se inclina</l>
-            <l>a Ceres, en Sicilia, a Proserpina.</l>
+            <l>a Ceres, en <placeName>Sicilia</placeName>, a Proserpina.</l>
          </lg>
          <lg>
             <l>Pan, dios de los pastores, testimonio</l>
@@ -409,7 +409,7 @@
             <l>a que llega celosa pesadumbre</l>
             <l n="300">cuando de ajeno amor se desengaña;</l>
             <l>dijo al herrero dios que en la alta cumbre</l>
-            <l>del Etna el hierro ardiente en agua baña,</l>
+            <l>del <placeName>Etna</placeName> el hierro ardiente en agua baña,</l>
             <l>espirando por él orbes de fuego,</l>
             <l>fimeras de un instante, heladas luego:</l>
          </lg>
@@ -524,7 +524,7 @@
             <l>la red, y al cielo su delito expone.</l>
          </lg>
          <lg>
-            <l>Los dioses al Olimpo circunstantes</l>
+            <l>Los dioses al <placeName>Olimpo</placeName> circunstantes</l>
             <l>miraron con envidia al dios guerrero,</l>
             <l n="395">con celos a la diosa los amantes,</l>
             <l>y con dolor al afrentado herrero.</l>
@@ -569,7 +569,7 @@
             <l>en el convite echó sin que la vieran;</l>
             <l>que tiene el cielo estrellas por ventanas.</l>
             <l>Los dioses su hermosura consideran</l>
-            <l n="430">rubíes de Ceilán y tirias granas,</l>
+            <l n="430">rubíes de <placeName>Ceilán</placeName> y tirias granas,</l>
             <l>y ven que, donde más dorada viene,</l>
             <l>«Dese a la más hermosa» escrito tiene.</l>
          </lg>
@@ -584,7 +584,7 @@
             <l n="440">por ciencia, gracia, sangre y hermosura.</l>
          </lg>
          <lg>
-            <l>Reina de Troya, Hécuba soñaba</l>
+            <l>Reina de <placeName>Troya</placeName>, Hécuba soñaba</l>
             <l>que una hacha ardiente y trágica traía,</l>
             <l>en que los patrios muros abrasaba,</l>
             <l>y por quien muertos a sus hijos vía;</l>
@@ -595,7 +595,7 @@
          </lg>
          <lg>
             <l>Arquelao piadoso el niño cría,</l>
-            <l n="450">y en Ida monte fue pastor tan fuerte,</l>
+            <l n="450">y en <placeName>Ida</placeName> monte fue pastor tan fuerte,</l>
             <l>que’a cuantas fieras y ladrones vía,</l>
             <l>hecho jüez los condenaba a muerte.</l>
             <l>Júpiter, viendo que juzgar sabía,</l>
@@ -608,7 +608,7 @@
             <l>en su amado desdén resplandecía,</l>
             <l>y, por engaño, en el silvestre acebo,</l>
             <l n="460">que no en la adelfa, porque rosas cría,</l>
-            <l>milagro en Ida apareció tan nuevo,</l>
+            <l>milagro en <placeName>Ida</placeName> apareció tan nuevo,</l>
             <l>que el monte con la luz resplandecía;</l>
             <l>las fieras se escondieron, y sonoras</l>
             <l>las aves celebraron tres auroras;</l>
@@ -664,7 +664,7 @@
             <l>pues como fue la causa fue el efeto.</l>
          </lg>
          <lg>
-            <l n="505">Perdióse Troya por quererte, Helena,</l>
+            <l n="505">Perdióse <placeName>Troya</placeName> por quererte, Helena,</l>
             <l>engañado mancebo; corrió Xanto</l>
             <l>sangre en vez de cristal, y en vez de arena,</l>
             <l>difuntos cuerpos con horrible espanto;</l>
@@ -705,7 +705,7 @@
          </lg>
          <lg>
             <l>Amó de suerte Venus amorosa</l>
-            <l>este mancebo en Chipre, que olvidada</l>
+            <l>este mancebo en <placeName>Chipre</placeName>, que olvidada</l>
             <l>de su tercera esfera luminosa,</l>
             <l n="540">hizo la selva habitación sagrada.</l>
             <l>No os espante, señora, que esta diosa</l>
@@ -777,7 +777,7 @@
             <l>Admirados los dioses celestiales</l>
             <l>de ver su rojo resplandor, temieron</l>
             <l n="595">las desventuras otra vez fatales</l>
-            <l>que a los muros de Troya sucedieron;</l>
+            <l>que a los muros de <placeName>Troya</placeName> sucedieron;</l>
             <l>y puestos en contiendas desiguales,</l>
             <l>a Júpiter tonante la pidieron:</l>
             <l>que Venus por los hados no sabia</l>

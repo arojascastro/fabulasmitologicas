@@ -22,15 +22,12 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <p>Publicado con una licencia de <ref
-                  target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
                   Reconocimiento 4.0 Internacional</ref>.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Góngora, Luis de. <title>
-                  <ref
-                     target="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem317"
-                     >Edición digital y estudio de la polémica gongorina</ref>
+                  <ref target="http://obvil-dev.paris-sorbonne.fr/corpus/gongora/gongora_obra-poetica/poem317">Edición digital y estudio de la polémica gongorina</ref>
                </title>. Dir. De Mercedes Blanco. París: OBVIL, 2016. Web.</p>
          </sourceDesc>
       </fileDesc>
@@ -66,7 +63,7 @@
          <l>fue, de los dos casquilucios)</l>
          <l n="25">moral que los hospedó,</l>
          <l>y fue condenado al punto,</l>
-         <l>si del Tigris no en raíces,</l>
+         <l>si del <placeName>Tigris</placeName> no en raíces,</l>
          <l>de los amantes, en fructos.</l>
          <l>Estos, pues, dos babilonios</l>
          <l n="30">vecinos nacieron, mucho,</l>
@@ -242,7 +239,8 @@
          <l n="200">desatar sus piedras pudo;</l>
          <l>mas, ay, que taladró niño</l>
          <l>lo que dilatara astuto,</l>
-         <l>que no poco daño a Troya</l>
+         <l>que no poco daño a <placeName>Troya</placeName>
+         </l>
          <l>breve portillo introdujo;</l>
          <l n="205">la vista que nos dispensa</l>
          <l>le desmienta el atributo</l>
@@ -285,7 +283,7 @@
          <l>de una piel, fueron los dioses</l>
          <l>remuneradores justos,</l>
          <l n="245">a un bajel que pisa inmóvil</l>
-         <l>un Mediterráneo enjuto</l>
+         <l>un <placeName>Mediterráneo</placeName> enjuto</l>
          <l>con los suspiros de un sol,</l>
          <l>bien le deberán coluros;</l>
          <l>tus bordes beso piloto,</l>
@@ -506,19 +504,20 @@
          <l>aquella vez que le cupo.</l>
          <l n="465">Pródigo desató el hierro,</l>
          <l>si crüel, un largo flujo</l>
-         <l>de rubíes de Ceilán</l>
+         <l>de rubíes de <placeName>Ceilán</placeName>
+         </l>
          <l>sobre esmeraldas de Muso.</l>
          <l>Hermosa quedó la muerte</l>
          <l n="470">en los lilios amatuntos,</l>
          <l>que salpicó dulce hielo,</l>
          <l>que tiñó palor venusto.</l>
          <l>Llorólos, con el Eufrates,</l>
-         <l>no solo el fiero Danubio,</l>
+         <l>no solo el fiero <placeName>Danubio</placeName>,</l>
          <l n="475">el siempre Araxes flechero,</l>
          <l>cuándo parto y cuándo turco,</l>
          <l>mas con su llanto lavaron</l>
          <l>el Bucentoro diurno,</l>
-         <l>cuando sale, el Ganges loro,</l>
+         <l>cuando sale, el <placeName>Ganges</placeName> loro,</l>
          <l n="480">cuando vuelve, el Tajo rubio.</l>
          <l>El blanco moral, de cuanto</l>
          <l>humor se bebió purpúreo,</l>

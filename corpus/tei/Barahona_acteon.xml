@@ -75,7 +75,7 @@
             <l>mas al celoso Vulcano,</l>
             <l n="35">que es el padrastro de Amor.</l>
             <l>La materia será el caso,</l>
-            <l>y su fragua mi Parnaso,</l>
+            <l>y su fragua mi <placeName>Parnaso</placeName>,</l>
             <l>y sus golpes mis desmayos,</l>
             <l>y mis palabras los rayos</l>
             <l n="40">de su fuego, en que me abraso.</l>
@@ -89,7 +89,8 @@
             <l>de un monte jamás rozado,</l>
             <l>de sangre nunca manchado,</l>
             <l>cercada al Austro y Poniente,</l>
-            <l>descubierta al sol de Oriente</l>
+            <l>descubierta al sol de <placeName>Oriente</placeName>
+            </l>
             <l n="50">y cubierta al cierzo helado.</l>
          </lg>
          <lg>
@@ -113,7 +114,8 @@
             <l>y aquel árbol que parece</l>
             <l>que por Tisbe se entristece,</l>
             <l>la fruta en sangre bañada,</l>
-            <l>que a la morisca Granada</l>
+            <l>que a la morisca <placeName>Granada</placeName>
+            </l>
             <l n="70">con sus hojas enriquece.</l>
          </lg>
          <lg>
@@ -229,7 +231,7 @@
             <l>la ropa de grana y oro</l>
             <l>le quitó liberalmente,</l>
             <l>y descubriose un tesoro</l>
-            <l n="165">más bello que el sol de Oriente:</l>
+            <l n="165">más bello que el sol de <placeName>Oriente</placeName>:</l>
             <l>descubriose el blanco pecho,</l>
             <l>de masa celestial hecho:</l>
             <l>dos montes y una cañada</l>
@@ -1120,7 +1122,7 @@
             <l n="905">y Oresitrofo el tercero;</l>
             <l>Icnobates y Leucón,</l>
             <l>Hárpalo, Dromas, Ladon,</l>
-            <l>Alce, Tigris y Dorceo,</l>
+            <l>Alce, <placeName>Tigris</placeName> y Dorceo,</l>
             <l>Nape, Terclas, Hileo,</l>
             <l n="910">Melampo, Lagne y Terón.</l>
          </lg>

@@ -18,8 +18,7 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <p>Publicado con una licencia de <ref
-                  target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
                   Reconocimiento 4.0 Internacional</ref>.</p>
          </publicationStmt>
          <sourceDesc>
@@ -85,7 +84,8 @@
             <l n="40">con rostro tierno y delicado pecho;</l>
          </lg>
          <lg>
-            <l>Arabia la feliz, allí bañada</l>
+            <l>
+               <placeName>Arabia</placeName> la feliz, allí bañada</l>
             <l n="42">del manso mar, contino reverdece;</l>
             <l>do el dulce fresco y la calor templada</l>
             <l n="44">se mezclan por la tierra que florece</l>
@@ -185,7 +185,7 @@
             <l n="120">y venga el fuego en que la suya ha ardido.</l>
          </lg>
          <lg>
-            <l>En el Arabia es fama que, cansada</l>
+            <l>En el <placeName>Arabia</placeName> es fama que, cansada</l>
             <l n="122">la diosa Venus por tierra yendo,</l>
             <l>del murmullo de un agua convidada</l>
             <l n="124">que entre la hierba verde iba corriendo,</l>
@@ -307,7 +307,7 @@
          <lg>
             <l>La Diosa está de sí tan olvidada,</l>
             <l n="218">que huye la ribera Citherea,</l>
-            <l>a Gnido, de pescados abastada,</l>
+            <l>a <placeName>Gnido</placeName>, de pescados abastada,</l>
             <l n="220">a Papho que la mar casi rodea;</l>
             <l>a Amatonta se deja despreciada</l>
             <l n="222">por más oro y metales que posea;</l>
@@ -592,7 +592,7 @@
             <l>la pura leche no parece igual</l>
             <l n="446">sobre las vivas rosas derramada,</l>
             <l>ni el limpio alabastro transparente</l>
-            <l n="448">esparcida la púrpura de Oriente.</l>
+            <l n="448">esparcida la púrpura de <placeName>Oriente</placeName>.</l>
          </lg>
          <lg>
             <l>“El, que estaba a mirar embebecido</l>

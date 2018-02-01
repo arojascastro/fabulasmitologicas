@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../fabulas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/css" href="../../teistyle.css"?>
-<TEI  xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -40,7 +40,7 @@
                <l>tu espíritu divino enciende el mío,</l>
                <l>si se digna bañar de ámbar sabeo</l>
                <l>tan débil arco la purpúrea Clío:</l>
-               <l n="5">tu lira (dulce sueño del Leteo)</l>
+               <l n="5">tu lira (dulce sueño del <placeName>Leteo</placeName>)</l>
                <l>quiero imitar, y con ardiente brío</l>
                <l>en claro verso, en número sonoro</l>
                <l>ser Prometeo de sus cuerdas de oro.</l>
@@ -86,11 +86,11 @@
                <l n="40">de Marte Venus, y su ardor me inspira.</l>
             </lg>
             <lg>
-               <l>Entre la Macedonia, y el corriente</l>
-               <l>Istro, la fiera Tracia inculta yace,</l>
-               <l>donde el Hebro veloz al rojo Oriente,</l>
+               <l>Entre la <placeName>Macedonia</placeName>, y el corriente</l>
+               <l>Istro, la fiera <placeName>Tracia</placeName> inculta yace,</l>
+               <l>donde el <placeName>Hebro</placeName> veloz al rojo <placeName>Oriente</placeName>,</l>
                <l>de perlas hijo, en esmeraldas nace:</l>
-               <l n="45">la corona de Rodope eminente</l>
+               <l n="45">la corona de <placeName>Rodope</placeName> eminente</l>
                <l>en lo feroz también bárbaro Trace,</l>
                <l>hijo del sacro Apolo Didimeo,</l>
                <l>luz de las Musas, habitaba Orfeo.</l>
@@ -122,7 +122,7 @@
                <l>la gloria que por ellos se divisa:</l>
                <l>quiso Naturaleza que le preste</l>
                <l n="70">perlas al mar del Sur, al Alba risa,</l>
-               <l>rubíes a Ceilán, la boca hermosa</l>
+               <l>rubíes a <placeName>Ceilán</placeName>, la boca hermosa</l>
                <l>marfil hablando, y en silencio rosa.</l>
             </lg>
             <lg>
@@ -181,7 +181,7 @@
                <l n="115">los vagos cisnes de purpúrea pluma,</l>
                <l>bajó tal vez de su tercero cielo:</l>
                <l>cantaba el joven en la cumbre suma</l>
-               <l>del Rodope, tan dulce, que del velo</l>
+               <l>del <placeName>Rodope</placeName>, tan dulce, que del velo</l>
                <l>celeste desclavadas las hermosas</l>
                <l n="120">estrellas, se engastaban en las rosas.</l>
             </lg>
@@ -262,7 +262,8 @@
                <l n="180">el Regio Imperio, y la fortuna en popa:</l>
                <l>que entonces libres de opresión vivían</l>
                <l>los siete montes, cuya excelsa copa</l>
-               <l>Roma ocupó, que Troya (¡gran trofeo</l>
+               <l>
+                  <placeName>Roma</placeName> ocupó, que <placeName>Troya</placeName> (¡gran trofeo</l>
                <l>de Grecia!) un siglo fue después de Orfeo.</l>
             </lg>
             <lg>
@@ -316,7 +317,7 @@
                <l>pénsiles prados de diversas flores.</l>
             </lg>
             <lg>
-               <l n="225">Hermosa ninfa, honor del Hebro undoso,</l>
+               <l n="225">Hermosa ninfa, honor del <placeName>Hebro</placeName> undoso,</l>
                <l>era entonces Eurídice, tan bella,</l>
                <l>que el planeta del cielo más hermoso,</l>
                <l>ni nació ni murió con tal estrella:</l>
@@ -341,7 +342,7 @@
                <l>amanecía al rayo de sus ojos</l>
                <l>la limpia nieve de su faz serena:</l>
                <l n="245">con encendida púrpura (despojos</l>
-               <l>del pez de Tiro) de vergüenza llena,</l>
+               <l>del pez de <placeName>Tiro</placeName>) de vergüenza llena,</l>
                <l>eran las dos mejillas amorosas</l>
                <l>en pura leche deshojadas rosas.</l>
             </lg>
@@ -371,7 +372,7 @@
                <l>y con nevadas plantas que volaban</l>
                <l>pisaba el viento al perseguir las fieras,</l>
                <l>por morir a sus flechas se paraban</l>
-               <l n="270">del Hebro circunfuso en las riberas,</l>
+               <l n="270">del <placeName>Hebro</placeName> circunfuso en las riberas,</l>
                <l>cuyas cabezas de las mas crueles</l>
                <l>eran la guarnición de sus linteles.</l>
             </lg>
@@ -421,7 +422,7 @@
                <l>y en sus altos excéntricos y esferas</l>
                <l>las luces que sus orbes habitaban:</l>
                <l>si las playas del mar, si las riberas</l>
-               <l n="310">del Hebro atentas a su voz estaban,</l>
+               <l n="310">del <placeName>Hebro</placeName> atentas a su voz estaban,</l>
                <l>mejor quien alma racional tenía,</l>
                <l>y más amaba cuanto más sentía.</l>
             </lg>
@@ -507,12 +508,13 @@
             </lg>
             <lg>
                <l>Cinco vezes el padre de Faetonte</l>
-               <l>del toro de Fenicia fue Perilo,</l>
+               <l>del toro de <placeName>Fenicia</placeName> fue Perilo,</l>
                <l>vistió la Primavera el valle y monte,</l>
-               <l n="380">y Egipto vio la inundación del Nilo:</l>
+               <l n="380">y Egipto vio la inundación del <placeName>Nilo</placeName>:</l>
                <l>en tanto que por todo su horizonte</l>
                <l>del divino poeta en dulce estilo</l>
-               <l>Rodope conoció por cuanto gira,</l>
+               <l>
+                  <placeName>Rodope</placeName> conoció por cuanto gira,</l>
                <l>que por la bella Eurídice suspira.</l>
             </lg>
             <lg>
@@ -520,7 +522,7 @@
                <l>en la perfecta edad para casarse</l>
                <l>Orfeo la pidió, y infelizmente</l>
                <l>la infausta boda vino a concertarse:</l>
-               <l>bajó del verde Rodope eminente,</l>
+               <l>bajó del verde <placeName>Rodope</placeName> eminente,</l>
                <l n="390">(así pudo la fama dilatarse)</l>
                <l>del alto Orbelos, y del fértil Hemo</l>
                <l>cuanta ninfa y pastor vivió su extremo.</l>
@@ -547,7 +549,8 @@
             </lg>
             <lg>
                <l>Calíope su madre (así la llama</l>
-               <l n="410">Tracia) a las fiestas amorosa vino,</l>
+               <l n="410">
+                  <placeName>Tracia</placeName>) a las fiestas amorosa vino,</l>
                <l>más blanca que las flores que derrama</l>
                <l>cerca del agua el oloroso espino:</l>
                <l>Musa inmediata al templo de la Fama,</l>
@@ -699,7 +702,7 @@
                <l>que el alma racional se diferencia.</l>
             </lg>
             <lg>
-               <l>Vivía entonces las riberas de Hebro,</l>
+               <l>Vivía entonces las riberas de <placeName>Hebro</placeName>,</l>
                <l n="530">robusto amante de su casta esposa,</l>
                <l>Aristeo pastor, cuyo requiebro</l>
                <l>pudiera a Dafne convertir piadosa:</l>
@@ -710,7 +713,8 @@
             </lg>
             <lg>
                <l>No era villano rústico Aristeo,</l>
-               <l>Tracia protomelicola le llama,</l>
+               <l>
+                  <placeName>Tracia</placeName> protomelicola le llama,</l>
                <l>por la invención que el ático y hibleo</l>
                <l n="540">campo cubrió como de flor de fama;</l>
                <l>que por la miel el árbol de Peneo</l>
@@ -756,7 +760,7 @@
                <l>y cómo van por agua descubiertas,</l>
                <l>antes que el pasto de las flores coman,</l>
                <l n="575">brezo, tejo, azafrán, jacinto, y casia,</l>
-               <l>aroma fértil de que abunda el Asia.</l>
+               <l>aroma fértil de que abunda el <placeName>Asia</placeName>.</l>
             </lg>
             <lg>
                <l>Cómo si enferman, las alienta al vuelo</l>
@@ -780,7 +784,7 @@
             </lg>
             <lg>
                <l>Bajaba a la sazón al prado ameno,</l>
-               <l>del Rodope fragoso verde falda,</l>
+               <l>del <placeName>Rodope</placeName> fragoso verde falda,</l>
                <l n="595">que del llanto del Alba estaba lleno,</l>
                <l>bañándose en aljófar su esmeralda:</l>
                <l>y el casto pecho de violencia ajeno,</l>
@@ -934,7 +938,7 @@
                <l n="715">y los puros claveles carmesíes</l>
                <l>más encendida purpura vistieron:</l>
                <l>las hierbas transformadas en rubíes</l>
-               <l>en minas de Ceilán se convirtieron,</l>
+               <l>en minas de <placeName>Ceilán</placeName> se convirtieron,</l>
                <l>alegrando la tierra la sangría</l>
                <l n="720">con la misma riqueza que vertía.</l>
             </lg>
@@ -1151,7 +1155,7 @@
             <lg>
                <l>“Si mirare mujer, aunque Diana</l>
                <l n="890">baje a correr de su epiciclo altivo</l>
-               <l>las márgenes del Hebro en forma humana,</l>
+               <l>las márgenes del <placeName>Hebro</placeName> en forma humana,</l>
                <l>descubriendo el coturno el nácar vivo,</l>
                <l>trífida flecha de ira soberana,</l>
                <l>me deje como suele verde olivo,</l>
@@ -1184,12 +1188,12 @@
                <l n="915">dél aprendieron a decir las aves:</l>
                <l>“Ay dulce prenda de los ojos míos”.</l>
                <l>Lloraron su dolor los montes graves,</l>
-               <l>y el Hebro y Nestos en sus centros fríos</l>
+               <l>y el <placeName>Hebro</placeName> y Nestos en sus centros fríos</l>
                <l>con intrincadas ovas se enlutaron,</l>
                <l n="920">y los verdes corales se quitaron.</l>
             </lg>
             <lg>
-               <l>Lloróla el alto Rodope, el Pangeo</l>
+               <l>Lloróla el alto <placeName>Rodope</placeName>, el Pangeo</l>
                <l>y la tierra de Reso belicosa,</l>
                <l>los getas, y la hija de Eriteo,</l>
                <l>ceñida de ciprés la frente hermosa:</l>
@@ -1199,7 +1203,7 @@
                <l>una pira de perlas y corales.</l>
             </lg>
             <lg>
-               <l>Lloróla el tracio Bósforo, y Etusa,</l>
+               <l>Lloróla el tracio <placeName>Bósforo</placeName>, y Etusa,</l>
                <l n="930">el río Atira, y el corriente Neso,</l>
                <l>y desde Filonópolis confusa</l>
                <l>al término del áurea Quersoneso:</l>
@@ -1215,7 +1219,7 @@
                <l>Ya decendía del Lacón Tenaro</l>
                <l>por nieblas de su rígido horizonte,</l>
                <l>del amor conyugal ejemplo raro,</l>
-               <l n="940">Orfeo triste al reino de Aqueronte:</l>
+               <l n="940">Orfeo triste al reino de <placeName>Aqueronte</placeName>:</l>
                <l>ya los rayos del Sol, ya el cielo claro</l>
                <l>(volviendo a veces la cabeza al monte)</l>
                <l>miraba, como suele en perspectiva</l>
@@ -1225,7 +1229,7 @@
                <l n="945">Ya se esparcía entre confusos llantos</l>
                <l>por las cavernas del tormento eterno,</l>
                <l>opuesto al Polo de los orbes santos,</l>
-               <l>el fétido vapor del lago Averno.</l>
+               <l>el fétido vapor del lago <placeName>Averno</placeName>.</l>
                <l>Mas este asunto y yo (si bien de tantos</l>
                <l n="950">imitación que pintan el infierno)</l>
                <l>no somos (Musa hermosa) paralelos,</l>
@@ -1297,7 +1301,7 @@
                <l>el carcomido remo levantando</l>
                <l>con el reciente ejemplo de Teseo:</l>
                <l n="1005">Orfeo la elocuencia dilatando,</l>
-               <l>(de las almas dulcísimo Leteo)</l>
+               <l>(de las almas dulcísimo <placeName>Leteo</placeName>)</l>
                <l>venció con la retórica admirable</l>
                <l>un necio poderoso inexorable.</l>
             </lg>
@@ -1338,7 +1342,7 @@
                <l>ya por ventanas y por puertas rota:</l>
                <l>así miró después, vengado el griego,</l>
                <l>desde las naves en la mar remota</l>
-               <l>ardiendo a Troya, y del incendio llenas</l>
+               <l>ardiendo a <placeName>Troya</placeName>, y del incendio llenas</l>
                <l n="1040">excediendo las llamas las almenas.</l>
             </lg>
             <lg>
@@ -1382,7 +1386,7 @@
                <l>congoja, engaña, ofende y desvanece.</l>
             </lg>
             <lg>
-               <l>Pongan sobre el Parnaso los Tifeos,</l>
+               <l>Pongan sobre el <placeName>Parnaso</placeName> los Tifeos,</l>
                <l>en escura región montañas de arte,</l>
                <l n="1075">que no tendían laureles por trofeos,</l>
                <l>ni en las armas de Amor, ni en las de Marte:</l>
@@ -1409,13 +1413,13 @@
                <l>la Reina de las Islas inquieta,</l>
                <l>tiembla el líbico mar, tiembla Inarime</l>
                <l n="1095">y porque el respirar le desocupe</l>
-               <l>por la boca del Etna fuego escupe.”</l>
+               <l>por la boca del <placeName>Etna</placeName> fuego escupe.”</l>
             </lg>
             <lg>
                <l>La tierra que vivió tantas edades</l>
-               <l>junta a la Italia, el húmido tridente</l>
+               <l>junta a la <placeName>Italia</placeName>, el húmido tridente</l>
                <l>dio libre a las marítimas deidades,</l>
-               <l n="1100">y a Sicilia apartó del continente:</l>
+               <l n="1100">y a <placeName>Sicilia</placeName> apartó del continente:</l>
                <l>el temblor de sus montes y ciudades</l>
                <l>el bajo rey de las tinieblas siente,</l>
                <l>de suerte que pensó que se rompía,</l>
@@ -1536,7 +1540,7 @@
                <l>tímida garza halcón, de los feroces</l>
                <l n="1195">caballos la vitoria se promete;</l>
                <l>suenan las ruedas al partir veloces:</l>
-               <l>al trasladarla desde el Etna al Lete</l>
+               <l>al trasladarla desde el <placeName>Etna</placeName> al Lete</l>
                <l>quejosa suspiró, lloró, dio voces,</l>
                <l>no por la fuerza, aunque del rey tremendo,</l>
                <l n="1200">mas por las flores que perdió corriendo.</l>
@@ -1592,7 +1596,8 @@
                <l n="1240">con tal rigor, que aun no la vio la muerte.”</l>
             </lg>
             <lg>
-               <l>“Áspid fiero, mortal, que de Tesalia</l>
+               <l>“Áspid fiero, mortal, que de <placeName>Tesalia</placeName>
+               </l>
                <l>parece que comió cicuta fría,</l>
                <l>por los lazos (sutil) de la sandalia</l>
                <l>pisada penetró la boca impía:</l>
@@ -1645,7 +1650,7 @@
                <l>Rompió la eterna ley el fiero esposo</l>
                <l>que temblaron los montes sicilianos</l>
                <l>cuando en fuego mayor, aunque amoroso,</l>
-               <l>bañó del Etna los cabellos canos,</l>
+               <l>bañó del <placeName>Etna</placeName> los cabellos canos,</l>
                <l n="1285">con pacto a tanto amor tan riguroso,</l>
                <l>no ver sus ojos, ni tocar sus manos,</l>
                <l>hasta salir del infernal distrito,</l>
@@ -1693,7 +1698,7 @@
             </lg>
             <lg>
                <l>“Que yo desde que el Sol las altas cumbres</l>
-               <l>del Rodope bañaba en lumbre pura,</l>
+               <l>del <placeName>Rodope</placeName> bañaba en lumbre pura,</l>
                <l>lloraba en noche eterna aquellas lumbres,</l>
                <l>que faltaban en mí, de tu hermosura:</l>
                <l n="1325">y cuando de sus verdes pesadumbres</l>
@@ -1755,7 +1760,7 @@
                <l>“Presto verás si llevo yo de verte</l>
                <l n="1370">más ansia, más cuidado, y más deseo,</l>
                <l>que ya a pesar del cetro de la muerte</l>
-               <l>llegamos a la margen del Leteo”;</l>
+               <l>llegamos a la margen del <placeName>Leteo</placeName>”;</l>
                <l>esto decía Eurídice, y de suerte</l>
                <l>se enterneció de oír su voz Orfeo,</l>
                <l n="1375">que volviendo a decir “esposa cara”,</l>
@@ -1825,12 +1830,13 @@
                <l>que os mueva a compasión mi tierno llanto.”</l>
             </lg>
             <lg>
-               <l n="1425">“Tú que en Sicilia las pintadas flores</l>
-               <l>de las faldas del Etna (en que Tifeo</l>
+               <l n="1425">“Tú que en <placeName>Sicilia</placeName> las pintadas flores</l>
+               <l>de las faldas del <placeName>Etna</placeName> (en que Tifeo</l>
                <l>atado brama) varias en colores,</l>
                <l>desde la mano dabas al deseo:</l>
                <l>pues sabes lo que pueden los amores,</l>
-               <l n="1430">cuando bajaste al hórrido Leteo</l>
+               <l n="1430">cuando bajaste al hórrido <placeName>Leteo</placeName>
+               </l>
                <l>por crespas llamas de alquitrán ardiente,</l>
                <l>mis quejas oye, mi tormento siente.”</l>
             </lg>
@@ -1889,7 +1895,7 @@
                <l>pero su canto, o lastimoso llanto,</l>
                <l n="1475">como suele juez airado al reo,</l>
                <l>severo oyó sin alma Radamanto:</l>
-               <l>sonaban las corrientes del Leteo.</l>
+               <l>sonaban las corrientes del <placeName>Leteo</placeName>.</l>
                <l>en las cavernas del eterno espanto;</l>
                <l>¡oh inútil voz adonde el llanto suena,</l>
                <l n="1480">que incompatibles son música y pena!</l>
@@ -1932,7 +1938,7 @@
                <l>la conquista dejó por imposible,</l>
                <l n="1510">y el obstinado amor oprime y fuerza</l>
                <l>a que deje la empresa, y vuelva al monte</l>
-               <l>que baña en fuego el Tártaro Aqueronte.</l>
+               <l>que baña en fuego el Tártaro <placeName>Aqueronte</placeName>.</l>
             </lg>
             <lg>
                <l>No como suele músico en cesando</l>
@@ -1996,7 +2002,7 @@
             </lg>
             <lg>
                <l>Camina, pues, hasta llegar Orfeo</l>
-               <l>a las faldas del Rodope llorando,</l>
+               <l>a las faldas del <placeName>Rodope</placeName> llorando,</l>
                <l>donde también las cumbres de Pangeo</l>
                <l>estuvieron atentas escuchando:</l>
                <l n="1565">que su deifico padre su deseo</l>
@@ -2038,8 +2044,8 @@
                <l>Cantara yo también la soberana</l>
                <l>lira de aquel Francisco, honor de Apolo,</l>
                <l n="1595">que a defender la lengua castellana</l>
-               <l>a España vino del opuesto Polo:</l>
-               <l>del Tajo al Rin, del Ganges a la Tana</l>
+               <l>a <placeName>España</placeName> vino del opuesto Polo:</l>
+               <l>del Tajo al Rin, del <placeName>Ganges</placeName> a la Tana</l>
                <l>dilatara mi voz tu nombre solo,</l>
                <l>Borja, príncipe insigne, si al intento</l>
                <l n="1600">igualara el valor del instrumento.</l>
@@ -2075,7 +2081,7 @@
                <l>tan dulces como doctos y infinitos.</l>
             </lg>
             <lg>
-               <l n="1625">Diérame el Betis por don Juan de Vera</l>
+               <l n="1625">Diérame el <placeName>Betis</placeName> por don Juan de Vera</l>
                <l>sus fértiles olivas por guirnalda,</l>
                <l>si Mérida ambiciosa no pidiera</l>
                <l>el docto hijo de su verde falda:</l>
@@ -2090,7 +2096,7 @@
                <l n="1635">mi frente ornara, si tu nombre eterno</l>
                <l>librara al tiempo que la edad consume:</l>
                <l>luego que desta máquina el gobierno</l>
-               <l>(Félix o Fénix) vio Madrid, presume,</l>
+               <l>(Félix o Fénix) vio <placeName>Madrid</placeName>, presume,</l>
                <l>que aquel dulce pronóstico de sabios</l>
                <l n="1640">bañó de ambrosia tus melifluos labios.</l>
             </lg>
@@ -2098,7 +2104,7 @@
                <l>¿Qué fama, qué laurel previene Febo</l>
                <l>a ti de entrambas Musas docto amparo,</l>
                <l>o Virgilio andaluz, Píndaro nuevo,</l>
-               <l>Rioja ilustre, honor del Betis claro?</l>
+               <l>Rioja ilustre, honor del <placeName>Betis</placeName> claro?</l>
                <l n="1645">Ciña tus sacras sienes delio Efebo,</l>
                <l>en tanto que te copia en mármol paro,</l>
                <l>mínimo insigne, por tu dulce estilo,</l>
@@ -2109,7 +2115,7 @@
                <l n="1650">sobre las cuerdas reiterar el plectro</l>
                <l>si el instrumento orfénico me diera</l>
                <l>las consonancias de su dulce metro.</l>
-               <l>A frutos de León de Tapia espera</l>
+               <l>A frutos de <placeName>León</placeName> de Tapia espera</l>
                <l>de Aganipe, Helicón, Pimpla y Libetro</l>
                <l n="1655">el corriente cristal para su Apolo,</l>
                <l>con don Ioseph de Salas, Sol y solo.</l>
@@ -2119,7 +2125,7 @@
                <l>si tus versos de mi fueran cantados,</l>
                <l>fuera el aplauso de la envidia exceso,</l>
                <l n="1660">y mis deseos de tu amor premiados.</l>
-               <l>Oh tú que tienes el Parnaso en peso,</l>
+               <l>Oh tú que tienes el <placeName>Parnaso</placeName> en peso,</l>
                <l>Atlante de tus círculos dorados,</l>
                <l>en don Alonso del Castillo admira</l>
                <l>gracia, donaire, ingenio y dulce lira.</l>
@@ -2136,12 +2142,12 @@
             </lg>
             <lg>
                <l>Tu docto ingenio competir presuma,</l>
-               <l>Livio de España, don Tomás Tamayo,</l>
+               <l>Livio de <placeName>España</placeName>, don Tomás Tamayo,</l>
                <l n="1675">con la esfera de Apolo, pues tu pluma</l>
                <l>doró los puntos en su mismo rayo:</l>
                <l>si puede haber quien tu valor resuma,</l>
                <l>de la envidia feroz mortal desmayo,</l>
-               <l>oh Francisco de Francia, cante en rima</l>
+               <l>oh Francisco de <placeName>Francia</placeName>, cante en rima</l>
                <l n="1680">las de tu amor, que el tiempo en oro imprima.</l>
             </lg>
             <lg>
@@ -2165,7 +2171,8 @@
                <l>a ser el monte de las Musas llega.</l>
             </lg>
             <lg>
-               <l>Don Lorenzo Vander a Manzanares</l>
+               <l>Don Lorenzo Vander a <placeName>Manzanares</placeName>
+               </l>
                <l>de su verde laurel corona y premia,</l>
                <l>y a su alabanza (sin los patrios lares)</l>
                <l n="1700">de Sebastián Francisco Apolo apremia:</l>
@@ -2199,7 +2206,7 @@
                <l>de la que en el laurel rompía la ira,</l>
                <l>el cante en voz armónica, tan alta</l>
                <l>que llegue donde Eurídice suspira.</l>
-               <l n="1725">En fin cantó por cuanto el Hebro esmalta,</l>
+               <l n="1725">En fin cantó por cuanto el <placeName>Hebro</placeName> esmalta,</l>
                <l>Orbelos humedece, inunda Atira,</l>
                <l>los afectos de amor, a cuyos celos</l>
                <l>rinden humildes su exención los cielos.</l>
@@ -2229,7 +2236,7 @@
                <l>águila enamorada (como suele</l>
                <l>negra nube escupir rayo violento,</l>
                <l>que con truenos horrísonos expele)</l>
-               <l>arrebató de Troya el fundamento</l>
+               <l>arrebató de <placeName>Troya</placeName> el fundamento</l>
                <l n="1750">de su incendio fatal, y cómo impele</l>
                <l>llorando el mozo, el robador turbado</l>
                <l>hasta llegar al pabellón dorado.</l>
@@ -2300,7 +2307,7 @@
                <l>de ira y furor las descompuestas bocas,</l>
                <l>porque fueron lascivas despreciadas,</l>
                <l n="1805">cubre las verdes elevadas rocas</l>
-               <l>del Rodope eminente, convocadas</l>
+               <l>del <placeName>Rodope</placeName> eminente, convocadas</l>
                <l>de la Envidia, que intenta (aunque secreta)</l>
                <l>la muerte al divinísimo poeta.</l>
             </lg>
@@ -2356,7 +2363,7 @@
             </lg>
             <lg>
                <l>Bajaste a los Elisios, alma pura,</l>
-               <l n="1850">sin pena del horrísono Aqueronte,</l>
+               <l n="1850">sin pena del horrísono <placeName>Aqueronte</placeName>,</l>
                <l>ni te detuvo la región escura,</l>
                <l>ni pagaste la barca de Caronte:</l>
                <l>de Eurídice tu esposa la hermosura,</l>

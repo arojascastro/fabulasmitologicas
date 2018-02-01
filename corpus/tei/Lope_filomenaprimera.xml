@@ -57,7 +57,7 @@
             </lg>
             <lg>
                <l>Vos, Leonor ilustrísima, a quien tanto</l>
-               <l>debe España de honor, gloria y decoro,</l>
+               <l>debe <placeName>España</placeName> de honor, gloria y decoro,</l>
                <l>sujeto digno de apolíneo canto,</l>
                <l n="20">décima musa del castalio coro,</l>
                <l>no despreciéis de Filomena el llanto,</l>
@@ -86,18 +86,20 @@
                <l n="40">a la primera lengua del Aurora.</l>
             </lg>
             <lg>
-               <l>De la abrasada margen de Aqueronte</l>
+               <l>De la abrasada margen de <placeName>Aqueronte</placeName>
+               </l>
                <l>a la luz se atrevió por verdes quiebras</l>
                <l>la furia de la guerra, Tesifonte,</l>
                <l>crinada la cabeza de culebras;</l>
-               <l n="45">Atenas vio su imagen en su monte,</l>
+               <l n="45">
+                  <placeName>Atenas</placeName> vio su imagen en su monte,</l>
                <l>ardiendo el jaspe en viperinas hebras,</l>
                <l>y en vez del cetro el hacha furibunda,</l>
                <l>con que aire, tierra y agua en fuego inunda.</l>
             </lg>
             <lg>
                <l>Armado Pandïón, su gente ordena</l>
-               <l n="50">contra Lisandro, rey de Macedonia;</l>
+               <l n="50">contra Lisandro, rey de <placeName>Macedonia</placeName>;</l>
                <l>enmudece la paz, la guerra suena,</l>
                <l>tiembla de Europa la mayor colonia;</l>
                <l>selva parece el mar, y selva amena,</l>
@@ -119,20 +121,20 @@
                <l n="65">Entre el Peneo y el famoso Alceo,</l>
                <l>desde Elide y Olimpia, la remota</l>
                <l>Micenas y Argos vienen, y el maleo</l>
-               <l>seno, donde desagua el claro Eurota;</l>
+               <l>seno, donde desagua el claro <placeName>Eurota</placeName>;</l>
                <l>pasado el promontorio siceleo,</l>
                <l n="70">los engios siguen la naval derrota,</l>
-               <l>y los de Acaya, Tebas y Corinto,</l>
+               <l>y los de Acaya, Tebas y <placeName>Corinto</placeName>,</l>
                <l>ardientes rayos del planeta quinto.</l>
             </lg>
             <lg>
                <l>Donde el río Strimón, del dulce Orfeo</l>
                <l>sepulcro transparente, margen pone</l>
                <l n="75">al reino macedón; viene Tereo;</l>
-               <l>la Tracia a guerra y a furor dispone.</l>
+               <l>la <placeName>Tracia</placeName> a guerra y a furor dispone.</l>
                <l>Valiente con el ático trofeo,</l>
                <l>Amor solicitó que le corone</l>
-               <l>el rey de Atenas, y al nacer su fama,</l>
+               <l>el rey de <placeName>Atenas</placeName>, y al nacer su fama,</l>
                <l n="80">vencedor macedónico le llama.</l>
             </lg>
             <lg>
@@ -276,7 +278,8 @@
                <l>y antes que llegue Amor llegar Deseo.</l>
             </lg>
             <lg>
-               <l>Aquella noche el viejo rey de Atenas</l>
+               <l>Aquella noche el viejo rey de <placeName>Atenas</placeName>
+               </l>
                <l>concertadas dejó las tristes bodas,</l>
                <l n="195">de agüeros ciertos y de enojos llenas,</l>
                <l>puesto que alegres y engañadas todas,</l>
@@ -369,7 +372,7 @@
                <l n="265">Llegó Tereo con su amada esposa</l>
                <l>a la tierra, en que dio, cantando Orfeo,</l>
                <l>pies a la selva de Estrimón umbrosa,</l>
-               <l>por cuya orilla vio la del Leteo;</l>
+               <l>por cuya orilla vio la del <placeName>Leteo</placeName>;</l>
                <l>provincia por mujeres siempre odiosa</l>
                <l n="270">y lamentable al coro pegaseo,</l>
                <l>que vio su lira, y, con mortal tristeza,</l>
@@ -392,7 +395,7 @@
                <l>sólo, con tanto ejemplo en testimonio.</l>
                <l n="285">La Fama, que las mismas cosas que hace,</l>
                <l>deshace, como el Tiempo, del mar Jonio</l>
-               <l>vuela al Bósforo tracio diligente,</l>
+               <l>vuela al <placeName>Bósforo</placeName> tracio diligente,</l>
                <l>Mercurio en lengua y alas eminente.</l>
             </lg>
             <lg>
@@ -412,7 +415,8 @@
                <l n="300">con que su amor al de su hermana iguala;</l>
                <l>pasar quiere los campos de Nereo,</l>
                <l>y no sólo la mar, que donde exhala</l>
-               <l>Etna fuego voraz, poner se atreve</l>
+               <l>
+                  <placeName>Etna</placeName> fuego voraz, poner se atreve</l>
                <l>con abrasado amor plantas de nieve.</l>
             </lg>
             <lg>
@@ -427,7 +431,8 @@
             </lg>
             <lg>
                <l>Tierno Tereo al amoroso llanto</l>
-               <l>de Progne, dice: «No es razón que a Atenas</l>
+               <l>de Progne, dice: «No es razón que a <placeName>Atenas</placeName>
+               </l>
                <l n="315">vuelvas, esposa, aunque tras tiempo tanto</l>
                <l>te llamen ansias y te inciten penas;</l>
                <l>el mar del más valiente horror y espanto,</l>
@@ -456,7 +461,7 @@
                <l>niega, neutral, la deuda al patrio suelo.</l>
             </lg>
             <lg>
-               <l>A Atenas llega, y Pandïón recibe</l>
+               <l>A <placeName>Atenas</placeName> llega, y Pandïón recibe</l>
                <l>su yerno, aun no traidor, y de la pena</l>
                <l>de la ausencia de Progne, alegre vive,</l>
                <l n="340">que no la juzga de su pecho ajena;</l>
@@ -613,7 +618,7 @@
                <l>le pintaba delfín, y del decoro</l>
                <l>de Júpiter blasfemo la traidora</l>
                <l n="460">forma, que se vistió de blanco toro;</l>
-               <l>por quien las flores de Fenicia llora</l>
+               <l>por quien las flores de <placeName>Fenicia</placeName> llora</l>
                <l>Europa más que el virginal tesoro:</l>
                <l>porque lo natural no causa pena,</l>
                <l>ni en la patria común hay tierra ajena.</l>
@@ -626,7 +631,8 @@
                <l>Y porque de los dioses no presuma</l>
                <l n="470">que en disculpa de amor los hombres mientan,</l>
                <l>de Troco, a quien criaron las náyades,</l>
-               <l>Troya, en tus selvas refirió verdades.</l>
+               <l>
+                  <placeName>Troya</placeName>, en tus selvas refirió verdades.</l>
             </lg>
             <lg>
                <l>De Salmacis los tímidos abrazos,</l>
@@ -680,7 +686,7 @@
             </lg>
             <lg>
                <l>Mas si los hados tienen ya dispuesto</l>
-               <l>que por las selvas de la Tracia cantes</l>
+               <l>que por las selvas de la <placeName>Tracia</placeName> cantes</l>
                <l n="515">tu engaño, a todos dulce, a ti molesto,</l>
                <l>del nido que te espera no te espantes;</l>
                <l>da gracias a los cielos con pretexto</l>
@@ -773,7 +779,7 @@
                <l>morir por ti; pero pesarme puede</l>
                <l>de que si agora muero, ver no espero</l>
                <l>hermosura que al sol, que al cielo excede;</l>
-               <l>que por las aguas de Aqueronte fiero</l>
+               <l>que por las aguas de <placeName>Aqueronte</placeName> fiero</l>
                <l n="590">no hay campo elíseo donde el alma quede</l>
                <l>gloriosa sin tus partes celestiales,</l>
                <l>que roban mis espíritus vitales.</l>
@@ -805,7 +811,7 @@
                <l>y por codicia a la envidiosa Aglauro;</l>
                <l>pero no por amor, no siendo feo,</l>
                <l>en cuanto mira el sol del Cancro al Tauro,</l>
-               <l n="615">y del León al Vellocino de oro,</l>
+               <l n="615">y del <placeName>León</placeName> al Vellocino de oro,</l>
                <l>ni a mí, que humana, y no deidad, te adoro.</l>
             </lg>
             <lg>
@@ -1315,7 +1321,7 @@
                <l>Atónita miraba las labores,</l>
                <l>las figuras, realces y matices,</l>
                <l>con más diversidades y colores</l>
-               <l n="1020">que España celebró belgas tapices.</l>
+               <l n="1020">que <placeName>España</placeName> celebró belgas tapices.</l>
                <l>Las claras fuentes y las vivas flores</l>
                <l>alegraban los casos infelices;</l>
                <l>de suerte que entre tantas variedades,</l>

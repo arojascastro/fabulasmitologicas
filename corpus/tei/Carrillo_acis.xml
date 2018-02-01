@@ -35,7 +35,7 @@
             <lg>
                <l>De viva peña asientos ocupaban</l>
                <l>la blanca Galatea y Scila hermosa,</l>
-               <l>bramando el Etna lo que apenas daban,</l>
+               <l>bramando el <placeName>Etna</placeName> lo que apenas daban,</l>
                <l>tiernas quejas oyó de voz llorosa.</l>
                <l n="5">Así pues, Galatea, celebraban</l>
                <l>fieras lisonjas a su falsa esposa;</l>
@@ -52,7 +52,7 @@
                <l>de sus hermosos rayos lo vestía,</l>
                <l>o aquél que, altivo, del Titón anciano</l>
                <l>la blanca esposa, pálido, seguía,</l>
-               <l n="15">dudoso el Etna, aun detenia en su falda</l>
+               <l n="15">dudoso el <placeName>Etna</placeName>, aun detenia en su falda</l>
                <l>abrazadas las perlas de esmeralda.</l>
             </lg>
             <lg>
@@ -206,7 +206,7 @@
                <l>pues lo tiene de ser al sol del suelo.</l>
             </lg>
             <lg>
-               <l>"Dan sombra al Etna, más que el alto ceño</l>
+               <l>"Dan sombra al <placeName>Etna</placeName>, más que el alto ceño</l>
                <l>ya de soberbias rocas o encumbrados</l>
                <l>tejos y lauros, tuyos, dulce dueño,</l>
                <l n="140">si dellos ser gustases, mis ganados;</l>
@@ -303,7 +303,7 @@
                <l>cuando, dejando el espacioso asiento,</l>
                <l>los arrogantes pasos gobernaba</l>
                <l n="215">con un soberbio pino que traía;</l>
-               <l>temblaba el Etna donde el pie ponía.</l>
+               <l>temblaba el <placeName>Etna</placeName> donde el pie ponía.</l>
             </lg>
             <lg>
                <l>"Cual el valiente toro que ha perdido</l>
@@ -328,7 +328,7 @@
             <lg>
                <l>"Venció el enojo, en fin, venció, y, airado,</l>
                <l>dando una gruesa peña al brazo exento,</l>
-               <l n="235">temblando el Etna al grito levantado,</l>
+               <l n="235">temblando el <placeName>Etna</placeName> al grito levantado,</l>
                <l>y sacándola ardiente de su asiento:</l>
                <l>—'Será la vez postrera que abrazado</l>
                <l>mire mi bien, mi mal’, dijo; y el viento</l>
