@@ -1,36 +1,10 @@
 
    
-      
-         
-            Orfeo
-            Juan de Jáuregui
-            
-               Digitalización, codificación y publicación de
-               Antonio Rojas Castro
-            
-         
-         
-            Primera edición digital de 2016
-            
-         
-         
-            Publicado con una licencia de Creative Commons Reconocimiento 4.0 Internacional.
-         
-         
-            Jáuregui, Juan de. Poesía. Ed. De Juan Matas Caballero. Madrid: Cátedra, 1993. Impreso.
-         
-      
-      
-         Texto originalmente publicado en 1624.
-      
-   
    
       
          
-            Al excelentísimo señor don Gaspar de Guzmán, conde de Olivares, sumilier de Corps, caballerizo mayor del Consejo de Estado y Guerra de su Majestad, gran canciller de las Indias, alcaide perpetuo de los alcázares de Sevilla
          
-         
-            Canto I
+            
             
                Gozaba, juvenil, el trace Orfeo,
                de libre edad, la primavera ociosa,
@@ -313,7 +287,7 @@
             
          
          
-            Canto II
+            
             
                En la fragosa Ténaro, que inunda
                el Lacónico ponto, en sitio incierto,
@@ -656,7 +630,7 @@
             
          
          
-            Canto III
+            
             
                Ya que en las penas dominó infernales
                el canoro milagro de la lira,
@@ -1079,7 +1053,7 @@
             
          
          
-            Canto IV
+            
             
                Así, por flébil y funesta vía,
                al patrio albergue reducirse pudo;
@@ -1472,7 +1446,7 @@
             
          
          
-            Canto V
+            
             
                Con fuerzas preferidas a inmortales
                la música imperaba portentosa,

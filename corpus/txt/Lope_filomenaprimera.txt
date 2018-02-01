@@ -1,36 +1,10 @@
 
    
-      
-         
-            La Filomena
-            Félix Lope de Vega
-            
-               Digitalización, codificación y publicación de
-               Antonio Rojas Castro
-            
-         
-         
-            Primera edición digital de 2016
-            
-         
-         
-            Publicado con una licencia de Creative Commons Reconocimiento 4.0 Internacional.
-         
-         
-            Lope de Vega, Félix. Obras poéticas. Ed. De José Manuel Blecua. Barcelona: Planeta, 1989. Impreso.
-         
-      
-      
-         Texto originalmente publicado en 1621.
-      
-   
    
       
          
-            A la ilustrísima señora doña Leonor Pimentel
          
-         
-            Canto primero
+            
             
                Dulcísima de amor ave engañada,
                reina del aire en su región primera,
@@ -533,7 +507,7 @@
             
          
          
-            Canto segundo de la Filomena
+            
             
                Divina Pimentel, si ser pudiese
                de Filomena tal la voz y el arte,
@@ -1106,7 +1080,7 @@
             
          
          
-            Canto tercero de la Filomena
+            
             
                ¡Qué soledad a la que tiene iguala,
                Leonor divina, Filomena hermosa,

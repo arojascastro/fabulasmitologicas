@@ -1,36 +1,10 @@
 
    
-      
-         
-            El Orfeo en lengua castellana
-            Juan Pérez de Montalbán
-            
-               Digitalización, codificación y publicación de
-               Antonio Rojas Castro
-            
-         
-         
-            Primera edición digital de 2016
-            
-         
-         
-            Publicado con una licencia de Creative Commons Reconocimiento 4.0 Internacional.
-         
-         
-            Pérez de Montalbán, Juan. El Orfeo en lengua castellana. Ed. De Pablo Cabañas. Madrid: CSIC, 1948. Impreso.
-         
-      
-      
-         Texto originalmente publicado en 1624.
-      
-   
    
       
          
-            A la décima musa
          
-         
-            Canto I
+            
             
                Deseo de cantar, oh sacro Orfeo,
                tu espíritu divino enciende el mío,
@@ -673,7 +647,7 @@
             
          
          
-            Canto II
+            
             
                Pasados eran ya (si pocos días)
                muchos años de amor, que en sus engaños
@@ -1206,7 +1180,7 @@
             
          
          
-            Canto III
+            
             
                Ya decendía del Lacón Tenaro
                por nieblas de su rígido horizonte,
@@ -1799,7 +1773,7 @@
             
          
          
-            Canto IV
+            
             
                “Oh tenebrosas de la noche sombras,
                eterna escuridad de mi alegría,

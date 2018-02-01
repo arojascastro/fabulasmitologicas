@@ -1,33 +1,9 @@
 
    
-      
-         
-            Los rayos de Faetón
-            Pedro Soto de Rojas
-            
-               Digitalización, codificación y publicación de
-               Antonio Rojas Castro
-            
-         
-         
-            Primera edición digital de 2016
-            
-         
-         
-            Publicado con una licencia de Creative Commons Reconocimiento 4.0 Internacional.
-         
-         
-            Soto de Rojas, Pedro. Los rayos de Faetón. Ed. De G. Cabello y J. Campos, Málaga: Universidad de Málaga, 1996. Impreso.
-         
-      
-      
-         Texto originalmente publicado en 1636.
-      
-   
    
       
          
-            Rayo crepúsculo
+            
             
                Dulces hurtos del sueño más sabroso,
                resistencias del ocio, mas suaves,
@@ -350,7 +326,7 @@
             
          
          
-            Rayo clareciente
+            
             
                A término posible en los sentidos
                la bella escuadra a paso lento llega,
@@ -663,7 +639,7 @@
             
          
          
-            Rayo matutino
+            
             
                Deja el descanso Nonacrina hermosa
                y con las plumas del rapaz volante
@@ -956,7 +932,7 @@
             
          
          
-            Rayo luciente
+            
             
                Ya orgullosa la ninfa bizarrea
                con voz si no tan dulce más gozosa,
@@ -1639,7 +1615,7 @@
             
          
          
-            Rayo ardiente
+            
             
                «Excelso padre cuya luz hermosa,
                honor del más desnudo vegetante,
@@ -1912,7 +1888,7 @@
             
          
          
-            Rayo estivo
+            
             
                La encenia que celebra el regocijo
                estorba el miedo con silencio mudo,
@@ -2613,7 +2589,7 @@
                «Faetón, fuego del mundo, sol de un día,
                eternamente aquí ceniza es fría».
             
-            LAVS DEO
+            
          
       
    
