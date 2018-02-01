@@ -18,12 +18,15 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+            <p>Publicado con una licencia de <ref
+                  target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
                   Reconocimiento 4.0 Internacional</ref>.</p>
          </publicationStmt>
          <sourceDesc>
             <p>Barahona de Soto, Luis.<title>
-                  <ref target="http://www.cervantesvirtual.com/obra-visor-din/fabulas-mitologicas--0/html/ffe48288-82b1-11df-acc7-002185ce6064_19.html#I_7_">Fábulas mitológicas</ref>
+                  <ref
+                     target="http://www.cervantesvirtual.com/obra-visor-din/fabulas-mitologicas--0/html/ffe48288-82b1-11df-acc7-002185ce6064_19.html#I_7_"
+                     >Fábulas mitológicas</ref>
                </title>. Ed. Antonio Cruz Casado. Alicante: Bibiblioteca Virtual Miguel de
                Cervantes, 2003. Web.</p>
          </sourceDesc>

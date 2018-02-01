@@ -2,7 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="../../fabulas.sch" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-stylesheet type="text/css" href="../../teistyle.css"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI  xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -42,8 +42,7 @@
                <l>en variedad de formas excediste,</l>
                <l n="5">de la excelencia del castalio coro</l>
                <l>la humilde musa de mis versos viste;</l>
-               <l>harás que las corrientes del <placeName>Leteo</placeName>
-               </l>
+               <l>harás que las corrientes del Leteo</l>
                <l>presuman otra vez que canta Orfeo.</l>
             </lg>
             <lg>
@@ -107,11 +106,10 @@
                <l>iguales hizo entendimiento y celo.</l>
             </lg>
             <lg>
-               <l>Si vuestro padre honró en <placeName>Italia</placeName> a <placeName>España</placeName>,</l>
-               <l>y en <placeName>España</placeName> la sangre que en <placeName>Sevilla</placeName>
-               </l>
+               <l>Si vuestro padre honró en Italia a España,</l>
+               <l>y en España la sangre que en Sevilla</l>
                <l>por tan alto valor, por tanta hazaña</l>
-               <l n="60">dio reyes generosos a <placeName>Castilla</placeName>,</l>
+               <l n="60">dio reyes generosos a Castilla,</l>
                <l>¿qué pluma os sirve; qué lisonja engaña?</l>
                <l>Pues en lugar tan alto maravilla</l>
                <l>que hablando en vos, aunque artificio sea,</l>
@@ -124,8 +122,7 @@
                <l>y oro inmortal la eternidad vistiera.</l>
                <l>Las letras, de quien hoy divino amparo,</l>
                <l n="70">por las que vos tenéis, os considera</l>
-               <l>
-                  <placeName>España</placeName>, a vuestra sombra de honor llenas,</l>
+               <l>España, a vuestra sombra de honor llenas,</l>
                <l>crecen, y os llaman ínclito Mecenas.</l>
             </lg>
             <lg>
@@ -146,7 +143,7 @@
                <l n="85">oíd de Ulises la virtud prudente,</l>
                <l>por más que Circe venenosa aplique</l>
                <l>la confacción de su hermosura y gracia,</l>
-               <l>veneno igual al músico de <placeName>Tracia</placeName>.</l>
+               <l>veneno igual al músico de Tracia.</l>
             </lg>
             <lg>
                <l>Ya la Discordia, por mujer nacida</l>
@@ -154,7 +151,7 @@
                <l>en sangre, en fuego y en furor teñida,</l>
                <l>y esparcido el cabello meduseo,</l>
                <l>de la llama fatal de la encendida</l>
-               <l>mísera <placeName>Troya</placeName>, en hombros de Apogeo,</l>
+               <l>mísera Troya, en hombros de Apogeo,</l>
                <l n="95">vestida de una nube polvorosa,</l>
                <l>miraba la tragedia lastimosa;</l>
             </lg>
@@ -209,8 +206,7 @@
                <l>así deja de ser cuanto es y ha sido.</l>
             </lg>
             <lg>
-               <l>
-                  <placeName>Troya</placeName> desierta al fin, <placeName>Troya</placeName> abrasada,</l>
+               <l>Troya desierta al fin, Troya abrasada,</l>
                <l>fénix que en plumas reservó la vida,</l>
                <l>por los engaños de Sinón vengada</l>
                <l n="140">la fama infame del famoso Atrida;</l>
@@ -342,7 +338,7 @@
             <lg>
                <l>El campo undoso, como fácil boya,</l>
                <l>nadan, entre la rota obencadura,</l>
-               <l>las banderas que, ya terror de <placeName>Troya</placeName>,</l>
+               <l>las banderas que, ya terror de Troya,</l>
                <l>dos lustros respetó la mar segura.</l>
                <l n="245">Coge, en lugar de la preciosa joya,</l>
                <l>la escota el griego, y la rompida amura;</l>
@@ -361,7 +357,7 @@
             </lg>
             <lg>
                <l>así despierta Ulises, y esparcidas</l>
-               <l>mira las naves del <placeName>Corinto</placeName> egeo,</l>
+               <l>mira las naves del Corinto egeo,</l>
                <l>que con velas y flámulas tendidas</l>
                <l n="260">despreciaban el golfo de Nereo;</l>
                <l>las esperanzas de volver, perdidas,</l>
@@ -376,7 +372,7 @@
                <l>defensas labran al celeste muro;</l>
                <l>aquí el ardiente padre de Faetonte</l>
                <l n="270">a Circe trujo en plaustro más seguro,</l>
-               <l>si el agua del <placeName>Erídano</placeName>, que inflama,</l>
+               <l>si el agua del Erídano, que inflama,</l>
                <l>lámpara de cristal fue de su llama.</l>
             </lg>
             <lg>
@@ -426,7 +422,7 @@
                <l>perfil el claro pedestal resalta;</l>
                <l>cuanto permite el arte en diestra mano,</l>
                <l n="310">en él levantan proporción tan alta</l>
-               <l>dos colunas de jaspe de <placeName>Corinto</placeName>,</l>
+               <l>dos colunas de jaspe de Corinto,</l>
                <l>de bronce y oro el capitel y el plinto.</l>
             </lg>
             <lg>
@@ -475,7 +471,7 @@
                <l>que a quien grandes desdichas ha pasado,</l>
                <l>la esperanza del bien le engaña presto.</l>
                <l>Hallan los griegos en un alto estrado,</l>
-               <l n="350">de alfombras ricas de <placeName>Ceilán</placeName> compuesto,</l>
+               <l n="350">de alfombras ricas de Ceilán compuesto,</l>
                <l>la bella Circe con real decoro,</l>
                <l>quitando como el sol la gloria al oro.</l>
             </lg>
@@ -547,8 +543,7 @@
                <l n="405">el griego Ulises, capitán valiente,</l>
                <l>reliquia del heroico y desdichado</l>
                <l>ejército por quien yace en la arena</l>
-               <l>
-                  <placeName>Troya</placeName> con París, robador de Helena,</l>
+               <l>Troya con París, robador de Helena,</l>
             </lg>
             <lg>
                <l>»llega a tu monte en una nave solo,</l>
@@ -561,7 +556,7 @@
                <l>que ni armas tiene ya, jarcias ni velas.</l>
             </lg>
             <lg>
-               <l>»Ampara un rey que en <placeName>Itaca</placeName> y Zaquinto</l>
+               <l>»Ampara un rey que en Itaca y Zaquinto</l>
                <l>tuvo tan alto imperio, porque vuelva</l>
                <l>al mar de Grecia, deste mar distinto,</l>
                <l n="420">antes que el fiero Bóreas le revuelva;</l>
@@ -592,9 +587,8 @@
             </lg>
             <lg>
                <l>»Diez veces nuestra argólica milicia</l>
-               <l>sobre <placeName>Troya</placeName> miró flechando a Croto,</l>
-               <l>y otras tantas el toro de <placeName>Fenicia</placeName>
-               </l>
+               <l>sobre Troya miró flechando a Croto,</l>
+               <l>y otras tantas el toro de Fenicia</l>
                <l>pacer estrellas al celeste soto.</l>
                <l n="445">Finalmente venció nuestra justicia</l>
                <l>el alto muro de Dardania roto,</l>
@@ -649,7 +643,7 @@
                <l n="485">Cuantos miras aquí, de aquel tremendo</l>
                <l>caballo, para el parto de aquel día,</l>
                <l>ocupamos el vientre, en que estuvimos,</l>
-               <l>y a ser fuego de <placeName>Troya</placeName> a luz salimos.</l>
+               <l>y a ser fuego de Troya a luz salimos.</l>
             </lg>
             <lg>
                <l>»Mal defendida la ciudad, su gente</l>
@@ -746,7 +740,7 @@
                <l>de ver que el griego Euríloco lloraba,</l>
                <l>bañó la pura rosa y azucena</l>
                <l>con perlas que a dos soles distilaba;</l>
-               <l n="565">maldice a <placeName>Troya</placeName>, llama infame a Helena,</l>
+               <l n="565">maldice a Troya, llama infame a Helena,</l>
                <l>por quien sin culpa el mar peregrinaba</l>
                <l>tan fuerte capitán, casado, ausente,</l>
                <l>sujeto a todo fácil accidente.</l>
@@ -876,7 +870,7 @@
                <l>que el hombre que jamás del bajo suelo</l>
                <l>al cielo levantó la fantasía,</l>
                <l>viviendo en pie para mirar al cielo,</l>
-               <l>es fiera que la <placeName>Libia</placeName> ardiente cría</l>
+               <l>es fiera que la Libia ardiente cría</l>
                <l n="670">en su arena abrasada, o en su hielo</l>
                <l>Scitia feroz, sin que en su bien redunde</l>
                <l>el alma racional que Dios le infunde.»</l>
@@ -1023,7 +1017,7 @@
             </lg>
             <lg>
                <l n="785">Adonis, río ya que al mar fenicio</l>
-               <l>de las faldas del <placeName>Líbano</placeName> deciende,</l>
+               <l>de las faldas del Líbano deciende,</l>
                <l>diestramente pintado, al ejercicio</l>
                <l>del campo, no a la diosa, libre atiende;</l>
                <l>con blando rostro, con piadoso oficio,</l>
@@ -1185,7 +1179,7 @@
                <l>»Entre otras desventuras, con mis naves</l>
                <l>y dulces compañeros llegué un día</l>
                <l n="915">a Lestrigonia, que entre peñas graves</l>
-               <l>del mar de <placeName>Italia</placeName> su defensa fía.</l>
+               <l>del mar de Italia su defensa fía.</l>
                <l>Aquí, gente cruel, si no lo sabes,</l>
                <l>bárbara en todo, aunque con rey, vivía,</l>
                <l>gigantes de estatura y de fiereza,</l>
@@ -1289,7 +1283,7 @@
                <l>allí quedaron muertos los primeros:</l>
                <l>Lisandro, Alfeo, Pelias y Filonte,</l>
                <l>capitanes de naves, que en diez años</l>
-               <l n="1000">sufrieron sobre <placeName>Troya</placeName> eternos daños.</l>
+               <l n="1000">sufrieron sobre Troya eternos daños.</l>
             </lg>
             <lg>
                <l>»Como el furioso Alcides, revolviendo</l>
@@ -1374,7 +1368,7 @@
             <lg>
                <l n="1065">»Y como el fiero armado cocodrilo</l>
                <l>se arroja de la margen egipciana</l>
-               <l>al pez o barca del fecundo <placeName>Nilo</placeName>,</l>
+               <l>al pez o barca del fecundo Nilo,</l>
                <l>al apuntar la cándida mañana;</l>
                <l>entre las ondas, por el mismo estilo,</l>
                <l n="1070">comen y beben carne y sangre humana,</l>
@@ -1412,11 +1406,11 @@
                <l>y, cuando más mi patria espero, expiro.</l>
             </lg>
             <lg>
-               <l>»Era parte del <placeName>África</placeName>, que tienen</l>
+               <l>»Era parte del África, que tienen</l>
                <l>los trópicos en medio, en dos gigantes</l>
                <l>escollos defendida, que detienen</l>
                <l n="1100">por el líbico mar los navegantes;</l>
-               <l>los que a <placeName>Cartago</placeName> fluctuando vienen,</l>
+               <l>los que a Cartago fluctuando vienen,</l>
                <l>temen su arena y olas arrogantes;</l>
                <l>sirtes las llaman, pero, en fin, perdonan</l>
                <l>mi nave entre las peñas que coronan.</l>
@@ -1494,8 +1488,8 @@
             <lg>
                <l>»Mas ¿quién tan brevemente imaginara,</l>
                <l>cuando parece que mi mal se alivia,</l>
-               <l>que el viento al mar de <placeName>Italia</placeName> me arrojara</l>
-               <l>desde la margen del que baña a <placeName>Libia</placeName>?</l>
+               <l>que el viento al mar de Italia me arrojara</l>
+               <l>desde la margen del que baña a Libia?</l>
                <l n="1165">Donde el rigor de mi fortuna para,</l>
                <l>donde imagino que el rigor entibia,</l>
                <l>hallo vida y desdichas; que mi suerte</l>
@@ -1587,9 +1581,8 @@
                <p>Prosigue Ulises su relación con los amores de Polifemo y Galatea, y lo que le sucedió hasta que salió de la isla</p>
             </argument>
             <lg>
-               <l>»Reina del mar <placeName>Mediterráneo</placeName>, mira</l>
-               <l>
-                  <placeName>Sicilia</placeName> a <placeName>Italia</placeName> por espacio breve,</l>
+               <l>»Reina del mar Mediterráneo, mira</l>
+               <l>Sicilia a Italia por espacio breve,</l>
                <l n="1235">que della a viva fuerza la retira,</l>
                <l>y a sus montañas fértiles se atreve;</l>
                <l>aquí por varias partes fuego espira</l>
@@ -1609,7 +1602,7 @@
             </lg>
             <lg>
                <l>»Aquí me trujo mi contraria suerte,</l>
-               <l n="1250">por donde mira la feroz <placeName>Cartago</placeName>,</l>
+               <l n="1250">por donde mira la feroz Cartago,</l>
                <l>a darme más desdicha y menos muerte</l>
                <l>que pudo el lestrigón y el lotofago;</l>
                <l>Venus entonces del rigor me advierte,</l>
@@ -1618,10 +1611,10 @@
                <l>hasta el aurora del siguiente día.</l>
             </lg>
             <lg>
-               <l>»Veo una isla, de <placeName>Sicilia</placeName> enfrente,</l>
+               <l>»Veo una isla, de Sicilia enfrente,</l>
                <l>de solos animales habitada,</l>
                <l>y de algunos pastores, pobre gente,</l>
-               <l n="1260">que hay de <placeName>Calabria</placeName> allí breve jornada;</l>
+               <l n="1260">que hay de Calabria allí breve jornada;</l>
                <l>tiene fácil el puerto, y una fuente</l>
                <l>de laureles y mirtos coronada,</l>
                <l>que, dividida en diferentes venas,</l>
@@ -1700,8 +1693,8 @@
             <lg>
                <l>»Aquí me trujo vuestra misma estrella,</l>
                <l>arrojado del mar y de un navío,</l>
-               <l>digo a <placeName>Calabria</placeName>, porque vivo en ella,</l>
-               <l>siendo <placeName>Corinto</placeName> nacimiento mío;</l>
+               <l>digo a Calabria, porque vivo en ella,</l>
+               <l>siendo Corinto nacimiento mío;</l>
                <l n="1325">más ha de un lustro, ¡ oh griegos!, que por ella</l>
                <l>llevo al invierno helado, al seco estío,</l>
                <l>el ganado que veis; mirad si puedo</l>
@@ -1721,7 +1714,7 @@
                <l>»Éstos son los ministros de Vulcano,</l>
                <l>que a Júpiter forjaban en su monte</l>
                <l>los rayos, por quien hoy Briáreo tirano</l>
-               <l n="1340">yace en las negras aguas de <placeName>Aqueronte</placeName>.</l>
+               <l n="1340">yace en las negras aguas de Aqueronte.</l>
                <l>De la Tierra y del Cielo soberano</l>
                <l>dicen, que fueron hijos Harpes, Bronte,</l>
                <l>Esterope y Piragmon el desnudo,</l>
@@ -1965,7 +1958,7 @@
                <l>mánchase en oro un cándido novillo,</l>
                <l>que si por estos montes le reservas,</l>
                <l n="1535">tendrás un toro que les dé codicia</l>
-               <l>a las damas de <placeName>Creta</placeName> y de <placeName>Fenicia</placeName>.</l>
+               <l>a las damas de Creta y de Fenicia.</l>
             </lg>
             <lg>
                <l>»Cogidos en los ásperos inviernos</l>
@@ -2159,7 +2152,7 @@
             </lg>
             <lg>
                <l>»“Griegos —respondo yo—, gran semideo,</l>
-               <l n="1690">desde <placeName>Troya</placeName> perdidos y arrojados</l>
+               <l n="1690">desde Troya perdidos y arrojados</l>
                <l>por alta mar, que Agamenón atreo</l>
                <l>a su venganza nos llevó soldados.”</l>
                <l>“Ver vuestra nave —respondió— deseo,</l>
@@ -2168,14 +2161,14 @@
                <l>la que lienzo vistió, nácares viste.</l>
             </lg>
             <lg>
-               <l>»“Que por haber a <placeName>Troya</placeName> destruido</l>
+               <l>»“Que por haber a Troya destruido</l>
                <l>Sinón con el caballo durateo,</l>
                <l>arrastrado al gran Hétor, y teñido</l>
                <l n="1700">a Andrómaca de humor sangriento y feo,</l>
                <l>los dioses, Polifemo, han permitido</l>
                <l>que al pie del siciliano Lilibeo</l>
                <l>se rompiese la nave, y sus riberas</l>
-               <l>sepultasen de <placeName>Troya</placeName> las banderas.</l>
+               <l>sepultasen de Troya las banderas.</l>
             </lg>
             <lg>
                <l n="1705">»“Mas tú, temiendo a Júpiter, que ampara</l>
@@ -2274,7 +2267,7 @@
                <l n="1780">le di con humildad y cortesía;</l>
                <l>y di jome: “Licor tan excelente</l>
                <l>parece dulce néctar y ambrosía;</l>
-               <l>el vino de <placeName>Sicilia</placeName>, aunque es süave,</l>
+               <l>el vino de Sicilia, aunque es süave,</l>
                <l>es inferior, oh griego, al de tu nave.</l>
             </lg>
             <lg>
@@ -2303,7 +2296,7 @@
                <l>al suelo dio los miembros dilatados,</l>
                <l>la cabeza fantástica dormida.</l>
                <l n="1805">“Ninguno —dije— soy, destos soldados</l>
-               <l>ya capitán en <placeName>Troya</placeName> destruida,</l>
+               <l>ya capitán en Troya destruida,</l>
                <l>ninguno me llamó mi padre en Grecia,</l>
                <l>si no eres tú, ninguno me desprecia.”</l>
             </lg>
@@ -2540,7 +2533,7 @@
             <lg>
                <l>»“Ulises soy, aquel varón famoso,</l>
                <l>el hijo de Laertes y Anticlea,</l>
-               <l n="1995">de <placeName>Itaca</placeName> señor, y dulce esposo</l>
+               <l n="1995">de Itaca señor, y dulce esposo</l>
                <l>de Penélope casta, semidea.</l>
                <l>En las troyanas guerras animoso,</l>
                <l>coronado me vio la luz febea</l>
@@ -2964,19 +2957,19 @@
             </lg>
             <lg>
                <l>Vence, famoso griego, y date prisa,</l>
-               <l n="2330">que has de venir a <placeName>España</placeName> belicosa,</l>
+               <l n="2330">que has de venir a España belicosa,</l>
                <l>que ya por sus celajes te divisa</l>
                <l>la ciudad de tu nombre generosa;</l>
                <l>también mi patria desde aquí te avisa,</l>
                <l>puesto que digan que Ocno y Manto hermosa</l>
-               <l n="2335">fundaron a <placeName>Madrid</placeName>, que si ellos fueron,</l>
+               <l n="2335">fundaron a Madrid, que si ellos fueron,</l>
                <l>contigo, oh claro príncipe, vinieron.</l>
             </lg>
             <lg>
-               <l>Las armas del dragón que <placeName>Madrid</placeName> tiene,</l>
+               <l>Las armas del dragón que Madrid tiene,</l>
                <l>por quien Viseria el griego la llamaba,</l>
                <l>de las banderas de tu patria viene,</l>
-               <l n="2340">que Agamenón a <placeName>Troya</placeName> las llevaba;</l>
+               <l n="2340">que Agamenón a Troya las llevaba;</l>
                <l>mas parece que a entrambos nos detiene</l>
                <l>Circe, que tu valor solicitaba.</l>
                <l>Dichosa tú, Penélope, y dichoso</l>
@@ -3015,7 +3008,7 @@
             <lg>
                <l>»¿Maté a Protosilao? ¿Quité la vida,</l>
                <l n="2370">como Hétor, a Patroclo generoso,</l>
-               <l>o como Paris, que habitaba en <placeName>Ida</placeName>,</l>
+               <l>o como Paris, que habitaba en Ida,</l>
                <l>quité el honor a Menelao famoso?</l>
                <l>¿Fui, como Helena, incasta y fementida</l>
                <l>al lecho conyugal del noble esposo?</l>
@@ -3025,7 +3018,7 @@
             <lg>
                <l>»¿En mí quieres vengar, injusto griego,</l>
                <l>el deshonor de Grecia desdichada?</l>
-               <l>¿Soy <placeName>Troya</placeName>, Ulises, que me pones fuego?</l>
+               <l>¿Soy Troya, Ulises, que me pones fuego?</l>
                <l n="2380">¿Qué pretendes de mí, Grecia vengada?</l>
                <l>Plega a los cielos que se rinda luego</l>
                <l>Penélope, de amor solicitada;</l>
@@ -3070,7 +3063,7 @@
                <l>Ven, pues, oh capitán, que el lusitano</l>
                <l>valor aguarda que sus puertos pises,</l>
                <l n="2415">y a quien de ti murmura desengaña</l>
-               <l>de lo que debe a tu principio <placeName>España</placeName>.</l>
+               <l>de lo que debe a tu principio España.</l>
             </lg>
             <lg>
                <l>Del vellocino de Jasón dorado</l>
@@ -3236,7 +3229,7 @@
                <l n="2545">»Piedad me trae de mis tristes griegos,</l>
                <l>que lloran por la patria desterrados,</l>
                <l>desde que vieron en los teucros fuegos</l>
-               <l>de <placeName>Troya</placeName> los penates abrasados;</l>
+               <l>de Troya los penates abrasados;</l>
                <l>pidiéronme con lágrimas y ruegos,</l>
                <l n="2550">de sus hijos y esposas obligados,</l>
                <l>que te pidiese esta licencia justa,</l>
@@ -3247,7 +3240,7 @@
                <l>ya mis destierros te conté, señora,</l>
                <l n="2555">por puertos de tan bárbaras arenas,</l>
                <l>que ni las peina el mar, ni el sol las dora;</l>
-               <l>cuando rompió de <placeName>Troya</placeName> las almenas</l>
+               <l>cuando rompió de Troya las almenas</l>
                <l>la máquina de Palas vencedora</l>
                <l>debiera yo morir; que, aborrecida,</l>
                <l n="2560">es larga muerte dilatar la vida.</l>
@@ -3654,9 +3647,9 @@
             </lg>
             <lg>
                <l>Ara líquida sal la fuerte quilla</l>
-               <l>con los pinos y abetos de <placeName>Tesalia</placeName>;</l>
+               <l>con los pinos y abetos de Tesalia;</l>
                <l>ocupa con la aguja la alta silla,</l>
-               <l>lauro ya diestro en todo el mar de <placeName>Italia</placeName>.</l>
+               <l>lauro ya diestro en todo el mar de Italia.</l>
                <l n="2885">No estaban una legua de la orilla,</l>
                <l>cuando apenas tocando la sandalia</l>
                <l>de Circe el agua, por la blanca espuma</l>
@@ -3703,8 +3696,8 @@
                <l n="2920">cuando se cubre el rostro y anochece.</l>
             </lg>
             <lg>
-               <l>A la diestra del <placeName>Ponto</placeName> está sentada,</l>
-               <l>no lejos de su <placeName>Bósforo</placeName>, en la nieve,</l>
+               <l>A la diestra del Ponto está sentada,</l>
+               <l>no lejos de su Bósforo, en la nieve,</l>
                <l>de quien eternamente coronada,</l>
                <l>frías el sol exhalaciones bebe.</l>
                <l n="2925">Aquí llegó la nave descansada,</l>
@@ -3740,7 +3733,7 @@
                <l>privado ya del resplandor febeo,</l>
                <l n="2950">sin que lugar las sombras le permitan,</l>
                <l>llegó el astuto Ulises por un monte</l>
-               <l>que se mira, sin verse, en <placeName>Aqueronte</placeName>.</l>
+               <l>que se mira, sin verse, en Aqueronte.</l>
             </lg>
             <lg>
                <l>Desotra parte, en una parda peña,</l>
@@ -3865,7 +3858,7 @@
             <lg>
                <l>«Ausente Agamenón —(responde, ¡ay triste!,</l>
                <l n="3050">la sombra, en sangre y en dolor bañada)—,</l>
-               <l>con quien a <placeName>Troya</placeName> por Helena fuiste</l>
+               <l>con quien a Troya por Helena fuiste</l>
                <l>mi hermana, más dichosa y más culpada;</l>
                <l>la ausencia, que mujer tan mal resiste,</l>
                <l>me dio ocasión de amar, de Egisto amada;</l>
@@ -3937,7 +3930,7 @@
                <l>y la Lisonja y Amistad fingida,</l>
                <l>tan digna de que el mundo la desame</l>
                <l>por perjura, engañosa y fementida.</l>
-               <l>No hay áspid de la <placeName>Libia</placeName> que derrame</l>
+               <l>No hay áspid de la Libia que derrame</l>
                <l n="3110">mayor veneno, ni la humana vida</l>
                <l>tiene de qué guardarse más castigo</l>
                <l>que del engaño vil de un falso amigo.</l>
@@ -4000,7 +3993,7 @@
                <l>viendo que Agamenón con imperiosa</l>
                <l>mano te daba término sucinto</l>
                <l>para partir, yo descubrí tu engaño,</l>
-               <l n="3160">y a <placeName>Troya</placeName> te llevaron por mi daño.</l>
+               <l n="3160">y a Troya te llevaron por mi daño.</l>
             </lg>
             <lg>
                <l>»Airado tú, después que me escribía</l>
@@ -4055,11 +4048,10 @@
             <lg>
                <l>»Yo soy Ulises, hijo de Anticlea</l>
                <l>y del viejo Laertes, que el estrago</l>
-               <l>de <placeName>Troya</placeName> me conduce, donde vea</l>
+               <l>de Troya me conduce, donde vea</l>
                <l>las negras sombras del Estigio lago.</l>
-               <l n="3205">Entre <placeName>Italia</placeName> y el golfo de Malea,</l>
-               <l>entre el cimerio <placeName>Bósforo</placeName> y <placeName>Cartago</placeName>
-               </l>
+               <l n="3205">Entre Italia y el golfo de Malea,</l>
+               <l>entre el cimerio Bósforo y Cartago</l>
                <l>pasé grandes fortunas. Mas, ¿qué digo,</l>
                <l>tan olvidado de que estoy contigo?</l>
             </lg>
@@ -4099,7 +4091,7 @@
                <l n="3235">a quien con el ignífero tridente</l>
                <l>Júpiter hizo escollo al mar Tirreno</l>
                <l>Primero que vengado se contente</l>
-               <l>el fundador de <placeName>Troya</placeName>, de ira lleno,</l>
+               <l>el fundador de Troya, de ira lleno,</l>
                <l>para gozar la patria que deseas,</l>
                <l n="3240">las sirenas verás partenopeas.</l>
             </lg>
@@ -4126,7 +4118,7 @@
             <lg>
                <l>»Ella te aguarda, aunque deshecha y triste</l>
                <l>de tu ausencia y de ver tantos amantes,</l>
-               <l>que dos años después que a <placeName>Troya</placeName> fuiste</l>
+               <l>que dos años después que a Troya fuiste</l>
                <l n="3260">la sirven y pretenden arrogantes;</l>
                <l>con ingeniosa castidad resiste,</l>
                <l>con esperanzas firmes y constantes,</l>

@@ -18,7 +18,8 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <p>Publicado con una licencia de <ref target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
+            <p>Publicado con una licencia de <ref
+                  target="https://creativecommons.org/licenses/by/4.0/">Creative Commons
                   Reconocimiento 4.0 Internacional</ref>.</p>
          </publicationStmt>
          <sourceDesc>
@@ -36,8 +37,7 @@
          <div>
             <head>Fragmento I</head>
             <l>Del mar Panfilio en el profundo seno</l>
-            <l>yace abrigada <placeName>Chipre</placeName>
-            </l>
+            <l>yace abrigada Chipre</l>
             <l>-si bien su planta d'él siempre besada</l>
             <l>con sus ondas lascivas,</l>
             <l n="5">del aire regalada</l>
@@ -46,8 +46,7 @@
             <l>mira con eminencia</l>
             <l>septentrional Silicia,</l>
             <l n="10">meridional Egipto,</l>
-            <l>
-               <placeName>Siria</placeName> oriental, occidental Panfilia;</l>
+            <l>Siria oriental, occidental Panfilia;</l>
             <l>presidio es de Amaltea,</l>
             <l>de Priapo cultor, huertos pensiles,</l>
             <l>de Pomona, decoro,</l>
@@ -837,7 +836,7 @@
             <l>porque la ayude, pues así la ultraja.</l>
             <l>Toma el azote airada y significa</l>
             <l>que con enojo a castigarle baja</l>
-            <l n="795">a <placeName>Chipre</placeName>, donde vive destraído;</l>
+            <l n="795">a Chipre, donde vive destraído;</l>
             <l>ella se aflige y huélgase Cupido.</l>
             <l>Los cordones morados ondeando</l>
             <l>con golpes tan süaves,</l>
@@ -881,7 +880,7 @@
             <l>al camino salióle por la senda.</l>
             <l>Con rueda ardiente de bruñida plata,</l>
             <l>favoreciendo el mundo,</l>
-            <l>de <placeName>Chipre</placeName> el margen regalado pisa;</l>
+            <l>de Chipre el margen regalado pisa;</l>
             <l n="840">los fatigados cisnes ya desata,</l>
             <l>que el ala y pierna cada cual dilata</l>
             <l>y, sacudiendo los sudados cuellos,</l>
@@ -2281,7 +2280,7 @@
             <l>Proserpina al momento,</l>
             <l n="2225">con paso cuidadoso</l>
             <l>hace que se trasmonte</l>
-            <l>-a pesar del barquero de <placeName>Aqueronte</placeName>-</l>
+            <l>-a pesar del barquero de Aqueronte-</l>
             <l>el alma desta flor rompiendo el viento,</l>
             <l>del campo Elíseo en el mejor asiento.</l>
             <l n="2230">Otra escuadra de ninfas ya venía</l>
