@@ -1,7 +1,7 @@
 
 # Fábulas mitológicas del Siglo de Oro
 
-Este repositorio contiene una colección de textos (150 746 palabras) publicados por [Antonio Rojas Castro](http://antoniorojascastro.com). A fecha de abril de 2017, el repositorio consta de 25 poemas en español fechados en los siglos XVI y XVII en formato XML/TEI y TXT. 
+Este repositorio contiene una colección de textos (150 746 palabras) publicados por [Antonio Rojas Castro](http://antoniorojascastro.com). A fecha de febrero de 2018, el repositorio consta de 26 poemas en español fechados en los siglos XVI y XVII en formato XML/TEI y TXT. 
 
 ## Contenido
 
@@ -9,6 +9,7 @@ Este repositorio contiene una colección de textos (150 746 palabras) publicados
 
 * *Fábula de Acteón* de Luis Barahona de Soto
 * *Fábula de Vertumno y Pomona* de Luis Barahona de Soto
+* *El Narciso: flor traducida del Cefiso al Betis* de Juan Bermúdez y Alfaro
 * *Fábula de Leandro y Hero* de Gabriel Bocángel
 * *Fábula de Acis y Galatea* de Luis Carrillo y Sotomayor
 * *La Psique* de Gutierre de Cetina
