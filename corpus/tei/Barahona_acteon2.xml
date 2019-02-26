@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:cnt="http://www.w3.org/2011/content#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
+	<cw:mode>0</cw:mode>
+	<cw:allowOverlap>false</cw:allowOverlap>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-26T09:08:13.241Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-26T09:08:13.241Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"https://creativecommons.org/licenses/by/4.0/"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_16"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-26T09:08:13.247Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-26T09:08:13.247Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"http://www.cervantesvirtual.com/obra-visor-din/fabulas-mitologicas--0/html/ffe48288-82b1-11df-acc7-002185ce6064_20.html#I_8_"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2011/content#ContentAsText"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
+	<rdf:value>xpointer(//ref[@annotationId="ent_18"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/de7dac53-fe88-4704-884f-972d834e69f5">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/75c1c6c2-43d9-4237-b50d-66254ac57ec6"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/316436453/"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/cc0900a0-3598-406f-8e23-afacc2ef02c2"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-26T09:08:13.250Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-26T09:08:13.250Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Personal","id":"http://viaf.org/viaf/316436453/","uri":"http://viaf.org/viaf/316436453/","uriForDisplay":null,"externalLink":"http://viaf.org/viaf/316436453/","name":"Actéon mythologie grecque","repository":"VIAF","originalQueryString":"Acteón"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/316436453/","type":"both","cert":"definite"}</cw:cwrcAttributes>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/316436453/">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Person"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/75c1c6c2-43d9-4237-b50d-66254ac57ec6">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/7cb3e1ea-b79a-4330-8306-7b3fbfe33629"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/d8ec0712-5951-4305-a389-2af0494f0e93"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/d8ec0712-5951-4305-a389-2af0494f0e93">
+	<rdf:value>xpointer(//persName[@annotationId="ent_1153"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/fa29a68d-e78c-4362-85a8-bbc504e88005">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/fd1af15c-eea0-4f6b-9362-a522d53bf3cd"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://geonames.org/255730"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/26616854-3664-4053-9ccd-a6acac28b116"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-26T09:08:13.261Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-26T09:08:13.261Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://geonames.org/255730","uri":"http://geonames.org/255730","uriForDisplay":null,"externalLink":"http://geonames.org/255730","name":"Parnassus Central Greece Greece","repository":"geonames","originalQueryString":"Parnaso","description":"mountain"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://geonames.org/255730","cert":"definite"}</cw:cwrcAttributes>
+<cw:hasPrecision xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#high"/></rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://geonames.org/255730">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/fd1af15c-eea0-4f6b-9362-a522d53bf3cd">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/6f070587-ffe3-4254-acfc-76d3b7bf3cf4"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/f915d968-0121-4a8d-ba1e-847313619695"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/f915d968-0121-4a8d-ba1e-847313619695">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_1154"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/490f3655-94a4-4118-9b2d-244e9a948e6f">
+	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/0c3d8a4e-ec64-465b-a863-7d7547824ad6"/>
+	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://dbpedia.org/resource/Granada"/>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/e62c54f0-605a-4fbc-8ed1-8f74a7f705ff"/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-26T09:08:13.267Z</oa:annotatedAt>
+	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2019-02-26T09:08:13.267Z</oa:serializedAt>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
+	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
+	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"place","id":"http://dbpedia.org/resource/Granada","uri":"http://dbpedia.org/resource/Granada","uriForDisplay":"https://dbpedia.lookup.services.cwrc.ca/resource/Granada","name":"Granada","repository":"dbpedia","originalQueryString":"Granada","description":"Granada is a city and the capital of the province of Granada, in the autonomous community of Andalucia, Spain. Granada is located at the foot of the Sierra Nevada mountains, at the confluence of three rivers, the Beiro, the Darro and the Genil. It sits at an elevation of 738 metres above sea level, yet is only one hour from the Mediterranean coast, the Costa Tropical. Nearby is the Sierra Nevada Ski Station, where the FIS Alpine World Ski Championships 1996 were held."}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://dbpedia.org/resource/Granada","cert":"definite"}</cw:cwrcAttributes>
+<cw:hasPrecision xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#high"/></rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://dbpedia.org/resource/Granada">
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
+	<rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/0c3d8a4e-ec64-465b-a863-7d7547824ad6">
+	<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/95a6ef81-7a39-4bca-a145-9b0e21af9cbb"/>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SpecificResource"/>
+	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/selector/31e9cb8a-f4b2-461e-86d7-c65a7bbca9ce"/>
+</rdf:Description>
+<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/selector/31e9cb8a-f4b2-461e-86d7-c65a7bbca9ce">
+	<rdf:value>xpointer(//placeName[@annotationId="ent_1155"])</rdf:value>
+	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
+</rdf:Description>
+<rdf:Description rdf:about="http://id.cwrc.ca/annotation/de7dac53-fe88-4704-884f-972d834e69f5" cw:external="false">
+	<cw:wasBornOn cw:text="was born on" cw:external="false">
+		<rdf:Description rdf:about="http://id.cwrc.ca/annotation/fa29a68d-e78c-4362-85a8-bbc504e88005" cw:external="false" />
+	</cw:wasBornOn>
+</rdf:Description>
+</rdf:RDF>
+
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fábula de Acteón</title>
+            <author>Luis Barahona de Soto</author>
+            <respStmt>
+               <resp>Digitalización, codificación y publicación de</resp>
+               <persName>Antonio Rojas Castro</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>Primera edición digital de <date>2016</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <p>Publicado con una licencia de <ref annotationId="ent_16" target="https://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional</ref>.</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Barahona de Soto, Luis.<title>
+                  <ref annotationId="ent_18" target="http://www.cervantesvirtual.com/obra-visor-din/fabulas-mitologicas--0/html/ffe48288-82b1-11df-acc7-002185ce6064_20.html#I_8_">Fábulas mitológicas</ref>
+               </title>. Ed. Antonio Cruz Casado. Alicante: Bibiblioteca Virtual Miguel de Cervantes, 2003. Web.</p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>Texto originalmente publicado hacia <date>1587</date>.</creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l>De un alma que fue vestida</l>
+            <l>con dos cuerpos, de hombre y fiera</l>
+            <l>y de otra alma que, regida</l>
+            <l>de un cuerpo más que de cera,</l>
+            <l n="5">fue cual piedra endurecida,</l>
+            <l>de un milagro y de otro extraño</l>
+            <l>diré, y de un dolor tamaño,</l>
+            <l>que pocos lo conocieron,</l>
+            <l>sino aquellos que supieron</l>
+            <l n="10">lo que yo sé, por mi daño.</l>
+         </lg>
+         <lg>
+            <l>¡Oh tú, que, para mi mal,</l>
+            <l>sola en el mundo naciste,</l>
+            <l>bella, cruel, desleal,</l>
+            <l>sabia, y que de todo fuiste</l>
+            <l n="15">modelo y original,</l>
+            <l>oye lo que cantar quiero:</l>
+            <l>verás en ciervo ligero</l>
+            <l>mudado al señor de Tebas,</l>
+            <l>do el tormento que en mí pruebas</l>
+            <l n="20">fue figurado primero.</l>
+         </lg>
+         <lg>
+            <l>Con poco que estés atenta,</l>
+            <l>en sus trabajos verás</l>
+            <l>los de aquel que te los cuenta,</l>
+            <l>y si quiés saberlo más,</l>
+            <l n="25">tu desamor y mi afrenta.</l>
+            <l>Verás sobre su divisa</l>
+            <l>los del que en su mal no avisa,</l>
+            <l>puestos para más despecho,</l>
+            <l>y, cual yo, el cuitado hecho</l>
+            <l n="30">del mundo fábula y risa.</l>
+         </lg>
+         <lg>
+            <l>No demandaré favor</l>
+            <l>a aquella musa que en vano</l>
+            <l>supo decir mi dolor;</l>
+            <l>mas al celoso Vulcano,</l>
+            <l n="35">que es el padrastro de Amor.</l>
+            <l>La materia será el caso,</l>
+            <l>y su fragua mi <placeName annotationId="ent_1154" ref="http://geonames.org/255730" cert="definite">Parnaso<precision annotationId="ent_1154" precision="high" /></placeName>,</l>
+            <l>y sus golpes mis desmayos,</l>
+            <l>y mis palabras los rayos</l>
+            <l n="40">de su fuego, en que me abraso.</l>
+         </lg>
+         <lg>
+            <l>Una muy copiosa fuente</l>
+            <l>muy alegre y fresca está</l>
+            <l>en la tierra cuya gente</l>
+            <l>le nació a Cadmo de la</l>
+            <l n="45">quijada de una serpiente,</l>
+            <l>de un monte jamás rozado,</l>
+            <l>de sangre nunca manchado,</l>
+            <l>cercada al Austro y Poniente,</l>
+            <l>descubierta al sol de Oriente</l>
+            <l n="50">y cubierta al cierzo helado.</l>
+         </lg>
+         <lg>
+            <l>Y aunque, por larga costumbre,</l>
+            <l>de diversas ramas lleno,</l>
+            <l>que se tejen en la cumbre,</l>
+            <l>defiende el cerrado seno</l>
+            <l n="55">del alegre sol la lumbre,</l>
+            <l>con las hojas compitiendo</l>
+            <l>el sol, a veces venciendo,</l>
+            <l>y a veces siendo medroso</l>
+            <l>va un claroescuro hermoso</l>
+            <l n="60">de las sombras componiendo.</l>
+         </lg>
+         <lg>
+            <l>Allí, gentil, largo y liso,</l>
+            <l>está el árbol que guardó</l>
+            <l>el nombre de Cipariso,</l>
+            <l>y el otro do se escondió</l>
+            <l n="65">Dafnes del pastor de Anfriso,</l>
+            <l>y aquel árbol que parece</l>
+            <l>que por Tisbe se entristece,</l>
+            <l>la fruta en sangre bañada,</l>
+            <l>que a la morisca <placeName annotationId="ent_1155" ref="http://dbpedia.org/resource/Granada" cert="definite">Granada<precision annotationId="ent_1155" precision="high" /></placeName></l>
+            <l n="70">con sus hojas enriquece.</l>
+         </lg>
+         <lg>
+            <l>Y otros árboles sin cuento,</l>
+            <l>de los que suelen poblar</l>
+            <l>la tierra con su cimiento,</l>
+            <l>y dividir y azotar</l>
+            <l n="75">con sus pimpollos el viento.</l>
+            <l>De una lucha entre ellos brava</l>
+            <l>con el que entonces soplaba</l>
+            <l>siendo cada cual herido,</l>
+            <l>un mormollo y un ruido</l>
+            <l n="80">dulcísimo se escuchaba.</l>
+         </lg>
+         <lg>
+            <l>El sol, en ellos hiriendo,</l>
+            <l>iba de varios olores</l>
+            <l>otro nuevo produciendo,</l>
+            <l>y de diversos colores</l>
+            <l n="85">otro mejor componiendo;</l>
+            <l>y así, el viento, disfrazado</l>
+            <l>de un nuevo color, mezclado</l>
+            <l>nuevo olor, nuevo ruido,</l>
+            <l>hiciera alegre el sentido</l>
+            <l n="90">del más triste enamorado.</l>
+         </lg>
+         <lg>
+            <l>Entre la arboleda estaba</l>
+            <l>de natural piedra viva</l>
+            <l>un güeco de do manaba</l>
+            <l>el agua que desde arriba</l>
+            <l n="95">abajo se despeñaba.</l>
+            <l>Después ésta se vertía</l>
+            <l>sobre otra peña y corría</l>
+            <l>por un arco, parte a parte,</l>
+            <l>do natura venció al arte</l>
+            <l n="100">y el arte a la fantasía.</l>
+         </lg>
+         <lg>
+            <l>Y del verdor que a la par</l>
+            <l>crece estaba tan cubierta,</l>
+            <l>que pocos sabían hallar</l>
+            <l>la no frecuentada puerta</l>
+            <l n="105">para el ameno lugar.</l>
+            <l>Y así la tierra, cavada</l>
+            <l>del agua en ella quebrada,</l>
+            <l>hecha pequeña laguna,</l>
+            <l>no se vio en edad alguna</l>
+            <l n="110">del todo en lumbre bañada.</l>
+         </lg>
+         <lg>
+            <l>El margen de césped vivo,</l>
+            <l>de nervosa y ciega trama</l>
+            <l>que, de tierra, al fugitivo</l>
+            <l>licor la ñudosa grama</l>
+            <l n="115">hizo en su lugar nativo,</l>
+            <l>va las ondas terminando,</l>
+            <l>do esquivas cañas silbando,</l>
+            <l>y agudos juncos ludiendo,</l>
+            <l>con blandas ovas tejiendo,</l>
+            <l n="120">iban su curso cegando.</l>
+         </lg>
+         <lg>
+            <l>Va desde aquí la corriente</l>
+            <l>del agua tan sosegada,</l>
+            <l>que apenas la vista siente</l>
+            <l>si corre, o si está parada;</l>
+            <l n="125">si va a levante o poniente.</l>
+            <l>Limpia, clara, blanda y pura,</l>
+            <l>liviana, que se apresura</l>
+            <l>de la boca a las entrañas</l>
+            <l>de sabor y de marañas,</l>
+            <l n="130">de olor y color segura.</l>
+         </lg>
+         <lg>
+            <l>Por la suave harmonía</l>
+            <l>que la frecuencia confusa</l>
+            <l>de los pájaros hacía,</l>
+            <l>parece que alguna musa</l>
+            <l n="135">la concertaba y regía.</l>
+            <l>No goza esta fuente tal</l>
+            <l>el ganado pastoral:</l>
+            <l>que fuente, bosque y dehesa</l>
+            <l>es de Diana, princesa</l>
+            <l n="140">del Colegio Virginal.</l>
+         </lg>
+         <lg>
+            <l>Aquí la diosa solía</l>
+            <l>en el caluroso estío</l>
+            <l>olvidar la montería</l>
+            <l>y en el líquido rocío</l>
+            <l n="145">sus castos miembros metía.</l>
+            <l>Y siendo entonces llegada,</l>
+            <l>de sus ninfas rodeada,</l>
+            <l>arco y flechas a una dio</l>
+            <l>y otra el manto le tomó</l>
+            <l n="150">con que vino cobijada.</l>
+         </lg>
+         <lg>
+            <l>Otra con blanco cendal</l>
+            <l>fue limpiando del sudor</l>
+            <l>la garganta de cristal,</l>
+            <l>que derritiera en amor</l>
+            <l n="155">al más duro pedernal.</l>
+            <l>Otra le cogió el cabello,</l>
+            <l>tal, que no era tal como ello</l>
+            <l>madeja de oro crespada,</l>
+            <l>y en una y otra lazada</l>
+            <l n="160">lo añudó, y a Amor entre ello.</l>
+         </lg>
+         <lg>
+            <l>Otra ninfa, diligente,</l>
+            <l>la ropa de grana y oro</l>
+            <l>le quitó liberalmente,</l>
+            <l>y descubriose un tesoro</l>
+            <l n="165">más bello que el sol de Oriente:</l>
+            <l>descubriose el blanco pecho,</l>
+            <l>de masa celestial hecho:</l>
+            <l>dos montes y una cañada</l>
+            <l>de blanca nieve cuajada,</l>
+            <l n="170">y el Amor allí deshecho.</l>
+         </lg>
+         <lg>
+            <l>Dos le quitan el calzado,</l>
+            <l>y un color se descubrió</l>
+            <l>de leche y sangre, rosado,</l>
+            <l>que cuando al suelo tocó</l>
+            <l n="175">hizo florecer el prado.</l>
+            <l>La pierna gruesa y ceñida</l>
+            <l>a Elena dejó vencida,</l>
+            <l>y el pequeño y blanco pie</l>
+            <l>con un solo puntapié</l>
+            <l n="180">diera a mil Narcisos vida.</l>
+         </lg>
+         <lg>
+            <l>Y luego en el mismo instante,</l>
+            <l>doce de las más preciadas,</l>
+            <l>con amoroso semblante,</l>
+            <l>de sus ropas despojadas,</l>
+            <l n="185">se le pusieron delante,</l>
+            <l>las cuatro con delicados</l>
+            <l>vasos de mirra colmados,</l>
+            <l>bálsamo, y ámbar, y enciensos,</l>
+            <l>y otros olorosos censos</l>
+            <l n="190">de los nabateos collados.</l>
+         </lg>
+         <lg>
+            <l>Las otras cuatro trajeron</l>
+            <l>varias suertes de conservas</l>
+            <l>que de las frutas hicieron</l>
+            <l>y de las mejores yerbas</l>
+            <l n="195">que en todo el mundo cogieron.</l>
+            <l>Las otras, dulce comida</l>
+            <l>trajeron para la vida,</l>
+            <l>pues la conserva inmortal</l>
+            <l>aquella que es, por ser tal,</l>
+            <l n="200">sólo a los dioses debida.</l>
+         </lg>
+         <lg>
+            <l>Comenzaron a verter</l>
+            <l>sobre aquel cuerpo divino</l>
+            <l>licores, y ellos a oler,</l>
+            <l>y ¡qué olor! pues dél les vino</l>
+            <l n="205">más que ellos pueden tener.</l>
+            <l>¡Oh venturoso licor,</l>
+            <l>que tuvo tanto valor,</l>
+            <l>que mereciese tocar</l>
+            <l>do no mereció llegar</l>
+            <l n="210">el gran poder del Amor!</l>
+         </lg>
+         <lg>
+            <l>De la conserva tomó</l>
+            <l>después desto parte poca;</l>
+            <l>no la tomó, mas la dio;</l>
+            <l>pues, metiéndola en su boca,</l>
+            <l n="215">eterna la conservó.</l>
+            <l>Fue entre sus labios deshecha,</l>
+            <l>y, de serlo satisfecha,</l>
+            <l>con gran ventaja, pues que</l>
+            <l>della en breve espacio fue</l>
+            <l n="220">la preciosa carne hecha.</l>
+         </lg>
+         <lg>
+            <l>Miró sus miembros en vago</l>
+            <l>cual el soberbio pavón</l>
+            <l>(que hicieron tal estrago),</l>
+            <l>y ella y todo su escuadrón</l>
+            <l n="225">se echaron juntas al lago.</l>
+            <l>Iban todas de arrancada,</l>
+            <l>en escuadra concertada,</l>
+            <l>y así todo el lugar lleno,</l>
+            <l>cual por el cielo sereno</l>
+            <l n="230">de grullas larga manada.</l>
+         </lg>
+         <lg>
+            <l>¡Quién las viera libremente,</l>
+            <l>sin ropa al ojo importuna,</l>
+            <l>ir cortando la corriente</l>
+            <l>desde la balsa o laguna</l>
+            <l n="235">al principio de la fuente,</l>
+            <l>donde, así como las caras,</l>
+            <l>las más preciadas y raras</l>
+            <l>partes que se pueden ver</l>
+            <l>no quisieron esconder</l>
+            <l n="240">las aguas, cual vidrio claras!</l>
+         </lg>
+         <lg>
+            <l>Por lo más alto del cielo</l>
+            <l>iba el sol, y suspendió,</l>
+            <l>de gozoso, el curso y vuelo,</l>
+            <l>y, parándose, abrasó</l>
+            <l n="245">con sus rayos todo el suelo.</l>
+            <l>Y el viento que iba soplando</l>
+            <l>fuese de nuevo esforzando</l>
+            <l>con la grande claridad,</l>
+            <l>y trajo tal sequedad,</l>
+            <l n="250">que dejó el mundo anhelando.</l>
+         </lg>
+         <lg>
+            <l>Solamente aquel lugar,</l>
+            <l>porque a Diana le place,</l>
+            <l>ella le hizo templar</l>
+            <l>con la virtud con que hace</l>
+            <l n="255">menguar y crecer el mar.</l>
+            <l>El viento no le alcanzaba;</l>
+            <l>y el sol tan colado entraba,</l>
+            <l>que su furor y su brío</l>
+            <l>sólo de la peña el frío</l>
+            <l n="260">le resistía y templaba.</l>
+         </lg>
+         <lg>
+            <l>Allí Diana regía</l>
+            <l>sus corros, giros y danzas,</l>
+            <l>y cada ninfa hacía</l>
+            <l>las pruebas y las mudanzas</l>
+            <l n="265">do más destreza tenía.</l>
+            <l>Cuál dellas nadó más trecho;</l>
+            <l>cuál dellas más a provecho;</l>
+            <l>cuál dellas se zambulló,</l>
+            <l>y cuál el lago cercó,</l>
+            <l n="270">vuelto al cielo el rostro y pecho.</l>
+         </lg>
+         <lg>
+            <l>Ya Filodoce tenía</l>
+            <l>una trepa comenzada,</l>
+            <l>cuando, con gran vocería</l>
+            <l>y aullidos, fue alborotada</l>
+            <l n="275">la virginal compañía;</l>
+            <l>que, siendo entonces llegado,</l>
+            <l>de estío y sed fatigado,</l>
+            <l>el cazador Acteón,</l>
+            <l>causó grande turbación</l>
+            <l n="280">en el colegio sagrado.</l>
+         </lg>
+         <lg>
+            <l>Que unas dellas se escondieron,</l>
+            <l>en las aguas zambullidas;</l>
+            <l>otras la espalda volvieron;</l>
+            <l>otras de ramas crecidas</l>
+            <l n="285">de árboles se cubrieron.</l>
+            <l>A otras vieras sentar,</l>
+            <l>a otras, gritando, abrazar</l>
+            <l>a la diosa casta y clara,</l>
+            <l>y otras mirarle a la cara,</l>
+            <l n="290">sin osarse menear.</l>
+         </lg>
+         <lg>
+            <l>Otras ante él se ponían,</l>
+            <l>porque la vista cebase</l>
+            <l>en lo que le descubrían,</l>
+            <l>y a Diana no mirase,</l>
+            <l n="295">que era lo que más temían:</l>
+            <l>porque es punto de primor,</l>
+            <l>si de pena o de dolor</l>
+            <l>se halla el hombre cercado,</l>
+            <l>escoger, si es avisado,</l>
+            <l n="300">de dos daños el menor.</l>
+         </lg>
+         <lg>
+            <l>Otras, con ánimo puro,</l>
+            <l>estando en torno abrazadas</l>
+            <l>del cuerpo nada seguro,</l>
+            <l>hicieron encadenadas</l>
+            <l n="305">un hermoso y bello muro.</l>
+            <l>Mas poco vale lo hecho;</l>
+            <l>que él la mira, a su despecho:</l>
+            <l>tan gentil Diana estaba,</l>
+            <l>que por cima las sobraba</l>
+            <l n="310">con más que garganta y pecho.</l>
+         </lg>
+         <lg>
+            <l>Cual suele en playa espaciosa</l>
+            <l>nave rica, con despojos</l>
+            <l>de una batalla famosa,</l>
+            <l>llevarse tras sí los ojos</l>
+            <l n="315">sin parar en otra cosa,</l>
+            <l>así, de ninfas cercada,</l>
+            <l>ella sola fue mirada</l>
+            <l>del que por su mal la vio,</l>
+            <l>que en sólo aquesto acertó,</l>
+            <l n="320">para no acertar en nada.</l>
+         </lg>
+         <lg>
+            <l>Acertola a conocer,</l>
+            <l>no del todo, por quien era;</l>
+            <l>que esto, a podello saber,</l>
+            <l>bien más acertado fuera</l>
+            <l n="325">si no la acertara a ver.</l>
+            <l>Vido el rostro sin igual,</l>
+            <l>los topacios y el coral,</l>
+            <l>puestos por arte sutil,</l>
+            <l>el aljófar y el marfil,</l>
+            <l n="330">la púrpura y el cristal.</l>
+         </lg>
+         <lg>
+            <l>De un brazo que alto tenía</l>
+            <l>vio el molledo blanco y grueso;</l>
+            <l>la mano, que al sol vencía,</l>
+            <l>con que el duro arco de güeso</l>
+            <l n="335">alargaba y encogía.</l>
+            <l>Digo que miró la mano</l>
+            <l>que después le dio tal mano;</l>
+            <l>mirola parte por parte;</l>
+            <l>que, aunque estaba puesto aparte,</l>
+            <l n="340">pudo ganarle de mano.</l>
+         </lg>
+         <lg>
+            <l>Vio el cabello atado y liento</l>
+            <l>y dejó enlazarse en él,</l>
+            <l>tras la vista, el pensamiento,</l>
+            <l>y éste se llevó tras dél</l>
+            <l n="345">voluntad y entendimiento.</l>
+            <l>No supo mirar por sí,</l>
+            <l>hasta verse preso allí</l>
+            <l>de amor en el ciego abismo;</l>
+            <l>mas yo hiciera lo mismo</l>
+            <l n="350">si la viera antes que a ti.</l>
+         </lg>
+         <lg>
+            <l>Finalmente, en ella vio</l>
+            <l>el extremo de belleza</l>
+            <l>que en ti sola se cifró,</l>
+            <l>y el extremo de aspereza,</l>
+            <l n="355">después del que sufro yo.</l>
+            <l>Y, como yo lo hiciera,</l>
+            <l>comenzó, que no debiera,</l>
+            <l>con donaire y cortesía,</l>
+            <l>a decir lo que sentía,</l>
+            <l n="360">y ojalá más no sintiera:</l>
+         </lg>
+         <lg>
+            <l>«Alma preciosa que digna</l>
+            <l>fuiste del cuerpo más bello</l>
+            <l>que la vista determina,</l>
+            <l>o seas humana, si sello</l>
+            <l n="365">pudieras, sin ser divina;</l>
+            <l>o seas del sublime coro,</l>
+            <l>que por tal te creo y adoro;</l>
+            <l>o seas la virgen buscada</l>
+            <l>que fue de Plutón robada</l>
+            <l n="370">entre Pachino y Peloro;</l>
+         </lg>
+         <lg>
+            <l>o seas desta arboleda</l>
+            <l>ninfa, o de estas claras fuentes,</l>
+            <l>o la que en mudable rueda</l>
+            <l>levanta y abaja gentes,</l>
+            <l n="375">sin jamás tenerla queda;</l>
+            <l>sé tú quienquiera que seas,</l>
+            <l>así entre tus manos veas</l>
+            <l>la cosa más deseada</l>
+            <l>si hay alguna tan sagrada</l>
+            <l n="380">que desees y no poseas;</l>
+         </lg>
+         <lg>
+            <l>y así consigas vitoria</l>
+            <l>del que causó turbación</l>
+            <l>algún tiempo en tu memoria,</l>
+            <l>si puede caber pasión</l>
+            <l n="385">en almas llenas de gloria,</l>
+            <l>que...». Dijo, y quedose aquí;</l>
+            <l>que viéndole estar así,</l>
+            <l>con lo que otra se amansara,</l>
+            <l>la diosa volvió la cara,</l>
+            <l n="390">cual de grana o carmesí.</l>
+         </lg>
+         <lg>
+            <l>¿Quién vio el color que parece</l>
+            <l>cuando con vario arrebol</l>
+            <l>la ciega nube se ofrece</l>
+            <l>delante el dorado sol</l>
+            <l n="395">que por partes la esclarece?</l>
+            <l>Y ¿quién vio en el alborada</l>
+            <l>la fresca aurora rosada?</l>
+            <l>Pues con gesto más galano</l>
+            <l>volvió el rostro soberano</l>
+            <l n="400">la casta diosa enojada.</l>
+         </lg>
+         <lg>
+            <l>Aunque no dél vergonzosa,</l>
+            <l>estaba de su vergüenza</l>
+            <l>encogida y temerosa;</l>
+            <l>mas viendo su desvergüenza,</l>
+            <l n="405">salió corrida y furiosa.</l>
+            <l>Cuando Acteón conoció</l>
+            <l>en qué y contra quién pecó,</l>
+            <l>quisiera no haber nacido,</l>
+            <l>y mejor le hobiera sido</l>
+            <l n="410">que morir como murió.</l>
+         </lg>
+         <lg>
+            <l>Púsose el color robado,</l>
+            <l>y comenzaba a temblar</l>
+            <l>como aquel que está azogado,</l>
+            <l>o al modo que suele estar</l>
+            <l n="415">el can ante el león echado.</l>
+            <l>Y ella le muestra el semblante</l>
+            <l>como la madre al infante</l>
+            <l>de quien ha sido enojada,</l>
+            <l>o como leona airada,</l>
+            <l n="420">muertos sus hijos delante.</l>
+         </lg>
+         <lg>
+            <l>Y dijo con voz sañuda</l>
+            <l>lo que las fatiga más</l>
+            <l>a las mujeres, sin duda:</l>
+            <l>«Traidor, no te alabarás</l>
+            <l n="425">de que me viste desnuda.</l>
+            <l>Y la caza que deseas,</l>
+            <l>por quien mi fuente rodeas,</l>
+            <l>te daré por enemiga,</l>
+            <l>y que, para más fatiga,</l>
+            <l n="430">sin ti y con ella te veas».</l>
+         </lg>
+         <lg>
+            <l>Y como el arco ni jara</l>
+            <l>en la mano no halló,</l>
+            <l>tomando del agua clara,</l>
+            <l>con ella le roció</l>
+            <l n="435">pecho y manos, pies y cara.</l>
+            <l>Iba sudando y, mojado,</l>
+            <l>quedó de súbito helado</l>
+            <l>y algún tanto temeroso;</l>
+            <l>mas el deseo amoroso</l>
+            <l n="440">no por eso resfriado.</l>
+         </lg>
+         <lg>
+            <l>No sólo le resfrió,</l>
+            <l>que aquesto lo menos fue,</l>
+            <l>porque la agua en sí tomó</l>
+            <l>una fuerza, un no sé qué,</l>
+            <l n="445">que más que fuego abrasó.</l>
+            <l>Convirtió de otro metal</l>
+            <l>toda la parte mortal;</l>
+            <l>comenzó el pecho a querer,</l>
+            <l>y el hígado a apetecer</l>
+            <l n="450">cosas de otro natural.</l>
+         </lg>
+         <lg>
+            <l>El corazón, que solía</l>
+            <l>las empresas peligrosas</l>
+            <l>buscar lleno de osadía,</l>
+            <l>en las muy pequeñas cosas</l>
+            <l n="455">mostraba ya cobardía.</l>
+            <l>Y este mismo corazón,</l>
+            <l>que antes sirvió a la razón,</l>
+            <l>y el seso que fue su asiento,</l>
+            <l>ambos de un consentimiento,</l>
+            <l n="460">declinan jurisdición.</l>
+         </lg>
+         <lg>
+            <l>A la razón no dañó,</l>
+            <l>porque era parte inmortal;</l>
+            <l>mas del arte la dejó</l>
+            <l>que es la persona real</l>
+            <l n="465">que fuerza y poder perdió.</l>
+            <l>De nadie ya obedecida,</l>
+            <l>de todos aborrecida,</l>
+            <l>¿qué vale sin gobernar,</l>
+            <l>entre la gente vulgar,</l>
+            <l n="470">por sus vasallos regida?</l>
+         </lg>
+         <lg>
+            <l>Los afectos naturales,</l>
+            <l>odio, amor, ira y deseo,</l>
+            <l>miedo, esfuerzo y otros tales,</l>
+            <l>tienen el gobierno feo</l>
+            <l n="475">todos conformes e iguales.</l>
+            <l>Ni entre sí tienen contienda,</l>
+            <l>ni en ellos hay quien se entienda,</l>
+            <l>uno loco, otro grosero,</l>
+            <l>y el que madrugó primero</l>
+            <l n="480">lleva a los otros de rienda.</l>
+         </lg>
+         <lg>
+            <l>Luego, sin más dilatallo,</l>
+            <l>en diversa proporción</l>
+            <l>vieras al cuerpo mudallo;</l>
+            <l>que siempre la inclinación</l>
+            <l n="485">del señor sigue el vasallo.</l>
+            <l>Cuando la razón regía,</l>
+            <l>el rostro alzado tenía;</l>
+            <l>mas luego que se perdió,</l>
+            <l>el rostro a tierra bajó;</l>
+            <l n="490">que alzallo no merecía.</l>
+         </lg>
+         <lg>
+            <l>Los ojos abrió mayores</l>
+            <l>y más largo tendió el cuello;</l>
+            <l>percibió más los olores;</l>
+            <l>mudó en pelo el tierno vello,</l>
+            <l n="495">teñido de dos colores;</l>
+            <l>las orejas se extendieron;</l>
+            <l>las carnes se endurecieron,</l>
+            <l>y adornaron su cabeza</l>
+            <l>dos cuernos que, a poca pieza,</l>
+            <l n="500">sus doce puntas tuvieron.</l>
+         </lg>
+         <lg>
+            <l>Y las manos con que cobra</l>
+            <l>el hombre de otros mortales</l>
+            <l>la ventaja en que les sobra,</l>
+            <l>hechas con los pies iguales,</l>
+            <l n="505">mudaron la forma y obra.</l>
+            <l>De piel dura se vistieron</l>
+            <l>los miembros, y así perdieron</l>
+            <l>su forma, niervo por niervo,</l>
+            <l>hasta que un ligero ciervo</l>
+            <l n="510">entre todos compusieron.</l>
+         </lg>
+         <lg>
+            <l>Las señales corporales</l>
+            <l>tienen significación</l>
+            <l>de las espirituales;</l>
+            <l>que cual es la inclinación</l>
+            <l n="515">ellas se nos muestran tales.</l>
+            <l>Solamente tu aspereza</l>
+            <l>no pareció a tu belleza,</l>
+            <l>que mil reinos mereció,</l>
+            <l>señora, y en ti mintió</l>
+            <l n="520">la ley de naturaleza.</l>
+         </lg>
+         <lg>
+            <l>Cuanto al aspereza, digo,</l>
+            <l>tú muy mejor lo sabrás,</l>
+            <l>pues la has usado conmigo;</l>
+            <l>que en virtud y en lo demás</l>
+            <l n="525">más que pudo usó contigo.</l>
+            <l>Quizá es mi dicha o planeta</l>
+            <l>que en todo fuiste perfeta;</l>
+            <l>pues eres, sin haber mella,</l>
+            <l>noble y discreta cual bella,</l>
+            <l n="530">bella cual noble y discreta.</l>
+         </lg>
+         <lg>
+            <l>Conmigo estás rigurosa,</l>
+            <l>que nací en hora menguada:</l>
+            <l>que ya te he visto, engañosa,</l>
+            <l>con quien yo digo, no ha nada,</l>
+            <l n="535">menos grave y más piadosa.</l>
+            <l>Hasme, señora, abatido,</l>
+            <l>apocado, entorpecido,</l>
+            <l>y no con tanta razón</l>
+            <l>como Diana a Acteón,</l>
+            <l n="540">de hombre en bestia convertido.</l>
+         </lg>
+         <lg>
+            <l>El odio en placer mudado,</l>
+            <l>le miraban con gran risa</l>
+            <l>las ninfas al desdichado,</l>
+            <l>burlando de la divisa</l>
+            <l n="545">del gallardo enamorado.</l>
+            <l>Vengadas ya de su ira,</l>
+            <l>como de hombre de mentira,</l>
+            <l>no han vergüenza, mas les place;</l>
+            <l>porque la vergüenza nace</l>
+            <l n="550">del seso del que nos mira.</l>
+         </lg>
+         <lg>
+            <l>Y él, viéndolas tan mudadas,</l>
+            <l>como aún la suya ignorase,</l>
+            <l>¡oh necedades usadas!</l>
+            <l>¿Quién duda que no pensase</l>
+            <l n="555">que le eran aficionadas?</l>
+            <l>Porque el cuitado no siente</l>
+            <l>de qué se alegra la gente:</l>
+            <l>que siempre el cornudo fue</l>
+            <l>el último que los ve,</l>
+            <l n="560">porque los tiene en la frente.</l>
+         </lg>
+         <lg>
+            <l>Mas un provechoso engaño</l>
+            <l>poco dura y mucho duele,</l>
+            <l>y más éste en ser tamaño:</l>
+            <l>hizo el agua lo que suele</l>
+            <l n="565">y demostrole su daño.</l>
+            <l>La que, por su mal, buscó,</l>
+            <l>la que el cuerpo le mostró</l>
+            <l>por quien perdió su cordura,</l>
+            <l>la que mudó su figura,</l>
+            <l n="570">ésa le desengañó.</l>
+         </lg>
+         <lg>
+            <l>Vido la sombra de aquellos</l>
+            <l>que suelo yo aborrecer</l>
+            <l>por estar otro sin ellos,</l>
+            <l>puestos do solía tener</l>
+            <l n="575">antes los rubios cabellos:</l>
+            <l>comenzó luego a temblar</l>
+            <l>conociéndose, y llorar;</l>
+            <l>que por menos mal tuviera</l>
+            <l>si mudara, o si perdiera,</l>
+            <l n="580">lo que quedó por mudar.</l>
+         </lg>
+         <lg>
+            <l>Mas contemple el que más sabe</l>
+            <l>quién hay de pecho tan duro,</l>
+            <l>quién tan fuerte, que se alabe</l>
+            <l>que pudo dormir seguro</l>
+            <l n="585">con ladrones y sin llave.</l>
+            <l>Y quién, al golpe mortal</l>
+            <l>de ver su cabeza tal</l>
+            <l>(dígalo quien lo ha pasado),</l>
+            <l>no tembló, como el tocado</l>
+            <l n="590">de rabia y gota coral.</l>
+         </lg>
+         <lg>
+            <l>Viéndole su entendimiento</l>
+            <l>hecho bestia por amor,</l>
+            <l>verás si tendría tormento;</l>
+            <l>mas yo lo veré mejor,</l>
+            <l n="595">pues que sintió lo que siento.</l>
+            <l>Comenzaba a aborrecello,</l>
+            <l>afligillo, entorpecello,</l>
+            <l>y esto tengo por cordura;</l>
+            <l>que al mal que no tiene cura</l>
+            <l n="600">mayor mal es conocello.</l>
+         </lg>
+         <lg>
+            <l>No huye tan diligente</l>
+            <l>el can de rabia herido</l>
+            <l>cuando descuidadamente</l>
+            <l>su rostro pintado vido</l>
+            <l n="605">en la clara y limpia fuente,</l>
+            <l>cuanto, sin tardarse nada,</l>
+            <l>viendo su cara afeada,</l>
+            <l>huyó el cuitado amador;</l>
+            <l>que es la vergüenza mayor</l>
+            <l n="610">ante la persona amada.</l>
+         </lg>
+         <lg>
+            <l>Y por aquella aspereza</l>
+            <l>de breñas tanto voló,</l>
+            <l>sin un punto de pereza,</l>
+            <l>que aun él se maravilló</l>
+            <l n="615">de su nueva ligereza.</l>
+            <l>Ni sed ni calor sentía;</l>
+            <l>sus pies de vista perdía;</l>
+            <l>el viento no le alcanzaba;</l>
+            <l>las piedras do el pie sentaba,</l>
+            <l n="620">ni aun el suelo, no veía.</l>
+         </lg>
+         <lg>
+            <l>Después que el monte cercó,</l>
+            <l>volvió do estaba Diana,</l>
+            <l>como aquel que madrugó</l>
+            <l>y se vuelve a la mañana</l>
+            <l n="625">al lugar de do salió.</l>
+            <l>Su destino le procura</l>
+            <l>volver a la hermosura</l>
+            <l>do tenía de morir;</l>
+            <l>que por demás es huir</l>
+            <l n="630">cada cual de su ventura.</l>
+         </lg>
+         <lg>
+            <l>¡Qué gusto recebiría</l>
+            <l>el desventurado amante,</l>
+            <l>si tal vergüenza sentía,</l>
+            <l>volviendo a verse delante</l>
+            <l n="635">de aquella de quien huía!</l>
+            <l>Yo lo entiendo, que lo siento:</l>
+            <l>que muero cuando me ausento,</l>
+            <l>por no verte, aunque te llevo,</l>
+            <l>y vuelvo a verte de nuevo</l>
+            <l n="640">para doblar mi tormento.</l>
+         </lg>
+         <lg>
+            <l>Parose a considerar,</l>
+            <l>ya que se vio puesto allí,</l>
+            <l>si será mejor llegar</l>
+            <l>a que quien le puso así</l>
+            <l n="645">le acabase de matar.</l>
+            <l>¿Qué otro mal temer pudiera?</l>
+            <l>Y éste mucho menos fuera,</l>
+            <l>y esperaba un bien sin nombre;</l>
+            <l>que quien tal lo hizo de hombre</l>
+            <l n="650">lo hiciese hombre de fiera.</l>
+         </lg>
+         <lg>
+            <l>Aquesto pudo temer</l>
+            <l>el desdichado amador,</l>
+            <l>no le hiciese volver</l>
+            <l>en otra cosa peor,</l>
+            <l n="655">que no fuese para ver.</l>
+            <l>Mas yo no sé en qué pudiera</l>
+            <l>volverlo que peor fuera,</l>
+            <l>más triste y más abatido;</l>
+            <l>contémplelo aquel que ha sido</l>
+            <l n="660">algún tiempo lo que él era.</l>
+         </lg>
+         <lg>
+            <l>Y así, puesto en tal discordia,</l>
+            <l>ningún peligro le espanta,</l>
+            <l>y, al fin, redujo en concordia</l>
+            <l>que nunca en belleza tanta</l>
+            <l n="665">faltara misericordia.</l>
+            <l>A sus pies arrodillado,</l>
+            <l>descubrirle su cuidado</l>
+            <l>quiso y su pena mortal;</l>
+            <l>mas todo le sale a mal</l>
+            <l n="670">al que es desaventurado.</l>
+         </lg>
+         <lg>
+            <l>Que con un gemido cuyo</l>
+            <l>dolor las entrañas tuyas,</l>
+            <l>señora, y el rostro tuyo</l>
+            <l>moviera, lágrimas suyas</l>
+            <l n="675">vertió en el rostro no suyo.</l>
+            <l>Aunque no sé si moviera</l>
+            <l>tu rostro; mas otra fiera</l>
+            <l>que no fuera tan cruel</l>
+            <l>moviera, a lo menos, él,</l>
+            <l n="680">como Diana no fuera.</l>
+         </lg>
+         <lg>
+            <l>Que ésta y tú debéis de ser</l>
+            <l>las dos que en toda la tierra</l>
+            <l>nacistes para poder</l>
+            <l>hacer a las gentes guerra</l>
+            <l n="685">y mudallas de su ser.</l>
+            <l>Esta fue nuestra fortuna;</l>
+            <l>¿por dicha, en nación alguna,</l>
+            <l>hay frente tan bien guardada,</l>
+            <l>que no la tenga lisiada</l>
+            <l n="690">con sus menguantes la luna?</l>
+         </lg>
+         <lg>
+            <l>¿Hay do no se hayan sentido</l>
+            <l>cosquillas, miedos y celos?</l>
+            <l>Pues por ti, ¡cuántos ha habido!</l>
+            <l>Yo bastara, que, en mis duelos,</l>
+            <l n="695">milagro y ejemplo he sido.</l>
+            <l>Díganlo vuestros blasones,</l>
+            <l>do pintáis mil corazones,</l>
+            <l>y, en medio, las dos ufanas,</l>
+            <l>diciendo: «De dos Dianas</l>
+            <l n="700">veis aquí mil Acteones».</l>
+         </lg>
+         <lg>
+            <l>Y así, las rodillas puestas,</l>
+            <l>no cesando de gemir,</l>
+            <l>y las orejas enhiestas,</l>
+            <l>quisiera el triste decir</l>
+            <l n="705">tales palabras como éstas:</l>
+            <l>«Ya has mostrado tu poder</l>
+            <l>y lo que sabes hacer:</l>
+            <l>hazaña ha sido de diosa,</l>
+            <l>y será más milagrosa</l>
+            <l n="710">volviéndola a deshacer.</l>
+         </lg>
+         <lg>
+            <l>Ten misericordia agora</l>
+            <l>deste cuerpo que pagó</l>
+            <l>sin ofenderte, señora;</l>
+            <l>el tuyo es el que pecó,</l>
+            <l n="715">que nos prende y enamora.</l>
+            <l>Tú, señora, lo causaste;</l>
+            <l>sin causa me castigaste;</l>
+            <l>¿a quién no tornara mudo</l>
+            <l>el claro cuerpo desnudo</l>
+            <l n="720">con que el alma me ligaste?</l>
+         </lg>
+         <lg>
+            <l>Y si el cuitado Acteón</l>
+            <l>no merece tanto bien,</l>
+            <l>dame esta consolación:</l>
+            <l>que goce deste desdén</l>
+            <l n="725">un día tu Endimïón.</l>
+            <l>Que aunque le vuelvas después</l>
+            <l>a la gloria en que le ves,</l>
+            <l>si él por mí se viere así,</l>
+            <l>podré decir entre mí:</l>
+            <l n="730">"Mal de muchos, gozo es".</l>
+         </lg>
+         <lg>
+            <l>¿Qué es esto, que yo no he sido</l>
+            <l>el primero ni el que más</l>
+            <l>en el mundo te ha ofendido,</l>
+            <l>só el primero que jamás</l>
+            <l n="735">tus castigos ha sufrido?</l>
+            <l>Ni te pude ofender cuanto</l>
+            <l>ha ya pagado mi llanto,</l>
+            <l>si no es que es la culpa inmensa,</l>
+            <l>o que mi amor te es ofensa;</l>
+            <l n="740">que no podré pagar tanto.</l>
+         </lg>
+         <lg>
+            <l>El rústico que abrasó</l>
+            <l>tu templo y sagrado techo</l>
+            <l>con una muerte pagó;</l>
+            <l>y a mí, con otro en mi pecho,</l>
+            <l n="745">aún una no me bastó.</l>
+            <l>Ya que no es galardonado,</l>
+            <l>no sea el amor castigado</l>
+            <l>con tanta crueldad, te ruego;</l>
+            <l>sea, siquiera, igual el fuego</l>
+            <l n="750">al mérito y al pecado.</l>
+         </lg>
+         <lg>
+            <l>¿En qué más pecó Acteón</l>
+            <l>por adorar tu belleza</l>
+            <l>que en lo que pecó Orïón,</l>
+            <l>sacrílego a tu pureza,</l>
+            <l n="755">y por pena ha galardón?</l>
+            <l>Nadie nuestras causas viera</l>
+            <l>que la mía no escogiera,</l>
+            <l>yo príncipe, y él pastor,</l>
+            <l>él de Venus, yo de Amor;</l>
+            <l n="760">¡y él de estrella, y yo de fiera!</l>
+         </lg>
+         <lg>
+            <l>Aunque dicen, y es verdad,</l>
+            <l>que de vos son remitidos</l>
+            <l>con menos dificultad</l>
+            <l>los pecados cometidos</l>
+            <l n="765">contra vuestra castidad,</l>
+            <l>yo, que menos mal pensé,</l>
+            <l>más parece que pequé;</l>
+            <l>aunque, si no me estorbaras,</l>
+            <l>yo sé que me perdonaras,</l>
+            <l n="770">si hay en los refranes fe.</l>
+         </lg>
+         <lg>
+            <l>Esto es lo que llaman hado:</l>
+            <l>coger uno los sudores</l>
+            <l>de lo que otro ha trabajado,</l>
+            <l>y, entre tantos ofensores,</l>
+            <l n="775">ser el justo el castigado.</l>
+            <l>Quédese todo a tu cuenta;</l>
+            <l>tú das la gloria y la afrenta;</l>
+            <l>tu querer es el derecho;</l>
+            <l>que yo estaré satisfecho</l>
+            <l n="780">con que estés dello contenta.</l>
+         </lg>
+         <lg>
+            <l>¡Oh tú, Tiresias dichoso,</l>
+            <l>que viste un cuerpo desnudo,</l>
+            <l>tan divino y más piadoso,</l>
+            <l>aunque yo no sé si pudo</l>
+            <l n="785">ser tan gentil y hermoso!</l>
+            <l>Tú, en el yerro igual conmigo,</l>
+            <l>sin querer fuiste testigo:</l>
+            <l>bañar en su fuente viste</l>
+            <l>a Minerva, y recebiste</l>
+            <l n="790">mayor premio que castigo.</l>
+         </lg>
+         <lg>
+            <l>De lumbre fuiste privado,</l>
+            <l>y otra te dio con que vieses</l>
+            <l>lo futuro por pasado,</l>
+            <l>y un tal bastón con que fueses</l>
+            <l n="795">más que con vista guiado.</l>
+            <l>Castigos bien desiguales:</l>
+            <l>que a ti los ojos mortales,</l>
+            <l>y a mí todos me faltaron,</l>
+            <l>y ésos y aquéstos miraron</l>
+            <l n="800">los secretos celestiales».</l>
+         </lg>
+         <lg>
+            <l>Aquesto pudo pensar</l>
+            <l>de hablar, y no habló</l>
+            <l>el triste, ni hubo lugar,</l>
+            <l>que es lo que dijera yo</l>
+            <l n="805">si me dejaras hablar.</l>
+            <l>Mas por habla le ha salido</l>
+            <l>un doloroso gemido</l>
+            <l>que a ellas forzó de reír,</l>
+            <l>y a él de vergüenza a huir,</l>
+            <l n="810">de sí mismo muy corrido.</l>
+         </lg>
+         <lg>
+            <l>Pues ya a este tiempo llegaba</l>
+            <l>la trulla de los sirvientes</l>
+            <l>que la caza procuraba,</l>
+            <l>y cerros, valles y fuentes</l>
+            <l n="815">con asechanzas cercaba.</l>
+            <l>Gran tropel, gran grita había;</l>
+            <l>todo el monte se hundía:</l>
+            <l>¡tanto caballo, escudero,</l>
+            <l>tanto cazador, montero,</l>
+            <l n="820">cual tal príncipe tendría!</l>
+         </lg>
+         <lg>
+            <l>No hay tagarote o neblí,</l>
+            <l>aleto, azor, esmerjón,</l>
+            <l>sacre, alfaneque o borní,</l>
+            <l>buho, alcotán, melión,</l>
+            <l n="825">gerifalte o baharí.</l>
+            <l>Con lebreles se embaraza,</l>
+            <l>con sabuesos da la traza,</l>
+            <l>galgos y podencos lleva</l>
+            <l>y perdigueros de prueba,</l>
+            <l n="830">para varïar la caza.</l>
+         </lg>
+         <lg>
+            <l>Cerros, valles, llanos, cuestas,</l>
+            <l>hinchen los hados crueles,</l>
+            <l>no de cosas como aquéstas,</l>
+            <l>pigüelas y cascabeles,</l>
+            <l n="835">sino dardos y ballestas.</l>
+            <l>Cuál el arco blando y sano,</l>
+            <l>cuál el venablo en la mano,</l>
+            <l>cuál cornetas, cuál bocinas,</l>
+            <l>con que las selvas vecinas</l>
+            <l n="840">atronaban y lo llano.</l>
+         </lg>
+         <lg>
+            <l>Cuál varias redes tendía,</l>
+            <l>cuál las guardas ordenaba,</l>
+            <l>cuál los estorbos desvía,</l>
+            <l>y cuál bien consideraba</l>
+            <l n="845">por dónde pasar podría.</l>
+            <l>Cuál las ramas desgajadas</l>
+            <l>mira por do están echadas,</l>
+            <l>cuál anda tomando el viento,</l>
+            <l>y cuál, si el suelo está liento,</l>
+            <l n="850">le sigue por las pisadas.</l>
+         </lg>
+         <lg>
+            <l>Por el rastro le sacaron,</l>
+            <l>y después de descubierto,</l>
+            <l>con el orden lo acosaron</l>
+            <l>y con el mismo concierto</l>
+            <l n="855">que de su industria tomaron.</l>
+            <l>Él, entonces, despertado,</l>
+            <l>alzó la vista alterado,</l>
+            <l>temiendo lo que sería,</l>
+            <l>de la clara vocería</l>
+            <l n="860">de los suyos asombrado.</l>
+         </lg>
+         <lg>
+            <l>Y, habiéndolos conocido,</l>
+            <l>olvidado de quien era,</l>
+            <l>como poco ha lo había sido,</l>
+            <l>quiso estarse, y mejor fuera;</l>
+            <l n="865">que ahorrara lo corrido.</l>
+            <l>Mas, como un perro llegó,</l>
+            <l>y él, como el daño sintió,</l>
+            <l>huyó porque no le asiesen,</l>
+            <l>pesándole que supiesen</l>
+            <l n="870">tan bien lo que él les mostró.</l>
+         </lg>
+         <lg>
+            <l>Puso esfuerzo tan de veras</l>
+            <l>a la carrera el temor,</l>
+            <l>que no fueran tan ligeras</l>
+            <l>las piernas de algún ventor,</l>
+            <l n="875">si tú, Diana, quisieras.</l>
+            <l>Iguales somos en todo;</l>
+            <l>que yo, por el mismo modo,</l>
+            <l>huyendo destos tormentos,</l>
+            <l>doy en pasados contentos,</l>
+            <l n="880">que me ponen más de lodo.</l>
+         </lg>
+         <lg>
+            <l>Consideraba el cuitado</l>
+            <l>(aunque no le aprovechaba,</l>
+            <l>por estar ya tan cercado)</l>
+            <l>las partes donde cazaba</l>
+            <l n="885">y do teme ser cazado.</l>
+            <l>Quiere dellas desviarse,</l>
+            <l>mas viene luego a enredarse</l>
+            <l>en otras partes peores;</l>
+            <l>que de tantos cazadores</l>
+            <l n="890">nadie pudiera librarse.</l>
+         </lg>
+         <lg>
+            <l>Ya le faltaba el vigor</l>
+            <l>en tanta tribulación,</l>
+            <l>y quisiera con amor</l>
+            <l>decirles: «Yo soy Acteón:</l>
+            <l n="895">conocé a vuestro señor».</l>
+            <l>La cabeza al cielo alzó,</l>
+            <l>y a dar sus quejas probó</l>
+            <l>a sus monteros feroces;</l>
+            <l>mas faltáronle las voces,</l>
+            <l n="900">y, en lugar dellas, gimió.</l>
+         </lg>
+         <lg>
+            <l>En esto, con diente fiero</l>
+            <l>le agarran, echando llamas,</l>
+            <l>Melanquetes, el primero,</l>
+            <l>el segundo, Teridamas,</l>
+            <l n="905">y Oresitrofo el tercero;</l>
+            <l>Icnobates y Leucón,</l>
+            <l>Hárpalo, Dromas, Ladon,</l>
+            <l>Alce, Tigris y Dorceo,</l>
+            <l>Nape, Terclas, Hileo,</l>
+            <l n="910">Melampo, Lagne y Terón.</l>
+         </lg>
+         <lg>
+            <l>Pues los demás, enseñados</l>
+            <l>a acometer y sagaces</l>
+            <l>en rastrear, que ocupados</l>
+            <l>tenían por ambas haces</l>
+            <l n="915">los montes jamás cortados,</l>
+            <l>los aires despedazando</l>
+            <l>con la nariz, y buscando</l>
+            <l>los demás con sus ladridos,</l>
+            <l>llegaron a los gemidos</l>
+            <l n="920">del que estaban desmembrando.</l>
+         </lg>
+         <lg>
+            <l>Y todos, muy diligentes,</l>
+            <l>dan en el triste, que está</l>
+            <l>hecho presa de sus gentes,</l>
+            <l>que casi no tenía ya</l>
+            <l n="925">donde le hincasen dientes.</l>
+            <l>Pues la compaña llegada</l>
+            <l>de la gente asalariada</l>
+            <l>para esto por su dinero,</l>
+            <l>no se tiene por montero</l>
+            <l n="930">quien no le daba lanzada.</l>
+         </lg>
+         <lg>
+            <l>Y así, la selva resuena</l>
+            <l>de su gente que llamaba</l>
+            <l>«¡Acteón!» a boca llena,</l>
+            <l>pensando que se holgaba</l>
+            <l n="935">con lo que le dio tal pena:</l>
+            <l>cual suelen mis pensamientos,</l>
+            <l>siendo de mi mal contentos,</l>
+            <l>recordarme, porque vea</l>
+            <l>tu memoria, que acarrea</l>
+            <l n="940">para mí grandes tormentos.</l>
+         </lg>
+         <lg>
+            <l>Buscábanle con hervor,</l>
+            <l>con cuidado y vigilancia;</l>
+            <l>piensan que sin su señor</l>
+            <l>era menos su ganancia,</l>
+            <l n="945">¡y fuera sin él mayor!</l>
+            <l>Él a su nombre quisiera</l>
+            <l>responderles, si pudiera;</l>
+            <l>mas alzábales la cara,</l>
+            <l>y harto más se holgara</l>
+            <l n="950">si nunca jamás los viera.</l>
+         </lg>
+         <lg>
+            <l>Bien, señora, como cuando</l>
+            <l>con estos celos mortales</l>
+            <l>me mandaste estar callando,</l>
+            <l>que publicaba mis males,</l>
+            <l n="955">no pudiendo más, mirando.</l>
+            <l>Así el cuitado haría,</l>
+            <l>pues que hablar no podía,</l>
+            <l>viendo como le mataba</l>
+            <l>la compaña que pensaba</l>
+            <l n="960">que en aquello le servía.</l>
+         </lg>
+         <lg>
+            <l>No le ven los malandantes,</l>
+            <l>aunque le ven cual está,</l>
+            <l>y él holgara (no te espantes),</l>
+            <l>o que no le vieran ya,</l>
+            <l n="965">o que le vieran cual antes.</l>
+            <l>Así como yo quisiera,</l>
+            <l>mudado en forma de fiera,</l>
+            <l>pues desdeñado me has,</l>
+            <l>o que no me vieses más,</l>
+            <l n="970">que me vieses cual era.</l>
+         </lg>
+         <lg>
+            <l>Y así todos ensangrientan</l>
+            <l>sus dientes en el cuitado</l>
+            <l>a quien piensan que contentan,</l>
+            <l>cual se han en mí ensangrentado</l>
+            <l n="975">tus ojos, que me sustentan.</l>
+            <l>Danme una vana esperanza,</l>
+            <l>conociendo tu mudanza,</l>
+            <l>de que al fin será cual es</l>
+            <l>para matarme después</l>
+            <l n="980">con nueva desconfianza.</l>
+         </lg>
+         <lg>
+            <l>Ya no pudo sostenerse</l>
+            <l>el miserable en los pies,</l>
+            <l>y, al fin, hubo de tenderse,</l>
+            <l>cual mis manos ahora ves</l>
+            <l n="985">que no pueden defenderse.</l>
+            <l>Y aquellas rabias extrañas,</l>
+            <l>usando en él de sus mañas,</l>
+            <l>así le despedazaron</l>
+            <l>cual las tuyas, que rasgaron</l>
+            <l n="990">con desamor mis entrañas.</l>
+         </lg>
+         <lg>
+            <l>Y entre tantos embarazos,</l>
+            <l>por más milagro, se cuenta</l>
+            <l>que nunca abajó sus brazos</l>
+            <l>Diana, ni fue contenta</l>
+            <l n="995">hasta hacerlo pedazos.</l>
+            <l>Los mismos términos veo</l>
+            <l>yo, señora, en mi deseo,</l>
+            <l>y en la priesa que me das,</l>
+            <l>que al cabo me dejarás</l>
+            <l n="1000">como al hijo de Aristeo.</l>
+         </lg>
+         <lg>
+            <l>Aunque si tú estás contenta</l>
+            <l>de mi martirio, señora,</l>
+            <l>tal gloria me representa,</l>
+            <l>que conozco desde agora</l>
+            <l n="1005">que me alcanzas en la cuenta.</l>
+            <l>Pues si, por haber mirado,</l>
+            <l><persName annotationId="ent_1153" ref="http://viaf.org/viaf/316436453/" type="both" cert="definite">Acteón</persName> fue así tratado,</l>
+            <l>yo, que miré y deseé,</l>
+            <l>a cuenta desto, no sé</l>
+            <l n="1010">en qué debo ser mudado.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>
