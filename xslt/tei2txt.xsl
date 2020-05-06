@@ -4,18 +4,20 @@
 
     <xsl:output method="text" indent="yes"></xsl:output>
     
-    <xsl:template match="text()">
-        <xsl:value-of select="normalize-space()"/>
-    </xsl:template>
-    
-    <xsl:template match="teiHeader">
-        <xsl:text>============================================================================================</xsl:text>
-        <xsl:value-of select="."/>
-        <xsl:text>============================================================================================</xsl:text>
+    <xsl:template match="titleStmt">
+        <xsl:text>===============================================</xsl:text>
+       <xsl:apply-templates/>
+        <xsl:text>===============================================</xsl:text>
     </xsl:template>
 
+<xsl:template match="publicationStmt"/>
+
+    <xsl:template match="sourceDesc"/>
+
+    <xsl:template match="profileDesc"/>
+
     <xsl:template match="body">
-        <xsl:value-of select="."/>
+        <xsl:apply-templates/>
     </xsl:template>
 
 </xsl:stylesheet>
