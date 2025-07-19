@@ -1,0 +1,476 @@
+{
+  "metadata": {
+    "filename": "Polo_fabpansiringa.xml",
+    "title": "Fábula de Pan y Siringa",
+    "author": "Polo de Medina, Jacinto",
+    "file_key": "Polo_fabpansiringa"
+  },
+  "basic_stats": {
+    "characters": 9152,
+    "words": 1692,
+    "sentences": 45,
+    "avg_word_length": 4.391252955082742,
+    "avg_sentence_length": 37.6
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.48167848699763594,
+    "avg_word_length": 4.391252955082742,
+    "syllable_density": 1.7210401891252955,
+    "readability_score": 41.303636363636386,
+    "vowel_density": 0.358074772503015,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 2912.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 2912
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 37.6,
+    "sentence_length_variance": 746.480987654321,
+    "function_word_frequency": 0.283096926713948,
+    "punctuation_frequency": 0.03289113035851332,
+    "uppercase_frequency": 0.010305887512334173,
+    "freq_a": 0.11818879508825787,
+    "freq_e": 0.09450718123012827,
+    "freq_i": 0.03815371121587545,
+    "freq_o": 0.060190768556079376,
+    "freq_u": 0.03365859006687863
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Amor",
+          3
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [
+        [
+          "Siringa",
+          14
+        ]
+      ],
+      "places": [],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "Ovidio",
+        "PER"
+      ],
+      [
+        "Eva",
+        "PER"
+      ],
+      [
+        "Crispín",
+        "MISC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "Amor arma vedada",
+        "MISC"
+      ],
+      [
+        "Dios",
+        "PER"
+      ],
+      [
+        "Atila",
+        "PER"
+      ],
+      [
+        "Diocleciana",
+        "MISC"
+      ],
+      [
+        "Escanderbeya",
+        "MISC"
+      ],
+      [
+        "Nerona de entrañas.",
+        "MISC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "No había más que pedir",
+        "MISC"
+      ],
+      [
+        "El rubí del manducar",
+        "MISC"
+      ],
+      [
+        "armonías",
+        "ORG"
+      ],
+      [
+        "Revolcábanse",
+        "MISC"
+      ],
+      [
+        "solfa",
+        "LOC"
+      ],
+      [
+        "Sin chistar",
+        "MISC"
+      ],
+      [
+        "Pan",
+        "PER"
+      ],
+      [
+        "Pan",
+        "PER"
+      ],
+      [
+        "Con testa de cimenterio",
+        "MISC"
+      ],
+      [
+        "Jarama",
+        "LOC"
+      ],
+      [
+        "Zampuzados",
+        "LOC"
+      ],
+      [
+        "La bacía de un barbero",
+        "MISC"
+      ],
+      [
+        "Preciábase de ser dios",
+        "MISC"
+      ],
+      [
+        "Vendíase",
+        "MISC"
+      ],
+      [
+        "Presumiendo",
+        "LOC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "Yo, decía",
+        "MISC"
+      ],
+      [
+        "La bellaca de Siringa",
+        "MISC"
+      ],
+      [
+        "Siringa bellaca",
+        "MISC"
+      ],
+      [
+        "Arcadia",
+        "LOC"
+      ],
+      [
+        "Yo te quiero",
+        "MISC"
+      ],
+      [
+        "Palacio",
+        "PER"
+      ],
+      [
+        "No fío de esos quereres",
+        "MISC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "No me ha de querer",
+        "MISC"
+      ],
+      [
+        "Pan",
+        "PER"
+      ],
+      [
+        "Ese mendrugo de talle",
+        "MISC"
+      ],
+      [
+        "Pan",
+        "PER"
+      ],
+      [
+        "No soy año",
+        "MISC"
+      ],
+      [
+        "No quiero Pan",
+        "MISC"
+      ],
+      [
+        "las Pascuas",
+        "LOC"
+      ],
+      [
+        "Placiendo a Dios",
+        "MISC"
+      ],
+      [
+        "Tate",
+        "LOC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "Pan",
+        "PER"
+      ],
+      [
+        "Ninfa",
+        "PER"
+      ],
+      [
+        "Yo me voy rabo",
+        "MISC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "Tarquinos",
+        "MISC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "Con estos discursos",
+        "MISC"
+      ],
+      [
+        "Pan",
+        "PER"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Alba",
+        "LOC"
+      ],
+      [
+        "Miguero",
+        "PER"
+      ],
+      [
+        "Mas Pan",
+        "MISC"
+      ],
+      [
+        "España",
+        "PER"
+      ],
+      [
+        "Siringa en la maula",
+        "MISC"
+      ],
+      [
+        "Siguióla Pan",
+        "PER"
+      ],
+      [
+        "Ladrón",
+        "LOC"
+      ],
+      [
+        "río",
+        "ORG"
+      ],
+      [
+        "Pan",
+        "PER"
+      ],
+      [
+        "torrezno",
+        "LOC"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "ningún",
+        "PER"
+      ],
+      [
+        "Dijo",
+        "MISC"
+      ],
+      [
+        "escuras",
+        "LOC"
+      ],
+      [
+        "Él",
+        "MISC"
+      ],
+      [
+        "tizona",
+        "LOC"
+      ],
+      [
+        "Ioanes",
+        "PER"
+      ],
+      [
+        "Pan",
+        "PER"
+      ],
+      [
+        "Dios",
+        "PER"
+      ],
+      [
+        "La medicina me dé quien me dio también la llaga",
+        "MISC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "Qué más quiero",
+        "MISC"
+      ],
+      [
+        "Vaya",
+        "LOC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 1164,
+    "unique_words": 701,
+    "vocabulary_richness": 0.602233676975945,
+    "top_words": [
+      [
+        "las",
+        25
+      ],
+      [
+        "los",
+        20
+      ],
+      [
+        "pan",
+        20
+      ],
+      [
+        "siringa",
+        14
+      ],
+      [
+        "tan",
+        12
+      ],
+      [
+        "sin",
+        9
+      ],
+      [
+        "también",
+        7
+      ],
+      [
+        "dios",
+        6
+      ],
+      [
+        "dioses",
+        6
+      ],
+      [
+        "hay",
+        6
+      ],
+      [
+        "quiero",
+        6
+      ],
+      [
+        "dos",
+        5
+      ],
+      [
+        "quien",
+        5
+      ],
+      [
+        "pues",
+        5
+      ],
+      [
+        "para",
+        5
+      ],
+      [
+        "así",
+        5
+      ],
+      [
+        "dice",
+        4
+      ],
+      [
+        "ojo",
+        4
+      ],
+      [
+        "aunque",
+        4
+      ],
+      [
+        "allá",
+        3
+      ]
+    ],
+    "filtered_word_count": 954
+  },
+  "semantic_fields": {
+    "divine": 0.0070921985815602835,
+    "love": 0.004728132387706856,
+    "nature": 0.008865248226950355,
+    "light": 0.001182033096926714,
+    "transformation": 0.0,
+    "death": 0.000591016548463357,
+    "beauty": 0.0035460992907801418
+  }
+}

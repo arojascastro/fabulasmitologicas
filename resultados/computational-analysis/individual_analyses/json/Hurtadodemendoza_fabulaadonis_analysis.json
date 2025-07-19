@@ -1,0 +1,435 @@
+{
+  "metadata": {
+    "filename": "Hurtadodemendoza_fabulaadonis.xml",
+    "title": "Fábula de Adonis, Hipómenes y Atalanta",
+    "author": "Mendoza, Diego Hurtado de",
+    "file_key": "Hurtadodemendoza_fabulaadonis"
+  },
+  "basic_stats": {
+    "characters": 57751,
+    "words": 10526,
+    "sentences": 290,
+    "avg_word_length": 4.463803914117424,
+    "avg_sentence_length": 36.296551724137935
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.19779593387801633,
+    "avg_word_length": 4.463803914117424,
+    "syllable_density": 1.7761732851985559,
+    "readability_score": 39.96588027366022,
+    "vowel_density": 0.3634087391977187,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 18696.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 18696
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 36.296551724137935,
+    "sentence_length_variance": 320.78506539833523,
+    "function_word_frequency": 0.2760782823484704,
+    "punctuation_frequency": 0.027403453252421276,
+    "uppercase_frequency": 0.008240182187994367,
+    "freq_a": 0.0995287857974996,
+    "freq_e": 0.10870963815617882,
+    "freq_i": 0.03717549686146998,
+    "freq_o": 0.07212533254507833,
+    "freq_u": 0.032376414946705845
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          2
+        ],
+        [
+          "Venus",
+          6
+        ],
+        [
+          "Amor",
+          34
+        ],
+        [
+          "Cupido",
+          2
+        ],
+        [
+          "Neptuno",
+          4
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [],
+      "places": [],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "Hipómenes",
+        "PER"
+      ],
+      [
+        "hará vuestra memoria",
+        "PER"
+      ],
+      [
+        "A ti",
+        "MISC"
+      ],
+      [
+        "Doña Marina de Aragón",
+        "PER"
+      ],
+      [
+        "La honesta y clara lumbre de tus ojos",
+        "MISC"
+      ],
+      [
+        "Señora",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Donde suele dejar",
+        "MISC"
+      ],
+      [
+        "Arabia",
+        "LOC"
+      ],
+      [
+        "Mirra de",
+        "MISC"
+      ],
+      [
+        "Mirra",
+        "PER"
+      ],
+      [
+        "Diré de Mirra",
+        "PER"
+      ],
+      [
+        "Dios",
+        "MISC"
+      ],
+      [
+        "Las manos extendidas contra el cielo decía con vergüenza e ira movida",
+        "MISC"
+      ],
+      [
+        "Oh hija",
+        "MISC"
+      ],
+      [
+        "Dios",
+        "MISC"
+      ],
+      [
+        "Oyóla Dios",
+        "PER"
+      ],
+      [
+        "madero",
+        "PER"
+      ],
+      [
+        "Las lágrimas quedaban solamente",
+        "MISC"
+      ],
+      [
+        "Un niño tierno",
+        "MISC"
+      ],
+      [
+        "madero oscuro",
+        "PER"
+      ],
+      [
+        "El árbol",
+        "MISC"
+      ],
+      [
+        "Lucina",
+        "PER"
+      ],
+      [
+        "Las ninfas",
+        "MISC"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "Venus",
+        "PER"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "No hay cosa más liviana",
+        "MISC"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ],
+      [
+        "Arabia",
+        "LOC"
+      ],
+      [
+        "diosa Venus",
+        "PER"
+      ],
+      [
+        "Acaso Adonis",
+        "PER"
+      ],
+      [
+        "allí venía",
+        "PER"
+      ],
+      [
+        "Lydia",
+        "LOC"
+      ],
+      [
+        "El polvo que en el rostro",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "El espejo",
+        "MISC"
+      ],
+      [
+        "La libertad",
+        "MISC"
+      ],
+      [
+        "Echaban la soltura y mocedad",
+        "MISC"
+      ],
+      [
+        "Diosa",
+        "PER"
+      ],
+      [
+        "Niño Ciego",
+        "LOC"
+      ],
+      [
+        "Engaña",
+        "LOC"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "huyó",
+        "PER"
+      ],
+      [
+        "Luego",
+        "LOC"
+      ],
+      [
+        "El Niño",
+        "MISC"
+      ],
+      [
+        "Curvando el arco de una",
+        "MISC"
+      ],
+      [
+        "El del tiro",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "La Diosa",
+        "PER"
+      ],
+      [
+        "Citherea",
+        "LOC"
+      ],
+      [
+        "Gnido",
+        "PER"
+      ],
+      [
+        "Papho",
+        "PER"
+      ],
+      [
+        "Amatonta",
+        "LOC"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "Ni toma el peine",
+        "MISC"
+      ],
+      [
+        "El reposo y el juego",
+        "MISC"
+      ],
+      [
+        "El dorado cabello",
+        "MISC"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "Con lágrimas te ruego",
+        "MISC"
+      ],
+      [
+        "Huye Adonis",
+        "PER"
+      ],
+      [
+        "daño",
+        "MISC"
+      ],
+      [
+        "Mil desastres",
+        "MISC"
+      ],
+      [
+        "Si tu ánimo no puede",
+        "MISC"
+      ],
+      [
+        "Tu floreciente edad",
+        "MISC"
+      ],
+      [
+        "Ningún",
+        "PER"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 7178,
+    "unique_words": 1685,
+    "vocabulary_richness": 0.2347450543326832,
+    "top_words": [
+      [
+        "los",
+        124
+      ],
+      [
+        "las",
+        84
+      ],
+      [
+        "tan",
+        54
+      ],
+      [
+        "quien",
+        48
+      ],
+      [
+        "sin",
+        36
+      ],
+      [
+        "amor",
+        34
+      ],
+      [
+        "mas",
+        30
+      ],
+      [
+        "correr",
+        30
+      ],
+      [
+        "madre",
+        28
+      ],
+      [
+        "ella",
+        26
+      ],
+      [
+        "cual",
+        26
+      ],
+      [
+        "muerte",
+        24
+      ],
+      [
+        "qué",
+        24
+      ],
+      [
+        "hipómenes",
+        22
+      ],
+      [
+        "tierra",
+        22
+      ],
+      [
+        "adonis",
+        22
+      ],
+      [
+        "vio",
+        22
+      ],
+      [
+        "atalanta",
+        22
+      ],
+      [
+        "joven",
+        20
+      ],
+      [
+        "puede",
+        20
+      ]
+    ],
+    "filtered_word_count": 6106
+  },
+  "semantic_fields": {
+    "divine": 0.005510165304959149,
+    "love": 0.008170245107353221,
+    "nature": 0.010830324909747292,
+    "light": 0.002850085502565077,
+    "transformation": 0.0,
+    "death": 0.0036101083032490976,
+    "beauty": 0.0036101083032490976
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "metadata": {
+    "filename": "Lope_andromeda.xml",
+    "title": "La Andrómeda",
+    "author": "Lope de Vega, Félix",
+    "file_key": "Lope_andromeda"
+  },
+  "basic_stats": {
+    "characters": 55893,
+    "words": 9910,
+    "sentences": 280,
+    "avg_word_length": 4.626236125126135,
+    "avg_sentence_length": 35.392857142857146
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.2129162462159435,
+    "avg_word_length": 4.626236125126135,
+    "syllable_density": 1.8326942482341069,
+    "readability_score": 38.46242219833576,
+    "vowel_density": 0.36577885391444714,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 18162.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 18162
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 35.392857142857146,
+    "sentence_length_variance": 291.61408163265304,
+    "function_word_frequency": 0.24944500504540867,
+    "punctuation_frequency": 0.03214061519146265,
+    "uppercase_frequency": 0.01144291991749619,
+    "freq_a": 0.09660120168594745,
+    "freq_e": 0.10571249215317012,
+    "freq_i": 0.04168236032642812,
+    "freq_o": 0.07235225540310286,
+    "freq_u": 0.03325262308313156
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          4
+        ],
+        [
+          "Febo",
+          2
+        ],
+        [
+          "Júpiter",
+          18
+        ],
+        [
+          "Venus",
+          4
+        ],
+        [
+          "Amor",
+          36
+        ],
+        [
+          "Neptuno",
+          6
+        ],
+        [
+          "Minerva",
+          2
+        ],
+        [
+          "Palas",
+          4
+        ]
+      ],
+      "heroes": [
+        [
+          "Faetón",
+          2
+        ],
+        [
+          "Narciso",
+          2
+        ]
+      ],
+      "nymphs": [
+        [
+          "Europa",
+          6
+        ],
+        [
+          "Climene",
+          2
+        ]
+      ],
+      "places": [
+        [
+          "Olimpo",
+          2
+        ],
+        [
+          "Parnaso",
+          4
+        ],
+        [
+          "Creta",
+          2
+        ]
+      ],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "Leonor",
+        "PER"
+      ],
+      [
+        "Andrómeda",
+        "MISC"
+      ],
+      [
+        "Celos de Acrisio",
+        "MISC"
+      ],
+      [
+        "Dánae",
+        "PER"
+      ],
+      [
+        "Berenice",
+        "LOC"
+      ],
+      [
+        "Climene",
+        "LOC"
+      ],
+      [
+        "Quejóse el Sol",
+        "PER"
+      ],
+      [
+        "Júpiter",
+        "PER"
+      ],
+      [
+        "Júpiter",
+        "ORG"
+      ],
+      [
+        "Las alas pide Céfiro a la Fama",
+        "MISC"
+      ],
+      [
+        "Contóle",
+        "LOC"
+      ],
+      [
+        "Júpiter",
+        "LOC"
+      ],
+      [
+        "Céfiro",
+        "MISC"
+      ],
+      [
+        "Júpiter",
+        "LOC"
+      ],
+      [
+        "Dánae reclusa",
+        "MISC"
+      ],
+      [
+        "Temerosa",
+        "LOC"
+      ],
+      [
+        "Dánae",
+        "PER"
+      ],
+      [
+        "No de otra suerte",
+        "MISC"
+      ],
+      [
+        "Psiques",
+        "LOC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Hijo del sol",
+        "MISC"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "Tú",
+        "MISC"
+      ],
+      [
+        "Ay oro",
+        "MISC"
+      ],
+      [
+        "Perseo",
+        "PER"
+      ],
+      [
+        "Peces",
+        "MISC"
+      ],
+      [
+        "León",
+        "LOC"
+      ],
+      [
+        "No persuadido bien que la dorada",
+        "MISC"
+      ],
+      [
+        "La ya no casta ninfa",
+        "MISC"
+      ],
+      [
+        "término fatal",
+        "PER"
+      ],
+      [
+        "Parió",
+        "PER"
+      ],
+      [
+        "Dánae",
+        "MISC"
+      ],
+      [
+        "Lucina",
+        "MISC"
+      ],
+      [
+        "nació Perseo",
+        "PER"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Narciso",
+        "PER"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "Acrisio",
+        "PER"
+      ],
+      [
+        "bárbaro",
+        "PER"
+      ],
+      [
+        "nevada espuma",
+        "LOC"
+      ],
+      [
+        "Las velas de la gavia solamente",
+        "MISC"
+      ],
+      [
+        "Dánae triste",
+        "MISC"
+      ],
+      [
+        "Túmido",
+        "MISC"
+      ],
+      [
+        "Oceano",
+        "PER"
+      ],
+      [
+        "Parnaso",
+        "LOC"
+      ],
+      [
+        "Tebas",
+        "LOC"
+      ],
+      [
+        "Ismeno",
+        "MISC"
+      ],
+      [
+        "Beocia",
+        "LOC"
+      ],
+      [
+        "Olimpo",
+        "LOC"
+      ],
+      [
+        "mar de",
+        "LOC"
+      ],
+      [
+        "Creta",
+        "LOC"
+      ],
+      [
+        "Peloponeso",
+        "MISC"
+      ],
+      [
+        "Estinfalo",
+        "LOC"
+      ],
+      [
+        "Traigeto ameno",
+        "MISC"
+      ],
+      [
+        "Euboea",
+        "LOC"
+      ],
+      [
+        "Grecia el Negroponte",
+        "MISC"
+      ],
+      [
+        "Juno",
+        "PER"
+      ],
+      [
+        "Tonante",
+        "PER"
+      ],
+      [
+        "Atenas",
+        "LOC"
+      ],
+      [
+        "Polidetes",
+        "PER"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "Juno",
+        "PER"
+      ],
+      [
+        "Al palacio los lleva",
+        "MISC"
+      ],
+      [
+        "Enamorado",
+        "LOC"
+      ],
+      [
+        "Oh",
+        "MISC"
+      ],
+      [
+        "Creció Perseo",
+        "PER"
+      ],
+      [
+        "ingenio",
+        "LOC"
+      ],
+      [
+        "El joven a los otros",
+        "MISC"
+      ],
+      [
+        "Pitón",
+        "PER"
+      ],
+      [
+        "Atlante",
+        "LOC"
+      ],
+      [
+        "Deseoso de gloria y de alabanza",
+        "MISC"
+      ],
+      [
+        "Perseo",
+        "PER"
+      ],
+      [
+        "Calzóse",
+        "PER"
+      ],
+      [
+        "Palas",
+        "LOC"
+      ],
+      [
+        "Atlante",
+        "LOC"
+      ],
+      [
+        "Yace",
+        "PER"
+      ],
+      [
+        "Perseo",
+        "PER"
+      ],
+      [
+        "Medusa",
+        "PER"
+      ],
+      [
+        "jamás Apolo",
+        "PER"
+      ],
+      [
+        "Neptuno",
+        "PER"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Medusa",
+        "PER"
+      ],
+      [
+        "Minerva",
+        "PER"
+      ],
+      [
+        "La casta diosa armífera",
+        "MISC"
+      ],
+      [
+        "Perseo",
+        "PER"
+      ],
+      [
+        "Creso",
+        "PER"
+      ],
+      [
+        "Midas",
+        "PER"
+      ],
+      [
+        "Nilo",
+        "LOC"
+      ],
+      [
+        "toro de",
+        "PER"
+      ],
+      [
+        "Perilo",
+        "PER"
+      ],
+      [
+        "Medusa",
+        "PER"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 7116,
+    "unique_words": 1706,
+    "vocabulary_richness": 0.23974142776840923,
+    "top_words": [
+      [
+        "las",
+        132
+      ],
+      [
+        "los",
+        130
+      ],
+      [
+        "mar",
+        44
+      ],
+      [
+        "perseo",
+        38
+      ],
+      [
+        "andrómeda",
+        36
+      ],
+      [
+        "amor",
+        36
+      ],
+      [
+        "tan",
+        34
+      ],
+      [
+        "sol",
+        34
+      ],
+      [
+        "qué",
+        28
+      ],
+      [
+        "vida",
+        28
+      ],
+      [
+        "cielo",
+        26
+      ],
+      [
+        "oro",
+        24
+      ],
+      [
+        "hermosura",
+        24
+      ],
+      [
+        "pues",
+        22
+      ],
+      [
+        "rey",
+        22
+      ],
+      [
+        "aunque",
+        20
+      ],
+      [
+        "mayor",
+        20
+      ],
+      [
+        "viento",
+        20
+      ],
+      [
+        "mas",
+        20
+      ],
+      [
+        "quien",
+        20
+      ]
+    ],
+    "filtered_word_count": 6038
+  },
+  "semantic_fields": {
+    "divine": 0.0056508577194752775,
+    "love": 0.009081735620585268,
+    "nature": 0.017154389505549948,
+    "light": 0.0030272452068617556,
+    "transformation": 0.00020181634712411706,
+    "death": 0.0034308779011099897,
+    "beauty": 0.007063572149344097
+  }
+}

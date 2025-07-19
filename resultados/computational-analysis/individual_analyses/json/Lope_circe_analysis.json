@@ -1,0 +1,659 @@
+{
+  "metadata": {
+    "filename": "Lope_circe.xml",
+    "title": "La Circe",
+    "author": "Lope de Vega, Félix",
+    "file_key": "Lope_circe"
+  },
+  "basic_stats": {
+    "characters": 238769,
+    "words": 41830,
+    "sentences": 1282,
+    "avg_word_length": 4.679368874013866,
+    "avg_sentence_length": 32.62870514820593
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.1562514941429596,
+    "avg_word_length": 4.679368874013866,
+    "syllable_density": 1.8386803729380827,
+    "readability_score": 41.16648752348212,
+    "vowel_density": 0.36331645388458833,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 76912.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 76912
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 32.62870514820593,
+    "sentence_length_variance": 339.9880159948988,
+    "function_word_frequency": 0.2458522591441549,
+    "punctuation_frequency": 0.03039984509633072,
+    "uppercase_frequency": 0.011289256685369847,
+    "freq_a": 0.09518998850850496,
+    "freq_e": 0.10538500717692272,
+    "freq_i": 0.04380237996017965,
+    "freq_o": 0.07009391034950141,
+    "freq_u": 0.034836488232793276
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          16
+        ],
+        [
+          "Febo",
+          4
+        ],
+        [
+          "Júpiter",
+          20
+        ],
+        [
+          "Venus",
+          24
+        ],
+        [
+          "Amor",
+          172
+        ],
+        [
+          "Cupido",
+          2
+        ],
+        [
+          "Neptuno",
+          24
+        ],
+        [
+          "Marte",
+          8
+        ],
+        [
+          "Palas",
+          8
+        ]
+      ],
+      "heroes": [
+        [
+          "Faetón",
+          2
+        ],
+        [
+          "Alcides",
+          4
+        ],
+        [
+          "Hércules",
+          4
+        ],
+        [
+          "Narciso",
+          2
+        ],
+        [
+          "Orfeo",
+          6
+        ]
+      ],
+      "nymphs": [
+        [
+          "Dafne",
+          2
+        ],
+        [
+          "Europa",
+          4
+        ],
+        [
+          "Tetis",
+          4
+        ],
+        [
+          "Galatea",
+          10
+        ]
+      ],
+      "places": [
+        [
+          "Creta",
+          2
+        ]
+      ],
+      "creatures": [
+        [
+          "Fénix",
+          4
+        ],
+        [
+          "Cerbero",
+          6
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Circe",
+        "LOC"
+      ],
+      [
+        "Leteo",
+        "PER"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "Tú",
+        "MISC"
+      ],
+      [
+        "Océano",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "transformar procura",
+        "PER"
+      ],
+      [
+        "Yo cantaré tu engaño",
+        "MISC"
+      ],
+      [
+        "Ulises",
+        "PER"
+      ],
+      [
+        "Vos",
+        "LOC"
+      ],
+      [
+        "Conde",
+        "PER"
+      ],
+      [
+        "paraelio",
+        "PER"
+      ],
+      [
+        "Vos",
+        "PER"
+      ],
+      [
+        "método",
+        "PER"
+      ],
+      [
+        "Italia",
+        "LOC"
+      ],
+      [
+        "España",
+        "LOC"
+      ],
+      [
+        "España",
+        "LOC"
+      ],
+      [
+        "Sevilla",
+        "LOC"
+      ],
+      [
+        "Castilla",
+        "LOC"
+      ],
+      [
+        "Las letras",
+        "MISC"
+      ],
+      [
+        "España",
+        "MISC"
+      ],
+      [
+        "Mecenas",
+        "PER"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "florida",
+        "LOC"
+      ],
+      [
+        "Tormes",
+        "LOC"
+      ],
+      [
+        "Pimpla",
+        "LOC"
+      ],
+      [
+        "Helicón Euterpe",
+        "PER"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Oíd",
+        "MISC"
+      ],
+      [
+        "Pedro",
+        "PER"
+      ],
+      [
+        "Enrique",
+        "PER"
+      ],
+      [
+        "Sidonia",
+        "LOC"
+      ],
+      [
+        "Ulises",
+        "PER"
+      ],
+      [
+        "Circe",
+        "PER"
+      ],
+      [
+        "Tracia",
+        "LOC"
+      ],
+      [
+        "Discordia",
+        "PER"
+      ],
+      [
+        "Troya",
+        "LOC"
+      ],
+      [
+        "Apogeo",
+        "PER"
+      ],
+      [
+        "Eneas",
+        "PER"
+      ],
+      [
+        "Laocontes",
+        "PER"
+      ],
+      [
+        "Tibre",
+        "MISC"
+      ],
+      [
+        "florida",
+        "LOC"
+      ],
+      [
+        "Hécuba",
+        "LOC"
+      ],
+      [
+        "Aquiles",
+        "PER"
+      ],
+      [
+        "Andrómaca",
+        "LOC"
+      ],
+      [
+        "Casandra",
+        "PER"
+      ],
+      [
+        "Paris",
+        "PER"
+      ],
+      [
+        "bárbaro trofeo",
+        "PER"
+      ],
+      [
+        "Peleo",
+        "PER"
+      ],
+      [
+        "Menón",
+        "LOC"
+      ],
+      [
+        "Pirro",
+        "PER"
+      ],
+      [
+        "Policena",
+        "LOC"
+      ],
+      [
+        "Arcos",
+        "LOC"
+      ],
+      [
+        "Troya",
+        "LOC"
+      ],
+      [
+        "Troya",
+        "LOC"
+      ],
+      [
+        "Sinón",
+        "LOC"
+      ],
+      [
+        "Atrida",
+        "MISC"
+      ],
+      [
+        "Ulises",
+        "PER"
+      ],
+      [
+        "Eolia",
+        "LOC"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "El hijo del Aurora",
+        "MISC"
+      ],
+      [
+        "Levante llama",
+        "MISC"
+      ],
+      [
+        "Lascivo",
+        "MISC"
+      ],
+      [
+        "Ulises",
+        "PER"
+      ],
+      [
+        "mar pacífico",
+        "LOC"
+      ],
+      [
+        "Némesis",
+        "PER"
+      ],
+      [
+        "Dormía Ulises",
+        "PER"
+      ],
+      [
+        "Laomedón",
+        "LOC"
+      ],
+      [
+        "Colcos",
+        "LOC"
+      ],
+      [
+        "Habéis",
+        "PER"
+      ],
+      [
+        "Ulises",
+        "PER"
+      ],
+      [
+        "Mal",
+        "PER"
+      ],
+      [
+        "Sabed",
+        "MISC"
+      ],
+      [
+        "Nosotros",
+        "MISC"
+      ],
+      [
+        "Bastaba",
+        "LOC"
+      ],
+      [
+        "ningún",
+        "PER"
+      ],
+      [
+        "vitoria",
+        "LOC"
+      ],
+      [
+        "Ulises",
+        "PER"
+      ],
+      [
+        "Vosotros",
+        "LOC"
+      ],
+      [
+        "creedme",
+        "PER"
+      ],
+      [
+        "Rompelde",
+        "PER"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "Grecia",
+        "LOC"
+      ],
+      [
+        "No de otra suerte",
+        "MISC"
+      ],
+      [
+        "Restalla",
+        "LOC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "Los que a la aguja",
+        "MISC"
+      ],
+      [
+        "El campo undoso",
+        "MISC"
+      ],
+      [
+        "fácil boya",
+        "PER"
+      ],
+      [
+        "nadan",
+        "PER"
+      ],
+      [
+        "Troya",
+        "LOC"
+      ],
+      [
+        "mar segura",
+        "LOC"
+      ],
+      [
+        "Coge",
+        "LOC"
+      ],
+      [
+        "Ulises",
+        "PER"
+      ],
+      [
+        "Corinto",
+        "LOC"
+      ],
+      [
+        "golfo de Nereo",
+        "LOC"
+      ],
+      [
+        "mar Tirreno",
+        "LOC"
+      ],
+      [
+        "Estérope",
+        "PER"
+      ],
+      [
+        "Bronte",
+        "PER"
+      ],
+      [
+        "Faetonte",
+        "PER"
+      ],
+      [
+        "Circe",
+        "PER"
+      ],
+      [
+        "Erídano",
+        "LOC"
+      ],
+      [
+        "Había",
+        "PER"
+      ],
+      [
+        "Circe",
+        "PER"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "Circe",
+        "PER"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 30462,
+    "unique_words": 4715,
+    "vocabulary_richness": 0.1547830083382575,
+    "top_words": [
+      [
+        "los",
+        666
+      ],
+      [
+        "las",
+        492
+      ],
+      [
+        "tan",
+        194
+      ],
+      [
+        "mar",
+        180
+      ],
+      [
+        "amor",
+        172
+      ],
+      [
+        "circe",
+        126
+      ],
+      [
+        "sol",
+        122
+      ],
+      [
+        "sin",
+        118
+      ],
+      [
+        "para",
+        118
+      ],
+      [
+        "mas",
+        110
+      ],
+      [
+        "ulises",
+        108
+      ],
+      [
+        "quien",
+        108
+      ],
+      [
+        "qué",
+        108
+      ],
+      [
+        "aunque",
+        78
+      ],
+      [
+        "alma",
+        76
+      ],
+      [
+        "pues",
+        70
+      ],
+      [
+        "mis",
+        68
+      ],
+      [
+        "dos",
+        66
+      ],
+      [
+        "bien",
+        66
+      ],
+      [
+        "vida",
+        62
+      ]
+    ],
+    "filtered_word_count": 25936
+  },
+  "semantic_fields": {
+    "divine": 0.002725316758307435,
+    "love": 0.009036576619650969,
+    "nature": 0.017786277791059048,
+    "light": 0.004542194597179058,
+    "transformation": 0.00019125029882859193,
+    "death": 0.0031078173559646186,
+    "beauty": 0.003060004781257471
+  }
+}

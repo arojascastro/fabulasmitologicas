@@ -1,0 +1,539 @@
+{
+  "metadata": {
+    "filename": "Lope_filomenasegunda.xml",
+    "title": "Segunda parte de la Filomena",
+    "author": "Lope de Vega, Félix",
+    "file_key": "Lope_filomenasegunda"
+  },
+  "basic_stats": {
+    "characters": 85905,
+    "words": 14884,
+    "sentences": 386,
+    "avg_word_length": 4.761085729642569,
+    "avg_sentence_length": 38.55958549222798
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.20364149422198333,
+    "avg_word_length": 4.761085729642569,
+    "syllable_density": 1.8653587745229776,
+    "readability_score": 33.93028722127963,
+    "vowel_density": 0.3650506723267286,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 27764.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 27764
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 38.55958549222798,
+    "sentence_length_variance": 962.0992778329619,
+    "function_word_frequency": 0.26014512227895725,
+    "punctuation_frequency": 0.03046170711511773,
+    "uppercase_frequency": 0.011755239128153098,
+    "freq_a": 0.09611998087396643,
+    "freq_e": 0.1010647602831586,
+    "freq_i": 0.04846816798255332,
+    "freq_o": 0.06967007592102348,
+    "freq_u": 0.033144016700292725
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          12
+        ],
+        [
+          "Febo",
+          4
+        ],
+        [
+          "Venus",
+          4
+        ],
+        [
+          "Cintia",
+          2
+        ],
+        [
+          "Amor",
+          30
+        ],
+        [
+          "Marte",
+          4
+        ],
+        [
+          "Palas",
+          2
+        ]
+      ],
+      "heroes": [
+        [
+          "Faetón",
+          2
+        ],
+        [
+          "Narciso",
+          2
+        ]
+      ],
+      "nymphs": [
+        [
+          "Tetis",
+          4
+        ]
+      ],
+      "places": [
+        [
+          "Parnaso",
+          4
+        ],
+        [
+          "Helicona",
+          2
+        ]
+      ],
+      "creatures": [
+        [
+          "Fénix",
+          6
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Canté",
+        "LOC"
+      ],
+      [
+        "Leonor",
+        "PER"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "No penséis que hay batalla sin vitoria",
+        "MISC"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "Dichosa",
+        "MISC"
+      ],
+      [
+        "Estando Filomena",
+        "PER"
+      ],
+      [
+        "Faetón de su Sol",
+        "LOC"
+      ],
+      [
+        "Leonor",
+        "PER"
+      ],
+      [
+        "musa",
+        "PER"
+      ],
+      [
+        "fácil armonía",
+        "PER"
+      ],
+      [
+        "No",
+        "MISC"
+      ],
+      [
+        "tordo",
+        "PER"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "Sed vos Apolo",
+        "MISC"
+      ],
+      [
+        "aurora sois",
+        "PER"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Oh fénix española",
+        "MISC"
+      ],
+      [
+        "Oíd",
+        "MISC"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "Oíd la voz sonora",
+        "MISC"
+      ],
+      [
+        "Oíd",
+        "LOC"
+      ],
+      [
+        "Sibila",
+        "PER"
+      ],
+      [
+        "Oíd",
+        "LOC"
+      ],
+      [
+        "Leonor",
+        "PER"
+      ],
+      [
+        "Crióse un tordo negro",
+        "MISC"
+      ],
+      [
+        "mecánica armonía",
+        "LOC"
+      ],
+      [
+        "jamás",
+        "PER"
+      ],
+      [
+        "Quirón de tal Aquiles",
+        "LOC"
+      ],
+      [
+        "Tetis",
+        "PER"
+      ],
+      [
+        "Academia ilustre",
+        "ORG"
+      ],
+      [
+        "Platón",
+        "LOC"
+      ],
+      [
+        "Pitágoras",
+        "MISC"
+      ],
+      [
+        "Grecia",
+        "LOC"
+      ],
+      [
+        "Diole su lengua la divina escuela",
+        "MISC"
+      ],
+      [
+        "Etiopia",
+        "LOC"
+      ],
+      [
+        "allí",
+        "LOC"
+      ],
+      [
+        "Oh vana presunción",
+        "MISC"
+      ],
+      [
+        "Ulises",
+        "PER"
+      ],
+      [
+        "Anquises",
+        "PER"
+      ],
+      [
+        "llegó",
+        "PER"
+      ],
+      [
+        "Luego se le ofreció",
+        "MISC"
+      ],
+      [
+        "Ícaro",
+        "PER"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "Alejandro",
+        "PER"
+      ],
+      [
+        "Timoteo",
+        "PER"
+      ],
+      [
+        "No la historia cantaba de",
+        "MISC"
+      ],
+      [
+        "Tereo",
+        "PER"
+      ],
+      [
+        "Antártico",
+        "PER"
+      ],
+      [
+        "La envidia",
+        "MISC"
+      ],
+      [
+        "Marsias",
+        "PER"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Aragne",
+        "LOC"
+      ],
+      [
+        "Palas",
+        "LOC"
+      ],
+      [
+        "selva amena",
+        "LOC"
+      ],
+      [
+        "Los Pílades",
+        "LOC"
+      ],
+      [
+        "Orestes",
+        "PER"
+      ],
+      [
+        "Castilla",
+        "LOC"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "Roma",
+        "LOC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Parnaso",
+        "LOC"
+      ],
+      [
+        "Toledo",
+        "LOC"
+      ],
+      [
+        "Sacros",
+        "PER"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "Vosotras",
+        "PER"
+      ],
+      [
+        "sonora melodía",
+        "PER"
+      ],
+      [
+        "Midas",
+        "PER"
+      ],
+      [
+        "Erige",
+        "LOC"
+      ],
+      [
+        "Pitágoras",
+        "MISC"
+      ],
+      [
+        "Platón",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Cintia",
+        "PER"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "Erictonio",
+        "PER"
+      ],
+      [
+        "Tifeo!",
+        "MISC"
+      ],
+      [
+        "Dios",
+        "MISC"
+      ],
+      [
+        "Platón",
+        "LOC"
+      ],
+      [
+        "Nada",
+        "PER"
+      ],
+      [
+        "Llamó",
+        "LOC"
+      ],
+      [
+        "Quien difine la ciencia",
+        "MISC"
+      ],
+      [
+        "No ha de usar silogismo",
+        "MISC"
+      ],
+      [
+        "La enunciación cualquiera parte",
+        "MISC"
+      ],
+      [
+        "Medir",
+        "PER"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 10802,
+    "unique_words": 2450,
+    "vocabulary_richness": 0.22680985002777262,
+    "top_words": [
+      [
+        "las",
+        234
+      ],
+      [
+        "los",
+        216
+      ],
+      [
+        "quien",
+        74
+      ],
+      [
+        "sin",
+        54
+      ],
+      [
+        "voz",
+        54
+      ],
+      [
+        "mas",
+        52
+      ],
+      [
+        "dulce",
+        50
+      ],
+      [
+        "para",
+        44
+      ],
+      [
+        "pues",
+        44
+      ],
+      [
+        "sol",
+        40
+      ],
+      [
+        "qué",
+        40
+      ],
+      [
+        "tan",
+        36
+      ],
+      [
+        "filomena",
+        32
+      ],
+      [
+        "aunque",
+        32
+      ],
+      [
+        "así",
+        32
+      ],
+      [
+        "tordo",
+        30
+      ],
+      [
+        "amor",
+        30
+      ],
+      [
+        "todo",
+        28
+      ],
+      [
+        "españa",
+        28
+      ],
+      [
+        "canté",
+        26
+      ]
+    ],
+    "filtered_word_count": 9182
+  },
+  "semantic_fields": {
+    "divine": 0.006987368986831497,
+    "love": 0.005778016662187584,
+    "nature": 0.014512227895726955,
+    "light": 0.0038968019349637194,
+    "transformation": 0.0001343724805159903,
+    "death": 0.0018812147272238647,
+    "beauty": 0.0016124697661918839
+  }
+}

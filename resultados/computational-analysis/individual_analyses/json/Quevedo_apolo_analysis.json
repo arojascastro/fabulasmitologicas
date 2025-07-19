@@ -1,0 +1,796 @@
+{
+  "metadata": {
+    "filename": "Quevedo_apolo.xml",
+    "title": "Fábula de Apolo y Dafne",
+    "author": "Quevedo, Francisco de",
+    "file_key": "Quevedo_apolo"
+  },
+  "basic_stats": {
+    "characters": 5619,
+    "words": 1040,
+    "sentences": 44,
+    "avg_word_length": 4.388461538461539,
+    "avg_sentence_length": 23.636363636363637
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.3076923076923077,
+    "avg_word_length": 4.388461538461539,
+    "syllable_density": 1.6788461538461539,
+    "readability_score": 60.17409090909092,
+    "vowel_density": 0.35052650365875426,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 1746.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 1746
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 23.636363636363637,
+    "sentence_length_variance": 25.231404958677683,
+    "function_word_frequency": 0.2519230769230769,
+    "punctuation_frequency": 0.03212564697483491,
+    "uppercase_frequency": 0.0453328573978226,
+    "freq_a": 0.08566839193289309,
+    "freq_e": 0.09816169908977333,
+    "freq_i": 0.03640906657147956,
+    "freq_o": 0.07888631090487239,
+    "freq_u": 0.03426735677315724
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Febo",
+          2
+        ],
+        [
+          "Júpiter",
+          2
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [
+        [
+          "Dafne",
+          8
+        ]
+      ],
+      "places": [],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "Corriendo Dafne",
+        "MISC"
+      ],
+      [
+        "Nueva Aurora",
+        "LOC"
+      ],
+      [
+        "Cansado más de cansalla",
+        "MISC"
+      ],
+      [
+        "Febo",
+        "MISC"
+      ],
+      [
+        "Para mejor alcanzalla.",
+        "MISC"
+      ],
+      [
+        "Dio mil gritos doloridos",
+        "MISC"
+      ],
+      [
+        "Contento",
+        "ORG"
+      ],
+      [
+        "De que alcancen sus oídos",
+        "MISC"
+      ],
+      [
+        "Las voces",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Las palabras",
+        "MISC"
+      ],
+      [
+        "Con el viento que las lleva Quiso parejas correr",
+        "MISC"
+      ],
+      [
+        "Pero su padre",
+        "MISC"
+      ],
+      [
+        "En su curso cristalino",
+        "MISC"
+      ],
+      [
+        "Tras ella corrió",
+        "MISC"
+      ],
+      [
+        "Los atajó sonoroso.",
+        "MISC"
+      ],
+      [
+        "El Sol",
+        "MISC"
+      ],
+      [
+        "Por huir corre la estrella",
+        "MISC"
+      ],
+      [
+        "Corre",
+        "PER"
+      ],
+      [
+        "Corre",
+        "PER"
+      ],
+      [
+        "río",
+        "ORG"
+      ],
+      [
+        "Atrás",
+        "MISC"
+      ],
+      [
+        "A todos los deja atrás",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Dio",
+        "ORG"
+      ],
+      [
+        "Con dolor y sin aliento",
+        "MISC"
+      ],
+      [
+        "Primero al correr del llanto",
+        "MISC"
+      ],
+      [
+        "Di",
+        "PER"
+      ],
+      [
+        "Huyendo",
+        "PER"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Huye",
+        "LOC"
+      ],
+      [
+        "No corras más",
+        "MISC"
+      ],
+      [
+        "Dafne",
+        "PER"
+      ],
+      [
+        "De mí",
+        "MISC"
+      ],
+      [
+        "Esfera",
+        "ORG"
+      ],
+      [
+        "Si no fueras tan hermosa",
+        "MISC"
+      ],
+      [
+        "Por la noche te tuviera",
+        "MISC"
+      ],
+      [
+        "Ojos",
+        "PER"
+      ],
+      [
+        "Alumbráis",
+        "MISC"
+      ],
+      [
+        "Pues que Sois",
+        "MISC"
+      ],
+      [
+        "Al Sol",
+        "PER"
+      ],
+      [
+        "mirad",
+        "LOC"
+      ],
+      [
+        "Dafne",
+        "PER"
+      ],
+      [
+        "Puedes tan veloz correr",
+        "MISC"
+      ],
+      [
+        "Aun mi corazón",
+        "MISC"
+      ],
+      [
+        "Alas",
+        "PER"
+      ],
+      [
+        "Dafne",
+        "LOC"
+      ],
+      [
+        "A Júpiter soberano Llegaron",
+        "MISC"
+      ],
+      [
+        "De lauro",
+        "MISC"
+      ],
+      [
+        "Los dos brazos",
+        "MISC"
+      ],
+      [
+        "Quejándose a la Fortuna Con",
+        "MISC"
+      ],
+      [
+        "Escondióse",
+        "PER"
+      ],
+      [
+        "La nieve del pecho helado",
+        "MISC"
+      ],
+      [
+        "Dejó",
+        "LOC"
+      ],
+      [
+        "De la rubia",
+        "MISC"
+      ],
+      [
+        "Antes",
+        "ORG"
+      ],
+      [
+        "Hebras",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "Con que hoy alumbra la esfera",
+        "MISC"
+      ],
+      [
+        "Con mil abrazos ardientes",
+        "MISC"
+      ],
+      [
+        "Ciñó",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "Con las memorias presentes",
+        "MISC"
+      ],
+      [
+        "Los rayos de luz y fuego",
+        "MISC"
+      ],
+      [
+        "Desató",
+        "MISC"
+      ],
+      [
+        "Con un honesto temblor",
+        "MISC"
+      ],
+      [
+        "Por rehusar sus abrazos",
+        "MISC"
+      ],
+      [
+        "Se quejó de su rigor",
+        "MISC"
+      ],
+      [
+        "Por estorbarlos mejor",
+        "MISC"
+      ],
+      [
+        "El aire desenvolvía Sus hojas",
+        "MISC"
+      ],
+      [
+        "Las hebras",
+        "MISC"
+      ],
+      [
+        "Tristemente murmurando Entre las ramas corría",
+        "MISC"
+      ],
+      [
+        "El río",
+        "MISC"
+      ],
+      [
+        "Movido",
+        "PER"
+      ],
+      [
+        "Con sus lágrimas creció",
+        "MISC"
+      ],
+      [
+        "Digno",
+        "PER"
+      ],
+      [
+        "La reservó en aquel llano",
+        "MISC"
+      ],
+      [
+        "De sus rayos el Verano",
+        "MISC"
+      ],
+      [
+        "Invierno",
+        "LOC"
+      ],
+      [
+        "Delante del Sol",
+        "LOC"
+      ],
+      [
+        "Corriendo Dafne",
+        "MISC"
+      ],
+      [
+        "Nueva Aurora",
+        "LOC"
+      ],
+      [
+        "Cansado más de cansalla",
+        "MISC"
+      ],
+      [
+        "Febo",
+        "MISC"
+      ],
+      [
+        "Para mejor alcanzalla.",
+        "MISC"
+      ],
+      [
+        "Dio mil gritos doloridos",
+        "MISC"
+      ],
+      [
+        "Contento",
+        "ORG"
+      ],
+      [
+        "De que alcancen sus oídos",
+        "MISC"
+      ],
+      [
+        "Las voces",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Las palabras",
+        "MISC"
+      ],
+      [
+        "Con el viento que las lleva Quiso parejas correr",
+        "MISC"
+      ],
+      [
+        "Pero su padre",
+        "MISC"
+      ],
+      [
+        "En su curso cristalino",
+        "MISC"
+      ],
+      [
+        "Tras ella corrió",
+        "MISC"
+      ],
+      [
+        "Los atajó sonoroso.",
+        "MISC"
+      ],
+      [
+        "El Sol",
+        "MISC"
+      ],
+      [
+        "Por huir corre la estrella",
+        "MISC"
+      ],
+      [
+        "Corre",
+        "PER"
+      ],
+      [
+        "Corre",
+        "PER"
+      ],
+      [
+        "río",
+        "ORG"
+      ],
+      [
+        "Atrás",
+        "MISC"
+      ],
+      [
+        "A todos los deja atrás",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Dio",
+        "ORG"
+      ],
+      [
+        "Con dolor y sin aliento",
+        "MISC"
+      ],
+      [
+        "Primero al correr del llanto",
+        "MISC"
+      ],
+      [
+        "Di",
+        "PER"
+      ],
+      [
+        "Huyendo",
+        "PER"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Huye",
+        "LOC"
+      ],
+      [
+        "No corras más",
+        "MISC"
+      ],
+      [
+        "Dafne",
+        "PER"
+      ],
+      [
+        "De mí",
+        "MISC"
+      ],
+      [
+        "Esfera",
+        "ORG"
+      ],
+      [
+        "Si no fueras tan hermosa",
+        "MISC"
+      ],
+      [
+        "Por la noche te tuviera",
+        "MISC"
+      ],
+      [
+        "Ojos",
+        "PER"
+      ],
+      [
+        "Alumbráis",
+        "MISC"
+      ],
+      [
+        "Pues que Sois",
+        "MISC"
+      ],
+      [
+        "Al Sol",
+        "PER"
+      ],
+      [
+        "mirad",
+        "LOC"
+      ],
+      [
+        "Dafne",
+        "PER"
+      ],
+      [
+        "Puedes tan veloz correr",
+        "MISC"
+      ],
+      [
+        "Aun mi corazón",
+        "MISC"
+      ],
+      [
+        "Alas",
+        "PER"
+      ],
+      [
+        "Dafne",
+        "LOC"
+      ],
+      [
+        "A Júpiter soberano Llegaron",
+        "MISC"
+      ],
+      [
+        "De lauro",
+        "MISC"
+      ],
+      [
+        "Los dos brazos",
+        "MISC"
+      ],
+      [
+        "Quejándose a la Fortuna Con",
+        "MISC"
+      ],
+      [
+        "Escondióse",
+        "PER"
+      ],
+      [
+        "La nieve del pecho helado",
+        "MISC"
+      ],
+      [
+        "Dejó",
+        "LOC"
+      ],
+      [
+        "De la rubia",
+        "MISC"
+      ],
+      [
+        "Antes",
+        "ORG"
+      ],
+      [
+        "Hebras",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "Con que hoy alumbra la esfera",
+        "MISC"
+      ],
+      [
+        "Con mil abrazos ardientes",
+        "MISC"
+      ],
+      [
+        "Ciñó",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "Con las memorias presentes",
+        "MISC"
+      ],
+      [
+        "Los rayos de luz y fuego",
+        "MISC"
+      ],
+      [
+        "Desató",
+        "MISC"
+      ],
+      [
+        "Con un honesto temblor",
+        "MISC"
+      ],
+      [
+        "Por rehusar sus abrazos",
+        "MISC"
+      ],
+      [
+        "Se quejó de su rigor",
+        "MISC"
+      ],
+      [
+        "Por estorbarlos mejor",
+        "MISC"
+      ],
+      [
+        "El aire desenvolvía Sus hojas",
+        "MISC"
+      ],
+      [
+        "Las hebras",
+        "MISC"
+      ],
+      [
+        "Tristemente murmurando Entre las ramas corría",
+        "MISC"
+      ],
+      [
+        "El río",
+        "MISC"
+      ],
+      [
+        "Movido",
+        "PER"
+      ],
+      [
+        "Con sus lágrimas creció",
+        "MISC"
+      ],
+      [
+        "Digno",
+        "PER"
+      ],
+      [
+        "La reservó en aquel llano",
+        "MISC"
+      ],
+      [
+        "De sus rayos el Verano",
+        "MISC"
+      ],
+      [
+        "Invierno",
+        "LOC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 732,
+    "unique_words": 248,
+    "vocabulary_richness": 0.33879781420765026,
+    "top_words": [
+      [
+        "las",
+        14
+      ],
+      [
+        "los",
+        14
+      ],
+      [
+        "sol",
+        12
+      ],
+      [
+        "tan",
+        10
+      ],
+      [
+        "dafne",
+        8
+      ],
+      [
+        "corre",
+        8
+      ],
+      [
+        "quiso",
+        6
+      ],
+      [
+        "mas",
+        6
+      ],
+      [
+        "correr",
+        6
+      ],
+      [
+        "llanto",
+        6
+      ],
+      [
+        "rayos",
+        6
+      ],
+      [
+        "delante",
+        4
+      ],
+      [
+        "corriendo",
+        4
+      ],
+      [
+        "bella",
+        4
+      ],
+      [
+        "nueva",
+        4
+      ],
+      [
+        "mejor",
+        4
+      ],
+      [
+        "dio",
+        4
+      ],
+      [
+        "mil",
+        4
+      ],
+      [
+        "ver",
+        4
+      ],
+      [
+        "viento",
+        4
+      ]
+    ],
+    "filtered_word_count": 604
+  },
+  "semantic_fields": {
+    "divine": 0.0057692307692307696,
+    "love": 0.009615384615384616,
+    "nature": 0.03461538461538462,
+    "light": 0.011538461538461539,
+    "transformation": 0.0,
+    "death": 0.0019230769230769232,
+    "beauty": 0.011538461538461539
+  }
+}

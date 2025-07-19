@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "filename": "Polo_fabapolodafne.xml",
+    "title": "Fábula de Apolo y Dafne",
+    "author": "Polo de Medina, Jacinto",
+    "file_key": "Polo_fabapolodafne"
+  },
+  "basic_stats": {
+    "characters": 17100,
+    "words": 3158,
+    "sentences": 154,
+    "avg_word_length": 4.379354021532616,
+    "avg_sentence_length": 20.506493506493506
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.43635212159594683,
+    "avg_word_length": 4.379354021532616,
+    "syllable_density": 1.7311589613679543,
+    "readability_score": 61.258059106363135,
+    "vowel_density": 0.3635132748572438,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 5467.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 5467
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 20.506493506493506,
+    "sentence_length_variance": 313.47634508348796,
+    "function_word_frequency": 0.2640911969601013,
+    "punctuation_frequency": 0.03755813268970389,
+    "uppercase_frequency": 0.010831812562547831,
+    "freq_a": 0.09342438335197505,
+    "freq_e": 0.10678754341555308,
+    "freq_i": 0.03749926414316831,
+    "freq_o": 0.07311473479719786,
+    "freq_u": 0.03855889798080885
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          14
+        ],
+        [
+          "Amor",
+          10
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [
+        [
+          "Dafne",
+          7
+        ]
+      ],
+      "places": [],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "Cantar de Apolo",
+        "MISC"
+      ],
+      [
+        "Dafne",
+        "PER"
+      ],
+      [
+        "Con licencia de ustedes",
+        "MISC"
+      ],
+      [
+        "Vaya de historia",
+        "MISC"
+      ],
+      [
+        "Talía",
+        "PER"
+      ],
+      [
+        "encontré",
+        "PER"
+      ],
+      [
+        "Dios",
+        "PER"
+      ],
+      [
+        "Señora doña Musa",
+        "MISC"
+      ],
+      [
+        "Aquí",
+        "MISC"
+      ],
+      [
+        "Musa",
+        "MISC"
+      ],
+      [
+        "Era el pie yo le vi de tal manera",
+        "MISC"
+      ],
+      [
+        "Cristo",
+        "PER"
+      ],
+      [
+        "qué linda ocasión",
+        "PER"
+      ],
+      [
+        "Llevando",
+        "PER"
+      ],
+      [
+        "los rubíes",
+        "LOC"
+      ],
+      [
+        "Otro escalón subamos más arriba",
+        "MISC"
+      ],
+      [
+        "Jesús",
+        "LOC"
+      ],
+      [
+        "Señor",
+        "PER"
+      ],
+      [
+        "botica",
+        "LOC"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Rosa",
+        "MISC"
+      ],
+      [
+        "Vaya la rosa",
+        "MISC"
+      ],
+      [
+        "el prado",
+        "LOC"
+      ],
+      [
+        "pinto",
+        "PER"
+      ],
+      [
+        "No quiero en las mejillas rosas bellas",
+        "MISC"
+      ],
+      [
+        "Por eso de las rosas",
+        "MISC"
+      ],
+      [
+        "No las han menester estas mejillas",
+        "MISC"
+      ],
+      [
+        "tenía",
+        "LOC"
+      ],
+      [
+        "Ahora",
+        "MISC"
+      ],
+      [
+        "Yo seré",
+        "MISC"
+      ],
+      [
+        "Los luceros también",
+        "MISC"
+      ],
+      [
+        "Dios",
+        "MISC"
+      ],
+      [
+        "Dafne",
+        "PER"
+      ],
+      [
+        "De la Etiopía",
+        "MISC"
+      ],
+      [
+        "Paso",
+        "PER"
+      ],
+      [
+        "Dios",
+        "MISC"
+      ],
+      [
+        "Componiendo",
+        "PER"
+      ],
+      [
+        "Dios",
+        "MISC"
+      ],
+      [
+        "En fin",
+        "MISC"
+      ],
+      [
+        "Vaya el lector conmigo",
+        "MISC"
+      ],
+      [
+        "Ya me obligo a decirle maravilla",
+        "MISC"
+      ],
+      [
+        "Cuantas frentes yo he visto",
+        "MISC"
+      ],
+      [
+        "Dije azucena",
+        "MISC"
+      ],
+      [
+        "kyries el cabello",
+        "PER"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Como quitarlo del altar sería",
+        "MISC"
+      ],
+      [
+        "tía",
+        "MISC"
+      ],
+      [
+        "Valía la suegra",
+        "MISC"
+      ],
+      [
+        "No supo más de amor",
+        "MISC"
+      ],
+      [
+        "Dueño",
+        "LOC"
+      ],
+      [
+        "A este Nerón",
+        "MISC"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "Muy",
+        "MISC"
+      ],
+      [
+        "Dominus",
+        "PER"
+      ],
+      [
+        "Comenzó",
+        "LOC"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Aquesto",
+        "PER"
+      ],
+      [
+        "Íbasele",
+        "PER"
+      ],
+      [
+        "Díjole: Reina mía",
+        "MISC"
+      ],
+      [
+        "Barbarroja",
+        "PER"
+      ],
+      [
+        "Muerto",
+        "LOC"
+      ],
+      [
+        "Admita",
+        "PER"
+      ],
+      [
+        "mí",
+        "LOC"
+      ],
+      [
+        "haré",
+        "PER"
+      ],
+      [
+        "Mi dinerillo",
+        "MISC"
+      ],
+      [
+        "Efesiosen",
+        "PER"
+      ],
+      [
+        "Quiérame vuesasted",
+        "MISC"
+      ],
+      [
+        "Quiérame vuesasted",
+        "MISC"
+      ],
+      [
+        "Vuélvase cara mí",
+        "MISC"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Agnus Dei",
+        "PER"
+      ],
+      [
+        "Galán",
+        "LOC"
+      ],
+      [
+        "Diga",
+        "LOC"
+      ],
+      [
+        "Miren",
+        "PER"
+      ],
+      [
+        "Mire",
+        "MISC"
+      ],
+      [
+        "No hay más sino",
+        "MISC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 2185,
+    "unique_words": 1101,
+    "vocabulary_richness": 0.5038901601830663,
+    "top_words": [
+      [
+        "los",
+        31
+      ],
+      [
+        "las",
+        31
+      ],
+      [
+        "pues",
+        15
+      ],
+      [
+        "apolo",
+        14
+      ],
+      [
+        "qué",
+        14
+      ],
+      [
+        "hay",
+        13
+      ],
+      [
+        "tan",
+        13
+      ],
+      [
+        "mas",
+        11
+      ],
+      [
+        "ninfa",
+        10
+      ],
+      [
+        "aunque",
+        10
+      ],
+      [
+        "amor",
+        10
+      ],
+      [
+        "bien",
+        9
+      ],
+      [
+        "cara",
+        9
+      ],
+      [
+        "poeta",
+        9
+      ],
+      [
+        "quién",
+        9
+      ],
+      [
+        "dijo",
+        9
+      ],
+      [
+        "soy",
+        9
+      ],
+      [
+        "cómo",
+        8
+      ],
+      [
+        "señora",
+        8
+      ],
+      [
+        "para",
+        8
+      ]
+    ],
+    "filtered_word_count": 1786
+  },
+  "semantic_fields": {
+    "divine": 0.002216592780240659,
+    "love": 0.00506649778340722,
+    "nature": 0.007599746675110829,
+    "light": 0.0006333122229259025,
+    "transformation": 0.0,
+    "death": 0.0,
+    "beauty": 0.006333122229259025
+  }
+}

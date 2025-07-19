@@ -1,0 +1,45 @@
+{
+  "analysis_date": "2025-07-19T11:34:49.751475",
+  "corpus_size": 26,
+  "poems_processed": [
+    "Barahona_acteon",
+    "Barahona_vertumno",
+    "Bermudez_narciso",
+    "Bocangel_leandro",
+    "Carrillo_acis",
+    "Cetina_amorpsique",
+    "Espinosa_genil",
+    "Gongora_piramotisbe",
+    "Gongora_polifemo",
+    "Hurtadodemendoza_fabulaadonis",
+    "Jauregui_orfeo",
+    "Lope_andromeda",
+    "Lope_circe",
+    "Lope_filomenaprimera",
+    "Lope_filomenasegunda",
+    "Lope_rosa",
+    "Montalban_orfeo",
+    "Polo_fabapolodafne",
+    "Polo_fabpansiringa",
+    "Quevedo_apolo",
+    "Soto_fragmentosadonis",
+    "Soto_rayosfaeton",
+    "Villamediana_apolodafne",
+    "Villamediana_europa",
+    "Villamediana_faeton",
+    "Villamediana_fenix"
+  ],
+  "dataframes_created": {
+    "basic_stats": true,
+    "linguistic": true,
+    "stylometric": true,
+    "semantic": true,
+    "entities": true
+  },
+  "statistics": {
+    "total_words": 303745,
+    "total_poems": 26,
+    "unique_authors": 15,
+    "avg_words_per_poem": 11682.5
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "metadata": {
+    "filename": "Gongora_polifemo.xml",
+    "title": "Fábula de Polifemo y Galatea",
+    "author": "Góngora, Luis de",
+    "file_key": "Gongora_polifemo"
+  },
+  "basic_stats": {
+    "characters": 36239,
+    "words": 6484,
+    "sentences": 174,
+    "avg_word_length": 4.579888957433683,
+    "avg_sentence_length": 37.264367816091955
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.24444787168414558,
+    "avg_word_length": 4.579888957433683,
+    "syllable_density": 1.8198642813078347,
+    "readability_score": 37.51894612379192,
+    "vowel_density": 0.36076176787639236,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 11800.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 11800
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 37.264367816091955,
+    "sentence_length_variance": 288.95309816356195,
+    "function_word_frequency": 0.23689080814312152,
+    "punctuation_frequency": 0.03803311313192736,
+    "uppercase_frequency": 0.009452997595290086,
+    "freq_a": 0.0995052378451588,
+    "freq_e": 0.09519334420520191,
+    "freq_i": 0.0401890599519058,
+    "freq_o": 0.07308106912849996,
+    "freq_u": 0.03825423588269438
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Febo",
+          2
+        ],
+        [
+          "Júpiter",
+          2
+        ],
+        [
+          "Venus",
+          6
+        ],
+        [
+          "Amor",
+          20
+        ],
+        [
+          "Cupido",
+          8
+        ],
+        [
+          "Neptuno",
+          4
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [
+        [
+          "Europa",
+          2
+        ],
+        [
+          "Tetis",
+          2
+        ],
+        [
+          "Galatea",
+          20
+        ]
+      ],
+      "places": [],
+      "creatures": [
+        [
+          "Argos",
+          2
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Talía",
+        "LOC"
+      ],
+      [
+        "alba",
+        "ORG"
+      ],
+      [
+        "rosicler",
+        "ORG"
+      ],
+      [
+        "día",
+        "ORG"
+      ],
+      [
+        "Niebla",
+        "MISC"
+      ],
+      [
+        "Huelva",
+        "LOC"
+      ],
+      [
+        "Templado",
+        "LOC"
+      ],
+      [
+        "Treguas",
+        "LOC"
+      ],
+      [
+        "augusto",
+        "PER"
+      ],
+      [
+        "Alterna",
+        "LOC"
+      ],
+      [
+        "Fama",
+        "MISC"
+      ],
+      [
+        "mar Sicilïano",
+        "LOC"
+      ],
+      [
+        "Lilibeo",
+        "LOC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "Tifeo",
+        "PER"
+      ],
+      [
+        "Allí",
+        "LOC"
+      ],
+      [
+        "Guarnición",
+        "MISC"
+      ],
+      [
+        "Polifemo",
+        "PER"
+      ],
+      [
+        "bárbara choza",
+        "PER"
+      ],
+      [
+        "Un monte era de miembros",
+        "MISC"
+      ],
+      [
+        "Neptuno",
+        "PER"
+      ],
+      [
+        "Negro",
+        "LOC"
+      ],
+      [
+        "Leteo",
+        "LOC"
+      ],
+      [
+        "Pirineo",
+        "LOC"
+      ],
+      [
+        "No la Trinacria",
+        "MISC"
+      ],
+      [
+        "calzó de viento",
+        "LOC"
+      ],
+      [
+        "Cercado",
+        "LOC"
+      ],
+      [
+        "Erizo",
+        "LOC"
+      ],
+      [
+        "Cera",
+        "PER"
+      ],
+      [
+        "Tritón",
+        "LOC"
+      ],
+      [
+        "sordo",
+        "PER"
+      ],
+      [
+        "Polifemo",
+        "PER"
+      ],
+      [
+        "Ninfa",
+        "PER"
+      ],
+      [
+        "Doris",
+        "LOC"
+      ],
+      [
+        "Galatea",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Gracias suma.",
+        "MISC"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Juno",
+        "PER"
+      ],
+      [
+        "Purpúreas",
+        "PER"
+      ],
+      [
+        "Galatea la Alba",
+        "PER"
+      ],
+      [
+        "Amor cuál",
+        "LOC"
+      ],
+      [
+        "eritrea",
+        "LOC"
+      ],
+      [
+        "Invidia",
+        "MISC"
+      ],
+      [
+        "Verde el cabello",
+        "MISC"
+      ],
+      [
+        "Glauco",
+        "PER"
+      ],
+      [
+        "Marino",
+        "PER"
+      ],
+      [
+        "Palemo",
+        "PER"
+      ],
+      [
+        "Faro",
+        "LOC"
+      ],
+      [
+        "Promontorio",
+        "LOC"
+      ],
+      [
+        "Polifemo",
+        "PER"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Oh",
+        "MISC"
+      ],
+      [
+        "Sicilia",
+        "LOC"
+      ],
+      [
+        "Baco",
+        "PER"
+      ],
+      [
+        "huerto de Pomona",
+        "LOC"
+      ],
+      [
+        "En carro que estival trillo",
+        "MISC"
+      ],
+      [
+        "Ceres",
+        "LOC"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "A Pales",
+        "MISC"
+      ],
+      [
+        "Ceres",
+        "LOC"
+      ],
+      [
+        "De cuantos siegan oro",
+        "MISC"
+      ],
+      [
+        "Galatea",
+        "PER"
+      ],
+      [
+        "Copia",
+        "LOC"
+      ],
+      [
+        "Arde",
+        "ORG"
+      ],
+      [
+        "Mudo",
+        "PER"
+      ],
+      [
+        "can",
+        "ORG"
+      ],
+      [
+        "Revoca",
+        "LOC"
+      ],
+      [
+        "Amor",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Dulce",
+        "PER"
+      ],
+      [
+        "armonía",
+        "LOC"
+      ],
+      [
+        "Salamandria del Sol",
+        "LOC"
+      ],
+      [
+        "llegó Acis",
+        "PER"
+      ],
+      [
+        "Acis",
+        "PER"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ],
+      [
+        "Simetis",
+        "PER"
+      ],
+      [
+        "El bello imán",
+        "MISC"
+      ],
+      [
+        "almendra guardó",
+        "LOC"
+      ],
+      [
+        "Caluroso",
+        "LOC"
+      ],
+      [
+        "Vagas",
+        "PER"
+      ],
+      [
+        "Favonio",
+        "LOC"
+      ],
+      [
+        "La ninfa",
+        "MISC"
+      ],
+      [
+        "bullir sintió",
+        "PER"
+      ],
+      [
+        "segur",
+        "PER"
+      ],
+      [
+        "Huyera",
+        "MISC"
+      ],
+      [
+        "Fruta",
+        "MISC"
+      ],
+      [
+        "No al cíclope atribuye",
+        "MISC"
+      ],
+      [
+        "El niño dios",
+        "MISC"
+      ],
+      [
+        "Galatea",
+        "PER"
+      ],
+      [
+        "Entre las ramas",
+        "MISC"
+      ],
+      [
+        "Llamáralo",
+        "PER"
+      ],
+      [
+        "El bulto vio",
+        "MISC"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 4562,
+    "unique_words": 1284,
+    "vocabulary_richness": 0.28145550197281893,
+    "top_words": [
+      [
+        "los",
+        74
+      ],
+      [
+        "las",
+        72
+      ],
+      [
+        "mar",
+        24
+      ],
+      [
+        "dulce",
+        22
+      ],
+      [
+        "galatea",
+        20
+      ],
+      [
+        "amor",
+        20
+      ],
+      [
+        "mas",
+        20
+      ],
+      [
+        "sueño",
+        20
+      ],
+      [
+        "sin",
+        18
+      ],
+      [
+        "ninfa",
+        18
+      ],
+      [
+        "bien",
+        18
+      ],
+      [
+        "día",
+        16
+      ],
+      [
+        "cuanto",
+        16
+      ],
+      [
+        "pie",
+        16
+      ],
+      [
+        "cristal",
+        16
+      ],
+      [
+        "cuantas",
+        16
+      ],
+      [
+        "dos",
+        16
+      ],
+      [
+        "aun",
+        14
+      ],
+      [
+        "fiero",
+        14
+      ],
+      [
+        "roca",
+        14
+      ]
+    ],
+    "filtered_word_count": 3992
+  },
+  "semantic_fields": {
+    "divine": 0.001850709438618137,
+    "love": 0.004935225169648365,
+    "nature": 0.016039481801357187,
+    "light": 0.0046267735965453425,
+    "transformation": 0.0,
+    "death": 0.0009253547193090684,
+    "beauty": 0.004935225169648365
+  }
+}

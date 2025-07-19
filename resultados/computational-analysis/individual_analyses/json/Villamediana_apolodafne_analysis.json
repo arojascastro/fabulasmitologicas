@@ -1,0 +1,651 @@
+{
+  "metadata": {
+    "filename": "Villamediana_apolodafne.xml",
+    "title": "Fábula de Apolo y Dafne",
+    "author": "Villamediana, Conde de",
+    "file_key": "Villamediana_apolodafne"
+  },
+  "basic_stats": {
+    "characters": 66523,
+    "words": 11506,
+    "sentences": 348,
+    "avg_word_length": 4.77281418390405,
+    "avg_sentence_length": 33.0632183908046
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.20163393012341388,
+    "avg_word_length": 4.77281418390405,
+    "syllable_density": 1.9360333738918825,
+    "readability_score": 33.72186149255461,
+    "vowel_density": 0.3696120202947863,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 22276.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 22276
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 33.0632183908046,
+    "sentence_length_variance": 277.20214030915577,
+    "function_word_frequency": 0.2247523031461846,
+    "punctuation_frequency": 0.021107782177323436,
+    "uppercase_frequency": 0.009786061637132835,
+    "freq_a": 0.09319341774438807,
+    "freq_e": 0.10385269718914199,
+    "freq_i": 0.048779753391246745,
+    "freq_o": 0.07663239035847097,
+    "freq_u": 0.034597491757125
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          10
+        ],
+        [
+          "Febo",
+          20
+        ],
+        [
+          "Júpiter",
+          4
+        ],
+        [
+          "Venus",
+          6
+        ],
+        [
+          "Cintia",
+          6
+        ],
+        [
+          "Amor",
+          64
+        ],
+        [
+          "Neptuno",
+          2
+        ],
+        [
+          "Marte",
+          10
+        ],
+        [
+          "Minerva",
+          4
+        ],
+        [
+          "Palas",
+          6
+        ]
+      ],
+      "heroes": [
+        [
+          "Alcides",
+          4
+        ],
+        [
+          "Narciso",
+          4
+        ]
+      ],
+      "nymphs": [
+        [
+          "Dafne",
+          24
+        ],
+        [
+          "Tetis",
+          12
+        ]
+      ],
+      "places": [
+        [
+          "Olimpo",
+          6
+        ],
+        [
+          "Helicona",
+          2
+        ],
+        [
+          "Tempe",
+          2
+        ]
+      ],
+      "creatures": [
+        [
+          "Fénix",
+          6
+        ],
+        [
+          "Fitón",
+          6
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "alumbró",
+        "PER"
+      ],
+      [
+        "eterno",
+        "PER"
+      ],
+      [
+        "Vos",
+        "PER"
+      ],
+      [
+        "Paro mármoles",
+        "MISC"
+      ],
+      [
+        "Grecia",
+        "LOC"
+      ],
+      [
+        "Roma",
+        "LOC"
+      ],
+      [
+        "Rebelde al sucesor de",
+        "MISC"
+      ],
+      [
+        "Pedro",
+        "PER"
+      ],
+      [
+        "Navarra",
+        "LOC"
+      ],
+      [
+        "Numa",
+        "PER"
+      ],
+      [
+        "Albano",
+        "PER"
+      ],
+      [
+        "Berbería",
+        "PER"
+      ],
+      [
+        "Oh mancha",
+        "MISC"
+      ],
+      [
+        "Fernando",
+        "PER"
+      ],
+      [
+        "Albis",
+        "ORG"
+      ],
+      [
+        "Tetis",
+        "PER"
+      ],
+      [
+        "Hesperias",
+        "PER"
+      ],
+      [
+        "Francia",
+        "LOC"
+      ],
+      [
+        "Roma",
+        "LOC"
+      ],
+      [
+        "Cartago",
+        "LOC"
+      ],
+      [
+        "Portugal",
+        "LOC"
+      ],
+      [
+        "Griego",
+        "LOC"
+      ],
+      [
+        "Doris",
+        "LOC"
+      ],
+      [
+        "La militar licencia reprimida",
+        "MISC"
+      ],
+      [
+        "Mas entre gloria",
+        "MISC"
+      ],
+      [
+        "Cloto",
+        "PER"
+      ],
+      [
+        "Fernando",
+        "PER"
+      ],
+      [
+        "España",
+        "LOC"
+      ],
+      [
+        "Belona",
+        "PER"
+      ],
+      [
+        "Minerva",
+        "PER"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Oíd",
+        "LOC"
+      ],
+      [
+        "Albano",
+        "PER"
+      ],
+      [
+        "Palas",
+        "LOC"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Júpiter Apolo",
+        "PER"
+      ],
+      [
+        "Filomela expresado voz doliente",
+        "MISC"
+      ],
+      [
+        "Tetis",
+        "PER"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "Abría Flora",
+        "PER"
+      ],
+      [
+        "Amaltea",
+        "LOC"
+      ],
+      [
+        "Muerto Fitón",
+        "LOC"
+      ],
+      [
+        "el Tempe",
+        "MISC"
+      ],
+      [
+        "Osa",
+        "LOC"
+      ],
+      [
+        "Olimpo",
+        "LOC"
+      ],
+      [
+        "Atlante",
+        "ORG"
+      ],
+      [
+        "Polo helado de las etéreas",
+        "MISC"
+      ],
+      [
+        "Fiestas",
+        "PER"
+      ],
+      [
+        "Tesalia",
+        "LOC"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Continente",
+        "LOC"
+      ],
+      [
+        "Euterpe",
+        "LOC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Palas",
+        "LOC"
+      ],
+      [
+        "Éste",
+        "PER"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Blanca",
+        "PER"
+      ],
+      [
+        "Suspenso",
+        "PER"
+      ],
+      [
+        "Con menosprecio el gran planeta",
+        "MISC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Nieto",
+        "PER"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Fitón",
+        "PER"
+      ],
+      [
+        "Resérvase a tu mano",
+        "MISC"
+      ],
+      [
+        "No armada Palas",
+        "MISC"
+      ],
+      [
+        "Flora",
+        "LOC"
+      ],
+      [
+        "Chipre",
+        "LOC"
+      ],
+      [
+        "Ociosa",
+        "LOC"
+      ],
+      [
+        "Podrás",
+        "MISC"
+      ],
+      [
+        "Fraude",
+        "MISC"
+      ],
+      [
+        "tus aras",
+        "PER"
+      ],
+      [
+        "Arrebató",
+        "LOC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Impugnas",
+        "LOC"
+      ],
+      [
+        "Fitón",
+        "PER"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Alcides",
+        "PER"
+      ],
+      [
+        "El que glorioso vencedor",
+        "MISC"
+      ],
+      [
+        "Tetis",
+        "PER"
+      ],
+      [
+        "Dijo",
+        "MISC"
+      ],
+      [
+        "Armas",
+        "MISC"
+      ],
+      [
+        "Ofendidos",
+        "PER"
+      ],
+      [
+        "La aprehensión del vivo sentimiento",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Gran queja",
+        "MISC"
+      ],
+      [
+        "Cuando peneida ninfa sucesora",
+        "MISC"
+      ],
+      [
+        "Aurora",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "Flora",
+        "LOC"
+      ],
+      [
+        "vaga",
+        "LOC"
+      ],
+      [
+        "Pródigo",
+        "LOC"
+      ],
+      [
+        "Blandas",
+        "LOC"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "La blanca mano",
+        "MISC"
+      ],
+      [
+        "Ciñe",
+        "ORG"
+      ],
+      [
+        "Flora",
+        "LOC"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "Del bosque honor",
+        "MISC"
+      ],
+      [
+        "Delia",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Triunfo",
+        "LOC"
+      ],
+      [
+        "Esta del alba",
+        "MISC"
+      ],
+      [
+        "Dïana",
+        "PER"
+      ],
+      [
+        "Cintia",
+        "LOC"
+      ],
+      [
+        "Grecia",
+        "LOC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 8350,
+    "unique_words": 1900,
+    "vocabulary_richness": 0.2275449101796407,
+    "top_words": [
+      [
+        "los",
+        94
+      ],
+      [
+        "luz",
+        80
+      ],
+      [
+        "las",
+        78
+      ],
+      [
+        "amor",
+        64
+      ],
+      [
+        "dios",
+        44
+      ],
+      [
+        "rayos",
+        42
+      ],
+      [
+        "fuego",
+        36
+      ],
+      [
+        "voz",
+        34
+      ],
+      [
+        "aliento",
+        34
+      ],
+      [
+        "planta",
+        34
+      ],
+      [
+        "ardiente",
+        32
+      ],
+      [
+        "deidad",
+        30
+      ],
+      [
+        "tronco",
+        28
+      ],
+      [
+        "amante",
+        28
+      ],
+      [
+        "tus",
+        28
+      ],
+      [
+        "afecto",
+        28
+      ],
+      [
+        "llanto",
+        26
+      ],
+      [
+        "cuanto",
+        26
+      ],
+      [
+        "honor",
+        26
+      ],
+      [
+        "oro",
+        26
+      ]
+    ],
+    "filtered_word_count": 7376
+  },
+  "semantic_fields": {
+    "divine": 0.009212584738397358,
+    "love": 0.012341387102381366,
+    "nature": 0.01686076829480271,
+    "light": 0.01686076829480271,
+    "transformation": 0.0,
+    "death": 0.0027811576568746743,
+    "beauty": 0.004345558838866679
+  }
+}

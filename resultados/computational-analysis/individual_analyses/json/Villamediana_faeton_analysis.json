@@ -1,0 +1,579 @@
+{
+  "metadata": {
+    "filename": "Villamediana_faeton.xml",
+    "title": "Fábula de Faetón",
+    "author": "Villamediana, Conde de",
+    "file_key": "Villamediana_faeton"
+  },
+  "basic_stats": {
+    "characters": 130869,
+    "words": 22228,
+    "sentences": 656,
+    "avg_word_length": 4.880061184092136,
+    "avg_sentence_length": 33.88414634146341
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.18647651610581248,
+    "avg_word_length": 4.880061184092136,
+    "syllable_density": 1.967518445204247,
+    "readability_score": 31.355177284181366,
+    "vowel_density": 0.37018844538297335,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 43734.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 43734
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 33.88414634146341,
+    "sentence_length_variance": 238.32194378346225,
+    "function_word_frequency": 0.23618859096634875,
+    "punctuation_frequency": 0.023167382039923183,
+    "uppercase_frequency": 0.009211865249692044,
+    "freq_a": 0.09185851676727799,
+    "freq_e": 0.10731363952838922,
+    "freq_i": 0.048232224696062004,
+    "freq_o": 0.0755311742067773,
+    "freq_u": 0.03358811332736551
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          12
+        ],
+        [
+          "Febo",
+          4
+        ],
+        [
+          "Júpiter",
+          2
+        ],
+        [
+          "Venus",
+          4
+        ],
+        [
+          "Diana",
+          2
+        ],
+        [
+          "Cintia",
+          6
+        ],
+        [
+          "Amor",
+          42
+        ],
+        [
+          "Cupido",
+          2
+        ],
+        [
+          "Neptuno",
+          16
+        ],
+        [
+          "Marte",
+          14
+        ],
+        [
+          "Minerva",
+          4
+        ],
+        [
+          "Palas",
+          4
+        ]
+      ],
+      "heroes": [
+        [
+          "Faetón",
+          26
+        ],
+        [
+          "Alcides",
+          14
+        ],
+        [
+          "Hércules",
+          2
+        ]
+      ],
+      "nymphs": [
+        [
+          "Dafne",
+          4
+        ],
+        [
+          "Europa",
+          2
+        ],
+        [
+          "Tetis",
+          38
+        ],
+        [
+          "Galatea",
+          2
+        ],
+        [
+          "Climene",
+          14
+        ],
+        [
+          "Siringa",
+          2
+        ]
+      ],
+      "places": [
+        [
+          "Olimpo",
+          6
+        ],
+        [
+          "Helicona",
+          2
+        ],
+        [
+          "Délo",
+          4
+        ]
+      ],
+      "creatures": [
+        [
+          "Fénix",
+          2
+        ],
+        [
+          "Fitón",
+          2
+        ],
+        [
+          "Cerbero",
+          4
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "nueva porfía",
+        "LOC"
+      ],
+      [
+        "Terror",
+        "PER"
+      ],
+      [
+        "Erebo a negro rey",
+        "MISC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "horóscopo fatal",
+        "PER"
+      ],
+      [
+        "Erídano viste su ribera de los",
+        "MISC"
+      ],
+      [
+        "Alcides",
+        "PER"
+      ],
+      [
+        "Esta empresa inmortal",
+        "MISC"
+      ],
+      [
+        "Arcadia",
+        "LOC"
+      ],
+      [
+        "Siringa",
+        "LOC"
+      ],
+      [
+        "Ésta",
+        "LOC"
+      ],
+      [
+        "Más",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "Belona",
+        "PER"
+      ],
+      [
+        "armonía",
+        "LOC"
+      ],
+      [
+        "Flora",
+        "PER"
+      ],
+      [
+        "Ceres",
+        "PER"
+      ],
+      [
+        "Amor formó cometa",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Oh milagro de amor",
+        "MISC"
+      ],
+      [
+        "llegó",
+        "PER"
+      ],
+      [
+        "Honor",
+        "PER"
+      ],
+      [
+        "Eres Cintia",
+        "PER"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Mayo",
+        "ORG"
+      ],
+      [
+        "Arcadia",
+        "LOC"
+      ],
+      [
+        "Huye",
+        "ORG"
+      ],
+      [
+        "Anhelante deidad favor",
+        "MISC"
+      ],
+      [
+        "Diana",
+        "PER"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Dafne",
+        "PER"
+      ],
+      [
+        "Atalanta",
+        "LOC"
+      ],
+      [
+        "Desta",
+        "PER"
+      ],
+      [
+        "Suspensión",
+        "PER"
+      ],
+      [
+        "admiró ninfa",
+        "PER"
+      ],
+      [
+        "flébil",
+        "LOC"
+      ],
+      [
+        "Endechas",
+        "PER"
+      ],
+      [
+        "De aquí formó Mercurio",
+        "MISC"
+      ],
+      [
+        "Juno",
+        "PER"
+      ],
+      [
+        "armonía",
+        "PER"
+      ],
+      [
+        "Talía",
+        "LOC"
+      ],
+      [
+        "Iieo",
+        "PER"
+      ],
+      [
+        "Morfeo",
+        "PER"
+      ],
+      [
+        "Asió",
+        "PER"
+      ],
+      [
+        "La intacta flor del fértil",
+        "MISC"
+      ],
+      [
+        "A sueño yace eterno",
+        "MISC"
+      ],
+      [
+        "monte luminoso",
+        "LOC"
+      ],
+      [
+        "No la deidad quejosa",
+        "MISC"
+      ],
+      [
+        "pavón",
+        "PER"
+      ],
+      [
+        "Del vago adorno el pájaro bizarro",
+        "MISC"
+      ],
+      [
+        "Juno",
+        "PER"
+      ],
+      [
+        "La pacífica bestia",
+        "MISC"
+      ],
+      [
+        "Nilo",
+        "LOC"
+      ],
+      [
+        "Cediendo",
+        "LOC"
+      ],
+      [
+        "flébil",
+        "LOC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "Acetada",
+        "ORG"
+      ],
+      [
+        "pía seguridad",
+        "ORG"
+      ],
+      [
+        "La primitiva",
+        "MISC"
+      ],
+      [
+        "Ninfa",
+        "PER"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "Humana",
+        "ORG"
+      ],
+      [
+        "Si primer no lugar",
+        "MISC"
+      ],
+      [
+        "Epafo",
+        "MISC"
+      ],
+      [
+        "Hízose",
+        "PER"
+      ],
+      [
+        "Con el que informó",
+        "MISC"
+      ],
+      [
+        "Esplendor",
+        "PER"
+      ],
+      [
+        "Más",
+        "PER"
+      ],
+      [
+        "Faetón",
+        "LOC"
+      ],
+      [
+        "Sabes",
+        "PER"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "El ser tú hijo de la luz febea",
+        "MISC"
+      ],
+      [
+        "Huye",
+        "PER"
+      ],
+      [
+        "Climene",
+        "PER"
+      ],
+      [
+        "Oráculo",
+        "PER"
+      ],
+      [
+        "Madre",
+        "LOC"
+      ],
+      [
+        "Climene",
+        "PER"
+      ],
+      [
+        "Mi afrenta advierte",
+        "MISC"
+      ],
+      [
+        "Corpóreo",
+        "MISC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 16216,
+    "unique_words": 3274,
+    "vocabulary_richness": 0.20189935865811545,
+    "top_words": [
+      [
+        "los",
+        202
+      ],
+      [
+        "las",
+        158
+      ],
+      [
+        "luz",
+        142
+      ],
+      [
+        "cielo",
+        70
+      ],
+      [
+        "ardiente",
+        66
+      ],
+      [
+        "gran",
+        50
+      ],
+      [
+        "inmortal",
+        46
+      ],
+      [
+        "padre",
+        46
+      ],
+      [
+        "región",
+        46
+      ],
+      [
+        "carro",
+        44
+      ],
+      [
+        "sin",
+        44
+      ],
+      [
+        "viento",
+        44
+      ],
+      [
+        "rayos",
+        44
+      ],
+      [
+        "eterno",
+        42
+      ],
+      [
+        "amor",
+        42
+      ],
+      [
+        "forma",
+        42
+      ],
+      [
+        "mayor",
+        42
+      ],
+      [
+        "cuyo",
+        40
+      ],
+      [
+        "hijo",
+        38
+      ],
+      [
+        "mano",
+        38
+      ]
+    ],
+    "filtered_word_count": 14310
+  },
+  "semantic_fields": {
+    "divine": 0.006658268850098974,
+    "love": 0.005578549577109951,
+    "nature": 0.010437286305560555,
+    "light": 0.014846140003599064,
+    "transformation": 8.997660608241857e-05,
+    "death": 0.005218643152780277,
+    "beauty": 0.0030592046068022316
+  }
+}

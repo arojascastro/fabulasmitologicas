@@ -1,0 +1,418 @@
+{
+  "metadata": {
+    "filename": "Villamediana_fenix.xml",
+    "title": "Fábula de la Fénix",
+    "author": "Villamediana, Conde de",
+    "file_key": "Villamediana_fenix"
+  },
+  "basic_stats": {
+    "characters": 17353,
+    "words": 2948,
+    "sentences": 56,
+    "avg_word_length": 4.883649932157395,
+    "avg_sentence_length": 52.642857142857146
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.46302578018995927,
+    "avg_word_length": 4.883649932157395,
+    "syllable_density": 1.9840569877883312,
+    "readability_score": 11.378958616010863,
+    "vowel_density": 0.3731549815498155,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 5849.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 5849
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 52.642857142857146,
+    "sentence_length_variance": 1057.6581632653063,
+    "function_word_frequency": 0.23066485753052918,
+    "punctuation_frequency": 0.021044741697416974,
+    "uppercase_frequency": 0.005823339483394834,
+    "freq_a": 0.09507610701107011,
+    "freq_e": 0.10285977859778597,
+    "freq_i": 0.04779750922509225,
+    "freq_o": 0.0759340405904059,
+    "freq_u": 0.03943726937269373
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          2
+        ],
+        [
+          "Febo",
+          1
+        ],
+        [
+          "Júpiter",
+          2
+        ],
+        [
+          "Venus",
+          1
+        ],
+        [
+          "Neptuno",
+          2
+        ]
+      ],
+      "heroes": [
+        [
+          "Narciso",
+          1
+        ]
+      ],
+      "nymphs": [],
+      "places": [
+        [
+          "Tempe",
+          1
+        ],
+        [
+          "Creta",
+          1
+        ]
+      ],
+      "creatures": [
+        [
+          "Fénix",
+          2
+        ],
+        [
+          "Argos",
+          1
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Reservóla",
+        "MISC"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "Flora",
+        "PER"
+      ],
+      [
+        "Noto",
+        "PER"
+      ],
+      [
+        "Eolo",
+        "PER"
+      ],
+      [
+        "Apacible templanza",
+        "MISC"
+      ],
+      [
+        "Narciso",
+        "PER"
+      ],
+      [
+        "río",
+        "ORG"
+      ],
+      [
+        "Tempe",
+        "LOC"
+      ],
+      [
+        "ningún",
+        "PER"
+      ],
+      [
+        "De efímeral aliento",
+        "MISC"
+      ],
+      [
+        "Fénix divina vencedora del tiempo y de la suerte",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Aurora",
+        "MISC"
+      ],
+      [
+        "Latona",
+        "PER"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Orbe de pluma vago",
+        "MISC"
+      ],
+      [
+        "Alfesibeo.",
+        "ORG"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "dulce armonía",
+        "PER"
+      ],
+      [
+        "Ni el que nevada pluma",
+        "MISC"
+      ],
+      [
+        "Meandro",
+        "PER"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "día",
+        "ORG"
+      ],
+      [
+        "sacerdotisa misteriosa",
+        "PER"
+      ],
+      [
+        "Proserpina",
+        "PER"
+      ],
+      [
+        "Aquí",
+        "MISC"
+      ],
+      [
+        "Aquí",
+        "MISC"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Elisios campos aromáticos lampos",
+        "MISC"
+      ],
+      [
+        "Deja",
+        "MISC"
+      ],
+      [
+        "Luego a buscar",
+        "MISC"
+      ],
+      [
+        "Parca",
+        "LOC"
+      ],
+      [
+        "Aquí",
+        "MISC"
+      ],
+      [
+        "Fénix",
+        "MISC"
+      ],
+      [
+        "hidra",
+        "LOC"
+      ],
+      [
+        "Nilo",
+        "LOC"
+      ],
+      [
+        "Ave",
+        "PER"
+      ],
+      [
+        "Eco",
+        "LOC"
+      ],
+      [
+        "Tampoco de las nubes",
+        "MISC"
+      ],
+      [
+        "Luego formando sepultura",
+        "MISC"
+      ],
+      [
+        "Indo",
+        "LOC"
+      ],
+      [
+        "Ganges",
+        "PER"
+      ],
+      [
+        "Tiro",
+        "LOC"
+      ],
+      [
+        "Fenice",
+        "LOC"
+      ],
+      [
+        "Cambaya",
+        "LOC"
+      ],
+      [
+        "Luego abandona el moribundo",
+        "MISC"
+      ],
+      [
+        "Ya el ambiente del aura",
+        "MISC"
+      ],
+      [
+        "Mutación",
+        "MISC"
+      ],
+      [
+        "De mil nítidas estrellas la hoguera",
+        "MISC"
+      ],
+      [
+        "Lucina",
+        "MISC"
+      ],
+      [
+        "Crecida al fin en nueva forma altiva",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "canoro",
+        "PER"
+      ],
+      [
+        "No ya del norte",
+        "MISC"
+      ],
+      [
+        "belígero rapaz",
+        "PER"
+      ],
+      [
+        "Creta",
+        "LOC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 2175,
+    "unique_words": 1182,
+    "vocabulary_richness": 0.543448275862069,
+    "top_words": [
+      [
+        "las",
+        36
+      ],
+      [
+        "feliz",
+        13
+      ],
+      [
+        "fuego",
+        12
+      ],
+      [
+        "plumas",
+        11
+      ],
+      [
+        "los",
+        11
+      ],
+      [
+        "ave",
+        10
+      ],
+      [
+        "luz",
+        9
+      ],
+      [
+        "pompa",
+        9
+      ],
+      [
+        "sin",
+        9
+      ],
+      [
+        "inmortal",
+        9
+      ],
+      [
+        "para",
+        9
+      ],
+      [
+        "día",
+        8
+      ],
+      [
+        "selva",
+        8
+      ],
+      [
+        "verde",
+        8
+      ],
+      [
+        "quien",
+        8
+      ],
+      [
+        "sacro",
+        8
+      ],
+      [
+        "alas",
+        8
+      ],
+      [
+        "cuanto",
+        8
+      ],
+      [
+        "sublime",
+        8
+      ],
+      [
+        "dulce",
+        7
+      ]
+    ],
+    "filtered_word_count": 1876
+  },
+  "semantic_fields": {
+    "divine": 0.005766621438263229,
+    "love": 0.0037313432835820895,
+    "nature": 0.011194029850746268,
+    "light": 0.013907734056987787,
+    "transformation": 0.0,
+    "death": 0.007801899592944369,
+    "beauty": 0.00033921302578018993
+  }
+}

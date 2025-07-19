@@ -1,0 +1,682 @@
+{
+  "metadata": {
+    "filename": "Lope_filomenaprimera.xml",
+    "title": "La Filomena",
+    "author": "Lope de Vega, Félix",
+    "file_key": "Lope_filomenaprimera"
+  },
+  "basic_stats": {
+    "characters": 97987,
+    "words": 17442,
+    "sentences": 508,
+    "avg_word_length": 4.604976493521385,
+    "avg_sentence_length": 34.33464566929134
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.19005847953216373,
+    "avg_word_length": 4.604976493521385,
+    "syllable_density": 1.8069028781103085,
+    "readability_score": 40.95574166758445,
+    "vowel_density": 0.36163705363079346,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 31516.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 31516
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 34.33464566929134,
+    "sentence_length_variance": 336.02709405418807,
+    "function_word_frequency": 0.2598325880059626,
+    "punctuation_frequency": 0.0315054060412639,
+    "uppercase_frequency": 0.010269944047217193,
+    "freq_a": 0.09735988788985382,
+    "freq_e": 0.10627960024958828,
+    "freq_i": 0.04081382146254641,
+    "freq_o": 0.06957784801710293,
+    "freq_u": 0.03367395996358466
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          2
+        ],
+        [
+          "Febo",
+          6
+        ],
+        [
+          "Júpiter",
+          10
+        ],
+        [
+          "Venus",
+          10
+        ],
+        [
+          "Amor",
+          84
+        ],
+        [
+          "Cupido",
+          2
+        ],
+        [
+          "Neptuno",
+          2
+        ],
+        [
+          "Marte",
+          8
+        ],
+        [
+          "Minerva",
+          2
+        ]
+      ],
+      "heroes": [
+        [
+          "Faetón",
+          2
+        ],
+        [
+          "Narciso",
+          2
+        ],
+        [
+          "Orfeo",
+          8
+        ]
+      ],
+      "nymphs": [
+        [
+          "Dafne",
+          2
+        ],
+        [
+          "Europa",
+          6
+        ],
+        [
+          "Galatea",
+          2
+        ],
+        [
+          "Siringa",
+          2
+        ]
+      ],
+      "places": [],
+      "creatures": [
+        [
+          "Argos",
+          2
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Filomena a mí llorar cantando",
+        "MISC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Flora",
+        "LOC"
+      ],
+      [
+        "Así jamás",
+        "PER"
+      ],
+      [
+        "Vos",
+        "PER"
+      ],
+      [
+        "Leonor",
+        "PER"
+      ],
+      [
+        "España de honor",
+        "MISC"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "Conténtese",
+        "LOC"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "Atreveréme",
+        "PER"
+      ],
+      [
+        "Yo",
+        "MISC"
+      ],
+      [
+        "Ménalo",
+        "LOC"
+      ],
+      [
+        "Partenio",
+        "PER"
+      ],
+      [
+        "Angélica süave",
+        "MISC"
+      ],
+      [
+        "Aurora",
+        "MISC"
+      ],
+      [
+        "De la abrasada",
+        "MISC"
+      ],
+      [
+        "Aqueronte",
+        "LOC"
+      ],
+      [
+        "Tesifonte",
+        "LOC"
+      ],
+      [
+        "Atenas",
+        "LOC"
+      ],
+      [
+        "Armado Pandïón",
+        "PER"
+      ],
+      [
+        "Lisandro",
+        "PER"
+      ],
+      [
+        "Macedonia",
+        "LOC"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "selva amena",
+        "LOC"
+      ],
+      [
+        "Los dos cabos de Sunio y Cinosura",
+        "MISC"
+      ],
+      [
+        "Atica",
+        "LOC"
+      ],
+      [
+        "cabo de Maina",
+        "LOC"
+      ],
+      [
+        "Corón",
+        "PER"
+      ],
+      [
+        "Chelonata",
+        "PER"
+      ],
+      [
+        "Alcino",
+        "PER"
+      ],
+      [
+        "Patraso",
+        "LOC"
+      ],
+      [
+        "Navarino",
+        "LOC"
+      ],
+      [
+        "Entre el Peneo",
+        "LOC"
+      ],
+      [
+        "Alceo",
+        "LOC"
+      ],
+      [
+        "Elide",
+        "LOC"
+      ],
+      [
+        "Olimpia",
+        "LOC"
+      ],
+      [
+        "Micenas",
+        "LOC"
+      ],
+      [
+        "Argos",
+        "LOC"
+      ],
+      [
+        "Eurota",
+        "MISC"
+      ],
+      [
+        "Acaya",
+        "LOC"
+      ],
+      [
+        "Tebas",
+        "LOC"
+      ],
+      [
+        "Corinto",
+        "LOC"
+      ],
+      [
+        "río Strimón",
+        "LOC"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "reino macedón",
+        "LOC"
+      ],
+      [
+        "Tereo",
+        "LOC"
+      ],
+      [
+        "Tracia",
+        "LOC"
+      ],
+      [
+        "Valiente",
+        "MISC"
+      ],
+      [
+        "Amor solicitó",
+        "MISC"
+      ],
+      [
+        "Atenas",
+        "LOC"
+      ],
+      [
+        "ja",
+        "LOC"
+      ],
+      [
+        "Los dorados balcones de palacio",
+        "MISC"
+      ],
+      [
+        "Dafnes",
+        "PER"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Progne",
+        "LOC"
+      ],
+      [
+        "pecho de Tereo",
+        "PER"
+      ],
+      [
+        "Desconociera",
+        "PER"
+      ],
+      [
+        "pardo",
+        "LOC"
+      ],
+      [
+        "trigueño",
+        "LOC"
+      ],
+      [
+        "Tierno",
+        "LOC"
+      ],
+      [
+        "Progne",
+        "LOC"
+      ],
+      [
+        "Era Tereo",
+        "MISC"
+      ],
+      [
+        "Aquella noche",
+        "MISC"
+      ],
+      [
+        "Pandïón",
+        "PER"
+      ],
+      [
+        "Sale Progne",
+        "LOC"
+      ],
+      [
+        "Filomena",
+        "MISC"
+      ],
+      [
+        "Zeusis",
+        "PER"
+      ],
+      [
+        "Helena",
+        "PER"
+      ],
+      [
+        "Rubio",
+        "LOC"
+      ],
+      [
+        "No diera el cuello a perfección humana",
+        "MISC"
+      ],
+      [
+        "dulce tirana",
+        "PER"
+      ],
+      [
+        "Toro",
+        "LOC"
+      ],
+      [
+        "La sala toda en suspensión",
+        "MISC"
+      ],
+      [
+        "tenía",
+        "LOC"
+      ],
+      [
+        "Cenó Tereo",
+        "LOC"
+      ],
+      [
+        "Progne",
+        "LOC"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "Bien",
+        "MISC"
+      ],
+      [
+        "Amor llegar Deseo",
+        "MISC"
+      ],
+      [
+        "Aquella",
+        "PER"
+      ],
+      [
+        "Atenas",
+        "LOC"
+      ],
+      [
+        "Por qué dulce principio",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Ay!",
+        "MISC"
+      ],
+      [
+        "Dieras",
+        "PER"
+      ],
+      [
+        "Duerme",
+        "MISC"
+      ],
+      [
+        "Oh Pandïón!",
+        "MISC"
+      ],
+      [
+        "Tienta",
+        "PER"
+      ],
+      [
+        "Arminda",
+        "PER"
+      ],
+      [
+        "Arminda",
+        "PER"
+      ],
+      [
+        "Progne",
+        "PER"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "Pintaba cielo y tierra el alba clara",
+        "MISC"
+      ],
+      [
+        "Progne",
+        "LOC"
+      ],
+      [
+        "Asistieron",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Himeneo",
+        "PER"
+      ],
+      [
+        "Manda Tereo",
+        "PER"
+      ],
+      [
+        "Abraza Pandïón",
+        "PER"
+      ],
+      [
+        "Progne",
+        "PER"
+      ],
+      [
+        "Retrato Filomena del Aurora",
+        "PER"
+      ],
+      [
+        "Progne",
+        "LOC"
+      ],
+      [
+        "Al casto pecho encomendó Tereo incastos brazos",
+        "MISC"
+      ],
+      [
+        "tritones",
+        "PER"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Llegó Tereo",
+        "PER"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "Estrimón",
+        "LOC"
+      ],
+      [
+        "Leteo",
+        "LOC"
+      ],
+      [
+        "Bañó",
+        "LOC"
+      ],
+      [
+        "Progne",
+        "PER"
+      ],
+      [
+        "Bello Cupido",
+        "PER"
+      ],
+      [
+        "Ante",
+        "ORG"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 12488,
+    "unique_words": 2572,
+    "vocabulary_richness": 0.2059577194106342,
+    "top_words": [
+      [
+        "los",
+        294
+      ],
+      [
+        "las",
+        224
+      ],
+      [
+        "filomena",
+        86
+      ],
+      [
+        "amor",
+        84
+      ],
+      [
+        "progne",
+        70
+      ],
+      [
+        "tan",
+        64
+      ],
+      [
+        "mar",
+        60
+      ],
+      [
+        "sin",
+        56
+      ],
+      [
+        "sol",
+        52
+      ],
+      [
+        "voz",
+        48
+      ],
+      [
+        "quien",
+        46
+      ],
+      [
+        "qué",
+        46
+      ],
+      [
+        "pues",
+        44
+      ],
+      [
+        "ojos",
+        42
+      ],
+      [
+        "tereo",
+        40
+      ],
+      [
+        "alma",
+        38
+      ],
+      [
+        "dos",
+        38
+      ],
+      [
+        "para",
+        36
+      ],
+      [
+        "lengua",
+        34
+      ],
+      [
+        "hermosa",
+        34
+      ]
+    ],
+    "filtered_word_count": 10656
+  },
+  "semantic_fields": {
+    "divine": 0.003669303978901502,
+    "love": 0.012498566678133241,
+    "nature": 0.01708519665176012,
+    "light": 0.0026373122348354546,
+    "transformation": 0.00022933149868134388,
+    "death": 0.001834651989450751,
+    "beauty": 0.005733287467033597
+  }
+}

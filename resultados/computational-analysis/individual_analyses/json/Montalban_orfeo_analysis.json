@@ -1,0 +1,635 @@
+{
+  "metadata": {
+    "filename": "Montalban_orfeo.xml",
+    "title": "El Orfeo en lengua castellana",
+    "author": "Montalbán, Juan Pérez de",
+    "file_key": "Montalban_orfeo"
+  },
+  "basic_stats": {
+    "characters": 133675,
+    "words": 23662,
+    "sentences": 538,
+    "avg_word_length": 4.625390922153664,
+    "avg_sentence_length": 43.98141263940521
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.17513312484151805,
+    "avg_word_length": 4.625390922153664,
+    "syllable_density": 1.841010903558448,
+    "readability_score": 29.517566097225,
+    "vowel_density": 0.3670580810926548,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 43562.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 43562
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 43.98141263940521,
+    "sentence_length_variance": 167.57247688672075,
+    "function_word_frequency": 0.24545685064660638,
+    "punctuation_frequency": 0.02621950761417506,
+    "uppercase_frequency": 0.011840098567318023,
+    "freq_a": 0.09556221686312516,
+    "freq_e": 0.1043972142712254,
+    "freq_i": 0.04414493602890907,
+    "freq_o": 0.07158150961256733,
+    "freq_u": 0.03591095885265238
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          22
+        ],
+        [
+          "Febo",
+          8
+        ],
+        [
+          "Júpiter",
+          6
+        ],
+        [
+          "Venus",
+          10
+        ],
+        [
+          "Diana",
+          6
+        ],
+        [
+          "Amor",
+          128
+        ],
+        [
+          "Cupido",
+          2
+        ],
+        [
+          "Neptuno",
+          2
+        ],
+        [
+          "Marte",
+          6
+        ]
+      ],
+      "heroes": [
+        [
+          "Alcides",
+          2
+        ],
+        [
+          "Narciso",
+          2
+        ],
+        [
+          "Orfeo",
+          46
+        ]
+      ],
+      "nymphs": [
+        [
+          "Dafne",
+          8
+        ],
+        [
+          "Europa",
+          2
+        ]
+      ],
+      "places": [
+        [
+          "Parnaso",
+          4
+        ]
+      ],
+      "creatures": [
+        [
+          "Fénix",
+          4
+        ],
+        [
+          "Argos",
+          2
+        ],
+        [
+          "Cerbero",
+          4
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Deseo",
+        "PER"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "Clío",
+        "PER"
+      ],
+      [
+        "Leteo",
+        "PER"
+      ],
+      [
+        "Prometeo",
+        "PER"
+      ],
+      [
+        "Empresa desigual",
+        "MISC"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Tú",
+        "MISC"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "Si cantara tu voz",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "Marte Venus",
+        "PER"
+      ],
+      [
+        "Macedonia",
+        "LOC"
+      ],
+      [
+        "Istro",
+        "LOC"
+      ],
+      [
+        "Tracia",
+        "LOC"
+      ],
+      [
+        "Hebro",
+        "LOC"
+      ],
+      [
+        "Oriente",
+        "MISC"
+      ],
+      [
+        "Rodope",
+        "PER"
+      ],
+      [
+        "Trace",
+        "LOC"
+      ],
+      [
+        "Apolo Didimeo",
+        "PER"
+      ],
+      [
+        "Musas",
+        "PER"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "Aries de los hijos de",
+        "MISC"
+      ],
+      [
+        "Atamante",
+        "PER"
+      ],
+      [
+        "Éufrates",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "No se atreviera",
+        "MISC"
+      ],
+      [
+        "Aurora",
+        "MISC"
+      ],
+      [
+        "Eran los ojos de zafir celeste",
+        "MISC"
+      ],
+      [
+        "Naturaleza que le preste perlas al mar del Sur",
+        "MISC"
+      ],
+      [
+        "Alba",
+        "LOC"
+      ],
+      [
+        "Ceilán",
+        "LOC"
+      ],
+      [
+        "Apenas guarnecían",
+        "MISC"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Amábanle",
+        "MISC"
+      ],
+      [
+        "Eco",
+        "PER"
+      ],
+      [
+        "Narciso",
+        "PER"
+      ],
+      [
+        "Cipariso",
+        "LOC"
+      ],
+      [
+        "Amaba Dafne",
+        "PER"
+      ],
+      [
+        "Ropode",
+        "MISC"
+      ],
+      [
+        "Dafne",
+        "LOC"
+      ],
+      [
+        "Amaltea",
+        "PER"
+      ],
+      [
+        "Pomona",
+        "LOC"
+      ],
+      [
+        "Flora",
+        "LOC"
+      ],
+      [
+        "Céfalo el Aurora",
+        "LOC"
+      ],
+      [
+        "monte Latmo",
+        "LOC"
+      ],
+      [
+        "la Luna",
+        "LOC"
+      ],
+      [
+        "Clicie",
+        "PER"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "Oriental",
+        "LOC"
+      ],
+      [
+        "La Diosa",
+        "MISC"
+      ],
+      [
+        "Rodope",
+        "PER"
+      ],
+      [
+        "Templa",
+        "LOC"
+      ],
+      [
+        "tuerce",
+        "PER"
+      ],
+      [
+        "Dios",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "La cadena después",
+        "MISC"
+      ],
+      [
+        "Cantó cómo",
+        "MISC"
+      ],
+      [
+        "Cantó cómo",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Cantó cómo",
+        "MISC"
+      ],
+      [
+        "Cantó cómo la tierra",
+        "MISC"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "Regio Imperio",
+        "LOC"
+      ],
+      [
+        "copa Roma",
+        "MISC"
+      ],
+      [
+        "Troya",
+        "LOC"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "Elocuencia",
+        "ORG"
+      ],
+      [
+        "Invención",
+        "MISC"
+      ],
+      [
+        "Disposición seguía: la Elocución",
+        "MISC"
+      ],
+      [
+        "Memoria",
+        "MISC"
+      ],
+      [
+        "Pronunciación",
+        "MISC"
+      ],
+      [
+        "Enseñó",
+        "PER"
+      ],
+      [
+        "Teórica",
+        "LOC"
+      ],
+      [
+        "armonía",
+        "LOC"
+      ],
+      [
+        "Simetría",
+        "MISC"
+      ],
+      [
+        "La Pintura",
+        "LOC"
+      ],
+      [
+        "Adrianos",
+        "PER"
+      ],
+      [
+        "Fabios",
+        "LOC"
+      ],
+      [
+        "Naturaleza a los Pintores",
+        "MISC"
+      ],
+      [
+        "Pintor Naturaleza fuera",
+        "MISC"
+      ],
+      [
+        "Dafnes detenía",
+        "PER"
+      ],
+      [
+        "Las fuentes por las márgenes floridas",
+        "MISC"
+      ],
+      [
+        "Hermosa",
+        "PER"
+      ],
+      [
+        "Hebro",
+        "MISC"
+      ],
+      [
+        "Eurídice",
+        "PER"
+      ],
+      [
+        "nació",
+        "PER"
+      ],
+      [
+        "Eran los ojos sobre escuros velos",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "tenían",
+        "PER"
+      ],
+      [
+        "Cual suele al Alba",
+        "MISC"
+      ],
+      [
+        "Tiro",
+        "LOC"
+      ],
+      [
+        "Rindió",
+        "PER"
+      ],
+      [
+        "Alba",
+        "ORG"
+      ],
+      [
+        "jazmín exala",
+        "PER"
+      ],
+      [
+        "Naturaleza.",
+        "MISC"
+      ],
+      [
+        "Hebro",
+        "LOC"
+      ],
+      [
+        "Allí",
+        "LOC"
+      ],
+      [
+        "Oso",
+        "MISC"
+      ],
+      [
+        "Diana",
+        "PER"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "canoro",
+        "PER"
+      ],
+      [
+        "Ella suspensa",
+        "MISC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 17086,
+    "unique_words": 3266,
+    "vocabulary_richness": 0.19115064965468806,
+    "top_words": [
+      [
+        "las",
+        368
+      ],
+      [
+        "los",
+        342
+      ],
+      [
+        "amor",
+        128
+      ],
+      [
+        "tan",
+        80
+      ],
+      [
+        "sin",
+        74
+      ],
+      [
+        "para",
+        74
+      ],
+      [
+        "alma",
+        68
+      ],
+      [
+        "dulce",
+        66
+      ],
+      [
+        "quien",
+        64
+      ],
+      [
+        "pues",
+        56
+      ],
+      [
+        "así",
+        54
+      ],
+      [
+        "aunque",
+        52
+      ],
+      [
+        "bien",
+        52
+      ],
+      [
+        "sol",
+        48
+      ],
+      [
+        "fuego",
+        48
+      ],
+      [
+        "eurídice",
+        48
+      ],
+      [
+        "orfeo",
+        46
+      ],
+      [
+        "cómo",
+        44
+      ],
+      [
+        "vida",
+        44
+      ],
+      [
+        "qué",
+        44
+      ]
+    ],
+    "filtered_word_count": 14662
+  },
+  "semantic_fields": {
+    "divine": 0.006170230749725298,
+    "love": 0.012932127461753021,
+    "nature": 0.012932127461753021,
+    "light": 0.006677373003127377,
+    "transformation": 0.0001690474178006931,
+    "death": 0.0030428535204124756,
+    "beauty": 0.004310709153917674
+  }
+}

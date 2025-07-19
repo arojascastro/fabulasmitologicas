@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "filename": "Soto_fragmentosadonis.xml",
+    "title": "Fragmentos de Adonis",
+    "author": "Soto de Rojas, Pedro",
+    "file_key": "Soto_fragmentosadonis"
+  },
+  "basic_stats": {
+    "characters": 70359,
+    "words": 12079,
+    "sentences": 357,
+    "avg_word_length": 4.800562960509976,
+    "avg_sentence_length": 33.83473389355742
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.3574799238347545,
+    "avg_word_length": 4.800562960509976,
+    "syllable_density": 1.9187018792946435,
+    "readability_score": 34.39309189713521,
+    "vowel_density": 0.3656228591002512,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 23176.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 23176
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 33.83473389355742,
+    "sentence_length_variance": 505.3332077929211,
+    "function_word_frequency": 0.2414107128073516,
+    "punctuation_frequency": 0.027346426124686,
+    "uppercase_frequency": 0.007364695135875771,
+    "freq_a": 0.09958038364923498,
+    "freq_e": 0.10520381365608586,
+    "freq_i": 0.04129081982187714,
+    "freq_o": 0.07096369034026033,
+    "freq_u": 0.037108928979219
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Febo",
+          3
+        ],
+        [
+          "Júpiter",
+          4
+        ],
+        [
+          "Venus",
+          27
+        ],
+        [
+          "Amor",
+          28
+        ],
+        [
+          "Cupido",
+          16
+        ],
+        [
+          "Neptuno",
+          3
+        ],
+        [
+          "Marte",
+          13
+        ],
+        [
+          "Minerva",
+          2
+        ]
+      ],
+      "heroes": [
+        [
+          "Faetón",
+          1
+        ],
+        [
+          "Alcides",
+          1
+        ]
+      ],
+      "nymphs": [
+        [
+          "Tetis",
+          1
+        ]
+      ],
+      "places": [],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "mar Panfilio",
+        "LOC"
+      ],
+      [
+        "Chipre",
+        "LOC"
+      ],
+      [
+        "Silicia",
+        "LOC"
+      ],
+      [
+        "Egipto",
+        "LOC"
+      ],
+      [
+        "Siria",
+        "LOC"
+      ],
+      [
+        "Panfilia",
+        "LOC"
+      ],
+      [
+        "Amaltea",
+        "LOC"
+      ],
+      [
+        "Priapo",
+        "ORG"
+      ],
+      [
+        "Pomona",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Ceres",
+        "LOC"
+      ],
+      [
+        "Baco",
+        "PER"
+      ],
+      [
+        "Minerva",
+        "PER"
+      ],
+      [
+        "Desta",
+        "PER"
+      ],
+      [
+        "Cinaras",
+        "PER"
+      ],
+      [
+        "Pigmaleón",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Mirra",
+        "PER"
+      ],
+      [
+        "Mirra más hermosa",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Oh veneno embozado!",
+        "MISC"
+      ],
+      [
+        "Disimulado el rey",
+        "MISC"
+      ],
+      [
+        "Por natural vergüenza",
+        "MISC"
+      ],
+      [
+        "Un apacible día",
+        "MISC"
+      ],
+      [
+        "Aurora",
+        "MISC"
+      ],
+      [
+        "Llevarse",
+        "PER"
+      ],
+      [
+        "Sigue",
+        "ORG"
+      ],
+      [
+        "Oh qué",
+        "MISC"
+      ],
+      [
+        "Llegó",
+        "LOC"
+      ],
+      [
+        "Fuese apartando un poco del ordinario paso",
+        "MISC"
+      ],
+      [
+        "Recostóse do",
+        "MISC"
+      ],
+      [
+        "Ya de la lucha bárbara",
+        "MISC"
+      ],
+      [
+        "No de otra suerte",
+        "MISC"
+      ],
+      [
+        "Salteada la ninfa",
+        "MISC"
+      ],
+      [
+        "El bien contento amante",
+        "MISC"
+      ],
+      [
+        "galantea solícito",
+        "PER"
+      ],
+      [
+        "purpúreas rosas",
+        "PER"
+      ],
+      [
+        "Pide",
+        "PER"
+      ],
+      [
+        "Pusóse",
+        "PER"
+      ],
+      [
+        "Calza",
+        "LOC"
+      ],
+      [
+        "Duplica",
+        "ORG"
+      ],
+      [
+        "Llegaron a su alcázar",
+        "MISC"
+      ],
+      [
+        "Aviva el apetito",
+        "MISC"
+      ],
+      [
+        "Llegado",
+        "MISC"
+      ],
+      [
+        "Mirra",
+        "PER"
+      ],
+      [
+        "Sus doncellas lo sienten",
+        "MISC"
+      ],
+      [
+        "Quisiera",
+        "LOC"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ],
+      [
+        "Quitar",
+        "LOC"
+      ],
+      [
+        "Busca",
+        "MISC"
+      ],
+      [
+        "Las puertas que conquista",
+        "MISC"
+      ],
+      [
+        "Pregunta a sus doncellas",
+        "MISC"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 8750,
+    "unique_words": 3353,
+    "vocabulary_richness": 0.3832,
+    "top_words": [
+      [
+        "los",
+        180
+      ],
+      [
+        "las",
+        101
+      ],
+      [
+        "dulce",
+        39
+      ],
+      [
+        "sin",
+        39
+      ],
+      [
+        "aunque",
+        35
+      ],
+      [
+        "mas",
+        31
+      ],
+      [
+        "tan",
+        31
+      ],
+      [
+        "amor",
+        28
+      ],
+      [
+        "venus",
+        27
+      ],
+      [
+        "para",
+        26
+      ],
+      [
+        "adonis",
+        25
+      ],
+      [
+        "mano",
+        24
+      ],
+      [
+        "hermosa",
+        24
+      ],
+      [
+        "siempre",
+        23
+      ],
+      [
+        "vida",
+        21
+      ],
+      [
+        "voz",
+        21
+      ],
+      [
+        "tanto",
+        20
+      ],
+      [
+        "cual",
+        20
+      ],
+      [
+        "ojos",
+        19
+      ],
+      [
+        "fiera",
+        19
+      ]
+    ],
+    "filtered_word_count": 7417
+  },
+  "semantic_fields": {
+    "divine": 0.0025664376190081962,
+    "love": 0.010762480337776307,
+    "nature": 0.010514115406904546,
+    "light": 0.0031459557910423048,
+    "transformation": 0.0,
+    "death": 0.002814802549879957,
+    "beauty": 0.0063746998923751965
+  }
+}

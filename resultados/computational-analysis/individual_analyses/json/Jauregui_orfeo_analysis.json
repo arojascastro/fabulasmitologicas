@@ -1,0 +1,523 @@
+{
+  "metadata": {
+    "filename": "Jauregui_orfeo.xml",
+    "title": "Orfeo",
+    "author": "Jáuregui, Juan de",
+    "file_key": "Jauregui_orfeo"
+  },
+  "basic_stats": {
+    "characters": 107085,
+    "words": 18216,
+    "sentences": 694,
+    "avg_word_length": 4.8686868686868685,
+    "avg_sentence_length": 26.2478386167147
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.21025472112428634,
+    "avg_word_length": 4.8686868686868685,
+    "syllable_density": 1.953227931488801,
+    "readability_score": 39.65774496736836,
+    "vowel_density": 0.3676604024208862,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 35580.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 35580
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 26.2478386167147,
+    "sentence_length_variance": 158.44089727512062,
+    "function_word_frequency": 0.2486824769433465,
+    "punctuation_frequency": 0.03247804084076219,
+    "uppercase_frequency": 0.009429108631189021,
+    "freq_a": 0.09365499565026239,
+    "freq_e": 0.10400082317615034,
+    "freq_i": 0.049895699840041906,
+    "freq_o": 0.07350588851575728,
+    "freq_u": 0.03322638279561846
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          4
+        ],
+        [
+          "Febo",
+          6
+        ],
+        [
+          "Venus",
+          4
+        ],
+        [
+          "Cintia",
+          2
+        ],
+        [
+          "Amor",
+          40
+        ],
+        [
+          "Cupido",
+          2
+        ],
+        [
+          "Marte",
+          2
+        ],
+        [
+          "Minerva",
+          2
+        ]
+      ],
+      "heroes": [
+        [
+          "Alcides",
+          4
+        ],
+        [
+          "Orfeo",
+          30
+        ]
+      ],
+      "nymphs": [
+        [
+          "Dafne",
+          2
+        ],
+        [
+          "Europa",
+          2
+        ]
+      ],
+      "places": [
+        [
+          "Helicona",
+          2
+        ]
+      ],
+      "creatures": [
+        [
+          "Cerbero",
+          4
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Orfeo",
+        "MISC"
+      ],
+      [
+        "No al vínculo legal del",
+        "MISC"
+      ],
+      [
+        "Himeneo",
+        "PER"
+      ],
+      [
+        "dulce melodía",
+        "PER"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Eurídice más bella",
+        "MISC"
+      ],
+      [
+        "Ay cuántas veces aduló, engañosa",
+        "MISC"
+      ],
+      [
+        "allí el halago",
+        "PER"
+      ],
+      [
+        "A Eurídice",
+        "MISC"
+      ],
+      [
+        "Cintia",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Minerva",
+        "PER"
+      ],
+      [
+        "Vesta",
+        "PER"
+      ],
+      [
+        "Émulo varonil",
+        "PER"
+      ],
+      [
+        "Un pecho y otro",
+        "MISC"
+      ],
+      [
+        "Ya alberga un corazón",
+        "MISC"
+      ],
+      [
+        "Cautelar",
+        "PER"
+      ],
+      [
+        "Juno",
+        "PER"
+      ],
+      [
+        "Después",
+        "MISC"
+      ],
+      [
+        "arrebató la llama",
+        "PER"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "Oh cuántas veces él",
+        "MISC"
+      ],
+      [
+        "Eurídice",
+        "PER"
+      ],
+      [
+        "Turba",
+        "MISC"
+      ],
+      [
+        "Oh cuántas veces en igual desvelo",
+        "MISC"
+      ],
+      [
+        "Sombras",
+        "PER"
+      ],
+      [
+        "Suspendido el rigor",
+        "MISC"
+      ],
+      [
+        "Bastardo",
+        "PER"
+      ],
+      [
+        "Eurídice",
+        "PER"
+      ],
+      [
+        "Al curso la defensa fugitivo",
+        "MISC"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "Lejos",
+        "MISC"
+      ],
+      [
+        "Indo del Ocaso",
+        "MISC"
+      ],
+      [
+        "Hiere improviso el venenoso",
+        "MISC"
+      ],
+      [
+        "Mortal",
+        "LOC"
+      ],
+      [
+        "Eurídice",
+        "PER"
+      ],
+      [
+        "Florido ornato finge",
+        "MISC"
+      ],
+      [
+        "Vierte",
+        "LOC"
+      ],
+      [
+        "Oh Alcides!",
+        "MISC"
+      ],
+      [
+        "Vengad",
+        "PER"
+      ],
+      [
+        "Encélado",
+        "LOC"
+      ],
+      [
+        "Mimantes",
+        "PER"
+      ],
+      [
+        "Tifeo",
+        "LOC"
+      ],
+      [
+        "Briareo",
+        "PER"
+      ],
+      [
+        "Obra",
+        "LOC"
+      ],
+      [
+        "Tonante!",
+        "MISC"
+      ],
+      [
+        "Etna",
+        "LOC"
+      ],
+      [
+        "Peloro",
+        "PER"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "Eurídice",
+        "PER"
+      ],
+      [
+        "Como sus ojos",
+        "MISC"
+      ],
+      [
+        "La dulce voz",
+        "MISC"
+      ],
+      [
+        "Pitagórico",
+        "LOC"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "Hijo",
+        "PER"
+      ],
+      [
+        "Delo",
+        "PER"
+      ],
+      [
+        "El castalio licor",
+        "MISC"
+      ],
+      [
+        "Helicona",
+        "LOC"
+      ],
+      [
+        "Tristezas",
+        "PER"
+      ],
+      [
+        "Radamanto",
+        "MISC"
+      ],
+      [
+        "Pluto",
+        "PER"
+      ],
+      [
+        "Dice,",
+        "MISC"
+      ],
+      [
+        "Eurídice",
+        "MISC"
+      ],
+      [
+        "Averno",
+        "LOC"
+      ],
+      [
+        "Sólo",
+        "PER"
+      ],
+      [
+        "Ténaro",
+        "PER"
+      ],
+      [
+        "Lacónico",
+        "LOC"
+      ],
+      [
+        "Intonsa breña",
+        "MISC"
+      ],
+      [
+        "Tan",
+        "LOC"
+      ],
+      [
+        "allí",
+        "PER"
+      ],
+      [
+        "De ciegas ondas lago ponzoñoso bate",
+        "MISC"
+      ],
+      [
+        "imprimió jamás",
+        "PER"
+      ],
+      [
+        "Previene",
+        "PER"
+      ],
+      [
+        "Desta",
+        "PER"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Ya excluye el lago",
+        "MISC"
+      ],
+      [
+        "oblicua senda",
+        "PER"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 12656,
+    "unique_words": 3023,
+    "vocabulary_richness": 0.2388590391908976,
+    "top_words": [
+      [
+        "los",
+        158
+      ],
+      [
+        "las",
+        122
+      ],
+      [
+        "voz",
+        116
+      ],
+      [
+        "canto",
+        64
+      ],
+      [
+        "amante",
+        58
+      ],
+      [
+        "mas",
+        44
+      ],
+      [
+        "eurídice",
+        44
+      ],
+      [
+        "amor",
+        40
+      ],
+      [
+        "lira",
+        38
+      ],
+      [
+        "así",
+        38
+      ],
+      [
+        "allí",
+        38
+      ],
+      [
+        "pecho",
+        36
+      ],
+      [
+        "sólo",
+        32
+      ],
+      [
+        "orfeo",
+        30
+      ],
+      [
+        "dulce",
+        30
+      ],
+      [
+        "bien",
+        30
+      ],
+      [
+        "toda",
+        28
+      ],
+      [
+        "mayor",
+        28
+      ],
+      [
+        "vida",
+        28
+      ],
+      [
+        "tanto",
+        28
+      ]
+    ],
+    "filtered_word_count": 11296
+  },
+  "semantic_fields": {
+    "divine": 0.0030742204655248135,
+    "love": 0.010430390865173474,
+    "nature": 0.00834431269213878,
+    "light": 0.004391743522178305,
+    "transformation": 0.00032938076416337287,
+    "death": 0.003403601229688186,
+    "beauty": 0.0025252525252525255
+  }
+}

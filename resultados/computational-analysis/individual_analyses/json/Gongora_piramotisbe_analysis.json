@@ -1,0 +1,569 @@
+{
+  "metadata": {
+    "filename": "Gongora_piramotisbe.xml",
+    "title": "Fábula de Píramo y Tisbe",
+    "author": "Góngora, Luis de",
+    "file_key": "Gongora_piramotisbe"
+  },
+  "basic_stats": {
+    "characters": 12805,
+    "words": 2246,
+    "sentences": 67,
+    "avg_word_length": 4.683437221727516,
+    "avg_sentence_length": 33.52238805970149
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.5387355298308103,
+    "avg_word_length": 4.683437221727516,
+    "syllable_density": 1.8682101513802316,
+    "readability_score": 37.267044253831784,
+    "vowel_density": 0.36289564399874646,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 4196.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 4196
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 33.52238805970149,
+    "sentence_length_variance": 494.9855201603921,
+    "function_word_frequency": 0.25779162956366874,
+    "punctuation_frequency": 0.03345346286430586,
+    "uppercase_frequency": 0.010496631677894407,
+    "freq_a": 0.07630836728298339,
+    "freq_e": 0.09088060169225948,
+    "freq_i": 0.0417580695706675,
+    "freq_o": 0.08774678784080225,
+    "freq_u": 0.05068943904732059
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Febo",
+          1
+        ],
+        [
+          "Júpiter",
+          1
+        ],
+        [
+          "Venus",
+          2
+        ],
+        [
+          "Cintia",
+          1
+        ],
+        [
+          "Amor",
+          6
+        ],
+        [
+          "Cupido",
+          1
+        ],
+        [
+          "Neptuno",
+          1
+        ],
+        [
+          "Palas",
+          2
+        ]
+      ],
+      "heroes": [
+        [
+          "Narciso",
+          1
+        ]
+      ],
+      "nymphs": [],
+      "places": [],
+      "creatures": [
+        [
+          "Fénix",
+          1
+        ],
+        [
+          "Argos",
+          1
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Babilonia",
+        "PER"
+      ],
+      [
+        "Archipoeta",
+        "LOC"
+      ],
+      [
+        "Píramo",
+        "PER"
+      ],
+      [
+        "Tisbe",
+        "PER"
+      ],
+      [
+        "Nasón, bien romo o bien narigudo",
+        "MISC"
+      ],
+      [
+        "Tigris",
+        "LOC"
+      ],
+      [
+        "Libertad",
+        "LOC"
+      ],
+      [
+        "Luciente cristal lascivo",
+        "MISC"
+      ],
+      [
+        "Árbitro",
+        "PER"
+      ],
+      [
+        "Un rubí concede",
+        "MISC"
+      ],
+      [
+        "Las pechugas",
+        "MISC"
+      ],
+      [
+        "Fénix",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "El etcétera es de mármol",
+        "MISC"
+      ],
+      [
+        "Paris",
+        "PER"
+      ],
+      [
+        "Licurgo",
+        "PER"
+      ],
+      [
+        "Palas",
+        "LOC"
+      ],
+      [
+        "Juno",
+        "PER"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Creció",
+        "MISC"
+      ],
+      [
+        "Tantas",
+        "ORG"
+      ],
+      [
+        "terciopelo de tripa",
+        "PER"
+      ],
+      [
+        "Tisbica",
+        "LOC"
+      ],
+      [
+        "Oh Píramo",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "PER"
+      ],
+      [
+        "Narciso",
+        "PER"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "Píramo",
+        "LOC"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ],
+      [
+        "Amor encarecimiento",
+        "MISC"
+      ],
+      [
+        "Intimado",
+        "LOC"
+      ],
+      [
+        "Píramo",
+        "PER"
+      ],
+      [
+        "alba",
+        "LOC"
+      ],
+      [
+        "Calificarle sus pasas",
+        "MISC"
+      ],
+      [
+        "Abrazóla",
+        "LOC"
+      ],
+      [
+        "Congo",
+        "LOC"
+      ],
+      [
+        "Dios",
+        "PER"
+      ],
+      [
+        "Oh Destino",
+        "PER"
+      ],
+      [
+        "Un día que subió Tisbe",
+        "MISC"
+      ],
+      [
+        "Había",
+        "PER"
+      ],
+      [
+        "Píramo",
+        "PER"
+      ],
+      [
+        "Lo que he visto",
+        "MISC"
+      ],
+      [
+        "Efecto",
+        "ORG"
+      ],
+      [
+        "Pared",
+        "PER"
+      ],
+      [
+        "Amor sólo el estudio",
+        "MISC"
+      ],
+      [
+        "taladró",
+        "PER"
+      ],
+      [
+        "Troya",
+        "LOC"
+      ],
+      [
+        "Llegó",
+        "PER"
+      ],
+      [
+        "Mercurio",
+        "LOC"
+      ],
+      [
+        "nuncio",
+        "PER"
+      ],
+      [
+        "Argos",
+        "LOC"
+      ],
+      [
+        "Píramo",
+        "PER"
+      ],
+      [
+        "Palas",
+        "LOC"
+      ],
+      [
+        "Barco",
+        "PER"
+      ],
+      [
+        "augusto",
+        "PER"
+      ],
+      [
+        "Palinuro",
+        "PER"
+      ],
+      [
+        "Si a un leño",
+        "MISC"
+      ],
+      [
+        "Mediterráneo",
+        "LOC"
+      ],
+      [
+        "Dando",
+        "PER"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Dïana",
+        "PER"
+      ],
+      [
+        "Cuántas",
+        "PER"
+      ],
+      [
+        "metió el brazo",
+        "PER"
+      ],
+      [
+        "Cuántas",
+        "PER"
+      ],
+      [
+        "Orador",
+        "LOC"
+      ],
+      [
+        "Píramo",
+        "LOC"
+      ],
+      [
+        "Tulio",
+        "LOC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "asistía",
+        "LOC"
+      ],
+      [
+        "Media",
+        "MISC"
+      ],
+      [
+        "Tisbe",
+        "PER"
+      ],
+      [
+        "Dejó la ciudad de Nino",
+        "MISC"
+      ],
+      [
+        "funesto búho",
+        "PER"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "llegó",
+        "PER"
+      ],
+      [
+        "Olmo",
+        "PER"
+      ],
+      [
+        "Cintia",
+        "PER"
+      ],
+      [
+        "Tisbe",
+        "PER"
+      ],
+      [
+        "Ejecutarlo quería",
+        "MISC"
+      ],
+      [
+        "burdo",
+        "PER"
+      ],
+      [
+        "Temerosa",
+        "LOC"
+      ],
+      [
+        "Júpiter",
+        "LOC"
+      ],
+      [
+        "hará",
+        "PER"
+      ],
+      [
+        "Piramiburro",
+        "PER"
+      ],
+      [
+        "Vertumno",
+        "PER"
+      ],
+      [
+        "Bebió",
+        "PER"
+      ],
+      [
+        "Tisbe",
+        "LOC"
+      ],
+      [
+        "llegó",
+        "PER"
+      ],
+      [
+        "Llegó",
+        "PER"
+      ],
+      [
+        "Troncos",
+        "LOC"
+      ],
+      [
+        "Madama Luna",
+        "LOC"
+      ],
+      [
+        "Saturno",
+        "LOC"
+      ],
+      [
+        "Lisipo",
+        "PER"
+      ],
+      [
+        "Píramo",
+        "PER"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 1573,
+    "unique_words": 1074,
+    "vocabulary_richness": 0.6827717736808646,
+    "top_words": [
+      [
+        "los",
+        43
+      ],
+      [
+        "las",
+        26
+      ],
+      [
+        "dos",
+        11
+      ],
+      [
+        "píramo",
+        9
+      ],
+      [
+        "sin",
+        7
+      ],
+      [
+        "aun",
+        7
+      ],
+      [
+        "tisbe",
+        6
+      ],
+      [
+        "bien",
+        6
+      ],
+      [
+        "amor",
+        6
+      ],
+      [
+        "mas",
+        6
+      ],
+      [
+        "quien",
+        5
+      ],
+      [
+        "veces",
+        5
+      ],
+      [
+        "hizo",
+        4
+      ],
+      [
+        "mucho",
+        4
+      ],
+      [
+        "años",
+        4
+      ],
+      [
+        "mal",
+        4
+      ],
+      [
+        "divinos",
+        4
+      ],
+      [
+        "pesar",
+        4
+      ],
+      [
+        "llegó",
+        4
+      ],
+      [
+        "dejó",
+        4
+      ]
+    ],
+    "filtered_word_count": 1335
+  },
+  "semantic_fields": {
+    "divine": 0.003561887800534283,
+    "love": 0.004452359750667854,
+    "nature": 0.008904719501335707,
+    "light": 0.0017809439002671415,
+    "transformation": 0.0,
+    "death": 0.0026714158504007124,
+    "beauty": 0.0013357079252003562
+  }
+}

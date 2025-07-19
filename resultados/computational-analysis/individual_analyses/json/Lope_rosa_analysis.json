@@ -1,0 +1,601 @@
+{
+  "metadata": {
+    "filename": "Lope_rosa.xml",
+    "title": "La rosa blanca",
+    "author": "Lope de Vega, Félix",
+    "file_key": "Lope_rosa"
+  },
+  "basic_stats": {
+    "characters": 62313,
+    "words": 10994,
+    "sentences": 294,
+    "avg_word_length": 4.653265417500455,
+    "avg_sentence_length": 37.394557823129254
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.20529379661633618,
+    "avg_word_length": 4.653265417500455,
+    "syllable_density": 1.8386392577769692,
+    "readability_score": 36.29101372426703,
+    "vowel_density": 0.36462808321668194,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 20216.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 20216
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 37.394557823129254,
+    "sentence_length_variance": 392.7177564903512,
+    "function_word_frequency": 0.2626887393123522,
+    "punctuation_frequency": 0.031471738186030794,
+    "uppercase_frequency": 0.011262891988865827,
+    "freq_a": 0.10217052018471143,
+    "freq_e": 0.10049717623207993,
+    "freq_i": 0.04138308313623272,
+    "freq_o": 0.06838184421811395,
+    "freq_u": 0.03652394973532204
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          6
+        ],
+        [
+          "Febo",
+          8
+        ],
+        [
+          "Júpiter",
+          26
+        ],
+        [
+          "Venus",
+          78
+        ],
+        [
+          "Amor",
+          78
+        ],
+        [
+          "Cupido",
+          4
+        ],
+        [
+          "Neptuno",
+          2
+        ],
+        [
+          "Marte",
+          30
+        ],
+        [
+          "Palas",
+          18
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [],
+      "places": [
+        [
+          "Olimpo",
+          2
+        ]
+      ],
+      "creatures": [
+        [
+          "Fénix",
+          2
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Hermosa Venus",
+        "PER"
+      ],
+      [
+        "Citerea",
+        "PER"
+      ],
+      [
+        "Oceano",
+        "PER"
+      ],
+      [
+        "Tu rosa blanca",
+        "MISC"
+      ],
+      [
+        "Ericina",
+        "ORG"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Aurora!",
+        "MISC"
+      ],
+      [
+        "rosas nació",
+        "PER"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Aurora",
+        "MISC"
+      ],
+      [
+        "María",
+        "MISC"
+      ],
+      [
+        "alba",
+        "ORG"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "Nació",
+        "PER"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Pangeo",
+        "PER"
+      ],
+      [
+        "Cleopatra",
+        "PER"
+      ],
+      [
+        "Antonio: No",
+        "PER"
+      ],
+      [
+        "Egipto",
+        "LOC"
+      ],
+      [
+        "Quedó",
+        "PER"
+      ],
+      [
+        "María",
+        "MISC"
+      ],
+      [
+        "Himineo",
+        "ORG"
+      ],
+      [
+        "Crece",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "isla de Chipre",
+        "LOC"
+      ],
+      [
+        "Siria",
+        "LOC"
+      ],
+      [
+        "Cilicia",
+        "LOC"
+      ],
+      [
+        "mar Carpacio",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Horas",
+        "MISC"
+      ],
+      [
+        "Temis",
+        "PER"
+      ],
+      [
+        "Júpiter",
+        "LOC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Apolo Cintio",
+        "PER"
+      ],
+      [
+        "España",
+        "LOC"
+      ],
+      [
+        "Mercurio",
+        "LOC"
+      ],
+      [
+        "Júpiter",
+        "PER"
+      ],
+      [
+        "Maya",
+        "LOC"
+      ],
+      [
+        "Plutón",
+        "LOC"
+      ],
+      [
+        "España",
+        "PER"
+      ],
+      [
+        "Plutón",
+        "LOC"
+      ],
+      [
+        "Ceres",
+        "LOC"
+      ],
+      [
+        "Sicilia",
+        "LOC"
+      ],
+      [
+        "Proserpina",
+        "PER"
+      ],
+      [
+        "Pan",
+        "PER"
+      ],
+      [
+        "Penélope",
+        "PER"
+      ],
+      [
+        "Mercurio",
+        "LOC"
+      ],
+      [
+        "bárbaro arcadio",
+        "PER"
+      ],
+      [
+        "Venus",
+        "MISC"
+      ],
+      [
+        "Pero sin igualdad",
+        "MISC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Oh",
+        "MISC"
+      ],
+      [
+        "Vulcanos",
+        "PER"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "No de otra suerte",
+        "MISC"
+      ],
+      [
+        "monte van",
+        "LOC"
+      ],
+      [
+        "Apenas asistió triste Himeneo",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "De la caída",
+        "MISC"
+      ],
+      [
+        "Lemnos",
+        "LOC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "Camello",
+        "PER"
+      ],
+      [
+        "tenía",
+        "LOC"
+      ],
+      [
+        "Mercurio",
+        "PER"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ],
+      [
+        "Mas cómo",
+        "MISC"
+      ],
+      [
+        "Con cuál amor",
+        "MISC"
+      ],
+      [
+        "Qué paz de amor",
+        "PER"
+      ],
+      [
+        "Cómo",
+        "PER"
+      ],
+      [
+        "No pudo sin amor fuerza ninguna",
+        "MISC"
+      ],
+      [
+        "Platón",
+        "PER"
+      ],
+      [
+        "caos Amor",
+        "MISC"
+      ],
+      [
+        "A Poro",
+        "MISC"
+      ],
+      [
+        "Poro",
+        "PER"
+      ],
+      [
+        "Penia",
+        "LOC"
+      ],
+      [
+        "Oh",
+        "MISC"
+      ],
+      [
+        "jamás",
+        "PER"
+      ],
+      [
+        "Siete veces el sol miró",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Viendo Venus",
+        "PER"
+      ],
+      [
+        "tenía",
+        "LOC"
+      ],
+      [
+        "Temis",
+        "PER"
+      ],
+      [
+        "Amor si no es amado",
+        "MISC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Ya no sabes qué",
+        "MISC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Venus te trasformas",
+        "MISC"
+      ],
+      [
+        "Júpiter",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Palas",
+        "LOC"
+      ],
+      [
+        "Nació",
+        "PER"
+      ],
+      [
+        "Anteros",
+        "PER"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 7982,
+    "unique_words": 1842,
+    "vocabulary_richness": 0.23076923076923078,
+    "top_words": [
+      [
+        "las",
+        140
+      ],
+      [
+        "los",
+        136
+      ],
+      [
+        "venus",
+        78
+      ],
+      [
+        "amor",
+        78
+      ],
+      [
+        "tan",
+        56
+      ],
+      [
+        "rosa",
+        44
+      ],
+      [
+        "oro",
+        34
+      ],
+      [
+        "sin",
+        34
+      ],
+      [
+        "hermosa",
+        32
+      ],
+      [
+        "luz",
+        30
+      ],
+      [
+        "mas",
+        30
+      ],
+      [
+        "dos",
+        30
+      ],
+      [
+        "marte",
+        30
+      ],
+      [
+        "cielo",
+        28
+      ],
+      [
+        "sol",
+        28
+      ],
+      [
+        "quien",
+        26
+      ],
+      [
+        "para",
+        26
+      ],
+      [
+        "júpiter",
+        26
+      ],
+      [
+        "nieve",
+        26
+      ],
+      [
+        "diosa",
+        26
+      ]
+    ],
+    "filtered_word_count": 6784
+  },
+  "semantic_fields": {
+    "divine": 0.010915044569765326,
+    "love": 0.014189557940694925,
+    "nature": 0.01637256685464799,
+    "light": 0.006912861560851373,
+    "transformation": 0.0,
+    "death": 0.0014553392759687103,
+    "beauty": 0.007822448608331818
+  }
+}

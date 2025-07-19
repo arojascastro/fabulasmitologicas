@@ -1,0 +1,599 @@
+{
+  "metadata": {
+    "filename": "Bermudez_narciso.xml",
+    "title": "El Narciso: flor traducida del Cefiso al Betis",
+    "author": "Bermúdez y Alfaro, Juan",
+    "file_key": "Bermudez_narciso"
+  },
+  "basic_stats": {
+    "characters": 173307,
+    "words": 28384,
+    "sentences": 728,
+    "avg_word_length": 5.079340473506201,
+    "avg_sentence_length": 38.989010989010985
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.17287908680947012,
+    "avg_word_length": 5.079340473506201,
+    "syllable_density": 1.9866121758737316,
+    "readability_score": 26.11136713217539,
+    "vowel_density": 0.3632812726377097,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 56388.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 56388
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 38.989010989010985,
+    "sentence_length_variance": 301.3763056997947,
+    "function_word_frequency": 0.2064543404735062,
+    "punctuation_frequency": 0.036382602648430934,
+    "uppercase_frequency": 0.007927907044130857,
+    "freq_a": 0.10137057749702993,
+    "freq_e": 0.09922633363275478,
+    "freq_i": 0.051832748978586536,
+    "freq_o": 0.06548636666570079,
+    "freq_u": 0.029822375474486396
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          4
+        ],
+        [
+          "Febo",
+          2
+        ],
+        [
+          "Júpiter",
+          16
+        ],
+        [
+          "Venus",
+          2
+        ],
+        [
+          "Amor",
+          292
+        ]
+      ],
+      "heroes": [
+        [
+          "Faetón",
+          2
+        ],
+        [
+          "Narciso",
+          74
+        ]
+      ],
+      "nymphs": [
+        [
+          "Tetis",
+          2
+        ]
+      ],
+      "places": [
+        [
+          "Olimpo",
+          2
+        ],
+        [
+          "Parnaso",
+          2
+        ]
+      ],
+      "creatures": [
+        [
+          "Fénix",
+          6
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Fábula",
+        "MISC"
+      ],
+      [
+        "Anfión lográis",
+        "MISC"
+      ],
+      [
+        "tino",
+        "PER"
+      ],
+      [
+        "David",
+        "LOC"
+      ],
+      [
+        "Salomón",
+        "PER"
+      ],
+      [
+        "Vos",
+        "PER"
+      ],
+      [
+        "Betis",
+        "MISC"
+      ],
+      [
+        "Pólux",
+        "PER"
+      ],
+      [
+        "Cástor",
+        "PER"
+      ],
+      [
+        "renazca mi Narciso",
+        "MISC"
+      ],
+      [
+        "medra",
+        "PER"
+      ],
+      [
+        "Del verbo",
+        "MISC"
+      ],
+      [
+        "For",
+        "MISC"
+      ],
+      [
+        "Hermógenes deriva fábula",
+        "MISC"
+      ],
+      [
+        "Alemón",
+        "LOC"
+      ],
+      [
+        "Euclides",
+        "PER"
+      ],
+      [
+        "Platones",
+        "PER"
+      ],
+      [
+        "Jonia",
+        "LOC"
+      ],
+      [
+        "Milesia",
+        "LOC"
+      ],
+      [
+        "Alemonia",
+        "LOC"
+      ],
+      [
+        "Mendigado",
+        "LOC"
+      ],
+      [
+        "Filosofía",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Reducida",
+        "PER"
+      ],
+      [
+        "Milesia",
+        "LOC"
+      ],
+      [
+        "lascivia",
+        "PER"
+      ],
+      [
+        "Crates",
+        "PER"
+      ],
+      [
+        "Albrico",
+        "PER"
+      ],
+      [
+        "Epicarmo",
+        "PER"
+      ],
+      [
+        "Fornuto",
+        "PER"
+      ],
+      [
+        "Apuleyo",
+        "PER"
+      ],
+      [
+        "academia fábulas",
+        "ORG"
+      ],
+      [
+        "Escritura",
+        "MISC"
+      ],
+      [
+        "Joás",
+        "LOC"
+      ],
+      [
+        "Amasías",
+        "PER"
+      ],
+      [
+        "Joatas",
+        "PER"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Sea fábula",
+        "MISC"
+      ],
+      [
+        "Jonia",
+        "LOC"
+      ],
+      [
+        "Mileto",
+        "LOC"
+      ],
+      [
+        "Atenas",
+        "LOC"
+      ],
+      [
+        "Grecia",
+        "LOC"
+      ],
+      [
+        "Cancro",
+        "MISC"
+      ],
+      [
+        "Anteón",
+        "LOC"
+      ],
+      [
+        "Cefiso",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Ninfa",
+        "PER"
+      ],
+      [
+        "Liriope",
+        "PER"
+      ],
+      [
+        "Caos y sombra oscura",
+        "MISC"
+      ],
+      [
+        "De fatigar venía",
+        "MISC"
+      ],
+      [
+        "Saturno",
+        "LOC"
+      ],
+      [
+        "Poderoso",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Desnuda",
+        "PER"
+      ],
+      [
+        "Parleras",
+        "PER"
+      ],
+      [
+        "Infunde",
+        "PER"
+      ],
+      [
+        "Liriope",
+        "PER"
+      ],
+      [
+        "Lisonjas",
+        "PER"
+      ],
+      [
+        "mar de flores",
+        "LOC"
+      ],
+      [
+        "Cefiso",
+        "PER"
+      ],
+      [
+        "La mano el dios mejora",
+        "MISC"
+      ],
+      [
+        "Cefiso",
+        "PER"
+      ],
+      [
+        "Voces al viento carga en tierno lloro",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Hija de Tetis",
+        "PER"
+      ],
+      [
+        "Oceano",
+        "PER"
+      ],
+      [
+        "No causes que tu errante monarquía",
+        "MISC"
+      ],
+      [
+        "Sabia",
+        "PER"
+      ],
+      [
+        "santa cordura",
+        "PER"
+      ],
+      [
+        "Dijo",
+        "MISC"
+      ],
+      [
+        "Gemini",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Oh Liriope",
+        "PER"
+      ],
+      [
+        "vitoria",
+        "LOC"
+      ],
+      [
+        "jamás",
+        "PER"
+      ],
+      [
+        "río",
+        "ORG"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "Un velo la codicia trasparente",
+        "MISC"
+      ],
+      [
+        "Aurora",
+        "PER"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "Cobarde",
+        "PER"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Rayos",
+        "MISC"
+      ],
+      [
+        "Aurora",
+        "PER"
+      ],
+      [
+        "Dónde estoy?",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Géminis",
+        "LOC"
+      ],
+      [
+        "Cancro",
+        "LOC"
+      ],
+      [
+        "Falsa",
+        "PER"
+      ],
+      [
+        "Libra",
+        "LOC"
+      ],
+      [
+        "Sagitario amor",
+        "MISC"
+      ],
+      [
+        "Piscis",
+        "PER"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "León",
+        "PER"
+      ],
+      [
+        "Acuario",
+        "LOC"
+      ],
+      [
+        "Cefiso",
+        "LOC"
+      ],
+      [
+        "Ay Liriope",
+        "PER"
+      ],
+      [
+        "doy",
+        "ORG"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 21310,
+    "unique_words": 3568,
+    "vocabulary_richness": 0.1674331299859221,
+    "top_words": [
+      [
+        "amor",
+        292
+      ],
+      [
+        "las",
+        206
+      ],
+      [
+        "los",
+        196
+      ],
+      [
+        "sol",
+        176
+      ],
+      [
+        "cristal",
+        174
+      ],
+      [
+        "beldad",
+        124
+      ],
+      [
+        "voz",
+        118
+      ],
+      [
+        "sin",
+        110
+      ],
+      [
+        "ninfa",
+        104
+      ],
+      [
+        "así",
+        100
+      ],
+      [
+        "flor",
+        84
+      ],
+      [
+        "tal",
+        78
+      ],
+      [
+        "quien",
+        78
+      ],
+      [
+        "deidad",
+        78
+      ],
+      [
+        "dios",
+        76
+      ],
+      [
+        "narciso",
+        74
+      ],
+      [
+        "pues",
+        74
+      ],
+      [
+        "viento",
+        70
+      ],
+      [
+        "oro",
+        68
+      ],
+      [
+        "flores",
+        66
+      ]
+    ],
+    "filtered_word_count": 19394
+  },
+  "semantic_fields": {
+    "divine": 0.009230552423900789,
+    "love": 0.0173337091319053,
+    "nature": 0.026211950394588502,
+    "light": 0.005707440811724916,
+    "transformation": 0.0,
+    "death": 0.004086809470124014,
+    "beauty": 0.011344419391206314
+  }
+}

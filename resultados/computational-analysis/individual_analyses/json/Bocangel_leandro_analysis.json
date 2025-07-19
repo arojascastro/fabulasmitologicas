@@ -1,0 +1,602 @@
+{
+  "metadata": {
+    "filename": "Bocangel_leandro.xml",
+    "title": "Fábula de Leandro y Hero",
+    "author": "Bocángel, Gabriel",
+    "file_key": "Bocangel_leandro"
+  },
+  "basic_stats": {
+    "characters": 59999,
+    "words": 10822,
+    "sentences": 394,
+    "avg_word_length": 4.531879504712623,
+    "avg_sentence_length": 27.467005076142133
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.21391609683977084,
+    "avg_word_length": 4.531879504712623,
+    "syllable_density": 1.8284975050822398,
+    "readability_score": 47.47929370314421,
+    "vowel_density": 0.3663242295164119,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 19788.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 19788
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 27.467005076142133,
+    "sentence_length_variance": 213.4682161354325,
+    "function_word_frequency": 0.2626131953428202,
+    "punctuation_frequency": 0.03337509396141318,
+    "uppercase_frequency": 0.011191848325398815,
+    "freq_a": 0.0945126534703082,
+    "freq_e": 0.1089117180322392,
+    "freq_i": 0.04476739330159526,
+    "freq_o": 0.06868788106573123,
+    "freq_u": 0.03471143405996826
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          4
+        ],
+        [
+          "Febo",
+          6
+        ],
+        [
+          "Venus",
+          20
+        ],
+        [
+          "Amor",
+          70
+        ],
+        [
+          "Cupido",
+          6
+        ],
+        [
+          "Neptuno",
+          12
+        ],
+        [
+          "Marte",
+          2
+        ]
+      ],
+      "heroes": [
+        [
+          "Alcides",
+          2
+        ],
+        [
+          "Narciso",
+          6
+        ],
+        [
+          "Orfeo",
+          2
+        ]
+      ],
+      "nymphs": [
+        [
+          "Europa",
+          4
+        ]
+      ],
+      "places": [],
+      "creatures": [
+        [
+          "Fénix",
+          2
+        ],
+        [
+          "Argos",
+          2
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Melpómene",
+        "PER"
+      ],
+      [
+        "díctame",
+        "MISC"
+      ],
+      [
+        "Dime de aquel intrépido",
+        "MISC"
+      ],
+      [
+        "Abido",
+        "LOC"
+      ],
+      [
+        "Atamante",
+        "LOC"
+      ],
+      [
+        "Ondas",
+        "LOC"
+      ],
+      [
+        "A ti",
+        "MISC"
+      ],
+      [
+        "Betis",
+        "PER"
+      ],
+      [
+        "Sola",
+        "MISC"
+      ],
+      [
+        "Mi voz inflama",
+        "MISC"
+      ],
+      [
+        "Huelgue",
+        "LOC"
+      ],
+      [
+        "Deja",
+        "MISC"
+      ],
+      [
+        "Jáuregui",
+        "PER"
+      ],
+      [
+        "Mira",
+        "LOC"
+      ],
+      [
+        "Yace",
+        "PER"
+      ],
+      [
+        "Ponto",
+        "LOC"
+      ],
+      [
+        "bárbara armonía de",
+        "PER"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "Asia",
+        "LOC"
+      ],
+      [
+        "Euxino mar",
+        "MISC"
+      ],
+      [
+        "Enjuta",
+        "LOC"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "Ceres",
+        "LOC"
+      ],
+      [
+        "Aquí",
+        "MISC"
+      ],
+      [
+        "Frixo",
+        "PER"
+      ],
+      [
+        "Hele",
+        "PER"
+      ],
+      [
+        "Ariete",
+        "LOC"
+      ],
+      [
+        "Entró el Ariete",
+        "PER"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "Bóreas",
+        "LOC"
+      ],
+      [
+        "Sintió",
+        "PER"
+      ],
+      [
+        "anegó importuno",
+        "PER"
+      ],
+      [
+        "Ponto",
+        "LOC"
+      ],
+      [
+        "Helesponto",
+        "LOC"
+      ],
+      [
+        "El persa aquí",
+        "MISC"
+      ],
+      [
+        "Aquilón",
+        "LOC"
+      ],
+      [
+        "Tracia",
+        "LOC"
+      ],
+      [
+        "Sesto",
+        "PER"
+      ],
+      [
+        "Narciso",
+        "PER"
+      ],
+      [
+        "Abido",
+        "PER"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ],
+      [
+        "Asia",
+        "LOC"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "Leandro",
+        "PER"
+      ],
+      [
+        "Ninguno el golpe del amor",
+        "MISC"
+      ],
+      [
+        "De la ninfa gentil",
+        "MISC"
+      ],
+      [
+        "Arabia",
+        "LOC"
+      ],
+      [
+        "Perla",
+        "PER"
+      ],
+      [
+        "antigua concha",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Besa",
+        "LOC"
+      ],
+      [
+        "Sesto",
+        "PER"
+      ],
+      [
+        "Discreto",
+        "PER"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Asia",
+        "LOC"
+      ],
+      [
+        "Vive en su rostro",
+        "MISC"
+      ],
+      [
+        "Sesto",
+        "PER"
+      ],
+      [
+        "Occidente",
+        "LOC"
+      ],
+      [
+        "Trïones",
+        "MISC"
+      ],
+      [
+        "Oriente",
+        "MISC"
+      ],
+      [
+        "grabó mosaico",
+        "PER"
+      ],
+      [
+        "Relevantes estatuas",
+        "MISC"
+      ],
+      [
+        "Osténtase en la inmensa",
+        "MISC"
+      ],
+      [
+        "No huelga espacio",
+        "MISC"
+      ],
+      [
+        "Dédalo",
+        "LOC"
+      ],
+      [
+        "Grecia",
+        "MISC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Del metal superior lámina rica",
+        "MISC"
+      ],
+      [
+        "Orfeo",
+        "PER"
+      ],
+      [
+        "Su imperio",
+        "MISC"
+      ],
+      [
+        "Narciso",
+        "PER"
+      ],
+      [
+        "Ninfa",
+        "PER"
+      ],
+      [
+        "Tres veces el gran Fabro",
+        "MISC"
+      ],
+      [
+        "Del crédulo",
+        "MISC"
+      ],
+      [
+        "tea",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "jamás",
+        "PER"
+      ],
+      [
+        "El artificio",
+        "MISC"
+      ],
+      [
+        "vertía",
+        "PER"
+      ],
+      [
+        "Sesto",
+        "PER"
+      ],
+      [
+        "Hemonia",
+        "LOC"
+      ],
+      [
+        "Viene el frigio",
+        "MISC"
+      ],
+      [
+        "Egeo",
+        "LOC"
+      ],
+      [
+        "Al templo acuden",
+        "MISC"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "Adonis",
+        "PER"
+      ],
+      [
+        "Galas",
+        "PER"
+      ],
+      [
+        "Huella",
+        "PER"
+      ],
+      [
+        "Hero",
+        "PER"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ],
+      [
+        "Fuerza de luz intolerable",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Ya la ministra",
+        "MISC"
+      ],
+      [
+        "El corazón",
+        "MISC"
+      ],
+      [
+        "Las cejas arqueó",
+        "MISC"
+      ],
+      [
+        "Las aras salpicó rojo",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Digiérese",
+        "PER"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 7352,
+    "unique_words": 1840,
+    "vocabulary_richness": 0.250272034820457,
+    "top_words": [
+      [
+        "los",
+        80
+      ],
+      [
+        "amor",
+        70
+      ],
+      [
+        "mar",
+        64
+      ],
+      [
+        "las",
+        60
+      ],
+      [
+        "sol",
+        40
+      ],
+      [
+        "leandro",
+        32
+      ],
+      [
+        "amante",
+        32
+      ],
+      [
+        "joven",
+        26
+      ],
+      [
+        "ninfa",
+        26
+      ],
+      [
+        "muerte",
+        26
+      ],
+      [
+        "hero",
+        26
+      ],
+      [
+        "quien",
+        24
+      ],
+      [
+        "sólo",
+        24
+      ],
+      [
+        "mira",
+        24
+      ],
+      [
+        "alma",
+        22
+      ],
+      [
+        "muda",
+        22
+      ],
+      [
+        "ella",
+        22
+      ],
+      [
+        "tanto",
+        20
+      ],
+      [
+        "venus",
+        20
+      ],
+      [
+        "mano",
+        20
+      ]
+    ],
+    "filtered_word_count": 6432
+  },
+  "semantic_fields": {
+    "divine": 0.003326557013491037,
+    "love": 0.014230271668822769,
+    "nature": 0.019220107189059324,
+    "light": 0.0075771576418406945,
+    "transformation": 0.00018480872297172427,
+    "death": 0.004989835520236555,
+    "beauty": 0.002772130844575864
+  }
+}

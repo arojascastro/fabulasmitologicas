@@ -1,0 +1,549 @@
+{
+  "metadata": {
+    "filename": "Espinosa_genil.xml",
+    "title": "Fábula de Genil",
+    "author": "Espinosa, Pedro",
+    "file_key": "Espinosa_genil"
+  },
+  "basic_stats": {
+    "characters": 17547,
+    "words": 3076,
+    "sentences": 90,
+    "avg_word_length": 4.693758127438231,
+    "avg_sentence_length": 34.17777777777778
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.2665799739921977,
+    "avg_word_length": 4.693758127438231,
+    "syllable_density": 1.8088426527958388,
+    "readability_score": 38.680453658824945,
+    "vowel_density": 0.35196711014674814,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 5564.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 5564
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 34.17777777777778,
+    "sentence_length_variance": 296.7822222222222,
+    "function_word_frequency": 0.24967490247074123,
+    "punctuation_frequency": 0.029806429509507223,
+    "uppercase_frequency": 0.009935476503169074,
+    "freq_a": 0.095243533375207,
+    "freq_e": 0.09627134128932793,
+    "freq_i": 0.045223548221321304,
+    "freq_o": 0.07103294695369154,
+    "freq_u": 0.03049163478558785
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Febo",
+          4
+        ],
+        [
+          "Júpiter",
+          4
+        ],
+        [
+          "Amor",
+          4
+        ],
+        [
+          "Neptuno",
+          2
+        ],
+        [
+          "Marte",
+          2
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [
+        [
+          "Tetis",
+          2
+        ]
+      ],
+      "places": [
+        [
+          "Olimpo",
+          2
+        ]
+      ],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "Amor",
+        "LOC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "Olimpo",
+        "LOC"
+      ],
+      [
+        "Júpiter",
+        "LOC"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "El claro dios Genil sintió tus lazos",
+        "MISC"
+      ],
+      [
+        "Cínaris",
+        "LOC"
+      ],
+      [
+        "Corta",
+        "MISC"
+      ],
+      [
+        "El despreciado dios",
+        "MISC"
+      ],
+      [
+        "llegó cantando",
+        "PER"
+      ],
+      [
+        "Vosotras",
+        "PER"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "Tetis",
+        "PER"
+      ],
+      [
+        "Betis",
+        "MISC"
+      ],
+      [
+        "Vestida",
+        "MISC"
+      ],
+      [
+        "lauro santo",
+        "PER"
+      ],
+      [
+        "No hay en mi margen silbadora",
+        "MISC"
+      ],
+      [
+        "alhelíes",
+        "MISC"
+      ],
+      [
+        "derraman",
+        "PER"
+      ],
+      [
+        "Yo",
+        "MISC"
+      ],
+      [
+        "El sol no tibia",
+        "MISC"
+      ],
+      [
+        "Así del olmo",
+        "MISC"
+      ],
+      [
+        "Por ilegibles",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Dijo",
+        "PER"
+      ],
+      [
+        "Quedó",
+        "PER"
+      ],
+      [
+        "Oh tú",
+        "MISC"
+      ],
+      [
+        "Dijo",
+        "PER"
+      ],
+      [
+        "Betis",
+        "MISC"
+      ],
+      [
+        "No da tributo Betis",
+        "MISC"
+      ],
+      [
+        "Nereo",
+        "PER"
+      ],
+      [
+        "Ve que son plata lisa",
+        "MISC"
+      ],
+      [
+        "Colunas",
+        "LOC"
+      ],
+      [
+        "Ocidente",
+        "LOC"
+      ],
+      [
+        "De suelos pardos",
+        "MISC"
+      ],
+      [
+        "Maldicientes",
+        "MISC"
+      ],
+      [
+        "Vido entrando Genil",
+        "MISC"
+      ],
+      [
+        "Vido",
+        "MISC"
+      ],
+      [
+        "Un rico asiento de diamante frío",
+        "MISC"
+      ],
+      [
+        "El venerable viejo dios",
+        "MISC"
+      ],
+      [
+        "santa majestad",
+        "LOC"
+      ],
+      [
+        "Betis",
+        "PER"
+      ],
+      [
+        "No será tu afición",
+        "MISC"
+      ],
+      [
+        "Betis",
+        "PER"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Eurota",
+        "MISC"
+      ],
+      [
+        "Júpiter",
+        "ORG"
+      ],
+      [
+        "Granada",
+        "LOC"
+      ],
+      [
+        "Sevilla",
+        "LOC"
+      ],
+      [
+        "Hidaspes",
+        "LOC"
+      ],
+      [
+        "Colcos",
+        "LOC"
+      ],
+      [
+        "Betis",
+        "LOC"
+      ],
+      [
+        "Ricas garnachas de riqueza",
+        "MISC"
+      ],
+      [
+        "Cuantas",
+        "LOC"
+      ],
+      [
+        "Ya que corrió el silencio",
+        "MISC"
+      ],
+      [
+        "Betis",
+        "PER"
+      ],
+      [
+        "la tierra",
+        "LOC"
+      ],
+      [
+        "Betis",
+        "PER"
+      ],
+      [
+        "Tú",
+        "MISC"
+      ],
+      [
+        "Genil",
+        "LOC"
+      ],
+      [
+        "Cindo",
+        "LOC"
+      ],
+      [
+        "Tauro",
+        "LOC"
+      ],
+      [
+        "Dauro",
+        "MISC"
+      ],
+      [
+        "Cínaris",
+        "PER"
+      ],
+      [
+        "Cidálida",
+        "LOC"
+      ],
+      [
+        "Dijo",
+        "MISC"
+      ],
+      [
+        "No hay dios",
+        "MISC"
+      ],
+      [
+        "Lágrimas",
+        "PER"
+      ],
+      [
+        "Genil",
+        "LOC"
+      ],
+      [
+        "Cínaris",
+        "LOC"
+      ],
+      [
+        "Betis",
+        "PER"
+      ],
+      [
+        "Genil",
+        "LOC"
+      ],
+      [
+        "Llenos de envidia noble",
+        "MISC"
+      ],
+      [
+        "Himeneo",
+        "PER"
+      ],
+      [
+        "Himeneo! Mas",
+        "MISC"
+      ],
+      [
+        "También",
+        "PER"
+      ],
+      [
+        "Amor",
+        "LOC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "Olimpo",
+        "LOC"
+      ],
+      [
+        "Júpiter",
+        "LOC"
+      ],
+      [
+        "Febo",
+        "PER"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "El claro dios Genil sintió tus lazos",
+        "MISC"
+      ],
+      [
+        "Cínaris",
+        "LOC"
+      ],
+      [
+        "Corta",
+        "MISC"
+      ],
+      [
+        "El despreciado dios",
+        "MISC"
+      ],
+      [
+        "llegó cantando",
+        "PER"
+      ],
+      [
+        "Vosotras",
+        "PER"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "Tetis",
+        "PER"
+      ],
+      [
+        "Betis",
+        "MISC"
+      ],
+      [
+        "Vestida",
+        "MISC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 2214,
+    "unique_words": 704,
+    "vocabulary_richness": 0.3179765130984643,
+    "top_words": [
+      [
+        "las",
+        54
+      ],
+      [
+        "los",
+        52
+      ],
+      [
+        "dios",
+        18
+      ],
+      [
+        "betis",
+        18
+      ],
+      [
+        "agua",
+        14
+      ],
+      [
+        "mis",
+        14
+      ],
+      [
+        "hay",
+        14
+      ],
+      [
+        "mas",
+        14
+      ],
+      [
+        "así",
+        14
+      ],
+      [
+        "ninfa",
+        12
+      ],
+      [
+        "fuego",
+        10
+      ],
+      [
+        "genil",
+        10
+      ],
+      [
+        "tus",
+        10
+      ],
+      [
+        "ninfas",
+        10
+      ],
+      [
+        "sobre",
+        10
+      ],
+      [
+        "oro",
+        10
+      ],
+      [
+        "quien",
+        10
+      ],
+      [
+        "esmeraldas",
+        8
+      ],
+      [
+        "desdén",
+        8
+      ],
+      [
+        "margen",
+        8
+      ]
+    ],
+    "filtered_word_count": 1906
+  },
+  "semantic_fields": {
+    "divine": 0.011053315994798439,
+    "love": 0.008452535760728219,
+    "nature": 0.016905071521456438,
+    "light": 0.008452535760728219,
+    "transformation": 0.0,
+    "death": 0.0006501950585175553,
+    "beauty": 0.0039011703511053317
+  }
+}

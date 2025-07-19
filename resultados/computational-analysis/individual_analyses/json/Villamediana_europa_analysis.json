@@ -1,0 +1,543 @@
+{
+  "metadata": {
+    "filename": "Villamediana_europa.xml",
+    "title": "Fábula de Europa",
+    "author": "Villamediana, Conde de",
+    "file_key": "Villamediana_europa"
+  },
+  "basic_stats": {
+    "characters": 23223,
+    "words": 4032,
+    "sentences": 101,
+    "avg_word_length": 4.75421626984127,
+    "avg_sentence_length": 39.92079207920792
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.44146825396825395,
+    "avg_word_length": 4.75421626984127,
+    "syllable_density": 1.9474206349206349,
+    "readability_score": 24.89330357142859,
+    "vowel_density": 0.37189655172413794,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 7852.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 7852
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 39.92079207920792,
+    "sentence_length_variance": 736.7707087540438,
+    "function_word_frequency": 0.24032738095238096,
+    "punctuation_frequency": 0.01952586206896552,
+    "uppercase_frequency": 0.009913793103448277,
+    "freq_a": 0.09745689655172414,
+    "freq_e": 0.105,
+    "freq_i": 0.04629310344827586,
+    "freq_o": 0.0778448275862069,
+    "freq_u": 0.03375
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          1
+        ],
+        [
+          "Febo",
+          1
+        ],
+        [
+          "Júpiter",
+          4
+        ],
+        [
+          "Venus",
+          3
+        ],
+        [
+          "Cintia",
+          3
+        ],
+        [
+          "Amor",
+          12
+        ],
+        [
+          "Cupido",
+          1
+        ],
+        [
+          "Neptuno",
+          8
+        ],
+        [
+          "Marte",
+          5
+        ],
+        [
+          "Minerva",
+          2
+        ]
+      ],
+      "heroes": [
+        [
+          "Alcides",
+          2
+        ]
+      ],
+      "nymphs": [
+        [
+          "Europa",
+          9
+        ],
+        [
+          "Tetis",
+          7
+        ],
+        [
+          "Galatea",
+          3
+        ]
+      ],
+      "places": [
+        [
+          "Olimpo",
+          1
+        ],
+        [
+          "Creta",
+          1
+        ]
+      ],
+      "creatures": [
+        [
+          "Fénix",
+          1
+        ],
+        [
+          "Argos",
+          1
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Oh gran Fernando!",
+        "MISC"
+      ],
+      [
+        "Minerva",
+        "PER"
+      ],
+      [
+        "Talía",
+        "LOC"
+      ],
+      [
+        "gran Fernando",
+        "LOC"
+      ],
+      [
+        "Entonces a tu nombre dedicado templo tendrás de acentos",
+        "MISC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Fortuna",
+        "PER"
+      ],
+      [
+        "Faró",
+        "PER"
+      ],
+      [
+        "Arme",
+        "PER"
+      ],
+      [
+        "año",
+        "MISC"
+      ],
+      [
+        "florida",
+        "LOC"
+      ],
+      [
+        "Leda",
+        "PER"
+      ],
+      [
+        "El ave peregrina precursora de mayo",
+        "MISC"
+      ],
+      [
+        "Filomena",
+        "LOC"
+      ],
+      [
+        "armonía",
+        "MISC"
+      ],
+      [
+        "Verde manto de rosas",
+        "MISC"
+      ],
+      [
+        "Flora émulas rosas de rosada",
+        "MISC"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "La gran madre de Aquiles",
+        "MISC"
+      ],
+      [
+        "Egeo",
+        "LOC"
+      ],
+      [
+        "Nereo",
+        "PER"
+      ],
+      [
+        "Galatea",
+        "LOC"
+      ],
+      [
+        "Melicerta",
+        "LOC"
+      ],
+      [
+        "Arión",
+        "PER"
+      ],
+      [
+        "Tetis",
+        "PER"
+      ],
+      [
+        "El soplo tempestuoso del",
+        "MISC"
+      ],
+      [
+        "Aquilón",
+        "LOC"
+      ],
+      [
+        "Doris",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Flora",
+        "PER"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "Parca",
+        "PER"
+      ],
+      [
+        "Clavel",
+        "PER"
+      ],
+      [
+        "blanda",
+        "PER"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "El mirto ya de Venus",
+        "MISC"
+      ],
+      [
+        "El tronco",
+        "MISC"
+      ],
+      [
+        "Europa",
+        "LOC"
+      ],
+      [
+        "La planta que coronas victoriosas",
+        "MISC"
+      ],
+      [
+        "Fénix",
+        "MISC"
+      ],
+      [
+        "Flora",
+        "LOC"
+      ],
+      [
+        "Clicie",
+        "LOC"
+      ],
+      [
+        "Ninfa",
+        "LOC"
+      ],
+      [
+        "La generosa virgen",
+        "MISC"
+      ],
+      [
+        "La rosa",
+        "MISC"
+      ],
+      [
+        "Flora",
+        "LOC"
+      ],
+      [
+        "Amor por Citerea",
+        "MISC"
+      ],
+      [
+        "Luego bate",
+        "MISC"
+      ],
+      [
+        "Lucina",
+        "PER"
+      ],
+      [
+        "Cileno",
+        "PER"
+      ],
+      [
+        "Tetis",
+        "PER"
+      ],
+      [
+        "Júpiter",
+        "MISC"
+      ],
+      [
+        "Los ojos",
+        "MISC"
+      ],
+      [
+        "Cintia",
+        "PER"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "Qué",
+        "PER"
+      ],
+      [
+        "Atlante",
+        "ORG"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "Qué",
+        "PER"
+      ],
+      [
+        "Qué",
+        "PER"
+      ],
+      [
+        "El león que apenas en la selva cabe",
+        "MISC"
+      ],
+      [
+        "De la región del viento te tributa",
+        "MISC"
+      ],
+      [
+        "Del numeroso armento que pace verdes ovas",
+        "MISC"
+      ],
+      [
+        "Neptuno",
+        "LOC"
+      ],
+      [
+        "Tú",
+        "MISC"
+      ],
+      [
+        "Alcides",
+        "PER"
+      ],
+      [
+        "Marte",
+        "LOC"
+      ],
+      [
+        "Febo",
+        "MISC"
+      ],
+      [
+        "mar de tus fatigas",
+        "LOC"
+      ],
+      [
+        "La flamígera mano del cielo vencedora",
+        "MISC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "Amor dora la cabeza",
+        "MISC"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "No espaventa a las ninfas",
+        "MISC"
+      ],
+      [
+        "Admirando",
+        "PER"
+      ],
+      [
+        "Dïana",
+        "LOC"
+      ],
+      [
+        "Virgen delusa en ya",
+        "MISC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 2924,
+    "unique_words": 1518,
+    "vocabulary_richness": 0.5191518467852257,
+    "top_words": [
+      [
+        "las",
+        48
+      ],
+      [
+        "los",
+        35
+      ],
+      [
+        "toro",
+        15
+      ],
+      [
+        "cielo",
+        14
+      ],
+      [
+        "ciego",
+        13
+      ],
+      [
+        "deidad",
+        13
+      ],
+      [
+        "mar",
+        13
+      ],
+      [
+        "ondas",
+        13
+      ],
+      [
+        "cuyo",
+        12
+      ],
+      [
+        "amor",
+        12
+      ],
+      [
+        "ardiente",
+        10
+      ],
+      [
+        "elemento",
+        9
+      ],
+      [
+        "sólo",
+        9
+      ],
+      [
+        "dulce",
+        9
+      ],
+      [
+        "fiera",
+        9
+      ],
+      [
+        "europa",
+        9
+      ],
+      [
+        "cuya",
+        9
+      ],
+      [
+        "para",
+        9
+      ],
+      [
+        "tus",
+        8
+      ],
+      [
+        "dios",
+        8
+      ]
+    ],
+    "filtered_word_count": 2580
+  },
+  "semantic_fields": {
+    "divine": 0.006696428571428571,
+    "love": 0.005952380952380952,
+    "nature": 0.018105158730158732,
+    "light": 0.008680555555555556,
+    "transformation": 0.0,
+    "death": 0.001488095238095238,
+    "beauty": 0.003472222222222222
+  }
+}

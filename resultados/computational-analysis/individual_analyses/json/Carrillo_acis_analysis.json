@@ -1,0 +1,468 @@
+{
+  "metadata": {
+    "filename": "Carrillo_acis.xml",
+    "title": "Fábula de Acis y Galatea",
+    "author": "Carrillo y Sotomayor, Luis",
+    "file_key": "Carrillo_acis"
+  },
+  "basic_stats": {
+    "characters": 18171,
+    "words": 3286,
+    "sentences": 96,
+    "avg_word_length": 4.495435179549604,
+    "avg_sentence_length": 34.229166666666664
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.24954351795496044,
+    "avg_word_length": 4.495435179549604,
+    "syllable_density": 1.7790626902008522,
+    "readability_score": 42.2831444638872,
+    "vowel_density": 0.36462313784128036,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 5846.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 5846
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 34.229166666666664,
+    "sentence_length_variance": 292.2391493055556,
+    "function_word_frequency": 0.24223980523432745,
+    "punctuation_frequency": 0.03367115246164922,
+    "uppercase_frequency": 0.0080855070055934,
+    "freq_a": 0.09337099185911281,
+    "freq_e": 0.10034889516530986,
+    "freq_i": 0.039652212438389546,
+    "freq_o": 0.07775377969762419,
+    "freq_u": 0.036883203189898656
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          2
+        ],
+        [
+          "Júpiter",
+          2
+        ],
+        [
+          "Amor",
+          14
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [
+        [
+          "Galatea",
+          10
+        ]
+      ],
+      "places": [],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "blanca Galatea",
+        "MISC"
+      ],
+      [
+        "Scila",
+        "LOC"
+      ],
+      [
+        "Etna",
+        "LOC"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "Galatea",
+        "PER"
+      ],
+      [
+        "Cíclope",
+        "PER"
+      ],
+      [
+        "Acis",
+        "PER"
+      ],
+      [
+        "De",
+        "LOC"
+      ],
+      [
+        "Titón",
+        "LOC"
+      ],
+      [
+        "Etna",
+        "LOC"
+      ],
+      [
+        "Galatea",
+        "PER"
+      ],
+      [
+        "Con más galas",
+        "MISC"
+      ],
+      [
+        "Resplandecientes",
+        "PER"
+      ],
+      [
+        "Toro",
+        "LOC"
+      ],
+      [
+        "Pirois y Etón",
+        "PER"
+      ],
+      [
+        "Con apacible risa",
+        "MISC"
+      ],
+      [
+        "Más",
+        "MISC"
+      ],
+      [
+        "Acis",
+        "PER"
+      ],
+      [
+        "Anfitrite",
+        "PER"
+      ],
+      [
+        "Persuadiónos su sitio",
+        "MISC"
+      ],
+      [
+        "Más lazos",
+        "MISC"
+      ],
+      [
+        "Scila mía!",
+        "MISC"
+      ],
+      [
+        "Acis",
+        "PER"
+      ],
+      [
+        "Venció",
+        "LOC"
+      ],
+      [
+        "perlas Galatea",
+        "MISC"
+      ],
+      [
+        "Scila",
+        "LOC"
+      ],
+      [
+        "ablandó",
+        "PER"
+      ],
+      [
+        "Prosiguió Galatea",
+        "MISC"
+      ],
+      [
+        "Los premios del amor",
+        "MISC"
+      ],
+      [
+        "cuánto",
+        "PER"
+      ],
+      [
+        "Tiemblo",
+        "PER"
+      ],
+      [
+        "lloró",
+        "PER"
+      ],
+      [
+        "El líquido cristal",
+        "MISC"
+      ],
+      [
+        "Yo, triste",
+        "MISC"
+      ],
+      [
+        "Compite",
+        "MISC"
+      ],
+      [
+        "No al soberbio",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Sosiega",
+        "LOC"
+      ],
+      [
+        "Exento del invierno",
+        "MISC"
+      ],
+      [
+        "puebla",
+        "LOC"
+      ],
+      [
+        "Dan sombra al",
+        "MISC"
+      ],
+      [
+        "Etna",
+        "LOC"
+      ],
+      [
+        "Envidia del oriente",
+        "MISC"
+      ],
+      [
+        "Flora",
+        "LOC"
+      ],
+      [
+        "Las cobardes castañas",
+        "MISC"
+      ],
+      [
+        "El manso silguerillo",
+        "MISC"
+      ],
+      [
+        "Testigo",
+        "ORG"
+      ],
+      [
+        "Mira qué grande",
+        "MISC"
+      ],
+      [
+        "Júpiter",
+        "LOC"
+      ],
+      [
+        "Ciñe",
+        "ORG"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Mira",
+        "LOC"
+      ],
+      [
+        "Sufriera tu desdén",
+        "MISC"
+      ],
+      [
+        "Ay, yedra ingrata",
+        "MISC"
+      ],
+      [
+        "Arda",
+        "PER"
+      ],
+      [
+        "Etna",
+        "LOC"
+      ],
+      [
+        "Cual el valiente toro",
+        "MISC"
+      ],
+      [
+        "Volvió",
+        "LOC"
+      ],
+      [
+        "Acis",
+        "PER"
+      ],
+      [
+        "Venció",
+        "LOC"
+      ],
+      [
+        "Etna",
+        "LOC"
+      ],
+      [
+        "Será",
+        "MISC"
+      ],
+      [
+        "Lo que los hados permitir",
+        "MISC"
+      ],
+      [
+        "Aquéste",
+        "LOC"
+      ],
+      [
+        "blanca Galatea",
+        "MISC"
+      ],
+      [
+        "Scila",
+        "LOC"
+      ],
+      [
+        "Etna",
+        "LOC"
+      ],
+      [
+        "Así",
+        "PER"
+      ],
+      [
+        "Galatea",
+        "PER"
+      ],
+      [
+        "Cíclope",
+        "PER"
+      ],
+      [
+        "Acis",
+        "PER"
+      ],
+      [
+        "De",
+        "LOC"
+      ],
+      [
+        "Titón",
+        "LOC"
+      ],
+      [
+        "Etna",
+        "LOC"
+      ],
+      [
+        "Galatea",
+        "PER"
+      ],
+      [
+        "Con más galas",
+        "MISC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 2284,
+    "unique_words": 663,
+    "vocabulary_richness": 0.29028021015761823,
+    "top_words": [
+      [
+        "mis",
+        20
+      ],
+      [
+        "los",
+        18
+      ],
+      [
+        "así",
+        16
+      ],
+      [
+        "las",
+        16
+      ],
+      [
+        "hermoso",
+        16
+      ],
+      [
+        "viento",
+        16
+      ],
+      [
+        "blanca",
+        14
+      ],
+      [
+        "sol",
+        14
+      ],
+      [
+        "amor",
+        14
+      ],
+      [
+        "airado",
+        14
+      ],
+      [
+        "hermosa",
+        12
+      ],
+      [
+        "cristal",
+        12
+      ],
+      [
+        "prado",
+        12
+      ],
+      [
+        "aquel",
+        12
+      ],
+      [
+        "cielo",
+        12
+      ],
+      [
+        "dueño",
+        12
+      ],
+      [
+        "galatea",
+        10
+      ],
+      [
+        "etna",
+        10
+      ],
+      [
+        "voz",
+        10
+      ],
+      [
+        "mano",
+        10
+      ]
+    ],
+    "filtered_word_count": 1978
+  },
+  "semantic_fields": {
+    "divine": 0.0012172854534388314,
+    "love": 0.013390139987827145,
+    "nature": 0.017650639074863056,
+    "light": 0.004869141813755326,
+    "transformation": 0.0,
+    "death": 0.002434570906877663,
+    "beauty": 0.015216068167985392
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "metadata": {
+    "filename": "Soto_rayosfaeton.xml",
+    "title": "Los rayos de Faetón",
+    "author": "Soto de Rojas, Pedro",
+    "file_key": "Soto_rayosfaeton"
+  },
+  "basic_stats": {
+    "characters": 146661,
+    "words": 24878,
+    "sentences": 872,
+    "avg_word_length": 4.880778197604309,
+    "avg_sentence_length": 28.529816513761467
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.19503175496422542,
+    "avg_word_length": 4.880778197604309,
+    "syllable_density": 1.9494332341828122,
+    "readability_score": 39.27970932688561,
+    "vowel_density": 0.3658758313340305,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 48498.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 48498
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 28.529816513761467,
+    "sentence_length_variance": 310.05123200909014,
+    "function_word_frequency": 0.24262400514510812,
+    "punctuation_frequency": 0.02549538280667938,
+    "uppercase_frequency": 0.010157141783036342,
+    "freq_a": 0.10083321371692607,
+    "freq_e": 0.10669783528478957,
+    "freq_i": 0.04531753029712716,
+    "freq_o": 0.0689947437133034,
+    "freq_u": 0.03153772017962967
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          4
+        ],
+        [
+          "Febo",
+          6
+        ],
+        [
+          "Júpiter",
+          14
+        ],
+        [
+          "Venus",
+          4
+        ],
+        [
+          "Diana",
+          6
+        ],
+        [
+          "Amor",
+          8
+        ],
+        [
+          "Cupido",
+          6
+        ],
+        [
+          "Neptuno",
+          8
+        ],
+        [
+          "Marte",
+          4
+        ],
+        [
+          "Minerva",
+          4
+        ]
+      ],
+      "heroes": [
+        [
+          "Faetón",
+          32
+        ],
+        [
+          "Alcides",
+          6
+        ],
+        [
+          "Hércules",
+          4
+        ],
+        [
+          "Narciso",
+          2
+        ]
+      ],
+      "nymphs": [
+        [
+          "Dafne",
+          4
+        ],
+        [
+          "Europa",
+          2
+        ],
+        [
+          "Tetis",
+          2
+        ],
+        [
+          "Galatea",
+          2
+        ],
+        [
+          "Climene",
+          22
+        ]
+      ],
+      "places": [
+        [
+          "Parnaso",
+          4
+        ],
+        [
+          "Helicona",
+          2
+        ],
+        [
+          "Creta",
+          2
+        ]
+      ],
+      "creatures": [
+        [
+          "Argos",
+          2
+        ]
+      ]
+    },
+    "spacy_entities": [
+      [
+        "Conde",
+        "PER"
+      ],
+      [
+        "Talía",
+        "LOC"
+      ],
+      [
+        "Iris",
+        "PER"
+      ],
+      [
+        "Ocio",
+        "PER"
+      ],
+      [
+        "Alejandro",
+        "PER"
+      ],
+      [
+        "Yace del Jonio mar",
+        "PER"
+      ],
+      [
+        "mar Egeo",
+        "LOC"
+      ],
+      [
+        "Grecia",
+        "LOC"
+      ],
+      [
+        "Adulterado",
+        "LOC"
+      ],
+      [
+        "Peloponeso",
+        "LOC"
+      ],
+      [
+        "Morea",
+        "PER"
+      ],
+      [
+        "Rubio",
+        "LOC"
+      ],
+      [
+        "Ceres",
+        "LOC"
+      ],
+      [
+        "Pales",
+        "LOC"
+      ],
+      [
+        "Hipobóreas",
+        "PER"
+      ],
+      [
+        "Pomona",
+        "PER"
+      ],
+      [
+        "Baco",
+        "PER"
+      ],
+      [
+        "Minerva",
+        "PER"
+      ],
+      [
+        "Flora",
+        "LOC"
+      ],
+      [
+        "Húmeda",
+        "PER"
+      ],
+      [
+        "esplendor de Oriente",
+        "MISC"
+      ],
+      [
+        "Inaco",
+        "PER"
+      ],
+      [
+        "Cándida",
+        "MISC"
+      ],
+      [
+        "Jove",
+        "PER"
+      ],
+      [
+        "Juno",
+        "PER"
+      ],
+      [
+        "Epafo",
+        "MISC"
+      ],
+      [
+        "sujete el prado",
+        "PER"
+      ],
+      [
+        "Hijo del Sol",
+        "MISC"
+      ],
+      [
+        "Inaco",
+        "PER"
+      ],
+      [
+        "Sol",
+        "MISC"
+      ],
+      [
+        "Climene",
+        "LOC"
+      ],
+      [
+        "Ostenta",
+        "LOC"
+      ],
+      [
+        "Con fuerte barra",
+        "MISC"
+      ],
+      [
+        "bohordo altivo",
+        "PER"
+      ],
+      [
+        "Epafo",
+        "MISC"
+      ],
+      [
+        "Cuál",
+        "LOC"
+      ],
+      [
+        "Deidad",
+        "PER"
+      ],
+      [
+        "Oféndese Faetón",
+        "MISC"
+      ],
+      [
+        "Epafo Júpiter",
+        "MISC"
+      ],
+      [
+        "Faetón",
+        "LOC"
+      ],
+      [
+        "Qué",
+        "PER"
+      ],
+      [
+        "Rayos",
+        "MISC"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "El modo extraño",
+        "MISC"
+      ],
+      [
+        "la verdad me intimad",
+        "MISC"
+      ],
+      [
+        "Librado",
+        "PER"
+      ],
+      [
+        "De un semicapro fauno",
+        "MISC"
+      ],
+      [
+        "Pales",
+        "LOC"
+      ],
+      [
+        "Quince vueltas del sol",
+        "MISC"
+      ],
+      [
+        "Cuántas",
+        "PER"
+      ],
+      [
+        "Inaco",
+        "PER"
+      ],
+      [
+        "Io",
+        "LOC"
+      ],
+      [
+        "de noche",
+        "PER"
+      ],
+      [
+        "Ardiente",
+        "LOC"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ],
+      [
+        "Hecho",
+        "PER"
+      ],
+      [
+        "Gran tiempo el blanco Eton",
+        "MISC"
+      ],
+      [
+        "Quiso",
+        "PER"
+      ],
+      [
+        "La seca nieve en la montaña",
+        "MISC"
+      ],
+      [
+        "Faetón",
+        "LOC"
+      ],
+      [
+        "Indice",
+        "LOC"
+      ],
+      [
+        "Arco",
+        "PER"
+      ],
+      [
+        "aquél",
+        "PER"
+      ],
+      [
+        "Teme",
+        "MISC"
+      ],
+      [
+        "Ase",
+        "MISC"
+      ],
+      [
+        "Aguarda",
+        "PER"
+      ],
+      [
+        "Tira",
+        "LOC"
+      ],
+      [
+        "Sol",
+        "PER"
+      ],
+      [
+        "Sale",
+        "PER"
+      ],
+      [
+        "Faetonte persigue su bizarro pensamiento",
+        "MISC"
+      ],
+      [
+        "La tierna voz repeticiones",
+        "MISC"
+      ],
+      [
+        "Faetón",
+        "LOC"
+      ],
+      [
+        "Climene",
+        "PER"
+      ],
+      [
+        "Dedicación",
+        "LOC"
+      ],
+      [
+        "Climene así desde una en otra torre",
+        "MISC"
+      ],
+      [
+        "Senda",
+        "LOC"
+      ],
+      [
+        "Retozón",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Cupido",
+        "PER"
+      ],
+      [
+        "Climene",
+        "LOC"
+      ],
+      [
+        "Faetusa",
+        "PER"
+      ],
+      [
+        "Lampecia",
+        "PER"
+      ],
+      [
+        "Nonacrina",
+        "PER"
+      ],
+      [
+        "Faetón",
+        "LOC"
+      ],
+      [
+        "Buscándole",
+        "PER"
+      ],
+      [
+        "Climene",
+        "LOC"
+      ],
+      [
+        "No",
+        "MISC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 17970,
+    "unique_words": 3867,
+    "vocabulary_richness": 0.21519198664440733,
+    "top_words": [
+      [
+        "los",
+        412
+      ],
+      [
+        "las",
+        372
+      ],
+      [
+        "luz",
+        74
+      ],
+      [
+        "sin",
+        74
+      ],
+      [
+        "voz",
+        66
+      ],
+      [
+        "tan",
+        54
+      ],
+      [
+        "ardiente",
+        52
+      ],
+      [
+        "fuego",
+        52
+      ],
+      [
+        "sol",
+        50
+      ],
+      [
+        "tanto",
+        46
+      ],
+      [
+        "tanta",
+        40
+      ],
+      [
+        "pues",
+        40
+      ],
+      [
+        "dulce",
+        38
+      ],
+      [
+        "hijo",
+        38
+      ],
+      [
+        "para",
+        38
+      ],
+      [
+        "mundo",
+        36
+      ],
+      [
+        "oro",
+        36
+      ],
+      [
+        "veloz",
+        36
+      ],
+      [
+        "mas",
+        34
+      ],
+      [
+        "mar",
+        34
+      ]
+    ],
+    "filtered_word_count": 15978
+  },
+  "semantic_fields": {
+    "divine": 0.003135300265294638,
+    "love": 0.004100008039231449,
+    "nature": 0.012541201061178552,
+    "light": 0.009084331537904977,
+    "transformation": 0.0,
+    "death": 0.0011254924029262803,
+    "beauty": 0.0033764772087788407
+  }
+}

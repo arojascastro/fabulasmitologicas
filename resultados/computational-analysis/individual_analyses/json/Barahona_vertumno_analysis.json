@@ -1,0 +1,447 @@
+{
+  "metadata": {
+    "filename": "Barahona_vertumno.xml",
+    "title": "Fábula de Vertumnno y Pomona",
+    "author": "Barahona de Soto, Luis",
+    "file_key": "Barahona_vertumno"
+  },
+  "basic_stats": {
+    "characters": 30037,
+    "words": 5530,
+    "sentences": 236,
+    "avg_word_length": 4.420614828209765,
+    "avg_sentence_length": 23.43220338983051
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.2267631103074141,
+    "avg_word_length": 4.420614828209765,
+    "syllable_density": 1.7265822784810128,
+    "readability_score": 57.23749800778498,
+    "vowel_density": 0.36583819849874893,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 9548.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 9548
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 23.43220338983051,
+    "sentence_length_variance": 68.10981039931055,
+    "function_word_frequency": 0.2683544303797468,
+    "punctuation_frequency": 0.03236030025020851,
+    "uppercase_frequency": 0.010075062552126772,
+    "freq_a": 0.09174311926605505,
+    "freq_e": 0.10315262718932444,
+    "freq_i": 0.03783152627189324,
+    "freq_o": 0.07366138448707256,
+    "freq_u": 0.04063386155129274
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Apolo",
+          2
+        ],
+        [
+          "Júpiter",
+          2
+        ],
+        [
+          "Venus",
+          4
+        ],
+        [
+          "Amor",
+          22
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [],
+      "places": [],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "Aquí",
+        "MISC"
+      ],
+      [
+        "Quizá no os seré importuno",
+        "MISC"
+      ],
+      [
+        "Amor por mí razona",
+        "MISC"
+      ],
+      [
+        "Pomona",
+        "LOC"
+      ],
+      [
+        "Vertuno",
+        "PER"
+      ],
+      [
+        "peleo",
+        "PER"
+      ],
+      [
+        "Do",
+        "MISC"
+      ],
+      [
+        "Entre las ninfas más bellas",
+        "MISC"
+      ],
+      [
+        "Pomona",
+        "PER"
+      ],
+      [
+        "Ningún",
+        "PER"
+      ],
+      [
+        "montería",
+        "LOC"
+      ],
+      [
+        "La nueva conversación",
+        "MISC"
+      ],
+      [
+        "Corta",
+        "ORG"
+      ],
+      [
+        "La verde vara",
+        "MISC"
+      ],
+      [
+        "Por más contento",
+        "MISC"
+      ],
+      [
+        "No sufre sed fatigosa",
+        "MISC"
+      ],
+      [
+        "Mil árboles olorosos",
+        "MISC"
+      ],
+      [
+        "Allí",
+        "LOC"
+      ],
+      [
+        "Apolo",
+        "PER"
+      ],
+      [
+        "Pindo",
+        "LOC"
+      ],
+      [
+        "Candía",
+        "PER"
+      ],
+      [
+        "Cidón",
+        "LOC"
+      ],
+      [
+        "Solón",
+        "ORG"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "Con hojoso y verde pino ceñido el fauno las sienes",
+        "MISC"
+      ],
+      [
+        "Qué",
+        "LOC"
+      ],
+      [
+        "Sileno",
+        "PER"
+      ],
+      [
+        "Entre los de amor",
+        "MISC"
+      ],
+      [
+        "Vertuno",
+        "PER"
+      ],
+      [
+        "Do hay tibieza no hay amor",
+        "MISC"
+      ],
+      [
+        "Oh",
+        "MISC"
+      ],
+      [
+        "Ya con armas es guerrero",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "antigua",
+        "LOC"
+      ],
+      [
+        "flaca",
+        "LOC"
+      ],
+      [
+        "Cuando por la puerta entró",
+        "MISC"
+      ],
+      [
+        "Pomona",
+        "PER"
+      ],
+      [
+        "Cuántos males Esta vejez fastidiosa",
+        "MISC"
+      ],
+      [
+        "No nos satisface en cosa",
+        "MISC"
+      ],
+      [
+        "De aquel dulce tiempo viejo",
+        "MISC"
+      ],
+      [
+        "Vengo",
+        "LOC"
+      ],
+      [
+        "tenía",
+        "LOC"
+      ],
+      [
+        "Quisiera",
+        "LOC"
+      ],
+      [
+        "Pomona",
+        "LOC"
+      ],
+      [
+        "Dicen",
+        "PER"
+      ],
+      [
+        "Venus",
+        "PER"
+      ],
+      [
+        "Dígolo",
+        "MISC"
+      ],
+      [
+        "No puedo",
+        "MISC"
+      ],
+      [
+        "Como sois mozas altivas",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Las que ya habemos",
+        "MISC"
+      ],
+      [
+        "Tenga",
+        "LOC"
+      ],
+      [
+        "jamás",
+        "PER"
+      ],
+      [
+        "creedme vos",
+        "PER"
+      ],
+      [
+        "Cáusanos",
+        "LOC"
+      ],
+      [
+        "Comenzamos",
+        "LOC"
+      ],
+      [
+        "Éste",
+        "LOC"
+      ],
+      [
+        "Nunca más me aconteció",
+        "MISC"
+      ],
+      [
+        "Huélguese",
+        "PER"
+      ],
+      [
+        "Quién",
+        "PER"
+      ],
+      [
+        "No hay más bajo",
+        "MISC"
+      ],
+      [
+        "Esa flor",
+        "MISC"
+      ],
+      [
+        "qué",
+        "MISC"
+      ],
+      [
+        "la tierra",
+        "LOC"
+      ],
+      [
+        "La clara luz",
+        "MISC"
+      ],
+      [
+        "Por qué piensas",
+        "MISC"
+      ],
+      [
+        "De cuanto el mundo está lleno todo está",
+        "MISC"
+      ],
+      [
+        "Pues queréis vosotras ser a solas privilegiadas?",
+        "MISC"
+      ],
+      [
+        "Antes",
+        "ORG"
+      ],
+      [
+        "Estos árboles y aquéllos",
+        "MISC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 3864,
+    "unique_words": 1038,
+    "vocabulary_richness": 0.2686335403726708,
+    "top_words": [
+      [
+        "las",
+        40
+      ],
+      [
+        "los",
+        38
+      ],
+      [
+        "para",
+        28
+      ],
+      [
+        "mil",
+        28
+      ],
+      [
+        "nos",
+        24
+      ],
+      [
+        "amor",
+        22
+      ],
+      [
+        "cual",
+        22
+      ],
+      [
+        "qué",
+        20
+      ],
+      [
+        "quien",
+        20
+      ],
+      [
+        "mas",
+        20
+      ],
+      [
+        "hay",
+        20
+      ],
+      [
+        "aquel",
+        18
+      ],
+      [
+        "todo",
+        18
+      ],
+      [
+        "tiempo",
+        16
+      ],
+      [
+        "sin",
+        16
+      ],
+      [
+        "después",
+        16
+      ],
+      [
+        "tan",
+        16
+      ],
+      [
+        "belleza",
+        14
+      ],
+      [
+        "pues",
+        14
+      ],
+      [
+        "aunque",
+        14
+      ]
+    ],
+    "filtered_word_count": 3150
+  },
+  "semantic_fields": {
+    "divine": 0.003616636528028933,
+    "love": 0.010488245931283906,
+    "nature": 0.010126582278481013,
+    "light": 0.002531645569620253,
+    "transformation": 0.0,
+    "death": 0.0014466546112115732,
+    "beauty": 0.006871609403254973
+  }
+}

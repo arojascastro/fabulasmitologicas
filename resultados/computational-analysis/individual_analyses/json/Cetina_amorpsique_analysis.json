@@ -1,0 +1,663 @@
+{
+  "metadata": {
+    "filename": "Cetina_amorpsique.xml",
+    "title": "La Psique",
+    "author": "Cetina, Gutierre de",
+    "file_key": "Cetina_amorpsique"
+  },
+  "basic_stats": {
+    "characters": 18763,
+    "words": 3482,
+    "sentences": 138,
+    "avg_word_length": 4.361286616886846,
+    "avg_sentence_length": 25.231884057971016
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.2337736932797243,
+    "avg_word_length": 4.361286616886846,
+    "syllable_density": 1.736358414704193,
+    "readability_score": 52.93974394192912,
+    "vowel_density": 0.3640649274120105,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 6046.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 6046
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 25.231884057971016,
+    "sentence_length_variance": 151.22159210249947,
+    "function_word_frequency": 0.27110855829982766,
+    "punctuation_frequency": 0.026035249370546954,
+    "uppercase_frequency": 0.014999732147640221,
+    "freq_a": 0.10746236674345101,
+    "freq_e": 0.10714094391171586,
+    "freq_i": 0.03664220281780683,
+    "freq_o": 0.06439170729094124,
+    "freq_u": 0.03707076659345369
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Júpiter",
+          8
+        ],
+        [
+          "Venus",
+          28
+        ],
+        [
+          "Amor",
+          26
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [],
+      "places": [],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "Apuleyo",
+        "PER"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Tres hijas",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Sola",
+        "MISC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "El padre",
+        "MISC"
+      ],
+      [
+        "Milesio",
+        "PER"
+      ],
+      [
+        "llevadla",
+        "MISC"
+      ],
+      [
+        "Los padres",
+        "MISC"
+      ],
+      [
+        "Con cera y triste",
+        "MISC"
+      ],
+      [
+        "Zéfiro",
+        "LOC"
+      ],
+      [
+        "hinche",
+        "MISC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Las invisibles siervas obedesce Psique",
+        "MISC"
+      ],
+      [
+        "Un vaso preciosísimo",
+        "MISC"
+      ],
+      [
+        "Levantada después Psique",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Vencido",
+        "PER"
+      ],
+      [
+        "Oh felice",
+        "MISC"
+      ],
+      [
+        "Levantada",
+        "PER"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Las hermanas",
+        "MISC"
+      ],
+      [
+        "Amor queriendo",
+        "MISC"
+      ],
+      [
+        "Zéfiro",
+        "PER"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Después",
+        "LOC"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "Las crüeles hermanas",
+        "MISC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Vesla",
+        "ORG"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Una Flecha",
+        "MISC"
+      ],
+      [
+        "La lucerna lo quema",
+        "MISC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Amor",
+        "PER"
+      ],
+      [
+        "Desesperada",
+        "MISC"
+      ],
+      [
+        "río",
+        "ORG"
+      ],
+      [
+        "Allí",
+        "LOC"
+      ],
+      [
+        "Pan",
+        "PER"
+      ],
+      [
+        "A los reinos llegó de sus hermanas",
+        "MISC"
+      ],
+      [
+        "extraño",
+        "MISC"
+      ],
+      [
+        "Amor la",
+        "MISC"
+      ],
+      [
+        "Ellas crédulas",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Deja",
+        "MISC"
+      ],
+      [
+        "Visto Venus",
+        "PER"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Después",
+        "LOC"
+      ],
+      [
+        "Vesla",
+        "PER"
+      ],
+      [
+        "Juno",
+        "PER"
+      ],
+      [
+        "Ceres",
+        "PER"
+      ],
+      [
+        "Con sus palomas Venus",
+        "MISC"
+      ],
+      [
+        "Mercurio",
+        "LOC"
+      ],
+      [
+        "Júpiter",
+        "LOC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Él la pregona",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Ceres",
+        "PER"
+      ],
+      [
+        "Duélese Ceres",
+        "PER"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Vase al templo de Juno",
+        "MISC"
+      ],
+      [
+        "Juno",
+        "PER"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Mas Psique",
+        "PER"
+      ],
+      [
+        "Mira",
+        "LOC"
+      ],
+      [
+        "Tristeza airada y la Congoja",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Después",
+        "LOC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Amor",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Un pan le da a la fin de su fatiga",
+        "MISC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Pasa el río",
+        "MISC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Proserpina",
+        "PER"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Estige",
+        "PER"
+      ],
+      [
+        "llegó",
+        "LOC"
+      ],
+      [
+        "gran barca",
+        "LOC"
+      ],
+      [
+        "Del pasaje a",
+        "MISC"
+      ],
+      [
+        "Carón",
+        "PER"
+      ],
+      [
+        "Ves",
+        "MISC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Después",
+        "LOC"
+      ],
+      [
+        "Adormentado",
+        "LOC"
+      ],
+      [
+        "Proserpina de Venus",
+        "PER"
+      ],
+      [
+        "Ni a reposarse",
+        "MISC"
+      ],
+      [
+        "Dando a Cérbero Psique",
+        "MISC"
+      ],
+      [
+        "Carón",
+        "PER"
+      ],
+      [
+        "Abierta",
+        "MISC"
+      ],
+      [
+        "Amor de una finiestra la miraba",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "De allí volando al cielo",
+        "MISC"
+      ],
+      [
+        "Tonante",
+        "PER"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "El lo besa y abraza dulcemente",
+        "MISC"
+      ],
+      [
+        "El águila de Júpiter",
+        "MISC"
+      ],
+      [
+        "Mercurio",
+        "LOC"
+      ],
+      [
+        "Júpiter",
+        "PER"
+      ],
+      [
+        "Amor Psique",
+        "PER"
+      ],
+      [
+        "Mercurio",
+        "LOC"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Júpiter",
+        "PER"
+      ],
+      [
+        "ambrosia",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Bodas",
+        "PER"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Las deas y los dioses inmortales",
+        "MISC"
+      ],
+      [
+        "Horas",
+        "MISC"
+      ],
+      [
+        "De allí",
+        "MISC"
+      ],
+      [
+        "No seáis",
+        "MISC"
+      ],
+      [
+        "Gozo",
+        "LOC"
+      ],
+      [
+        "Cuenta Apuleyo",
+        "PER"
+      ],
+      [
+        "Psique",
+        "PER"
+      ],
+      [
+        "Tres hijas",
+        "MISC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ],
+      [
+        "Venus",
+        "LOC"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 2434,
+    "unique_words": 680,
+    "vocabulary_richness": 0.27937551355792933,
+    "top_words": [
+      [
+        "psique",
+        44
+      ],
+      [
+        "las",
+        32
+      ],
+      [
+        "venus",
+        28
+      ],
+      [
+        "los",
+        26
+      ],
+      [
+        "amor",
+        26
+      ],
+      [
+        "cual",
+        24
+      ],
+      [
+        "mas",
+        24
+      ],
+      [
+        "gran",
+        18
+      ],
+      [
+        "después",
+        16
+      ],
+      [
+        "mundo",
+        12
+      ],
+      [
+        "sin",
+        12
+      ],
+      [
+        "ella",
+        12
+      ],
+      [
+        "dice",
+        12
+      ],
+      [
+        "cada",
+        10
+      ],
+      [
+        "dios",
+        10
+      ],
+      [
+        "deja",
+        10
+      ],
+      [
+        "mientra",
+        10
+      ],
+      [
+        "siente",
+        10
+      ],
+      [
+        "allí",
+        10
+      ],
+      [
+        "fin",
+        10
+      ]
+    ],
+    "filtered_word_count": 2038
+  },
+  "semantic_fields": {
+    "divine": 0.0080413555427915,
+    "love": 0.01263641585295807,
+    "nature": 0.0080413555427915,
+    "light": 0.002871912693854107,
+    "transformation": 0.0,
+    "death": 0.005169442848937392,
+    "beauty": 0.007466973004020678
+  }
+}

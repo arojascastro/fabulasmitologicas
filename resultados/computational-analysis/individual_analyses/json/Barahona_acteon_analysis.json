@@ -1,0 +1,488 @@
+{
+  "metadata": {
+    "filename": "Barahona_acteon.xml",
+    "title": "Fábula de Acteón",
+    "author": "Barahona de Soto, Luis",
+    "file_key": "Barahona_acteon"
+  },
+  "basic_stats": {
+    "characters": 51273,
+    "words": 9410,
+    "sentences": 366,
+    "avg_word_length": 4.439532412327312,
+    "avg_sentence_length": 25.7103825136612
+  },
+  "linguistic_features": {
+    "lexical_diversity": 0.20786397449521785,
+    "avg_word_length": 4.439532412327312,
+    "syllable_density": 1.7281615302869289,
+    "readability_score": 55.64603932567961,
+    "vowel_density": 0.3619029012405978,
+    "rhyme_diversity": 1.0,
+    "avg_syllables_per_line": 16262.0,
+    "syllable_variance": 0.0,
+    "most_common_meter": 16262
+  },
+  "stylometric_features": {
+    "avg_sentence_length": 25.7103825136612,
+    "sentence_length_variance": 141.53907253127892,
+    "function_word_frequency": 0.25717321997874604,
+    "punctuation_frequency": 0.033603594803164986,
+    "uppercase_frequency": 0.010002930546058416,
+    "freq_a": 0.094598026765654,
+    "freq_e": 0.10120152388395037,
+    "freq_i": 0.03536192243821432,
+    "freq_o": 0.07299013382827,
+    "freq_u": 0.038526912181303115
+  },
+  "entities": {
+    "mythological": {
+      "gods": [
+        [
+          "Venus",
+          2
+        ],
+        [
+          "Diana",
+          20
+        ],
+        [
+          "Amor",
+          24
+        ],
+        [
+          "Minerva",
+          2
+        ]
+      ],
+      "heroes": [],
+      "nymphs": [],
+      "places": [
+        [
+          "Parnaso",
+          2
+        ]
+      ],
+      "creatures": []
+    },
+    "spacy_entities": [
+      [
+        "extraño",
+        "MISC"
+      ],
+      [
+        "daño",
+        "MISC"
+      ],
+      [
+        "Oh tú",
+        "MISC"
+      ],
+      [
+        "Tebas",
+        "LOC"
+      ],
+      [
+        "Verás",
+        "PER"
+      ],
+      [
+        "No demandaré favor a aquella musa",
+        "MISC"
+      ],
+      [
+        "Vulcano",
+        "PER"
+      ],
+      [
+        "Amor",
+        "LOC"
+      ],
+      [
+        "La materia será el caso",
+        "MISC"
+      ],
+      [
+        "Parnaso",
+        "LOC"
+      ],
+      [
+        "Una muy copiosa",
+        "MISC"
+      ],
+      [
+        "Cadmo",
+        "PER"
+      ],
+      [
+        "Austro",
+        "LOC"
+      ],
+      [
+        "Poniente",
+        "LOC"
+      ],
+      [
+        "Oriente",
+        "MISC"
+      ],
+      [
+        "Allí",
+        "PER"
+      ],
+      [
+        "Cipariso",
+        "LOC"
+      ],
+      [
+        "Dafnes del pastor de Anfriso",
+        "MISC"
+      ],
+      [
+        "Tisbe",
+        "PER"
+      ],
+      [
+        "Granada",
+        "LOC"
+      ],
+      [
+        "El sol",
+        "MISC"
+      ],
+      [
+        "Entre la arboleda",
+        "MISC"
+      ],
+      [
+        "Después",
+        "PER"
+      ],
+      [
+        "vertía",
+        "PER"
+      ],
+      [
+        "par",
+        "ORG"
+      ],
+      [
+        "El margen de césped vivo",
+        "MISC"
+      ],
+      [
+        "ñudosa",
+        "LOC"
+      ],
+      [
+        "grama",
+        "PER"
+      ],
+      [
+        "Va",
+        "MISC"
+      ],
+      [
+        "Limpia",
+        "LOC"
+      ],
+      [
+        "No goza",
+        "MISC"
+      ],
+      [
+        "Diana",
+        "PER"
+      ],
+      [
+        "Colegio Virginal.",
+        "LOC"
+      ],
+      [
+        "estío",
+        "PER"
+      ],
+      [
+        "Amor",
+        "MISC"
+      ],
+      [
+        "Otra ninfa",
+        "MISC"
+      ],
+      [
+        "Oriente",
+        "MISC"
+      ],
+      [
+        "Amor allí deshecho.",
+        "MISC"
+      ],
+      [
+        "Dos",
+        "MISC"
+      ],
+      [
+        "La pierna gruesa",
+        "MISC"
+      ],
+      [
+        "Elena",
+        "PER"
+      ],
+      [
+        "Narcisos vida",
+        "MISC"
+      ],
+      [
+        "bálsamo",
+        "PER"
+      ],
+      [
+        "Las otras cuatro trajeron varias suertes de conservas",
+        "MISC"
+      ],
+      [
+        "Las otras",
+        "MISC"
+      ],
+      [
+        "Comenzaron a verter",
+        "MISC"
+      ],
+      [
+        "qué",
+        "MISC"
+      ],
+      [
+        "Oh venturoso licor",
+        "MISC"
+      ],
+      [
+        "Amor!",
+        "MISC"
+      ],
+      [
+        "Miró",
+        "ORG"
+      ],
+      [
+        "grullas",
+        "LOC"
+      ],
+      [
+        "Diana",
+        "PER"
+      ],
+      [
+        "Allí Diana",
+        "PER"
+      ],
+      [
+        "tenía",
+        "LOC"
+      ],
+      [
+        "Cuál",
+        "LOC"
+      ],
+      [
+        "lago cercó",
+        "LOC"
+      ],
+      [
+        "Ya Filodoce",
+        "ORG"
+      ],
+      [
+        "Acteón",
+        "PER"
+      ],
+      [
+        "A otras vieras sentar",
+        "MISC"
+      ],
+      [
+        "Otras ante él se ponían",
+        "MISC"
+      ],
+      [
+        "Diana",
+        "PER"
+      ],
+      [
+        "Otras",
+        "LOC"
+      ],
+      [
+        "Mas",
+        "MISC"
+      ],
+      [
+        "Diana",
+        "PER"
+      ],
+      [
+        "Acertola",
+        "LOC"
+      ],
+      [
+        "Vido",
+        "MISC"
+      ],
+      [
+        "De un brazo",
+        "MISC"
+      ],
+      [
+        "tenía",
+        "LOC"
+      ],
+      [
+        "Digo",
+        "ORG"
+      ],
+      [
+        "Vio",
+        "MISC"
+      ],
+      [
+        "No supo mirar por sí",
+        "MISC"
+      ],
+      [
+        "aspereza",
+        "LOC"
+      ],
+      [
+        "Alma",
+        "PER"
+      ],
+      [
+        "Plutón",
+        "LOC"
+      ],
+      [
+        "Pachino",
+        "LOC"
+      ],
+      [
+        "Peloro",
+        "LOC"
+      ],
+      [
+        "jamás tenerla",
+        "PER"
+      ],
+      [
+        "causó turbación",
+        "PER"
+      ],
+      [
+        "Dijo",
+        "PER"
+      ],
+      [
+        "Quién",
+        "PER"
+      ]
+    ]
+  },
+  "vocabulary": {
+    "total_words": 6582,
+    "unique_words": 1567,
+    "vocabulary_richness": 0.23807353388027955,
+    "top_words": [
+      [
+        "las",
+        86
+      ],
+      [
+        "los",
+        74
+      ],
+      [
+        "sin",
+        44
+      ],
+      [
+        "cual",
+        42
+      ],
+      [
+        "mas",
+        40
+      ],
+      [
+        "así",
+        38
+      ],
+      [
+        "tan",
+        34
+      ],
+      [
+        "tal",
+        32
+      ],
+      [
+        "pues",
+        30
+      ],
+      [
+        "cuál",
+        30
+      ],
+      [
+        "para",
+        26
+      ],
+      [
+        "quien",
+        26
+      ],
+      [
+        "otra",
+        24
+      ],
+      [
+        "mal",
+        24
+      ],
+      [
+        "todo",
+        24
+      ],
+      [
+        "amor",
+        24
+      ],
+      [
+        "aunque",
+        24
+      ],
+      [
+        "otro",
+        22
+      ],
+      [
+        "qué",
+        22
+      ],
+      [
+        "diana",
+        20
+      ]
+    ],
+    "filtered_word_count": 5460
+  },
+  "semantic_fields": {
+    "divine": 0.002975557917109458,
+    "love": 0.0061636556854410204,
+    "nature": 0.009564293304994687,
+    "light": 0.0023379383634431457,
+    "transformation": 0.0006376195536663124,
+    "death": 0.0023379383634431457,
+    "beauty": 0.0034006376195536664
+  }
+}
