@@ -1,0 +1,2 @@
+# Re-include all CSV files in resultados and subfolders
+!resultados/**/*.csv

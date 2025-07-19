@@ -1,0 +1,27 @@
+,characters,words,sentences,avg_word_length,avg_sentence_length,author,title,filename
+Barahona_acteon,51273.0,9410.0,366.0,4.439532412327312,25.7103825136612,"Barahona de Soto, Luis",Fábula de Acteón,Barahona_acteon.xml
+Barahona_vertumno,30037.0,5530.0,236.0,4.420614828209765,23.43220338983051,"Barahona de Soto, Luis",Fábula de Vertumnno y Pomona,Barahona_vertumno.xml
+Bermudez_narciso,173307.0,28384.0,728.0,5.079340473506201,38.989010989010985,"Bermúdez y Alfaro, Juan",El Narciso: flor traducida del Cefiso al Betis,Bermudez_narciso.xml
+Bocangel_leandro,59999.0,10822.0,394.0,4.531879504712623,27.467005076142133,"Bocángel, Gabriel",Fábula de Leandro y Hero,Bocangel_leandro.xml
+Carrillo_acis,18171.0,3286.0,96.0,4.495435179549604,34.229166666666664,"Carrillo y Sotomayor, Luis",Fábula de Acis y Galatea,Carrillo_acis.xml
+Cetina_amorpsique,18763.0,3482.0,138.0,4.361286616886846,25.231884057971016,"Cetina, Gutierre de",La Psique,Cetina_amorpsique.xml
+Espinosa_genil,17547.0,3076.0,90.0,4.693758127438231,34.17777777777778,"Espinosa, Pedro",Fábula de Genil,Espinosa_genil.xml
+Gongora_piramotisbe,12805.0,2246.0,67.0,4.683437221727516,33.52238805970149,"Góngora, Luis de",Fábula de Píramo y Tisbe,Gongora_piramotisbe.xml
+Gongora_polifemo,36239.0,6484.0,174.0,4.579888957433683,37.264367816091955,"Góngora, Luis de",Fábula de Polifemo y Galatea,Gongora_polifemo.xml
+Hurtadodemendoza_fabulaadonis,57751.0,10526.0,290.0,4.463803914117424,36.296551724137935,"Mendoza, Diego Hurtado de","Fábula de Adonis, Hipómenes y Atalanta",Hurtadodemendoza_fabulaadonis.xml
+Jauregui_orfeo,107085.0,18216.0,694.0,4.8686868686868685,26.2478386167147,"Jáuregui, Juan de",Orfeo,Jauregui_orfeo.xml
+Lope_andromeda,55893.0,9910.0,280.0,4.626236125126135,35.392857142857146,"Lope de Vega, Félix",La Andrómeda,Lope_andromeda.xml
+Lope_circe,238769.0,41830.0,1282.0,4.679368874013866,32.62870514820593,"Lope de Vega, Félix",La Circe,Lope_circe.xml
+Lope_filomenaprimera,97987.0,17442.0,508.0,4.604976493521385,34.33464566929134,"Lope de Vega, Félix",La Filomena,Lope_filomenaprimera.xml
+Lope_filomenasegunda,85905.0,14884.0,386.0,4.761085729642569,38.55958549222798,"Lope de Vega, Félix",Segunda parte de la Filomena,Lope_filomenasegunda.xml
+Lope_rosa,62313.0,10994.0,294.0,4.653265417500455,37.394557823129254,"Lope de Vega, Félix",La rosa blanca,Lope_rosa.xml
+Montalban_orfeo,133675.0,23662.0,538.0,4.625390922153664,43.98141263940521,"Montalbán, Juan Pérez de",El Orfeo en lengua castellana,Montalban_orfeo.xml
+Polo_fabapolodafne,17100.0,3158.0,154.0,4.379354021532616,20.506493506493506,"Polo de Medina, Jacinto",Fábula de Apolo y Dafne,Polo_fabapolodafne.xml
+Polo_fabpansiringa,9152.0,1692.0,45.0,4.391252955082742,37.6,"Polo de Medina, Jacinto",Fábula de Pan y Siringa,Polo_fabpansiringa.xml
+Quevedo_apolo,5619.0,1040.0,44.0,4.388461538461539,23.636363636363637,"Quevedo, Francisco de",Fábula de Apolo y Dafne,Quevedo_apolo.xml
+Soto_fragmentosadonis,70359.0,12079.0,357.0,4.800562960509976,33.83473389355742,"Soto de Rojas, Pedro",Fragmentos de Adonis,Soto_fragmentosadonis.xml
+Soto_rayosfaeton,146661.0,24878.0,872.0,4.880778197604309,28.529816513761467,"Soto de Rojas, Pedro",Los rayos de Faetón,Soto_rayosfaeton.xml
+Villamediana_apolodafne,66523.0,11506.0,348.0,4.77281418390405,33.0632183908046,"Villamediana, Conde de",Fábula de Apolo y Dafne,Villamediana_apolodafne.xml
+Villamediana_europa,23223.0,4032.0,101.0,4.75421626984127,39.92079207920792,"Villamediana, Conde de",Fábula de Europa,Villamediana_europa.xml
+Villamediana_faeton,130869.0,22228.0,656.0,4.880061184092136,33.88414634146341,"Villamediana, Conde de",Fábula de Faetón,Villamediana_faeton.xml
+Villamediana_fenix,17353.0,2948.0,56.0,4.883649932157395,52.642857142857146,"Villamediana, Conde de",Fábula de la Fénix,Villamediana_fenix.xml
